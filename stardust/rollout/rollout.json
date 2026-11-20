@@ -1,0 +1,41 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-18T05:53:56.457Z",
+    "stardustVersion": "0.0.0"
+  },
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://www.infineon.com/",
+    "da": {
+      "org": "aemcoder",
+      "site": "938eead7",
+      "ref": "main"
+    },
+    "liveHost": "main--938eead7--aemcoder.aem.live"
+  },
+  "scope": {
+    "pages": 60,
+    "discovered": 61,
+    "capped": true,
+    "pageCap": null
+  },
+  "lastRun": {
+    "at": "2026-11-18T23:44:49.485Z",
+    "pages": {
+      "total": 60,
+      "verified": 60,
+      "deployed": 0,
+      "pending": 0,
+      "contentPending": 0,
+      "stale": 0,
+      "failed": 0
+    },
+    "blocks": {
+      "total": 21,
+      "converted": 6,
+      "pending": 15
+    },
+    "verifyFailures": 0
+  }
+}

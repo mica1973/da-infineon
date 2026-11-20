@@ -1,0 +1,28 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://www.infineon.com/
+  build: http://localhost:8791/index-proposed.html
+
+■ header: 8 delta(s) — 0 paired of 7/0 texts, 1/1 icons
+  REGION STYLE position static → relative (fixed/sticky chrome must stay fixed/sticky — seam symmetry)
+  MISSING      "Products"  live <a> "Products" has no build element with the same text
+  MISSING      "Applications"  live <a> "Applications" has no build element with the same text
+  MISSING      "Design Resources"  live <a> "Design Resources" has no build element with the same text
+  MISSING      "Support & Training"  live <a> "Support & Training" has no build element with the same text
+  MISSING      "About"  live <a> "About" has no build element with the same text
+  MISSING      "English"  live <span> "English" has no build element with the same text
+  MISSING      "$ U. S. Dollar (USD)"  live <span> "$ U. S. Dollar (USD)" has no build element with the same text
+
+■ footer: 10 delta(s) — 26 paired of 28/28 texts, 2/2 icons
+  OFFSET       the region and its 20 paired text(s) sit Δy -16px from live as one block — content identical; the page above is a different height (fix that, or a live feed rendered another length)
+  PAIR         "About Us"  Δy -17px (10340→10323); Δw +68px (96→164)
+  PAIR         "Quicklinks"  Δy -17px (10340→10323); Δw +30px (118→148)
+  PAIR         "MyInfineon"  Δy -17px (10656→10639); Δw +44px (120→164)
+  PAIR         "Careers"  Δy -17px (10656→10639); Δw +63px (85→148)
+  PAIR         "Imprint"  Δx -12px (133→121); Δy -17px (10888→10871)
+  PAIR         "Privacy Policy"  Δx -24px (219→195); Δy -17px (10888→10871)
+  MISSING      "© 1999- Infineon Technologies AG"  live <div> "© 1999- Infineon Technologies AG" has no build element with the same text
+  MISSING      "2026"  live <span> "2026" has no build element with the same text
+  EXTRA        "© 1999-2026"  build <span> "© 1999-2026" has no live source
+  EXTRA        "Infineon Technologies AG"  build <span> "Infineon Technologies AG" has no live source
+
+✗ 18 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

@@ -1,0 +1,57 @@
+{
+  "a": "stardust/replica/gates/all-360/de-support-faqs/origin.png",
+  "b": "stardust/replica/gates/all-360/de-support-faqs/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 3392,
+    "mode": "overlap"
+  },
+  "heightDelta": -10,
+  "differingPixels": 59145,
+  "pct": 4.84,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/de-support-faqs/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 13.96,
+  "textBoxes": 79,
+  "textPixels": 243647,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 2.5
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 10.2
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 3.9
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 6.4
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 4.3
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 2.9
+    },
+    {
+      "y0": 3000,
+      "y1": 3392,
+      "pct": 3.5
+    }
+  ]
+}

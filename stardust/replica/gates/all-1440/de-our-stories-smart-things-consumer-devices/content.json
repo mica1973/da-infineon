@@ -1,0 +1,4920 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:12:52.964Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/smart-things-consumer-devices",
+  "at": "2026-11-18T23:12:30.698Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7285,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems0",
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems1",
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems2",
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems3",
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems4",
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 714,
+    "y": 16,
+    "w": 197,
+    "h": 36,
+    "label": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die suche zu aktivieren.",
+    "value": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die ",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "text": "navbardropdown"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "label": "navbardropdown",
+    "value": "navbardropdown",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-1",
+    "x": 1072,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.nav-item.desktopProfile > div.login-dropdown > button.login-button",
+    "x": 1132,
+    "y": 14,
+    "w": 248,
+    "h": 40,
+    "text": "anmeldung zu myinfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 254,
+    "y": 86,
+    "w": 580,
+    "h": 20,
+    "text": "bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt de",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "iot smart things",
+    "file": "woman-looking-at-sky.png:asset-2000-25x9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 168,
+    "level": 1,
+    "text": "bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 242,
+    "y": 667,
+    "w": 956,
+    "h": 72,
+    "text": "Smarte Verbrauchergeräte wie smarte Lautsprecher, mobile Geräte, Home-Entertainm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 242,
+    "y": 755,
+    "w": 89,
+    "h": 28,
+    "text": "Smart Living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 266,
+    "y": 799,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 342,
+    "y": 799,
+    "w": 79,
+    "h": 20,
+    "level": 4,
+    "text": "märz 13, 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 933,
+    "w": 467,
+    "h": 22,
+    "text": "vom handgelenk in die ganze welt: die magie der smartentechnologie",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 967,
+    "w": 227,
+    "h": 22,
+    "text": "der ständig vernetzte verbraucher",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 1001,
+    "w": 252,
+    "h": 22,
+    "text": "fakt ist: kein iot ohne mikroelektronik",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 1035,
+    "w": 187,
+    "h": 22,
+    "text": "smarte technologie hebt ab",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > p",
+    "x": 224,
+    "y": 899,
+    "w": 134,
+    "h": 24,
+    "text": "Found on this page:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-081dc723a5 > h2#magie",
+    "x": 200,
+    "y": 1147,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "vom handgelenk in die ganze welt: die magie der smartentechnologie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-30428c1f73 > p",
+    "x": 200,
+    "y": 1199,
+    "w": 1040,
+    "h": 234,
+    "text": "Gehören Sie auch zu den Menschen, die ihre Smartwatch nie ablegen? Wenn ja, komm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-30428c1f73 > p",
+    "x": 200,
+    "y": 1449,
+    "w": 1040,
+    "h": 78,
+    "text": "Aber was steckt hinter dieser faszinierenden Welt der smarten Geräte? Wie kommt "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-27c3e2fc23 > h2#anch1",
+    "x": 200,
+    "y": 1591,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "der ständig vernetzte verbraucher"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-308e1168cc > p",
+    "x": 200,
+    "y": 1643,
+    "w": 1040,
+    "h": 104,
+    "text": "Wir leben in einer Welt, in der Technologie fast jeden Aspekt unseres täglichen "
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#ext_video_0_container_inner > div#ext_video_0_videoPlayer > div#IconEffect_s7classic_6E",
+    "x": 680,
+    "y": 2024,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-b13dd030d8 > p",
+    "x": 200,
+    "y": 2392,
+    "w": 1040,
+    "h": 78,
+    "text": "Aber die Ansprüche der Verbraucher an ihre Geräte steigen ständig: Es reicht nic"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#ext_video_1_container_inner > div#ext_video_1_videoPlayer > div#IconEffect_s7classic_6F",
+    "x": 680,
+    "y": 2747,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-721cb9e19b > p",
+    "x": 200,
+    "y": 3115,
+    "w": 1040,
+    "h": 104,
+    "text": "Stellen Sie sich eine Welt vor, in der die Technologie versteckt ist und sich pe"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#ext_video_2_container_inner > div#ext_video_2_videoPlayer > div#IconEffect_s7classic_6D",
+    "x": 680,
+    "y": 3496,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-2b40a6665e > h2#anch3",
+    "x": 200,
+    "y": 3868,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "fakt ist: kein iot ohne mikroelektronik"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-1132d8547b > p",
+    "x": 200,
+    "y": 3920,
+    "w": 1040,
+    "h": 156,
+    "text": "Die Wahrheit ist, dass intelligente Geräte nur so gut sind wie die Technologie, "
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#ext_video_3_container_inner > div#ext_video_3_videoPlayer > div#IconEffect_s7classic_6C",
+    "x": 680,
+    "y": 4361,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-197fb7cce6 > p",
+    "x": 200,
+    "y": 4725,
+    "w": 1040,
+    "h": 52,
+    "text": "Das Herzstück eines jeden intelligenten Geräts ist eine komplexe Anordnung von m"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-197fb7cce6 > ul > li",
+    "x": 200,
+    "y": 4793,
+    "w": 1040,
+    "h": 136,
+    "text": "wie die XENSIV™ 60-GHz-Radarsensoren, MEMS-Mikrofone, PAS-CO2-Sensoren, XENSIV™ "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 4795,
+    "w": 138,
+    "h": 22,
+    "text": "vielseitige sensoren",
+    "href": "/products/sensor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-197fb7cce6 > ul > li",
+    "x": 200,
+    "y": 4929,
+    "w": 1040,
+    "h": 110,
+    "text": "wie die PSOC™ 6 MCU, die XMC™-Mikrocontrollerfamilie, der AURIX™ TriCore™ oder d"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 4931,
+    "w": 114,
+    "h": 22,
+    "text": "mikrocontrollers",
+    "href": "/products/microcontroller"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-197fb7cce6 > ul > li",
+    "x": 200,
+    "y": 5039,
+    "w": 1040,
+    "h": 110,
+    "text": "-Lösungen, angeführt von der PSOC™ Edge Mikrocontroller-Familie und unterstützt "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5041,
+    "w": 50,
+    "h": 22,
+    "text": "edge ai",
+    "href": "/technology/ai/edge-ai"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-197fb7cce6 > ul > li",
+    "x": 200,
+    "y": 5149,
+    "w": 1040,
+    "h": 136,
+    "text": "Je nach \"intelligenten\" Entscheidungen setzen die Steuersignale in Aktionen wie "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 5151,
+    "w": 132,
+    "h": 22,
+    "text": "leistungshalbleiter",
+    "href": "/products/power"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-197fb7cce6 > ul > li",
+    "x": 200,
+    "y": 5285,
+    "w": 1040,
+    "h": 136,
+    "text": "ist der Herzschlag des IoT. Die heutigen Anforderungen an mobile Geräte und drah"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5287,
+    "w": 182,
+    "h": 22,
+    "text": "zuverlässige konnektivität",
+    "href": "/products/wireless-connectivity"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-197fb7cce6 > ul > li",
+    "x": 200,
+    "y": 5421,
+    "w": 1040,
+    "h": 110,
+    "text": "wie OPTIGA™ Trust M, OPTIGA™ Authenticate, OPTIGA™ TPM oder die PSOC™ 64 Securit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5423,
+    "w": 140,
+    "h": 22,
+    "text": "sicherheitslösungen",
+    "href": "/applications/security-solutions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-d0190623b4 > h2#smart",
+    "x": 200,
+    "y": 5531,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "smarte technologie hebt ab"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-12551f0901 > p",
+    "x": 200,
+    "y": 5583,
+    "w": 1040,
+    "h": 182,
+    "text": "Wenn wir in die Zukunft blicken, ist klar, dass die Möglichkeiten für smarte Tec"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_20782_ifxcontainer_384667193_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 5861,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 5957,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "iot-smart-home-redesign.jpg:asset-680-2x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 6173,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 124,
+    "y": 6241,
+    "w": 323,
+    "h": 56,
+    "text": "Intelligente Haus- und Gebäudelösungen für eine bessere Zukunft"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 6319,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/smart-home-building-technologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 507,
+    "y": 5957,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "keyvisual-iot-kugeln-1.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 531,
+    "y": 6173,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 531,
+    "y": 6241,
+    "w": 323,
+    "h": 56,
+    "text": "Mikroelektronik – verbindet die reale mit der digitalen Welt"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 531,
+    "y": 6319,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/microelectronics-connecting-real-digital-world"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 203,
+    "y": 6519,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 732,
+    "y": 6519,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 732,
+    "y": 6603,
+    "w": 136,
+    "h": 48,
+    "text": "abonnieren",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 96,
+    "y": 6811,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 367,
+    "y": 6811,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6867,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6909,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6951,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6993,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 7035,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 619,
+    "y": 6811,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6867,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6909,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6951,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6993,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 7035,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 7077,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 926,
+    "y": 6811,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 6867,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 6909,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 6951,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 1193,
+    "y": 6811,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6867,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6909,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6951,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6993,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 96,
+    "y": 7215,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 272,
+    "y": 7215,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 380,
+    "y": 7215,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 647,
+    "y": 7220,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 1168,
+    "y": 7219,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 1208,
+    "y": 7219,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 1248,
+    "y": 7219,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 1288,
+    "y": 7216,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 1288,
+    "y": 7220,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 1328,
+    "y": 7219,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 83,
+    "controls": 57,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p.preheadline",
+     "path": "div.card > div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+     "text": "intelligente haus- und gebäudelösungen für eine bessere zuku",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/smart-things-consumer-devices",
+  "at": "2026-11-18T23:12:52.815Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7375,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 166,
+    "y": 21,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/products"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 243,
+    "y": 21,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/applications"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 353,
+    "y": 21,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/design-resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 487,
+    "y": 21,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 629,
+    "y": 21,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/about"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "sprache"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "sprache",
+    "value": "sprache",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-login > p > a",
+    "x": 1132,
+    "y": 13,
+    "w": 207,
+    "h": 40,
+    "text": "anmeldung zu myinfineon",
+    "href": "/de/login.login.de.json"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 254,
+    "y": 85,
+    "w": 580,
+    "h": 20,
+    "text": "bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt de",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "iot smart things",
+    "file": "media_1154b549b1d2f65461577a747e4102c466"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#bequem-hilfreich-und-umweltfreundlich-willkommen-in-der-faszinierenden-welt-der-smarten-dinge",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 168,
+    "level": 1,
+    "text": "bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 242,
+    "y": 667,
+    "w": 956,
+    "h": 72,
+    "text": "Smarte Verbrauchergeräte wie smarte Lautsprecher, mobile Geräte, Home-Entertainm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 242,
+    "y": 755,
+    "w": 89,
+    "h": 28,
+    "text": "Smart Living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 266,
+    "y": 799,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#märz-13-2026",
+    "x": 342,
+    "y": 799,
+    "w": 79,
+    "h": 20,
+    "level": 4,
+    "text": "märz 13, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-toc.block > div.article-toc-label > p",
+    "x": 224,
+    "y": 899,
+    "w": 992,
+    "h": 24,
+    "text": "Found on this page:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 933,
+    "w": 467,
+    "h": 22,
+    "text": "vom handgelenk in die ganze welt: die magie der smartentechnologie",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 967,
+    "w": 227,
+    "h": 22,
+    "text": "der ständig vernetzte verbraucher",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 1001,
+    "w": 252,
+    "h": 22,
+    "text": "fakt ist: kein iot ohne mikroelektronik",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 1035,
+    "w": 187,
+    "h": 22,
+    "text": "smarte technologie hebt ab",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > h2#vom-handgelenk-in-die-ganze-welt-die-magie-der-smartentechnologie",
+    "x": 200,
+    "y": 1147,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "vom handgelenk in die ganze welt: die magie der smartentechnologie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1199,
+    "w": 1040,
+    "h": 234,
+    "text": "Gehören Sie auch zu den Menschen, die ihre Smartwatch nie ablegen? Wenn ja, komm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1449,
+    "w": 1040,
+    "h": 78,
+    "text": "Aber was steckt hinter dieser faszinierenden Welt der smarten Geräte? Wie kommt "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > h2#der-ständig-vernetzte-verbraucher",
+    "x": 200,
+    "y": 1591,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "der ständig vernetzte verbraucher"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1643,
+    "w": 1040,
+    "h": 104,
+    "text": "Wir leben in einer Welt, in der Technologie fast jeden Aspekt unseres täglichen "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 1771,
+    "w": 1040,
+    "h": 585,
+    "text": "",
+    "file": "media_16f9aaa6edbe2bbc1094dd30ded6399103"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-wrapper > div.story-hub.video > button.story-hub-video-play",
+    "x": 680,
+    "y": 2024,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2392,
+    "w": 1040,
+    "h": 78,
+    "text": "Aber die Ansprüche der Verbraucher an ihre Geräte steigen ständig: Es reicht nic"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 2494,
+    "w": 1040,
+    "h": 585,
+    "text": "",
+    "file": "media_1388d36199eb85872b9e5ad733a6232181"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-wrapper > div.story-hub.video > button.story-hub-video-play",
+    "x": 680,
+    "y": 2747,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3115,
+    "w": 1040,
+    "h": 104,
+    "text": "Stellen Sie sich eine Welt vor, in der die Technologie versteckt ist und sich pe"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 3243,
+    "w": 1040,
+    "h": 585,
+    "text": "",
+    "file": "media_18785edd1bbff22dec87451937e47853a3"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-wrapper > div.story-hub.video > button.story-hub-video-play",
+    "x": 680,
+    "y": 3496,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > h2#fakt-ist-kein-iot-ohne-mikroelektronik",
+    "x": 200,
+    "y": 3880,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "fakt ist: kein iot ohne mikroelektronik"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3932,
+    "w": 1040,
+    "h": 156,
+    "text": "Die Wahrheit ist, dass intelligente Geräte nur so gut sind wie die Technologie, "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 4120,
+    "w": 1040,
+    "h": 585,
+    "text": "",
+    "file": "media_17fe443382dd4829700f6f20dee83f266f"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-wrapper > div.story-hub.video > button.story-hub-video-play",
+    "x": 680,
+    "y": 4373,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.timeline > div.story-hub-rt > p",
+    "x": 200,
+    "y": 4749,
+    "w": 1040,
+    "h": 52,
+    "text": "Das Herzstück eines jeden intelligenten Geräts ist eine komplexe Anordnung von m"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 4817,
+    "w": 1040,
+    "h": 136,
+    "text": "wie die XENSIV™ 60-GHz-Radarsensoren, MEMS-Mikrofone, PAS-CO2-Sensoren, XENSIV™ "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 4819,
+    "w": 138,
+    "h": 22,
+    "text": "vielseitige sensoren",
+    "href": "/products/sensor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 4953,
+    "w": 1040,
+    "h": 110,
+    "text": "wie die PSOC™ 6 MCU, die XMC™-Mikrocontrollerfamilie, der AURIX™ TriCore™ oder d"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 4955,
+    "w": 114,
+    "h": 22,
+    "text": "mikrocontrollers",
+    "href": "/products/microcontroller"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 5063,
+    "w": 1040,
+    "h": 110,
+    "text": "-Lösungen, angeführt von der PSOC™ Edge Mikrocontroller-Familie und unterstützt "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5065,
+    "w": 50,
+    "h": 22,
+    "text": "edge ai",
+    "href": "/technology/ai/edge-ai"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 5173,
+    "w": 1040,
+    "h": 136,
+    "text": "Je nach \"intelligenten\" Entscheidungen setzen die Steuersignale in Aktionen wie "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 5175,
+    "w": 132,
+    "h": 22,
+    "text": "leistungshalbleiter",
+    "href": "/products/power"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 5309,
+    "w": 1040,
+    "h": 136,
+    "text": "ist der Herzschlag des IoT. Die heutigen Anforderungen an mobile Geräte und drah"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5311,
+    "w": 182,
+    "h": 22,
+    "text": "zuverlässige konnektivität",
+    "href": "/products/wireless-connectivity"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 5445,
+    "w": 1040,
+    "h": 110,
+    "text": "wie OPTIGA™ Trust M, OPTIGA™ Authenticate, OPTIGA™ TPM oder die PSOC™ 64 Securit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5447,
+    "w": 140,
+    "h": 22,
+    "text": "sicherheitslösungen",
+    "href": "/applications/security-solutions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > h2#smarte-technologie-hebt-ab",
+    "x": 200,
+    "y": 5619,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "smarte technologie hebt ab"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 5671,
+    "w": 1040,
+    "h": 182,
+    "text": "Wenn wir in die Zukunft blicken, ist klar, dass die Möglichkeiten für smarte Tec"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#weitere-geschichten",
+    "x": 96,
+    "y": 5949,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 6045,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_1de93666b698aa53ade469c87afa2a89fe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 6261,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 6329,
+    "w": 323,
+    "h": 56,
+    "text": "Intelligente Haus- und Gebäudelösungen für eine bessere Zukunft"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 128,
+    "y": 6407,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/smart-home-building-technologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 507,
+    "y": 6045,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_1998871092791dda569b83067b341a8b30"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 531,
+    "y": 6261,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 531,
+    "y": 6329,
+    "w": 323,
+    "h": 56,
+    "text": "Mikroelektronik – verbindet die reale mit der digitalen Welt"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 535,
+    "y": 6407,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/microelectronics-connecting-real-digital-world"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#abonnieren-sie-die-marketingkommunikation",
+    "x": 203,
+    "y": 6607,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 732,
+    "y": 6607,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 732,
+    "y": 6691,
+    "w": 138,
+    "h": 50,
+    "text": "abonnieren",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 96,
+    "y": 6940,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 96,
+    "y": 6901,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 367,
+    "y": 6901,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6957,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6999,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 7041,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 7083,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 7125,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 619,
+    "y": 6901,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6957,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6999,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7041,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7083,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7125,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7167,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 926,
+    "y": 6901,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 6957,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 6999,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 7041,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 1193,
+    "y": 6901,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6957,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6999,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 7041,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 7083,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 7305,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 272,
+    "y": 7305,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 380,
+    "y": 7305,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 7305,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 647,
+    "y": 7310,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 7309,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1208,
+    "y": 7309,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1248,
+    "y": 7309,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1288,
+    "y": 7306,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 1288,
+    "y": 7306,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1328,
+    "y": 7309,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 87,
+    "controls": 64,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.story-hub-card-title",
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "intelligente haus- und gebäudelösungen für eine bessere zuku",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 1,
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "intelligente haus- und gebäudelösungen für eine bessere zuku",
+     "clipper": "div.story-hub-card-title",
+     "rect": {
+      "l": 124,
+      "t": 6329,
+      "r": 310,
+      "b": 6357,
+      "w": 186,
+      "h": 28
+     },
+     "clip": {
+      "l": 124,
+      "t": 6329,
+      "r": 447,
+      "b": 6385,
+      "w": 323,
+      "h": 56
+     },
+     "lines": 3
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 13,
+    "linkHidden": 0,
+    "button": 4,
+    "buttonHidden": 0,
+    "text": 23,
+    "textHidden": 0,
+    "image": 6,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"vom handgelenk in die ganze welt: die magie der smartentechnologie\" (y 1147) has no origin heading",
+   "text": "vom handgelenk in die ganze welt: die magie der smartentechnologie"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"der ständig vernetzte verbraucher\" (y 1591) has no origin heading",
+   "text": "der ständig vernetzte verbraucher"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"fakt ist: kein iot ohne mikroelektronik\" (y 3880) has no origin heading",
+   "text": "fakt ist: kein iot ohne mikroelektronik"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"smarte technologie hebt ab\" (y 5619) has no origin heading",
+   "text": "smarte technologie hebt ab"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"weitere geschichten\" (y 5949) has no origin heading",
+   "text": "weitere geschichten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"abonnieren sie die marketingkommunikation!\" (y 6607) has no origin heading",
+   "text": "abonnieren sie die marketingkommunikation!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"vom handgelenk in die ganze welt: die magie der smartentechnologie\" served in band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "vom handgelenk in die ganze welt: die magie der smartentechnologie"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"der ständig vernetzte verbraucher\" served in band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "der ständig vernetzte verbraucher"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"fakt ist: kein iot ohne mikroelektronik\" served in band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "fakt ist: kein iot ohne mikroelektronik"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"smarte technologie hebt ab\" served in band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "smarte technologie hebt ab"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×4 \"play or pause video\" served in band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\", no origin link or button",
+   "band": 1,
+   "n": 4,
+   "text": "play or pause video"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"vielseitige sensoren\" served in band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "vielseitige sensoren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mikrocontrollers\" served in band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mikrocontrollers"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"edge ai\" served in band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "edge ai"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"leistungshalbleiter\" served in band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "leistungshalbleiter"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"zuverlässige konnektivität\" served in band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "zuverlässige konnektivität"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"sicherheitslösungen\" served in band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "sicherheitslösungen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"mehr entdecken\" served in band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\", no origin link or button",
+   "band": 1,
+   "n": 2,
+   "text": "mehr entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"abonnieren\" served in band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "abonnieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\": 3 origin → 23 served visible",
+   "band": 1,
+   "origin": 3,
+   "eds": 23,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"bequem, hilfreich und umweltfreundlich: willkommen in der faszinierenden welt der smarten dinge\": 0 origin → 6 served visible",
+   "band": 1,
+   "origin": 0,
+   "eds": 6,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 6,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 17,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 21,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 166,
+    "y": 23,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 23,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 23,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 23,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 23,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 23,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 86,
+    "w": 580,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 760,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 535,
+    "w": 954,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 591,
+    "w": 106,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 668,
+    "w": 888,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 692,
+    "w": 935,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 716,
+    "w": 398,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 759,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 799,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 799,
+    "w": 79,
+    "h": 20
+   },
+   {
+    "x": 252,
+    "y": 933,
+    "w": 467,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 967,
+    "w": 227,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 1001,
+    "w": 252,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 1035,
+    "w": 187,
+    "h": 22
+   },
+   {
+    "x": 224,
+    "y": 900,
+    "w": 134,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1145,
+    "w": 820,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1199,
+    "w": 1008,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1225,
+    "w": 1026,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1251,
+    "w": 939,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1277,
+    "w": 977,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1303,
+    "w": 1013,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1329,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1355,
+    "w": 1013,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1381,
+    "w": 935,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1407,
+    "w": 506,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1449,
+    "w": 978,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1475,
+    "w": 975,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1501,
+    "w": 346,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1589,
+    "w": 401,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1643,
+    "w": 963,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1669,
+    "w": 1009,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1695,
+    "w": 1016,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1721,
+    "w": 922,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2392,
+    "w": 1018,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2418,
+    "w": 986,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2444,
+    "w": 55,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3115,
+    "w": 1004,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3141,
+    "w": 1025,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3167,
+    "w": 991,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3193,
+    "w": 101,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3866,
+    "w": 446,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 3920,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3946,
+    "w": 1037,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3972,
+    "w": 1016,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3998,
+    "w": 971,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4024,
+    "w": 1038,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4050,
+    "w": 778,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4725,
+    "w": 951,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4751,
+    "w": 660,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 4795,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 378,
+    "y": 4795,
+    "w": 827,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4821,
+    "w": 995,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4847,
+    "w": 969,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4873,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4931,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 354,
+    "y": 4931,
+    "w": 853,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4957,
+    "w": 979,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4983,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5041,
+    "w": 50,
+    "h": 22
+   },
+   {
+    "x": 290,
+    "y": 5041,
+    "w": 905,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5067,
+    "w": 967,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5093,
+    "w": 900,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5151,
+    "w": 313,
+    "h": 22
+   },
+   {
+    "x": 553,
+    "y": 5151,
+    "w": 132,
+    "h": 22
+   },
+   {
+    "x": 686,
+    "y": 5151,
+    "w": 519,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5177,
+    "w": 953,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5203,
+    "w": 981,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5229,
+    "w": 267,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5287,
+    "w": 182,
+    "h": 22
+   },
+   {
+    "x": 422,
+    "y": 5287,
+    "w": 774,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5313,
+    "w": 898,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5339,
+    "w": 989,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5365,
+    "w": 392,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5423,
+    "w": 140,
+    "h": 22
+   },
+   {
+    "x": 380,
+    "y": 5423,
+    "w": 755,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5449,
+    "w": 946,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5475,
+    "w": 558,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 5529,
+    "w": 329,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 5583,
+    "w": 1023,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5609,
+    "w": 994,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5635,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5661,
+    "w": 1024,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5687,
+    "w": 1015,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5713,
+    "w": 1012,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5739,
+    "w": 956,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 5859,
+    "w": 309,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 6173,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6241,
+    "w": 186,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6269,
+    "w": 289,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6320,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 6173,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6241,
+    "w": 308,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6269,
+    "w": 181,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6320,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 6517,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 6565,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 6518,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 6548,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 772,
+    "y": 6616,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6812,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6867,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6909,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6951,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6993,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7035,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6812,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 6867,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6909,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6951,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6993,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7035,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7077,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6812,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 6867,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6909,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6951,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6812,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 6867,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6909,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6951,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6993,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 7220,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 7220,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 7220,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 7220,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 7220,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 7220,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 7220,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 22,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 85,
+    "w": 580,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 760,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 535,
+    "w": 954,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 591,
+    "w": 106,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 668,
+    "w": 888,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 692,
+    "w": 935,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 716,
+    "w": 398,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 759,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 799,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 799,
+    "w": 79,
+    "h": 20
+   },
+   {
+    "x": 224,
+    "y": 900,
+    "w": 134,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 933,
+    "w": 467,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 967,
+    "w": 227,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 1001,
+    "w": 252,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 1035,
+    "w": 187,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1145,
+    "w": 820,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1199,
+    "w": 1008,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1225,
+    "w": 1026,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1251,
+    "w": 939,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1277,
+    "w": 977,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1303,
+    "w": 1013,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1329,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1355,
+    "w": 1013,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1381,
+    "w": 935,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1407,
+    "w": 506,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1449,
+    "w": 978,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1475,
+    "w": 975,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1501,
+    "w": 346,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1589,
+    "w": 401,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1643,
+    "w": 963,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1669,
+    "w": 1009,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1695,
+    "w": 1016,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1721,
+    "w": 922,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2392,
+    "w": 1018,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2418,
+    "w": 986,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2444,
+    "w": 55,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3115,
+    "w": 1004,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3141,
+    "w": 1025,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3167,
+    "w": 991,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3193,
+    "w": 101,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3878,
+    "w": 446,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 3932,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3958,
+    "w": 1037,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3984,
+    "w": 1016,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4010,
+    "w": 971,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4036,
+    "w": 1038,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4062,
+    "w": 778,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4749,
+    "w": 951,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4775,
+    "w": 660,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 4819,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 378,
+    "y": 4819,
+    "w": 827,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4845,
+    "w": 995,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4871,
+    "w": 969,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4897,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4955,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 354,
+    "y": 4955,
+    "w": 853,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4981,
+    "w": 979,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5007,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5065,
+    "w": 50,
+    "h": 22
+   },
+   {
+    "x": 290,
+    "y": 5065,
+    "w": 905,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5091,
+    "w": 967,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5117,
+    "w": 900,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5175,
+    "w": 313,
+    "h": 22
+   },
+   {
+    "x": 553,
+    "y": 5175,
+    "w": 132,
+    "h": 22
+   },
+   {
+    "x": 686,
+    "y": 5175,
+    "w": 519,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5201,
+    "w": 953,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5227,
+    "w": 981,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5253,
+    "w": 267,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5311,
+    "w": 182,
+    "h": 22
+   },
+   {
+    "x": 422,
+    "y": 5311,
+    "w": 774,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5337,
+    "w": 898,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5363,
+    "w": 989,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5389,
+    "w": 392,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5447,
+    "w": 140,
+    "h": 22
+   },
+   {
+    "x": 380,
+    "y": 5447,
+    "w": 755,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5473,
+    "w": 946,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5499,
+    "w": 558,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 5617,
+    "w": 329,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 5671,
+    "w": 1023,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5697,
+    "w": 994,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5723,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5749,
+    "w": 1024,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5775,
+    "w": 1015,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5801,
+    "w": 1012,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5827,
+    "w": 956,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 5947,
+    "w": 309,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 6261,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6329,
+    "w": 186,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6357,
+    "w": 289,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 6408,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 6261,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6329,
+    "w": 308,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6357,
+    "w": 181,
+    "h": 28
+   },
+   {
+    "x": 535,
+    "y": 6408,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 6605,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 6653,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 6606,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 6636,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 773,
+    "y": 6705,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6902,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6957,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6999,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7041,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7083,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7125,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6902,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 6957,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6999,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7041,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7083,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7125,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7167,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6902,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 6957,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6999,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 7041,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6902,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 6957,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6999,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7041,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7083,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 7310,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 7310,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 7310,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 7310,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 7310,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 7310,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 7310,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

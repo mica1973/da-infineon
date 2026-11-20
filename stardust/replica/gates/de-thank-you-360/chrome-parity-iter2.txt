@@ -1,0 +1,16 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://www.infineon.com/de/thank-you (live side from cache stardust/replica/gates/de-thank-you-360/chrome-live.json, probed 2026-11-18T05:00:34.269Z — delete the file to re-probe)
+  build: http://localhost:8791/de-thank-you-proposed.html
+
+■ header: 7 delta(s) — 5 paired of 7/5 texts, 1/1 icons
+  PAIR         "Produkte"  Δx -125px (141→16); Δy -12px (50→38); Δh +24px (0→24)
+  PAIR         "Applikationen"  Δx -40px (125→85); Δy -20px (58→38); Δh +24px (0→24)
+  PAIR         "Designressourcen"  Δx +74px (113→187); Δy -28px (66→38); Δh +24px (0→24)
+  PAIR         "Support & Training"  Δx +204px (109→313); Δy -36px (74→38); Δh +24px (0→24)
+  PAIR         "Über uns"  Δx +305px (142→447); Δy -44px (82→38); Δh +24px (0→24)
+  MISSING      "Deutsch"  live <span> "Deutsch" has no build element with the same text
+  MISSING      "$ US-Dollar"  live <span> "$ US-Dollar" has no build element with the same text
+
+■ footer: ✓ parity — 28 paired of 28/28 texts, 2/2 icons
+
+✗ 7 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

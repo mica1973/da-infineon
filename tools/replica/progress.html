@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Migration result</title>
+<link rel="stylesheet" href="spectrum.css">
+<style>
+  body { background-color: var(--spectrum-bg-app); }
+  main { max-width: 760px; margin: 0 auto; padding: 40px 24px 64px; }
+  header { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+  .meta { color: var(--spectrum-text-subdued); margin: 0 0 24px; }
+  .spectrum-panel { margin-bottom: 16px; }
+  .spectrum-panel-header { margin: 0; padding: 0 16px; }
+  details.spectrum-panel > summary { cursor: pointer; list-style: none; }
+  details.spectrum-panel > summary::-webkit-details-marker { display: none; }
+  details.spectrum-panel > summary > h2 { margin: 0; font: inherit; }
+  details.spectrum-panel > summary > h2::before { content: "\25B8"; display: inline-block; width: 1em; margin-right: 6px; color: var(--spectrum-text-subdued); }
+  details.spectrum-panel[open] > summary > h2::before { content: "\25BE"; }
+  .panel-body { padding: 16px; }
+  .panel-body > :last-child { margin-bottom: 0; }
+  .bar { height: 8px; border-radius: 9999px; background-color: var(--spectrum-gray-200); overflow: hidden; }
+  .bar span { display: block; height: 100%; background-color: var(--spectrum-accent-bg); }
+  ol.steps { list-style: none; padding: 0; margin: 0; }
+  ol.steps li { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 0; }
+  ol.steps li + li { border-top: 1px solid var(--spectrum-gray-200); }
+  details summary { cursor: pointer; }
+  table.pages { margin-top: 8px; }
+  table.pages td { word-break: break-all; }
+  table.pages td .spectrum-badge { word-break: normal; }
+  @media (max-width: 400px) { table.pages th, table.pages td { padding: 8px 4px; } }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { padding: 8px; text-align: left; border-bottom: 1px solid var(--spectrum-gray-200); }
+  th { color: var(--spectrum-text-subdued); font-weight: 700; }
+  .panel-body h3 { margin: 16px 0 4px; }
+  ol.todo { padding-left: 20px; margin: 0 0 16px; }
+  ol.todo li { margin: 6px 0; }
+  ul.all { columns: 2; margin: 4px 0; padding-left: 18px; }
+  .spectrum-panel-header .spectrum-badge { margin-left: 8px; vertical-align: middle; }
+  #blocks-used table.blocks { table-layout: fixed; }
+  #blocks-used table.blocks th:nth-child(1) { width: 26%; }
+  #blocks-used table.blocks th:nth-child(2) { width: 32%; }
+  #blocks-used td { overflow-wrap: break-word; vertical-align: top; }
+  #blocks-used td:last-child { overflow-wrap: anywhere; }
+  #blocks-used tr.group td { border-top: 1px solid var(--spectrum-gray-300); }
+  #blocks-used td.block { font-weight: 700; }
+  #blocks-used .block-pages { display: block; font-weight: 400; color: var(--spectrum-text-subdued); }
+  #blocks-used .variant { display: inline-block; padding: 0 6px; margin: 0 4px 2px 0; border: 1px solid var(--spectrum-gray-300); border-radius: var(--spectrum-radius-sm); font-family: var(--spectrum-font-code); }
+  #blocks-used .variant-inline { font-family: var(--spectrum-font-code); font-weight: 400; color: var(--spectrum-text-subdued); }
+  #blocks-used .default, #blocks-used .blocks-count { color: var(--spectrum-text-subdued); }
+  #blocks-used .default { font-style: italic; }
+  #blocks-used .blocks-count { margin: 0; }
+  #blocks-used button.more { padding: 0; border: 0; background: none; color: var(--spectrum-text-accent); font: inherit; cursor: pointer; text-decoration: underline; }
+  #blocks-used .blocks-popover { width: min(520px, 90vw); max-height: 80vh; overflow: auto; overflow-wrap: anywhere; padding: 16px 20px; border: 1px solid var(--spectrum-gray-300); border-radius: var(--spectrum-radius-lg); background-color: var(--spectrum-bg-layer-1); box-shadow: var(--spectrum-shadow-elevated); }
+  #blocks-used .blocks-popover::backdrop { background-color: color-mix(in srgb, var(--spectrum-gray-900) 35%, transparent); }
+  #blocks-used .popover-head { display: flex; justify-content: space-between; align-items: start; gap: 12px; }
+  #blocks-used .popover-head h3 { margin: 0; }
+  #blocks-used ul.popover-pages { columns: 2; padding-left: 20px; margin: 12px 0 0; }
+  #blocks-used ul.popover-pages li { padding: 4px 0; break-inside: avoid; }
+  /* A browser without the popover API would show every page list inline; ':popover-open' is invalid there. */
+  @supports not selector(:popover-open) {
+    #blocks-used .blocks-popover, #blocks-used .more { display: none; }
+  }
+  #blocks-used .bp-radio { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  #blocks-used .bp-page, #blocks-used .bp-range { display: none; }
+  #blocks-used .pager { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 12px; flex-wrap: wrap; }
+  #blocks-used .labels { display: flex; flex-wrap: wrap; gap: 4px; }
+  #blocks-used .bp-radio:focus-visible ~ .pager label { outline: 2px solid var(--spectrum-focus-ring); }
+  #bp-1:checked ~ table .bp-page-1 { display: table-row-group; }
+  #bp-1:checked ~ .pager .bp-range-1 { display: inline; }
+  #bp-1:checked ~ .pager label[for="bp-1"] { background-color: var(--spectrum-gray-200); font-weight: 700; }
+  #bp-2:checked ~ table .bp-page-2 { display: table-row-group; }
+  #bp-2:checked ~ .pager .bp-range-2 { display: inline; }
+  #bp-2:checked ~ .pager label[for="bp-2"] { background-color: var(--spectrum-gray-200); font-weight: 700; }
+  #bp-3:checked ~ table .bp-page-3 { display: table-row-group; }
+  #bp-3:checked ~ .pager .bp-range-3 { display: inline; }
+  #bp-3:checked ~ .pager label[for="bp-3"] { background-color: var(--spectrum-gray-200); font-weight: 700; }
+  #bp-4:checked ~ table .bp-page-4 { display: table-row-group; }
+  #bp-4:checked ~ .pager .bp-range-4 { display: inline; }
+  #bp-4:checked ~ .pager label[for="bp-4"] { background-color: var(--spectrum-gray-200); font-weight: 700; }
+  #bp-5:checked ~ table .bp-page-5 { display: table-row-group; }
+  #bp-5:checked ~ .pager .bp-range-5 { display: inline; }
+  #bp-5:checked ~ .pager label[for="bp-5"] { background-color: var(--spectrum-gray-200); font-weight: 700; }
+  #bp-6:checked ~ table .bp-page-6 { display: table-row-group; }
+  #bp-6:checked ~ .pager .bp-range-6 { display: inline; }
+  #bp-6:checked ~ .pager label[for="bp-6"] { background-color: var(--spectrum-gray-200); font-weight: 700; }
+  #bp-7:checked ~ table .bp-page-7 { display: table-row-group; }
+  #bp-7:checked ~ .pager .bp-range-7 { display: inline; }
+  #bp-7:checked ~ .pager label[for="bp-7"] { background-color: var(--spectrum-gray-200); font-weight: 700; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Migration result</h1>
+    <span class="spectrum-badge spectrum-badge--positive">Ready</span>
+  </header>
+  <p class="meta">Source site: <a href="https://www.infineon.com/" target="_blank" rel="noopener">https://www.infineon.com/</a><br>Preview site: <a href="https://main--938eead7--aemcoder.aem.page/" target="_blank" rel="noopener">https://main--938eead7--aemcoder.aem.page/</a><br>Finished: 2026-11-18 23:47 UTC</p>
+
+  <details class="spectrum-panel" open>
+    <summary class="spectrum-panel-header"><h2>What's done</h2></summary>
+    <div class="panel-body">
+      <p>The migration is complete: all sixty pages are live on the new platform, keep the current design, and have been checked against the current site on desktop and mobile. Analytics and consent have been carried over and are ready for your team to switch on.</p>
+    </div>
+  </details>
+
+  <details class="spectrum-panel" open>
+    <summary class="spectrum-panel-header"><h2>Next steps</h2></summary>
+    <div class="panel-body">
+      <p>Handover to your team for review and go-live of the analytics settings.</p>
+      <ol class="todo">
+        <li><strong>Make it yours.</strong> Move this result into your own site and GitHub repository: use <strong>Make it yours</strong> on this migration in AEM Coder.</li>
+        <li><strong>Review the pages</strong> on the <a href="https://main--938eead7--aemcoder.aem.page/" target="_blank" rel="noopener">preview site</a>.</li>
+        <li><strong>Switch on analytics and tags</strong> when you are ready: see <em>Before you switch them on</em> under Analytics and tags.</li>
+      </ol>
+    </div>
+  </details>
+
+  <details class="spectrum-panel" open>
+    <summary class="spectrum-panel-header"><h2>Pages</h2></summary>
+    <div class="panel-body">
+      <p>This migration covers 61 pages. 60 of 61 are published on the preview site; 60 have passed the side-by-side check against the original.</p>
+      <details>
+        <summary>61 pages in this migration</summary>
+        <table class="pages">
+          <thead><tr><th>Source page</th><th>On the preview site</th><th>Status</th></tr></thead>
+          <tbody>
+          <tr><td><a href="https://www.infineon.com/" target="_blank" rel="noopener">https://www.infineon.com/</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/" target="_blank" rel="noopener">Semiconductor &amp;amp; System Solutions | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de" target="_blank" rel="noopener">https://www.infineon.com/de</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de" target="_blank" rel="noopener">Halbleiter- &amp; Systemlösungen | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/logout" target="_blank" rel="noopener">https://www.infineon.com/de/logout</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/logout" target="_blank" rel="noopener">Logout | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/config" target="_blank" rel="noopener">https://www.infineon.com/de/config</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/config" target="_blank" rel="noopener">Configuration Page | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/partners" target="_blank" rel="noopener">https://www.infineon.com/de/partners</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/partners" target="_blank" rel="noopener">Partners | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/support" target="_blank" rel="noopener">https://www.infineon.com/de/support</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/support" target="_blank" rel="noopener">Support | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/opn" target="_blank" rel="noopener">https://www.infineon.com/de/opn</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/opn" target="_blank" rel="noopener">OPN | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/package-overview" target="_blank" rel="noopener">https://www.infineon.com/de/package-overview</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/package-overview" target="_blank" rel="noopener">Packages | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/contact-us" target="_blank" rel="noopener">https://www.infineon.com/de/contact-us</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/contact-us" target="_blank" rel="noopener">Kontakt | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/glossary" target="_blank" rel="noopener">https://www.infineon.com/de/glossary</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/glossary" target="_blank" rel="noopener">Glossar | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/gated" target="_blank" rel="noopener">https://www.infineon.com/de/gated</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/training" target="_blank" rel="noopener">https://www.infineon.com/de/training</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/training" target="_blank" rel="noopener">Training | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/thank-you" target="_blank" rel="noopener">https://www.infineon.com/de/thank-you</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/thank-you" target="_blank" rel="noopener">Danke | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/about" target="_blank" rel="noopener">https://www.infineon.com/de/about</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/about" target="_blank" rel="noopener">Über | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/careers" target="_blank" rel="noopener">https://www.infineon.com/de/careers</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/careers" target="_blank" rel="noopener">Karriere | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/microelectronics-connecting-real-digital-world" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/microelectronics-connecting-real-digital-world</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/microelectronics-connecting-real-digital-world" target="_blank" rel="noopener">Mikroelektronik – verbindet die reale mit der digitalen | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee" target="_blank" rel="noopener">Wie aus einem Sonnenstrahl eine Tasse heißer Kaffee | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/green-hydrogen-fuel-future" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/green-hydrogen-fuel-future</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-hydrogen-fuel-future" target="_blank" rel="noopener">Grüner Wasserstoff – Treibstoff der Zukunft | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/efficient-energy-storage-systems-energy-transition" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/efficient-energy-storage-systems-energy-transition</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/efficient-energy-storage-systems-energy-transition" target="_blank" rel="noopener">Effiziente Batterie-Energiespeichersysteme für die | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/semiconductors-bring-heat-pumps-life" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/semiconductors-bring-heat-pumps-life</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-bring-heat-pumps-life" target="_blank" rel="noopener">Halbleiter erwecken Wärmepumpen zum Leben | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/electric-cordless-power-tools" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/electric-cordless-power-tools</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electric-cordless-power-tools" target="_blank" rel="noopener">Kabellose Elektrowerkzeuge – handlich und | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/green-chargers-adapters" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/green-chargers-adapters</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-chargers-adapters" target="_blank" rel="noopener">Ladegeräte und Adapter werden grün | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/green-potential-data-centers" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/green-potential-data-centers</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-potential-data-centers" target="_blank" rel="noopener">Das grüne Potenzial von Rechenzentren | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors" target="_blank" rel="noopener">Grüne Energie mit Wide-Bandgap-Halbleitern | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-driving-decarbonization" target="_blank" rel="noopener">Wie Halbeiter die Dekarbonisierung voranbringen | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/sensors-energy-efficient-smart-buildings" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/sensors-energy-efficient-smart-buildings</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/sensors-energy-efficient-smart-buildings" target="_blank" rel="noopener">Sensoren für energieeffiziente, intelligente Gebäude | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/smart-things-consumer-devices" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/smart-things-consumer-devices</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-things-consumer-devices" target="_blank" rel="noopener">Bequem, hilfreich und umweltfreundlich: Willkommen in | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/smart-health-appliances" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/smart-health-appliances</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-health-appliances" target="_blank" rel="noopener">Die Zukunft von Gesundheit und Wohlbefinden ist smart | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/smart-factory-technologies" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/smart-factory-technologies</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-technologies" target="_blank" rel="noopener">Wie kann eine Fabrik intelligent, digitalisiert | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/smart-home-building-technologies" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/smart-home-building-technologies</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-home-building-technologies" target="_blank" rel="noopener">Smart-Home- und Gebäudelösungen für eine bessere | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/green-iot" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/green-iot</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-iot" target="_blank" rel="noopener">Wir bringen das IoT zum Laufen - für eine bessere und | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/smart-factory-semiconductor-solutions" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/smart-factory-semiconductor-solutions</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-semiconductor-solutions" target="_blank" rel="noopener">Wir treiben die smarte Fabrik voran | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/artificial-intelligence-semiconductors" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/artificial-intelligence-semiconductors</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-semiconductors" target="_blank" rel="noopener">Willkommen in der Zukunft der effizienten | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/we-power-ai" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/we-power-ai</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/we-power-ai" target="_blank" rel="noopener">Wir versorgen KI mit Strom: vom Stromnetz bis zum | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enable-provide-ai-customer-innovation" target="_blank" rel="noopener">Wir ermöglichen und bieten KI - für zuverlässige und | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/micromobility" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/micromobility</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/micromobility" target="_blank" rel="noopener">Mikromobilität für grünere Städte | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/micromobility-battery-swapping" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/micromobility-battery-swapping</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/micromobility-battery-swapping" target="_blank" rel="noopener">Batteriewechsel: Die Zukunft der urbanen Mikromobilität | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/charging-infrastructure" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/charging-infrastructure</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/charging-infrastructure" target="_blank" rel="noopener">Die Zukunft des Ladens: Wegbereiter für nachhaltige | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/fast-charging-solutions" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/fast-charging-solutions</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/fast-charging-solutions" target="_blank" rel="noopener">Innovative Schnellladelösungen für die Elektromobilität | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/bi-directional-charging" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/bi-directional-charging</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/bi-directional-charging" target="_blank" rel="noopener">Bidirektionales Laden für eine effiziente | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/software-defined-vehicles" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/software-defined-vehicles</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicles" target="_blank" rel="noopener">Das innovative Potenzial softwaredefinierter Fahrzeuge | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/emission-saving-potential-freight-transportation" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/emission-saving-potential-freight-transportation</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/emission-saving-potential-freight-transportation" target="_blank" rel="noopener">Grüner Güterverkehr: Emissionsreduzierung durch | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/shaping-the-future-of-mobility" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/shaping-the-future-of-mobility</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/shaping-the-future-of-mobility" target="_blank" rel="noopener">Die Zukunft der Mobilität aktiv mitgestalten | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/public-transportation" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/public-transportation</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/public-transportation" target="_blank" rel="noopener">Öffentlicher Stadtverkehr neu gedacht | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/electromobility-greener-future" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/electromobility-greener-future</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electromobility-greener-future" target="_blank" rel="noopener">Die Zukunft der Mobilität gestalten | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/green-buildings-rise</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">Grüne Gebäude auf dem Vormarsch | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/power-infrastructure-renewables" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/power-infrastructure-renewables</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/power-infrastructure-renewables" target="_blank" rel="noopener">Wir unterstützen die Energieinfrastruktur der Zukunft | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/essential-role-cybersecurity" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/essential-role-cybersecurity</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/essential-role-cybersecurity" target="_blank" rel="noopener">Cybersicherheit – Schutz für die digitale Welt von | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/how-microcontroller-enable-RISC-V" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/how-microcontroller-enable-RISC-V</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/how-microcontroller-enable-risc-v" target="_blank" rel="noopener">Get ready for RISC-V | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/semiconductors-key-technology-software-defined-vehicles" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/semiconductors-key-technology-software-defined-vehicles</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-key-technology-software-defined-vehicles" target="_blank" rel="noopener">Halbleiter sind die Schlüsseltechnologie für | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/Software-defined-vehicle-AGM" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/Software-defined-vehicle-AGM</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicle-agm" target="_blank" rel="noopener">Wie Halbleiter das softwaredefinierte Fahrzeugdesign | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/ecosystem-summit" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/ecosystem-summit</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/ecosystem-summit" target="_blank" rel="noopener">Automotive Ecosystem Summit 2026 &quot;Mach dich bereit für | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/enabling-ethernet" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/enabling-ethernet</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enabling-ethernet" target="_blank" rel="noopener">Inside the Mind of Tomorrow’s Car - wie das Auto von | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/european-cyber-resilience-act" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/european-cyber-resilience-act</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/european-cyber-resilience-act" target="_blank" rel="noopener">European Cyber Resilience Act: Mehr Vertrauen für | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/semiconductors-key-technology-sst-sscb" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/semiconductors-key-technology-sst-sscb</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-key-technology-sst-sscb" target="_blank" rel="noopener">Halbleiter prägen das Zeitalter der Elektrizität | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/mobility-tech-talk-software-defined-vehicles" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/mobility-tech-talk-software-defined-vehicles</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/mobility-tech-talk-software-defined-vehicles" target="_blank" rel="noopener">Mobility Tech Talk – Das software definierte Fahrzeug | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/rc1-for-sdv-sdx-and-physical-ai" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/rc1-for-sdv-sdx-and-physical-ai</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/rc1-for-sdv-sdx-and-physical-ai" target="_blank" rel="noopener">AURIX™ RC1: Echtzeit-Computing und -Steuerung neu | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/our-stories/artificial-intelligence-in-everyday-life" target="_blank" rel="noopener">https://www.infineon.com/de/our-stories/artificial-intelligence-in-everyday-life</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-in-everyday-life" target="_blank" rel="noopener">Künstliche Intelligenz in den Alltag bringen | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/event/techfor" target="_blank" rel="noopener">https://www.infineon.com/de/event/techfor</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/event/techfor" target="_blank" rel="noopener">TechFor™ Event Serie | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/support/service-center" target="_blank" rel="noopener">https://www.infineon.com/de/support/service-center</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/support/service-center" target="_blank" rel="noopener">Servicestelle | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://www.infineon.com/de/support/faqs" target="_blank" rel="noopener">https://www.infineon.com/de/support/faqs</a></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/support/faqs" target="_blank" rel="noopener">FAQs | Infineon Technologies</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          </tbody>
+        </table>
+      </details>
+    </div>
+  </details>
+
+  <details class="spectrum-panel">
+    <summary class="spectrum-panel-header"><h2>Page templates</h2></summary>
+    <div class="panel-body">
+      <table>
+        <thead><tr><th>Template</th><th>Pages</th><th>Desktop</th><th>Mobile</th><th>Status</th></tr></thead>
+        <tbody>
+          <tr><td>Stories</td><td>38</td><td>—</td><td>—</td><td><span class="spectrum-badge">Not recorded</span></td></tr>
+          <tr><td>Home pages</td><td>2</td><td>—</td><td>—</td><td><span class="spectrum-badge">Not recorded</span></td></tr>
+          <tr><td>Contact and FAQ pages</td><td>3</td><td>—</td><td>—</td><td><span class="spectrum-badge">Not recorded</span></td></tr>
+          <tr><td>Story hubs</td><td>5</td><td>—</td><td>—</td><td><span class="spectrum-badge">Not recorded</span></td></tr>
+          <tr><td>Glossary and reference pages</td><td>3</td><td>—</td><td>—</td><td><span class="spectrum-badge">Not recorded</span></td></tr>
+          <tr><td>Company and support pages</td><td>6</td><td>—</td><td>—</td><td><span class="spectrum-badge">Not recorded</span></td></tr>
+          <tr><td>Account and confirmation pages</td><td>3</td><td>—</td><td>—</td><td><span class="spectrum-badge">Not recorded</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+
+  <details class="spectrum-panel" id="blocks-used">
+    <summary class="spectrum-panel-header"><h2>Blocks used</h2></summary>
+    <div class="panel-body">
+      <p>34 blocks in 132 variants across 60 pages. These are the building blocks your authors will work with.</p>
+      <input type="radio" name="blocks-page" id="bp-1" class="bp-radio" checked>
+      <input type="radio" name="blocks-page" id="bp-2" class="bp-radio">
+      <input type="radio" name="blocks-page" id="bp-3" class="bp-radio">
+      <input type="radio" name="blocks-page" id="bp-4" class="bp-radio">
+      <input type="radio" name="blocks-page" id="bp-5" class="bp-radio">
+      <input type="radio" name="blocks-page" id="bp-6" class="bp-radio">
+      <input type="radio" name="blocks-page" id="bp-7" class="bp-radio">
+      <table class="blocks">
+        <thead><tr><th>Block</th><th>Variant</th><th>Pages</th></tr></thead>
+        <tbody class="bp-page bp-page-1">
+          <tr class="group"><td class="block">article-hero<span class="block-pages">43 pages</span></td><td><span class="default">default</span></td><td><button class="more" popovertarget="blocks-pages-0-0">View 43 pages</button></td></tr>
+          <tr class="group"><td class="block">newsletter-offramp<span class="block-pages">43 pages</span></td><td><span class="default">default</span></td><td><button class="more" popovertarget="blocks-pages-1-0">View 43 pages</button></td></tr>
+          <tr class="group"><td class="block" rowspan="72">story-hub<span class="block-pages">43 pages</span></td><td><span class="variant">rail</span><span class="variant">flush</span></td><td><button class="more" popovertarget="blocks-pages-2-0">View 26 pages</button></td></tr>
+          <tr><td><span class="variant">rail</span></td><td><button class="more" popovertarget="blocks-pages-2-1">View 26 pages</button></td></tr>
+          <tr><td><span class="variant">box</span></td><td><button class="more" popovertarget="blocks-pages-2-2">View 21 pages</button></td></tr>
+          <tr><td><span class="variant">timeline</span></td><td><button class="more" popovertarget="blocks-pages-2-3">View 10 pages</button></td></tr>
+          <tr><td><span class="variant">quote</span></td><td><button class="more" popovertarget="blocks-pages-2-4">View 6 pages</button></td></tr>
+          <tr><td><span class="variant">video</span></td><td><button class="more" popovertarget="blocks-pages-2-5">View 6 pages</button></td></tr>
+          <tr><td><span class="variant">quote</span><span class="variant">portrait</span></td><td><button class="more" popovertarget="blocks-pages-2-6">View 5 pages</button></td></tr>
+          <tr><td><span class="variant">columns</span></td><td><button class="more" popovertarget="blocks-pages-2-7">View 4 pages</button></td></tr>
+          <tr><td><span class="variant">gallery</span></td><td><button class="more" popovertarget="blocks-pages-2-8">View 4 pages</button></td></tr>
+          <tr><td><span class="variant">box</span><span class="variant">end</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/we-power-ai" target="_blank" rel="noopener">Wir versorgen KI mit Strom: vom Stromnetz bis zum | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicles" target="_blank" rel="noopener">Das innovative Potenzial softwaredefinierter Fahrzeuge | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/power-infrastructure-renewables" target="_blank" rel="noopener">Wir unterstützen die Energieinfrastruktur der Zukunft | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">boxed</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-hydrogen-fuel-future" target="_blank" rel="noopener">Grüner Wasserstoff – Treibstoff der Zukunft | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/efficient-energy-storage-systems-energy-transition" target="_blank" rel="noopener">Effiziente Batterie-Energiespeichersysteme für die | Infineon Technologies</a> <span class="blocks-count">×2</span>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/shaping-the-future-of-mobility" target="_blank" rel="noopener">Die Zukunft der Mobilität aktiv mitgestalten | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">checks</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicles" target="_blank" rel="noopener">Das innovative Potenzial softwaredefinierter Fahrzeuge | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/public-transportation" target="_blank" rel="noopener">Öffentlicher Stadtverkehr neu gedacht | Infineon Technologies</a> <span class="blocks-count">×2</span>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/rc1-for-sdv-sdx-and-physical-ai" target="_blank" rel="noopener">AURIX™ RC1: Echtzeit-Computing und -Steuerung neu | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">video</span><span class="variant">pre-32</span><span class="variant">gap-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-things-consumer-devices" target="_blank" rel="noopener">Bequem, hilfreich und umweltfreundlich: Willkommen in | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-technologies" target="_blank" rel="noopener">Wie kann eine Fabrik intelligent, digitalisiert | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/shaping-the-future-of-mobility" target="_blank" rel="noopener">Die Zukunft der Mobilität aktiv mitgestalten | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">video</span><span class="variant">gap-64</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/sensors-energy-efficient-smart-buildings" target="_blank" rel="noopener">Sensoren für energieeffiziente, intelligente Gebäude | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-home-building-technologies" target="_blank" rel="noopener">Smart-Home- und Gebäudelösungen für eine bessere | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/how-microcontroller-enable-risc-v" target="_blank" rel="noopener">Get ready for RISC-V | Infineon Technologies</a> <span class="blocks-count">×2</span></td></tr>
+          <tr><td><span class="variant">video</span><span class="variant">pre-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/we-power-ai" target="_blank" rel="noopener">Wir versorgen KI mit Strom: vom Stromnetz bis zum | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/power-infrastructure-renewables" target="_blank" rel="noopener">Wir unterstützen die Energieinfrastruktur der Zukunft | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-in-everyday-life" target="_blank" rel="noopener">Künstliche Intelligenz in den Alltag bringen | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">box</span><span class="variant">timeline</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-hydrogen-fuel-future" target="_blank" rel="noopener">Grüner Wasserstoff – Treibstoff der Zukunft | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enable-provide-ai-customer-innovation" target="_blank" rel="noopener">Wir ermöglichen und bieten KI - für zuverlässige und | Infineon Technologies</a> <span class="blocks-count">×2</span></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-3-7</span><span class="variant">gap-64</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/sensors-energy-efficient-smart-buildings" target="_blank" rel="noopener">Sensoren für energieeffiziente, intelligente Gebäude | Infineon Technologies</a> <span class="blocks-count">×2</span>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/shaping-the-future-of-mobility" target="_blank" rel="noopener">Die Zukunft der Mobilität aktiv mitgestalten | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-7-3</span><span class="variant">reverse</span><span class="variant">gap-32</span><span class="variant">rev</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/shaping-the-future-of-mobility" target="_blank" rel="noopener">Die Zukunft der Mobilität aktiv mitgestalten | Infineon Technologies</a> <span class="blocks-count">×2</span>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">Grüne Gebäude auf dem Vormarsch | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-7-3</span><span class="variant">t-8</span><span class="variant">rt-32</span><span class="variant">rev</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee" target="_blank" rel="noopener">Wie aus einem Sonnenstrahl eine Tasse heißer Kaffee | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enable-provide-ai-customer-innovation" target="_blank" rel="noopener">Wir ermöglichen und bieten KI - für zuverlässige und | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">icons</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/we-power-ai" target="_blank" rel="noopener">Wir versorgen KI mit Strom: vom Stromnetz bis zum | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicles" target="_blank" rel="noopener">Das innovative Potenzial softwaredefinierter Fahrzeuge | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">figure</span><span class="variant">w75</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicles" target="_blank" rel="noopener">Das innovative Potenzial softwaredefinierter Fahrzeuge | Infineon Technologies</a> <span class="blocks-count">×2</span>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/rc1-for-sdv-sdx-and-physical-ai" target="_blank" rel="noopener">AURIX™ RC1: Echtzeit-Computing und -Steuerung neu | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">video</span><span class="variant">gap-0</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-key-technology-software-defined-vehicles" target="_blank" rel="noopener">Halbleiter sind die Schlüsseltechnologie für | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicle-agm" target="_blank" rel="noopener">Wie Halbleiter das softwaredefinierte Fahrzeugdesign | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">links</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/microelectronics-connecting-real-digital-world" target="_blank" rel="noopener">Mikroelektronik – verbindet die reale mit der digitalen | Infineon Technologies</a> <span class="blocks-count">×5</span>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electromobility-greener-future" target="_blank" rel="noopener">Die Zukunft der Mobilität gestalten | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">rail</span><span class="variant">mb-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/we-power-ai" target="_blank" rel="noopener">Wir versorgen KI mit Strom: vom Stromnetz bis zum | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/power-infrastructure-renewables" target="_blank" rel="noopener">Wir unterstützen die Energieinfrastruktur der Zukunft | Infineon Technologies</a> <span class="blocks-count">×2</span></td></tr>
+          <tr><td><span class="variant">articles</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-in-everyday-life" target="_blank" rel="noopener">Künstliche Intelligenz in den Alltag bringen | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">box</span><span class="variant">checks</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/micromobility-battery-swapping" target="_blank" rel="noopener">Batteriewechsel: Die Zukunft der urbanen Mikromobilität | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">box</span><span class="variant">cta</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/we-power-ai" target="_blank" rel="noopener">Wir versorgen KI mit Strom: vom Stromnetz bis zum | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">box</span><span class="variant">pre-32</span><span class="variant">end</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-in-everyday-life" target="_blank" rel="noopener">Künstliche Intelligenz in den Alltag bringen | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">box</span><span class="variant">facts-16</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-in-everyday-life" target="_blank" rel="noopener">Künstliche Intelligenz in den Alltag bringen | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">box</span><span class="variant">facts-end-32</span><span class="variant">mb-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/power-infrastructure-renewables" target="_blank" rel="noopener">Wir unterstützen die Energieinfrastruktur der Zukunft | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">box</span><span class="variant">flat</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/we-power-ai" target="_blank" rel="noopener">Wir versorgen KI mit Strom: vom Stromnetz bis zum | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">box</span><span class="variant">mb-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicles" target="_blank" rel="noopener">Das innovative Potenzial softwaredefinierter Fahrzeuge | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">boxed</span><span class="variant">cols-3-7</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/bi-directional-charging" target="_blank" rel="noopener">Bidirektionales Laden für eine effiziente | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">pic-40</span><span class="variant">rt-24</span><span class="variant">boxed</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-semiconductors" target="_blank" rel="noopener">Willkommen in der Zukunft der effizienten | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-3-7</span><span class="variant">gap-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">Grüne Gebäude auf dem Vormarsch | Infineon Technologies</a> <span class="blocks-count">×2</span></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-3-7</span><span class="variant">gap-32</span><span class="variant">pre-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">Grüne Gebäude auf dem Vormarsch | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-3-7</span><span class="variant">t-8</span><span class="variant">gap-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-semiconductor-solutions" target="_blank" rel="noopener">Wir treiben die smarte Fabrik voran | Infineon Technologies</a> <span class="blocks-count">×2</span></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-3-7</span><span class="variant">t-8</span><span class="variant">rt-16</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enable-provide-ai-customer-innovation" target="_blank" rel="noopener">Wir ermöglichen und bieten KI - für zuverlässige und | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-3-7</span><span class="variant">rt-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/sensors-energy-efficient-smart-buildings" target="_blank" rel="noopener">Sensoren für energieeffiziente, intelligente Gebäude | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-3-7</span><span class="variant">t-8</span><span class="variant">rt-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">Grüne Gebäude auf dem Vormarsch | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-3-7</span><span class="variant">t-8</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/public-transportation" target="_blank" rel="noopener">Öffentlicher Stadtverkehr neu gedacht | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-7-3</span><span class="variant">t-8</span><span class="variant">gap-32</span><span class="variant">pre-32</span><span class="variant">rev</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-semiconductor-solutions" target="_blank" rel="noopener">Wir treiben die smarte Fabrik voran | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-7-3</span><span class="variant">reverse</span><span class="variant">gap-32</span><span class="variant">rev</span><span class="variant">tail-2</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">Grüne Gebäude auf dem Vormarsch | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-7-3</span><span class="variant">t-8</span><span class="variant">gap-32</span><span class="variant">rev</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-semiconductor-solutions" target="_blank" rel="noopener">Wir treiben die smarte Fabrik voran | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-7-3</span><span class="variant">pre-32</span><span class="variant">rev</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enable-provide-ai-customer-innovation" target="_blank" rel="noopener">Wir ermöglichen und bieten KI - für zuverlässige und | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-7-3</span><span class="variant">reverse</span><span class="variant">t-8</span><span class="variant">pre-32</span><span class="variant">rev</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">Grüne Gebäude auf dem Vormarsch | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-7-3</span><span class="variant">reverse</span><span class="variant">rev</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">Grüne Gebäude auf dem Vormarsch | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-7-3</span><span class="variant">rt-32</span><span class="variant">rev</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/sensors-energy-efficient-smart-buildings" target="_blank" rel="noopener">Sensoren für energieeffiziente, intelligente Gebäude | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-7-3</span><span class="variant">t-8</span><span class="variant">rev</span><span class="variant">tail-1-1</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-semiconductor-solutions" target="_blank" rel="noopener">Wir treiben die smarte Fabrik voran | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">cols-7-3</span><span class="variant">rev</span><span class="variant">tail-1</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/sensors-energy-efficient-smart-buildings" target="_blank" rel="noopener">Sensoren für energieeffiziente, intelligente Gebäude | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">img-w50</span><span class="variant">gap-0</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-health-appliances" target="_blank" rel="noopener">Die Zukunft von Gesundheit und Wohlbefinden ist smart | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">pic-16</span><span class="variant">gap-16</span><span class="variant">pre-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/bi-directional-charging" target="_blank" rel="noopener">Bidirektionales Laden für eine effiziente | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">t-8</span><span class="variant">pic-16</span><span class="variant">rt-16</span><span class="variant">gap-48</span><span class="variant">pre-48</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-iot" target="_blank" rel="noopener">Wir bringen das IoT zum Laufen - für eine bessere und | Infineon Technologies</a> <span class="blocks-count">×2</span></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">t-8</span><span class="variant">pic-16</span><span class="variant">rt-16</span><span class="variant">gap-48</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-iot" target="_blank" rel="noopener">Wir bringen das IoT zum Laufen - für eine bessere und | Infineon Technologies</a> <span class="blocks-count">×2</span></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">pic-32</span><span class="variant">gap-64</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/essential-role-cybersecurity" target="_blank" rel="noopener">Cybersicherheit – Schutz für die digitale Welt von | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">pic-32</span><span class="variant">gap-64</span><span class="variant">pre-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/essential-role-cybersecurity" target="_blank" rel="noopener">Cybersicherheit – Schutz für die digitale Welt von | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">pic-40</span><span class="variant">rt-40</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-semiconductors" target="_blank" rel="noopener">Willkommen in der Zukunft der effizienten | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">pre-16</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/rc1-for-sdv-sdx-and-physical-ai" target="_blank" rel="noopener">AURIX™ RC1: Echtzeit-Computing und -Steuerung neu | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">columns</span><span class="variant">t-8</span><span class="variant">pre-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee" target="_blank" rel="noopener">Wie aus einem Sonnenstrahl eine Tasse heißer Kaffee | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">rail</span><span class="variant">described</span><span class="variant">mb-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-in-everyday-life" target="_blank" rel="noopener">Künstliche Intelligenz in den Alltag bringen | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">video</span><span class="variant">pre-32</span><span class="variant">gap-16</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enable-provide-ai-customer-innovation" target="_blank" rel="noopener">Wir ermöglichen und bieten KI - für zuverlässige und | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">video</span><span class="variant">gap-16</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/rc1-for-sdv-sdx-and-physical-ai" target="_blank" rel="noopener">AURIX™ RC1: Echtzeit-Computing und -Steuerung neu | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">video</span><span class="variant">pre-24</span><span class="variant">gap-24</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-things-consumer-devices" target="_blank" rel="noopener">Bequem, hilfreich und umweltfreundlich: Willkommen in | Infineon Technologies</a> <span class="blocks-count">×2</span></td></tr>
+          <tr><td><span class="variant">video</span><span class="variant">gap-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/public-transportation" target="_blank" rel="noopener">Öffentlicher Stadtverkehr neu gedacht | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">video</span><span class="variant">pre-24</span><span class="variant">gap-40</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-things-consumer-devices" target="_blank" rel="noopener">Bequem, hilfreich und umweltfreundlich: Willkommen in | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">video</span><span class="variant">pre-32</span><span class="variant">gap-40</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee" target="_blank" rel="noopener">Wie aus einem Sonnenstrahl eine Tasse heißer Kaffee | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">video</span><span class="variant">pre-32</span><span class="variant">gap-64</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/emission-saving-potential-freight-transportation" target="_blank" rel="noopener">Grüner Güterverkehr: Emissionsreduzierung durch | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">video</span><span class="variant">pre-64</span><span class="variant">gap-64</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-health-appliances" target="_blank" rel="noopener">Die Zukunft von Gesundheit und Wohlbefinden ist smart | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">video</span><span class="variant">mb-32</span><span class="variant">pre-32</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicles" target="_blank" rel="noopener">Das innovative Potenzial softwaredefinierter Fahrzeuge | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">quote</span><span class="variant">mb-64</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicles" target="_blank" rel="noopener">Das innovative Potenzial softwaredefinierter Fahrzeuge | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">rail</span><span class="variant">mt-24</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/we-power-ai" target="_blank" rel="noopener">Wir versorgen KI mit Strom: vom Stromnetz bis zum | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">video</span><span class="variant">pre-24</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-key-technology-sst-sscb" target="_blank" rel="noopener">Halbleiter prägen das Zeitalter der Elektrizität | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">article-toc<span class="block-pages">32 pages</span></td><td><span class="default">default</span></td><td><button class="more" popovertarget="blocks-pages-3-0">View 32 pages</button></td></tr>
+          <tr class="group"><td class="block" rowspan="3">breadcrumb<span class="block-pages">9 pages</span></td><td><span class="default">default</span></td><td><button class="more" popovertarget="blocks-pages-4-0">View 4 pages</button></td></tr>
+          <tr><td><span class="variant">share</span></td><td><button class="more" popovertarget="blocks-pages-4-1">View 4 pages</button></td></tr>
+          <tr><td><span class="variant">compact</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/package-overview" target="_blank" rel="noopener">Packages | Infineon Technologies</a></td></tr>
+        </tbody>
+        <tbody class="bp-page bp-page-2">
+          <tr class="group"><td class="block" rowspan="10">hub-band<span class="block-pages">5 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/about" target="_blank" rel="noopener">Über | Infineon Technologies</a> <span class="blocks-count">×5</span></td></tr>
+          <tr><td><span class="variant">split</span><span class="variant">h2-28</span><span class="variant">band</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/training" target="_blank" rel="noopener">Training | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/careers" target="_blank" rel="noopener">Karriere | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">events</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/about" target="_blank" rel="noopener">Über | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">split</span><span class="variant">h2-28</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/training" target="_blank" rel="noopener">Training | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">split</span><span class="variant">masked</span><span class="variant">h2-44</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/partners" target="_blank" rel="noopener">Partners | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">split</span><span class="variant">h2-44</span><span class="variant">video</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/careers" target="_blank" rel="noopener">Karriere | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">split</span><span class="variant">note</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/event/techfor" target="_blank" rel="noopener">TechFor™ Event Serie | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">split</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/careers" target="_blank" rel="noopener">Karriere | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">split</span><span class="variant">text-first</span><span class="variant">video</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/event/techfor" target="_blank" rel="noopener">TechFor™ Event Serie | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">split</span><span class="variant">video</span><span class="variant">wide-video</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/training" target="_blank" rel="noopener">Training | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block" rowspan="3">page-header<span class="block-pages">5 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/support" target="_blank" rel="noopener">Support | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/about" target="_blank" rel="noopener">Über | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">kicker</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/contact-us" target="_blank" rel="noopener">Kontakt | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/support/faqs" target="_blank" rel="noopener">FAQs | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">title</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/glossary" target="_blank" rel="noopener">Glossar | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block" rowspan="4">accordion<span class="block-pages">4 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/training" target="_blank" rel="noopener">Training | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">glossary</span><span class="variant">article</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/opn" target="_blank" rel="noopener">OPN | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">glossary</span><span class="variant">article</span><span class="variant">spacious</span><span class="variant">regions</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/support/service-center" target="_blank" rel="noopener">Servicestelle | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">glossary</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/glossary" target="_blank" rel="noopener">Glossar | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">career-offramp<span class="block-pages">3 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/" target="_blank" rel="noopener">Semiconductor &amp;amp; System Solutions | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de" target="_blank" rel="noopener">Halbleiter- &amp; Systemlösungen | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/partners" target="_blank" rel="noopener">Partners | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">contact-band<span class="block-pages">3 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/support" target="_blank" rel="noopener">Support | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/training" target="_blank" rel="noopener">Training | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/support/faqs" target="_blank" rel="noopener">FAQs | Infineon Technologies</a></td></tr>
+        </tbody>
+        <tbody class="bp-page bp-page-3">
+          <tr class="group"><td class="block" rowspan="4">product-hero<span class="block-pages">3 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/training" target="_blank" rel="noopener">Training | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">career</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/careers" target="_blank" rel="noopener">Karriere | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">career</span><span class="variant">offramp</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/careers" target="_blank" rel="noopener">Karriere | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">plain</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/package-overview" target="_blank" rel="noopener">Packages | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block" rowspan="2">sub-nav<span class="block-pages">3 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/contact-us" target="_blank" rel="noopener">Kontakt | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de/careers" target="_blank" rel="noopener">Karriere | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">spaced</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/partners" target="_blank" rel="noopener">Partners | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block" rowspan="3">teaser-cards<span class="block-pages">3 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/event/techfor" target="_blank" rel="noopener">TechFor™ Event Serie | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">carousel</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/careers" target="_blank" rel="noopener">Karriere | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">tech</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/package-overview" target="_blank" rel="noopener">Packages | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">event-slider<span class="block-pages">2 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/" target="_blank" rel="noopener">Semiconductor &amp;amp; System Solutions | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de" target="_blank" rel="noopener">Halbleiter- &amp; Systemlösungen | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">hero-carousel<span class="block-pages">2 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/" target="_blank" rel="noopener">Semiconductor &amp;amp; System Solutions | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de" target="_blank" rel="noopener">Halbleiter- &amp; Systemlösungen | Infineon Technologies</a></td></tr>
+        </tbody>
+        <tbody class="bp-page bp-page-4">
+          <tr class="group"><td class="block" rowspan="3">link-cards<span class="block-pages">2 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/support" target="_blank" rel="noopener">Support | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">featured</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/support" target="_blank" rel="noopener">Support | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">links</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/event/techfor" target="_blank" rel="noopener">TechFor™ Event Serie | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block" rowspan="2">market-cards<span class="block-pages">2 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/" target="_blank" rel="noopener">Semiconductor &amp;amp; System Solutions | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">flow</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de" target="_blank" rel="noopener">Halbleiter- &amp; Systemlösungen | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">partner-teaser<span class="block-pages">2 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/" target="_blank" rel="noopener">Semiconductor &amp;amp; System Solutions | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de" target="_blank" rel="noopener">Halbleiter- &amp; Systemlösungen | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block" rowspan="2">product-carousel<span class="block-pages">2 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/" target="_blank" rel="noopener">Semiconductor &amp;amp; System Solutions | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">spaced</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de" target="_blank" rel="noopener">Halbleiter- &amp; Systemlösungen | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">story-cards<span class="block-pages">2 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/" target="_blank" rel="noopener">Semiconductor &amp;amp; System Solutions | Infineon Technologies</a>, <a href="https://main--938eead7--aemcoder.aem.page/de" target="_blank" rel="noopener">Halbleiter- &amp; Systemlösungen | Infineon Technologies</a></td></tr>
+        </tbody>
+        <tbody class="bp-page bp-page-5">
+          <tr class="group"><td class="block" rowspan="2">thank-you<span class="block-pages">2 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/thank-you" target="_blank" rel="noopener">Danke | Infineon Technologies</a></td></tr>
+          <tr><td><span class="variant">full</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/logout" target="_blank" rel="noopener">Logout | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">config-list<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/config" target="_blank" rel="noopener">Configuration Page | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">document-card<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/package-overview" target="_blank" rel="noopener">Packages | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">document-list<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/package-overview" target="_blank" rel="noopener">Packages | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">faq-list<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/support/faqs" target="_blank" rel="noopener">FAQs | Infineon Technologies</a></td></tr>
+        </tbody>
+        <tbody class="bp-page bp-page-6">
+          <tr class="group"><td class="block">image-hero<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/event/techfor" target="_blank" rel="noopener">TechFor™ Event Serie | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">info-boxes<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/contact-us" target="_blank" rel="noopener">Kontakt | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">jump-nav<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/package-overview" target="_blank" rel="noopener">Packages | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">link-columns<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/support" target="_blank" rel="noopener">Support | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">location-finder<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/contact-us" target="_blank" rel="noopener">Kontakt | Infineon Technologies</a></td></tr>
+        </tbody>
+        <tbody class="bp-page bp-page-7">
+          <tr class="group"><td class="block">locations<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/careers" target="_blank" rel="noopener">Karriere | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">package-categories<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/package-overview" target="_blank" rel="noopener">Packages | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">support-offramp<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/package-overview" target="_blank" rel="noopener">Packages | Infineon Technologies</a></td></tr>
+          <tr class="group"><td class="block">tabs<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--938eead7--aemcoder.aem.page/de/careers" target="_blank" rel="noopener">Karriere | Infineon Technologies</a></td></tr>
+        </tbody>
+      </table>
+      <nav class="pager" aria-label="Pages of blocks"><span class="bp-range bp-range-1">Blocks 1–5 of 34</span><span class="bp-range bp-range-2">Blocks 6–10 of 34</span><span class="bp-range bp-range-3">Blocks 11–15 of 34</span><span class="bp-range bp-range-4">Blocks 16–20 of 34</span><span class="bp-range bp-range-5">Blocks 21–25 of 34</span><span class="bp-range bp-range-6">Blocks 26–30 of 34</span><span class="bp-range bp-range-7">Blocks 31–34 of 34</span><div class="labels"><label for="bp-1" class="spectrum-button spectrum-button--quiet">1</label><label for="bp-2" class="spectrum-button spectrum-button--quiet">2</label><label for="bp-3" class="spectrum-button spectrum-button--quiet">3</label><label for="bp-4" class="spectrum-button spectrum-button--quiet">4</label><label for="bp-5" class="spectrum-button spectrum-button--quiet">5</label><label for="bp-6" class="spectrum-button spectrum-button--quiet">6</label><label for="bp-7" class="spectrum-button spectrum-button--quiet">7</label></div></nav>
+      <div popover id="blocks-pages-0-0" class="blocks-popover" aria-labelledby="blocks-pages-0-0-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-0-0-title">article-hero <span class="variant-inline">default</span></h3>
+            <p class="blocks-count">Used on 43 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-0-0" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/microelectronics-connecting-real-digital-world" target="_blank" rel="noopener">Mikroelektronik – verbindet die reale mit der digitalen | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee" target="_blank" rel="noopener">Wie aus einem Sonnenstrahl eine Tasse heißer Kaffee | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-hydrogen-fuel-future" target="_blank" rel="noopener">Grüner Wasserstoff – Treibstoff der Zukunft | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/efficient-energy-storage-systems-energy-transition" target="_blank" rel="noopener">Effiziente Batterie-Energiespeichersysteme für die | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-bring-heat-pumps-life" target="_blank" rel="noopener">Halbleiter erwecken Wärmepumpen zum Leben | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electric-cordless-power-tools" target="_blank" rel="noopener">Kabellose Elektrowerkzeuge – handlich und | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-chargers-adapters" target="_blank" rel="noopener">Ladegeräte und Adapter werden grün | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-potential-data-centers" target="_blank" rel="noopener">Das grüne Potenzial von Rechenzentren | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors" target="_blank" rel="noopener">Grüne Energie mit Wide-Bandgap-Halbleitern | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-driving-decarbonization" target="_blank" rel="noopener">Wie Halbeiter die Dekarbonisierung voranbringen | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/sensors-energy-efficient-smart-buildings" target="_blank" rel="noopener">Sensoren für energieeffiziente, intelligente Gebäude | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-things-consumer-devices" target="_blank" rel="noopener">Bequem, hilfreich und umweltfreundlich: Willkommen in | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-health-appliances" target="_blank" rel="noopener">Die Zukunft von Gesundheit und Wohlbefinden ist smart | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-technologies" target="_blank" rel="noopener">Wie kann eine Fabrik intelligent, digitalisiert | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-home-building-technologies" target="_blank" rel="noopener">Smart-Home- und Gebäudelösungen für eine bessere | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-iot" target="_blank" rel="noopener">Wir bringen das IoT zum Laufen - für eine bessere und | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-semiconductor-solutions" target="_blank" rel="noopener">Wir treiben die smarte Fabrik voran | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-semiconductors" target="_blank" rel="noopener">Willkommen in der Zukunft der effizienten | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/we-power-ai" target="_blank" rel="noopener">Wir versorgen KI mit Strom: vom Stromnetz bis zum | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enable-provide-ai-customer-innovation" target="_blank" rel="noopener">Wir ermöglichen und bieten KI - für zuverlässige und | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/micromobility" target="_blank" rel="noopener">Mikromobilität für grünere Städte | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/micromobility-battery-swapping" target="_blank" rel="noopener">Batteriewechsel: Die Zukunft der urbanen Mikromobilität | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/charging-infrastructure" target="_blank" rel="noopener">Die Zukunft des Ladens: Wegbereiter für nachhaltige | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/fast-charging-solutions" target="_blank" rel="noopener">Innovative Schnellladelösungen für die Elektromobilität | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/bi-directional-charging" target="_blank" rel="noopener">Bidirektionales Laden für eine effiziente | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicles" target="_blank" rel="noopener">Das innovative Potenzial softwaredefinierter Fahrzeuge | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/emission-saving-potential-freight-transportation" target="_blank" rel="noopener">Grüner Güterverkehr: Emissionsreduzierung durch | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/shaping-the-future-of-mobility" target="_blank" rel="noopener">Die Zukunft der Mobilität aktiv mitgestalten | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/public-transportation" target="_blank" rel="noopener">Öffentlicher Stadtverkehr neu gedacht | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electromobility-greener-future" target="_blank" rel="noopener">Die Zukunft der Mobilität gestalten | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">Grüne Gebäude auf dem Vormarsch | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/power-infrastructure-renewables" target="_blank" rel="noopener">Wir unterstützen die Energieinfrastruktur der Zukunft | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/essential-role-cybersecurity" target="_blank" rel="noopener">Cybersicherheit – Schutz für die digitale Welt von | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/how-microcontroller-enable-risc-v" target="_blank" rel="noopener">Get ready for RISC-V | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-key-technology-software-defined-vehicles" target="_blank" rel="noopener">Halbleiter sind die Schlüsseltechnologie für | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicle-agm" target="_blank" rel="noopener">Wie Halbleiter das softwaredefinierte Fahrzeugdesign | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/ecosystem-summit" target="_blank" rel="noopener">Automotive Ecosystem Summit 2026 &quot;Mach dich bereit für | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enabling-ethernet" target="_blank" rel="noopener">Inside the Mind of Tomorrow’s Car - wie das Auto von | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/european-cyber-resilience-act" target="_blank" rel="noopener">European Cyber Resilience Act: Mehr Vertrauen für | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-key-technology-sst-sscb" target="_blank" rel="noopener">Halbleiter prägen das Zeitalter der Elektrizität | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/mobility-tech-talk-software-defined-vehicles" target="_blank" rel="noopener">Mobility Tech Talk – Das software definierte Fahrzeug | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/rc1-for-sdv-sdx-and-physical-ai" target="_blank" rel="noopener">AURIX™ RC1: Echtzeit-Computing und -Steuerung neu | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-in-everyday-life" target="_blank" rel="noopener">Künstliche Intelligenz in den Alltag bringen | Infineon Technologies</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-1-0" class="blocks-popover" aria-labelledby="blocks-pages-1-0-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-1-0-title">newsletter-offramp <span class="variant-inline">default</span></h3>
+            <p class="blocks-count">Used on 43 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-1-0" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/microelectronics-connecting-real-digital-world" target="_blank" rel="noopener">Mikroelektronik – verbindet die reale mit der digitalen | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee" target="_blank" rel="noopener">Wie aus einem Sonnenstrahl eine Tasse heißer Kaffee | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-hydrogen-fuel-future" target="_blank" rel="noopener">Grüner Wasserstoff – Treibstoff der Zukunft | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/efficient-energy-storage-systems-energy-transition" target="_blank" rel="noopener">Effiziente Batterie-Energiespeichersysteme für die | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-bring-heat-pumps-life" target="_blank" rel="noopener">Halbleiter erwecken Wärmepumpen zum Leben | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electric-cordless-power-tools" target="_blank" rel="noopener">Kabellose Elektrowerkzeuge – handlich und | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-chargers-adapters" target="_blank" rel="noopener">Ladegeräte und Adapter werden grün | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-potential-data-centers" target="_blank" rel="noopener">Das grüne Potenzial von Rechenzentren | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors" target="_blank" rel="noopener">Grüne Energie mit Wide-Bandgap-Halbleitern | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-driving-decarbonization" target="_blank" rel="noopener">Wie Halbeiter die Dekarbonisierung voranbringen | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/sensors-energy-efficient-smart-buildings" target="_blank" rel="noopener">Sensoren für energieeffiziente, intelligente Gebäude | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-things-consumer-devices" target="_blank" rel="noopener">Bequem, hilfreich und umweltfreundlich: Willkommen in | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-health-appliances" target="_blank" rel="noopener">Die Zukunft von Gesundheit und Wohlbefinden ist smart | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-technologies" target="_blank" rel="noopener">Wie kann eine Fabrik intelligent, digitalisiert | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-home-building-technologies" target="_blank" rel="noopener">Smart-Home- und Gebäudelösungen für eine bessere | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-iot" target="_blank" rel="noopener">Wir bringen das IoT zum Laufen - für eine bessere und | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-semiconductor-solutions" target="_blank" rel="noopener">Wir treiben die smarte Fabrik voran | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-semiconductors" target="_blank" rel="noopener">Willkommen in der Zukunft der effizienten | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/we-power-ai" target="_blank" rel="noopener">Wir versorgen KI mit Strom: vom Stromnetz bis zum | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enable-provide-ai-customer-innovation" target="_blank" rel="noopener">Wir ermöglichen und bieten KI - für zuverlässige und | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/micromobility" target="_blank" rel="noopener">Mikromobilität für grünere Städte | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/micromobility-battery-swapping" target="_blank" rel="noopener">Batteriewechsel: Die Zukunft der urbanen Mikromobilität | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/charging-infrastructure" target="_blank" rel="noopener">Die Zukunft des Ladens: Wegbereiter für nachhaltige | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/fast-charging-solutions" target="_blank" rel="noopener">Innovative Schnellladelösungen für die Elektromobilität | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/bi-directional-charging" target="_blank" rel="noopener">Bidirektionales Laden für eine effiziente | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicles" target="_blank" rel="noopener">Das innovative Potenzial softwaredefinierter Fahrzeuge | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/emission-saving-potential-freight-transportation" target="_blank" rel="noopener">Grüner Güterverkehr: Emissionsreduzierung durch | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/shaping-the-future-of-mobility" target="_blank" rel="noopener">Die Zukunft der Mobilität aktiv mitgestalten | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/public-transportation" target="_blank" rel="noopener">Öffentlicher Stadtverkehr neu gedacht | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electromobility-greener-future" target="_blank" rel="noopener">Die Zukunft der Mobilität gestalten | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">Grüne Gebäude auf dem Vormarsch | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/power-infrastructure-renewables" target="_blank" rel="noopener">Wir unterstützen die Energieinfrastruktur der Zukunft | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/essential-role-cybersecurity" target="_blank" rel="noopener">Cybersicherheit – Schutz für die digitale Welt von | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/how-microcontroller-enable-risc-v" target="_blank" rel="noopener">Get ready for RISC-V | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-key-technology-software-defined-vehicles" target="_blank" rel="noopener">Halbleiter sind die Schlüsseltechnologie für | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicle-agm" target="_blank" rel="noopener">Wie Halbleiter das softwaredefinierte Fahrzeugdesign | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/ecosystem-summit" target="_blank" rel="noopener">Automotive Ecosystem Summit 2026 &quot;Mach dich bereit für | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enabling-ethernet" target="_blank" rel="noopener">Inside the Mind of Tomorrow’s Car - wie das Auto von | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/european-cyber-resilience-act" target="_blank" rel="noopener">European Cyber Resilience Act: Mehr Vertrauen für | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-key-technology-sst-sscb" target="_blank" rel="noopener">Halbleiter prägen das Zeitalter der Elektrizität | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/mobility-tech-talk-software-defined-vehicles" target="_blank" rel="noopener">Mobility Tech Talk – Das software definierte Fahrzeug | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/rc1-for-sdv-sdx-and-physical-ai" target="_blank" rel="noopener">AURIX™ RC1: Echtzeit-Computing und -Steuerung neu | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-in-everyday-life" target="_blank" rel="noopener">Künstliche Intelligenz in den Alltag bringen | Infineon Technologies</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-2-0" class="blocks-popover" aria-labelledby="blocks-pages-2-0-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-2-0-title">story-hub <span class="variant-inline">rail flush</span></h3>
+            <p class="blocks-count">Used on 26 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-2-0" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/microelectronics-connecting-real-digital-world" target="_blank" rel="noopener">Mikroelektronik – verbindet die reale mit der digitalen | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee" target="_blank" rel="noopener">Wie aus einem Sonnenstrahl eine Tasse heißer Kaffee | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-hydrogen-fuel-future" target="_blank" rel="noopener">Grüner Wasserstoff – Treibstoff der Zukunft | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/efficient-energy-storage-systems-energy-transition" target="_blank" rel="noopener">Effiziente Batterie-Energiespeichersysteme für die | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-bring-heat-pumps-life" target="_blank" rel="noopener">Halbleiter erwecken Wärmepumpen zum Leben | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electric-cordless-power-tools" target="_blank" rel="noopener">Kabellose Elektrowerkzeuge – handlich und | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-chargers-adapters" target="_blank" rel="noopener">Ladegeräte und Adapter werden grün | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-potential-data-centers" target="_blank" rel="noopener">Das grüne Potenzial von Rechenzentren | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors" target="_blank" rel="noopener">Grüne Energie mit Wide-Bandgap-Halbleitern | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/sensors-energy-efficient-smart-buildings" target="_blank" rel="noopener">Sensoren für energieeffiziente, intelligente Gebäude | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-things-consumer-devices" target="_blank" rel="noopener">Bequem, hilfreich und umweltfreundlich: Willkommen in | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-technologies" target="_blank" rel="noopener">Wie kann eine Fabrik intelligent, digitalisiert | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-iot" target="_blank" rel="noopener">Wir bringen das IoT zum Laufen - für eine bessere und | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-semiconductor-solutions" target="_blank" rel="noopener">Wir treiben die smarte Fabrik voran | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/micromobility" target="_blank" rel="noopener">Mikromobilität für grünere Städte | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/micromobility-battery-swapping" target="_blank" rel="noopener">Batteriewechsel: Die Zukunft der urbanen Mikromobilität | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/charging-infrastructure" target="_blank" rel="noopener">Die Zukunft des Ladens: Wegbereiter für nachhaltige | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/fast-charging-solutions" target="_blank" rel="noopener">Innovative Schnellladelösungen für die Elektromobilität | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/emission-saving-potential-freight-transportation" target="_blank" rel="noopener">Grüner Güterverkehr: Emissionsreduzierung durch | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/shaping-the-future-of-mobility" target="_blank" rel="noopener">Die Zukunft der Mobilität aktiv mitgestalten | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/public-transportation" target="_blank" rel="noopener">Öffentlicher Stadtverkehr neu gedacht | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">Grüne Gebäude auf dem Vormarsch | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/essential-role-cybersecurity" target="_blank" rel="noopener">Cybersicherheit – Schutz für die digitale Welt von | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/how-microcontroller-enable-risc-v" target="_blank" rel="noopener">Get ready for RISC-V | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/european-cyber-resilience-act" target="_blank" rel="noopener">European Cyber Resilience Act: Mehr Vertrauen für | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/rc1-for-sdv-sdx-and-physical-ai" target="_blank" rel="noopener">AURIX™ RC1: Echtzeit-Computing und -Steuerung neu | Infineon Technologies</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-2-1" class="blocks-popover" aria-labelledby="blocks-pages-2-1-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-2-1-title">story-hub <span class="variant-inline">rail</span></h3>
+            <p class="blocks-count">Used on 26 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-2-1" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee" target="_blank" rel="noopener">Wie aus einem Sonnenstrahl eine Tasse heißer Kaffee | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-hydrogen-fuel-future" target="_blank" rel="noopener">Grüner Wasserstoff – Treibstoff der Zukunft | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electric-cordless-power-tools" target="_blank" rel="noopener">Kabellose Elektrowerkzeuge – handlich und | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-chargers-adapters" target="_blank" rel="noopener">Ladegeräte und Adapter werden grün | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-potential-data-centers" target="_blank" rel="noopener">Das grüne Potenzial von Rechenzentren | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors" target="_blank" rel="noopener">Grüne Energie mit Wide-Bandgap-Halbleitern | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-driving-decarbonization" target="_blank" rel="noopener">Wie Halbeiter die Dekarbonisierung voranbringen | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/sensors-energy-efficient-smart-buildings" target="_blank" rel="noopener">Sensoren für energieeffiziente, intelligente Gebäude | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-health-appliances" target="_blank" rel="noopener">Die Zukunft von Gesundheit und Wohlbefinden ist smart | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-home-building-technologies" target="_blank" rel="noopener">Smart-Home- und Gebäudelösungen für eine bessere | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-semiconductors" target="_blank" rel="noopener">Willkommen in der Zukunft der effizienten | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enable-provide-ai-customer-innovation" target="_blank" rel="noopener">Wir ermöglichen und bieten KI - für zuverlässige und | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/charging-infrastructure" target="_blank" rel="noopener">Die Zukunft des Ladens: Wegbereiter für nachhaltige | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/fast-charging-solutions" target="_blank" rel="noopener">Innovative Schnellladelösungen für die Elektromobilität | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/bi-directional-charging" target="_blank" rel="noopener">Bidirektionales Laden für eine effiziente | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicles" target="_blank" rel="noopener">Das innovative Potenzial softwaredefinierter Fahrzeuge | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electromobility-greener-future" target="_blank" rel="noopener">Die Zukunft der Mobilität gestalten | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">Grüne Gebäude auf dem Vormarsch | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/how-microcontroller-enable-risc-v" target="_blank" rel="noopener">Get ready for RISC-V | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-key-technology-software-defined-vehicles" target="_blank" rel="noopener">Halbleiter sind die Schlüsseltechnologie für | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicle-agm" target="_blank" rel="noopener">Wie Halbleiter das softwaredefinierte Fahrzeugdesign | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/ecosystem-summit" target="_blank" rel="noopener">Automotive Ecosystem Summit 2026 &quot;Mach dich bereit für | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enabling-ethernet" target="_blank" rel="noopener">Inside the Mind of Tomorrow’s Car - wie das Auto von | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-key-technology-sst-sscb" target="_blank" rel="noopener">Halbleiter prägen das Zeitalter der Elektrizität | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/mobility-tech-talk-software-defined-vehicles" target="_blank" rel="noopener">Mobility Tech Talk – Das software definierte Fahrzeug | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/rc1-for-sdv-sdx-and-physical-ai" target="_blank" rel="noopener">AURIX™ RC1: Echtzeit-Computing und -Steuerung neu | Infineon Technologies</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-2-2" class="blocks-popover" aria-labelledby="blocks-pages-2-2-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-2-2-title">story-hub <span class="variant-inline">box</span></h3>
+            <p class="blocks-count">Used on 21 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-2-2" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/efficient-energy-storage-systems-energy-transition" target="_blank" rel="noopener">Effiziente Batterie-Energiespeichersysteme für die | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-bring-heat-pumps-life" target="_blank" rel="noopener">Halbleiter erwecken Wärmepumpen zum Leben | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-chargers-adapters" target="_blank" rel="noopener">Ladegeräte und Adapter werden grün | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-potential-data-centers" target="_blank" rel="noopener">Das grüne Potenzial von Rechenzentren | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors" target="_blank" rel="noopener">Grüne Energie mit Wide-Bandgap-Halbleitern | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-driving-decarbonization" target="_blank" rel="noopener">Wie Halbeiter die Dekarbonisierung voranbringen | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/sensors-energy-efficient-smart-buildings" target="_blank" rel="noopener">Sensoren für energieeffiziente, intelligente Gebäude | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-technologies" target="_blank" rel="noopener">Wie kann eine Fabrik intelligent, digitalisiert | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-iot" target="_blank" rel="noopener">Wir bringen das IoT zum Laufen - für eine bessere und | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-semiconductors" target="_blank" rel="noopener">Willkommen in der Zukunft der effizienten | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/micromobility" target="_blank" rel="noopener">Mikromobilität für grünere Städte | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/micromobility-battery-swapping" target="_blank" rel="noopener">Batteriewechsel: Die Zukunft der urbanen Mikromobilität | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/charging-infrastructure" target="_blank" rel="noopener">Die Zukunft des Ladens: Wegbereiter für nachhaltige | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/fast-charging-solutions" target="_blank" rel="noopener">Innovative Schnellladelösungen für die Elektromobilität | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/emission-saving-potential-freight-transportation" target="_blank" rel="noopener">Grüner Güterverkehr: Emissionsreduzierung durch | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/public-transportation" target="_blank" rel="noopener">Öffentlicher Stadtverkehr neu gedacht | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electromobility-greener-future" target="_blank" rel="noopener">Die Zukunft der Mobilität gestalten | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">Grüne Gebäude auf dem Vormarsch | Infineon Technologies</a> <span class="blocks-count">×3</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/essential-role-cybersecurity" target="_blank" rel="noopener">Cybersicherheit – Schutz für die digitale Welt von | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enabling-ethernet" target="_blank" rel="noopener">Inside the Mind of Tomorrow’s Car - wie das Auto von | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/european-cyber-resilience-act" target="_blank" rel="noopener">European Cyber Resilience Act: Mehr Vertrauen für | Infineon Technologies</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-2-3" class="blocks-popover" aria-labelledby="blocks-pages-2-3-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-2-3-title">story-hub <span class="variant-inline">timeline</span></h3>
+            <p class="blocks-count">Used on 10 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-2-3" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee" target="_blank" rel="noopener">Wie aus einem Sonnenstrahl eine Tasse heißer Kaffee | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-things-consumer-devices" target="_blank" rel="noopener">Bequem, hilfreich und umweltfreundlich: Willkommen in | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-home-building-technologies" target="_blank" rel="noopener">Smart-Home- und Gebäudelösungen für eine bessere | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-semiconductors" target="_blank" rel="noopener">Willkommen in der Zukunft der effizienten | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/charging-infrastructure" target="_blank" rel="noopener">Die Zukunft des Ladens: Wegbereiter für nachhaltige | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/fast-charging-solutions" target="_blank" rel="noopener">Innovative Schnellladelösungen für die Elektromobilität | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/emission-saving-potential-freight-transportation" target="_blank" rel="noopener">Grüner Güterverkehr: Emissionsreduzierung durch | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/how-microcontroller-enable-risc-v" target="_blank" rel="noopener">Get ready for RISC-V | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/ecosystem-summit" target="_blank" rel="noopener">Automotive Ecosystem Summit 2026 &quot;Mach dich bereit für | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enabling-ethernet" target="_blank" rel="noopener">Inside the Mind of Tomorrow’s Car - wie das Auto von | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-2-4" class="blocks-popover" aria-labelledby="blocks-pages-2-4-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-2-4-title">story-hub <span class="variant-inline">quote</span></h3>
+            <p class="blocks-count">Used on 6 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-2-4" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/microelectronics-connecting-real-digital-world" target="_blank" rel="noopener">Mikroelektronik – verbindet die reale mit der digitalen | Infineon Technologies</a> <span class="blocks-count">×5</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-semiconductor-solutions" target="_blank" rel="noopener">Wir treiben die smarte Fabrik voran | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electromobility-greener-future" target="_blank" rel="noopener">Die Zukunft der Mobilität gestalten | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/how-microcontroller-enable-risc-v" target="_blank" rel="noopener">Get ready for RISC-V | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/rc1-for-sdv-sdx-and-physical-ai" target="_blank" rel="noopener">AURIX™ RC1: Echtzeit-Computing und -Steuerung neu | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-in-everyday-life" target="_blank" rel="noopener">Künstliche Intelligenz in den Alltag bringen | Infineon Technologies</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-2-5" class="blocks-popover" aria-labelledby="blocks-pages-2-5-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-2-5-title">story-hub <span class="variant-inline">video</span></h3>
+            <p class="blocks-count">Used on 6 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-2-5" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/efficient-energy-storage-systems-energy-transition" target="_blank" rel="noopener">Effiziente Batterie-Energiespeichersysteme für die | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-driving-decarbonization" target="_blank" rel="noopener">Wie Halbeiter die Dekarbonisierung voranbringen | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/software-defined-vehicles" target="_blank" rel="noopener">Das innovative Potenzial softwaredefinierter Fahrzeuge | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electromobility-greener-future" target="_blank" rel="noopener">Die Zukunft der Mobilität gestalten | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/ecosystem-summit" target="_blank" rel="noopener">Automotive Ecosystem Summit 2026 &quot;Mach dich bereit für | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/mobility-tech-talk-software-defined-vehicles" target="_blank" rel="noopener">Mobility Tech Talk – Das software definierte Fahrzeug | Infineon Technologies</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-2-6" class="blocks-popover" aria-labelledby="blocks-pages-2-6-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-2-6-title">story-hub <span class="variant-inline">quote portrait</span></h3>
+            <p class="blocks-count">Used on 5 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-2-6" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-potential-data-centers" target="_blank" rel="noopener">Das grüne Potenzial von Rechenzentren | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/we-power-ai" target="_blank" rel="noopener">Wir versorgen KI mit Strom: vom Stromnetz bis zum | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/power-infrastructure-renewables" target="_blank" rel="noopener">Wir unterstützen die Energieinfrastruktur der Zukunft | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/how-microcontroller-enable-risc-v" target="_blank" rel="noopener">Get ready for RISC-V | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/ecosystem-summit" target="_blank" rel="noopener">Automotive Ecosystem Summit 2026 &quot;Mach dich bereit für | Infineon Technologies</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-2-7" class="blocks-popover" aria-labelledby="blocks-pages-2-7-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-2-7-title">story-hub <span class="variant-inline">columns</span></h3>
+            <p class="blocks-count">Used on 4 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-2-7" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-driving-decarbonization" target="_blank" rel="noopener">Wie Halbeiter die Dekarbonisierung voranbringen | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electromobility-greener-future" target="_blank" rel="noopener">Die Zukunft der Mobilität gestalten | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/power-infrastructure-renewables" target="_blank" rel="noopener">Wir unterstützen die Energieinfrastruktur der Zukunft | Infineon Technologies</a> <span class="blocks-count">×2</span></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-in-everyday-life" target="_blank" rel="noopener">Künstliche Intelligenz in den Alltag bringen | Infineon Technologies</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-2-8" class="blocks-popover" aria-labelledby="blocks-pages-2-8-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-2-8-title">story-hub <span class="variant-inline">gallery</span></h3>
+            <p class="blocks-count">Used on 4 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-2-8" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/microelectronics-connecting-real-digital-world" target="_blank" rel="noopener">Mikroelektronik – verbindet die reale mit der digitalen | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-home-building-technologies" target="_blank" rel="noopener">Smart-Home- und Gebäudelösungen für eine bessere | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/we-power-ai" target="_blank" rel="noopener">Wir versorgen KI mit Strom: vom Stromnetz bis zum | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/ecosystem-summit" target="_blank" rel="noopener">Automotive Ecosystem Summit 2026 &quot;Mach dich bereit für | Infineon Technologies</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-3-0" class="blocks-popover" aria-labelledby="blocks-pages-3-0-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-3-0-title">article-toc <span class="variant-inline">default</span></h3>
+            <p class="blocks-count">Used on 32 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-3-0" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/microelectronics-connecting-real-digital-world" target="_blank" rel="noopener">Mikroelektronik – verbindet die reale mit der digitalen | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee" target="_blank" rel="noopener">Wie aus einem Sonnenstrahl eine Tasse heißer Kaffee | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-hydrogen-fuel-future" target="_blank" rel="noopener">Grüner Wasserstoff – Treibstoff der Zukunft | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/efficient-energy-storage-systems-energy-transition" target="_blank" rel="noopener">Effiziente Batterie-Energiespeichersysteme für die | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-bring-heat-pumps-life" target="_blank" rel="noopener">Halbleiter erwecken Wärmepumpen zum Leben | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/electric-cordless-power-tools" target="_blank" rel="noopener">Kabellose Elektrowerkzeuge – handlich und | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-chargers-adapters" target="_blank" rel="noopener">Ladegeräte und Adapter werden grün | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-potential-data-centers" target="_blank" rel="noopener">Das grüne Potenzial von Rechenzentren | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors" target="_blank" rel="noopener">Grüne Energie mit Wide-Bandgap-Halbleitern | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-driving-decarbonization" target="_blank" rel="noopener">Wie Halbeiter die Dekarbonisierung voranbringen | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/sensors-energy-efficient-smart-buildings" target="_blank" rel="noopener">Sensoren für energieeffiziente, intelligente Gebäude | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-things-consumer-devices" target="_blank" rel="noopener">Bequem, hilfreich und umweltfreundlich: Willkommen in | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-health-appliances" target="_blank" rel="noopener">Die Zukunft von Gesundheit und Wohlbefinden ist smart | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-technologies" target="_blank" rel="noopener">Wie kann eine Fabrik intelligent, digitalisiert | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-home-building-technologies" target="_blank" rel="noopener">Smart-Home- und Gebäudelösungen für eine bessere | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-iot" target="_blank" rel="noopener">Wir bringen das IoT zum Laufen - für eine bessere und | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/smart-factory-semiconductor-solutions" target="_blank" rel="noopener">Wir treiben die smarte Fabrik voran | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/artificial-intelligence-semiconductors" target="_blank" rel="noopener">Willkommen in der Zukunft der effizienten | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enable-provide-ai-customer-innovation" target="_blank" rel="noopener">Wir ermöglichen und bieten KI - für zuverlässige und | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/micromobility" target="_blank" rel="noopener">Mikromobilität für grünere Städte | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/micromobility-battery-swapping" target="_blank" rel="noopener">Batteriewechsel: Die Zukunft der urbanen Mikromobilität | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/charging-infrastructure" target="_blank" rel="noopener">Die Zukunft des Ladens: Wegbereiter für nachhaltige | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/fast-charging-solutions" target="_blank" rel="noopener">Innovative Schnellladelösungen für die Elektromobilität | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/bi-directional-charging" target="_blank" rel="noopener">Bidirektionales Laden für eine effiziente | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/emission-saving-potential-freight-transportation" target="_blank" rel="noopener">Grüner Güterverkehr: Emissionsreduzierung durch | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/shaping-the-future-of-mobility" target="_blank" rel="noopener">Die Zukunft der Mobilität aktiv mitgestalten | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/public-transportation" target="_blank" rel="noopener">Öffentlicher Stadtverkehr neu gedacht | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/green-buildings-rise" target="_blank" rel="noopener">Grüne Gebäude auf dem Vormarsch | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/essential-role-cybersecurity" target="_blank" rel="noopener">Cybersicherheit – Schutz für die digitale Welt von | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/how-microcontroller-enable-risc-v" target="_blank" rel="noopener">Get ready for RISC-V | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/enabling-ethernet" target="_blank" rel="noopener">Inside the Mind of Tomorrow’s Car - wie das Auto von | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/our-stories/european-cyber-resilience-act" target="_blank" rel="noopener">European Cyber Resilience Act: Mehr Vertrauen für | Infineon Technologies</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-4-0" class="blocks-popover" aria-labelledby="blocks-pages-4-0-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-4-0-title">breadcrumb <span class="variant-inline">default</span></h3>
+            <p class="blocks-count">Used on 4 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-4-0" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/partners" target="_blank" rel="noopener">Partners | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/support" target="_blank" rel="noopener">Support | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/training" target="_blank" rel="noopener">Training | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/event/techfor" target="_blank" rel="noopener">TechFor™ Event Serie | Infineon Technologies</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-4-1" class="blocks-popover" aria-labelledby="blocks-pages-4-1-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-4-1-title">breadcrumb <span class="variant-inline">share</span></h3>
+            <p class="blocks-count">Used on 4 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-4-1" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/opn" target="_blank" rel="noopener">OPN | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/glossary" target="_blank" rel="noopener">Glossar | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/support/service-center" target="_blank" rel="noopener">Servicestelle | Infineon Technologies</a></li>
+          <li><a href="https://main--938eead7--aemcoder.aem.page/de/support/faqs" target="_blank" rel="noopener">FAQs | Infineon Technologies</a></li>
+        </ul>
+      </div>
+    </div>
+  </details>
+
+  <details class="spectrum-panel" open>
+    <summary class="spectrum-panel-header"><h2>Analytics and tags</h2><span class="spectrum-badge">Switched off</span></summary>
+    <div class="panel-body">
+      <p>We carried over 1 tag, <strong>switched off</strong>: nothing loads on the new site until you turn it on.</p>
+      <table>
+        <thead><tr><th>Found on www.infineon.com</th><th></th></tr></thead>
+        <tbody>
+          <tr><td>Google Tag Manager</td><td><code>GTM-TX6SPG7</code></td></tr>
+          <tr><td>Consent manager</td><td>None found</td></tr>
+          <tr><td>Data layers</td><td><code>dataLayer</code></td></tr>
+          <tr><td>Loaded by your tags</td><td>survey / VoC badge</td></tr>
+        </tbody>
+      </table>
+      <h3>Before you switch them on</h3>
+      <ol class="todo">
+        <li><strong>Decide how consent works.</strong> We found no consent manager on the pages we checked; once switched on, the tags load without one.</li>
+        <li><strong>Share the setup of Google Tag Manager.</strong> We could not read its rules.</li>
+      </ol>
+      <p class="meta">Full details for your developers: <code>stardust/martech-handoff.md</code> in the repository.</p>
+    </div>
+  </details>
+
+  <details class="spectrum-panel">
+    <summary class="spectrum-panel-header"><h2>Journey</h2></summary>
+    <div class="panel-body">
+      <ol class="steps">
+        <li>Analyzing your site<span class="spectrum-badge spectrum-badge--positive">Done</span></li>
+        <li>Capturing brand and design<span class="spectrum-badge spectrum-badge--positive">Done</span></li>
+        <li>Rebuilding page templates<span class="spectrum-badge spectrum-badge--positive">Done</span></li>
+        <li>Publishing your pages<span class="spectrum-badge spectrum-badge--positive">Done</span></li>
+        <li>Checking every page against the original<span class="spectrum-badge spectrum-badge--positive">Done</span></li>
+        <li>Final checks<span class="spectrum-badge spectrum-badge--positive">Done</span></li>
+      </ol>
+    </div>
+  </details>
+</main>
+</body>
+</html>

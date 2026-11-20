@@ -1,0 +1,77 @@
+{
+ "url": "https://main--938eead7--aemcoder.aem.live/de",
+ "at": "2026-11-18T23:04:10.200Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 9,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 3,
+  "offPage": 42,
+  "textNodes": 195,
+  "controls": 106,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 9,
+   "clipper": "p",
+   "path": "article.np-card > div.np-card-body > div.np-card-sub > p",
+   "text": "rad hard, 100 v, 9 a, r9 generation rad hard mosfet in smd-0",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "p",
+   "path": "article.np-card > div.np-card-body > div.np-card-sub > p",
+   "text": "50v hirel silicon pin diode for high speed switching of rf s",
+   "cutMin": 92,
+   "cutMax": 92
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "h5#master-automotive-battery-management",
+   "path": "div.ev-card-body > div.ev-card-head > div.ev-card-title > h5#master-automotive-battery-management",
+   "text": "master automotive battery management",
+   "cutMin": 99,
+   "cutMax": 99
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "a.ev-card",
+   "path": "div.ev-card-foot > div.ev-card-loc > ul > li",
+   "text": "webinare",
+   "cutMin": 10,
+   "cutMax": 10
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 3,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 8,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 6,
+   "offPage": 58,
+   "textNodes": 197,
+   "controls": 104,
+   "total": 3
+  }
+ }
+}

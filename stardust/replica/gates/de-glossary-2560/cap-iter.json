@@ -1,0 +1,178 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-18T05:20:15.950Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://www.infineon.com/de/glossary",
+      "http://localhost:8791/de-glossary-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from stardust/current/DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://www.infineon.com/de/glossary",
+    "http://localhost:8791/de-glossary-proposed.html"
+  ],
+  "probeNote": "from stardust/current/DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "div > div.ifx-container.tablet-margin0 > div.aem-Grid.aem-Grid--12 > div.genericbreadcrumb.aem-GridColumn",
+      "isBody": false,
+      "leaves": 2,
+      "w2": 1400
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "#container-f0f0c05cb9 > div.ifxcontainer.responsivegrid",
+        "tier": -4,
+        "share": 1,
+        "section": -1,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "div.aem-Grid.aem-Grid--12 > div.genericbreadcrumb.aem-GridColumn > nav.genericBreadcrumb-component.add-gaps > div.genericBreadcrumb-links",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "div.aem-Grid.aem-Grid--12 > div.genericbreadcrumb.aem-GridColumn > nav.genericBreadcrumb-component.add-gaps > div.breadcrumb-icons",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": 1400,
+    "contentMaxWidth": 1400,
+    "contentFrom": "shell",
+    "maxCap": 1400,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 392
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body > main.root",
+      "isBody": false,
+      "leaves": 82,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "main.root > div.cmp-container > div.ifxcontainer.ifx-fluid > div.genericbreadcrumb.ifx-fixed",
+        "tier": 3,
+        "share": 0.02,
+        "section": 0,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "main.root > div.cmp-container > div.ifxcontainer.ifx-extra-fluid > div.ifx-fixed",
+        "tier": 3,
+        "share": 0.01,
+        "section": 1,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "shell",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-fixed",
+        "tier": 2,
+        "share": 0.96,
+        "section": 2,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 765,
+        "via": "fixed",
+        "selector": "div.ifxcontainer.ifx-fixed > div.gl-text.mbd > p > b",
+        "tier": 5,
+        "share": 0.23,
+        "section": 2,
+        "w1": 765,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-fluid",
+        "px": 1400,
+        "capSelector": "main.root > div.cmp-container > div.ifxcontainer.ifx-fluid > div.genericbreadcrumb.ifx-fixed"
+      },
+      {
+        "index": 1,
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-extra-fluid",
+        "px": 1400,
+        "capSelector": "main.root > div.cmp-container > div.ifxcontainer.ifx-extra-fluid > div.ifx-fixed"
+      },
+      {
+        "index": 2,
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-fixed",
+        "px": 765,
+        "capSelector": "div.ifxcontainer.ifx-fixed > div.gl-text.mbd > p > b"
+      }
+    ],
+    "shellMaxWidth": 1400,
+    "contentMaxWidth": 1400,
+    "contentFrom": "shell",
+    "maxCap": 1400,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 222
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "wrapper cap",
+        "detail": "live 1400px = build 1400px (±20)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "sections",
+        "detail": "live 2 vs build 3 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 1/2",
+        "detail": "live full-bleed (div.aem-Grid.aem-Grid--12 > div.genericbreadcrumb.aem-GridColumn > nav.genericBreadcrumb-component.add-gaps > div.genericBreadcrumb-links) → build 1400px (main.root > div.cmp-container > div.ifxcontainer.ifx-fluid > div.genericbreadcrumb.ifx-fixed)",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 2/2",
+        "detail": "live full-bleed (div.aem-Grid.aem-Grid--12 > div.genericbreadcrumb.aem-GridColumn > nav.genericBreadcrumb-component.add-gaps > div.breadcrumb-icons) → build 1400px (main.root > div.cmp-container > div.ifxcontainer.ifx-extra-fluid > div.ifx-fixed)",
+        "advisory": true
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/de-glossary-2560/cap-iter.json"
+}

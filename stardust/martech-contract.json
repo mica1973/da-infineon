@@ -1,0 +1,74 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics plan",
+  "writtenAt": "2026-11-18T05:54:16.382Z",
+  "input": "stardust/current/_dynamics.json",
+  "martech": "stardust/martech"
+ },
+ "productionHosts": [
+  "www.infineon.com"
+ ],
+ "consent": {
+  "cmp": null,
+  "model": "owner-decision",
+  "categories": [
+   {
+    "id": "C0001",
+    "name": "Technically required cookies",
+    "status": "always active"
+   },
+   {
+    "id": "C0002",
+    "name": "Performance and marketing cookies",
+    "status": "inactive"
+   },
+   {
+    "id": "C0005",
+    "name": "Social Media Cookies",
+    "status": "inactive"
+   },
+   {
+    "id": "C0003",
+    "name": "Functional Cookies",
+    "status": "inactive"
+   },
+   {
+    "id": "C0004",
+    "name": "Targeting Cookies",
+    "status": "inactive"
+   }
+  ],
+  "ruleSets": 2,
+  "consentMode": null
+ },
+ "routes": [
+  {
+   "id": "google-tag-manager",
+   "vendor": "Google Tag Manager",
+   "src": "https://www.googletagmanager.com/gtm.js?id=GTM-TX6SPG7&gtg_health=1",
+   "boot": "gtm",
+   "category": null,
+   "cmpGroups": [],
+   "enabled": false
+  }
+ ],
+ "otherTags": [
+  "feedback: survey / VoC badge"
+ ],
+ "tagManagers": [
+  "Google Tag Manager"
+ ],
+ "dataLayers": [
+  "dataLayer"
+ ],
+ "tagNotes": {},
+ "rewrite": {
+  "library": null,
+  "rules": [],
+  "dataElements": [],
+  "dataLayer": [],
+  "dataLayerPaths": []
+ },
+ "aemMartech": null,
+ "target": null
+}

@@ -1,0 +1,33 @@
+{
+  "round": "final2",
+  "width": 360,
+  "pixel": {
+    "rc": 2,
+    "diff": "stardust/replica/gates/de-package-overview-360/diff-final2.png"
+  },
+  "probes": {
+    "content-diff": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/de-package-overview-360/content-diff-final2.txt"
+    },
+    "visual-diff": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/de-package-overview-360/visual-diff-final2.txt"
+    },
+    "chrome-parity": {
+      "rc": 2,
+      "evidence": "stardust/replica/gates/de-package-overview-360/chrome-parity-final2.txt"
+    },
+    "clip-probe": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/de-package-overview-360/clip-final2.txt"
+    },
+    "unit-geometry": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/de-package-overview-360/units-final2.txt"
+    }
+  },
+  "structural": 7,
+  "nothingLost": 1,
+  "at": "2026-11-18T05:38:14.956Z"
+}

@@ -1,0 +1,9485 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:35:29.074Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/we-power-ai",
+  "at": "2026-11-18T23:34:56.045Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 17003,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button#searchicon-items",
+    "x": 164,
+    "y": 14,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-0",
+    "x": 220,
+    "y": 15,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.usericon-item.d-block",
+    "x": 260,
+    "y": 17,
+    "w": 40,
+    "h": 25,
+    "text": "user profile"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav > div.articleBreadcrumb-mobileview.breadcrumb-item > a.text-decoration-none",
+    "x": 46,
+    "y": 77,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 0,
+    "y": 116,
+    "w": 360,
+    "h": 203,
+    "text": "artificial intelligence",
+    "file": "ai-we-power-ai.jpg:asset-680-3x2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 32,
+    "y": 287,
+    "w": 296,
+    "h": 176,
+    "level": 1,
+    "text": "wir versorgen ki mit strom: vom stromnetz bis zum prozessor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 32,
+    "y": 479,
+    "w": 296,
+    "h": 264,
+    "text": "Wir versorgen KI mit Strom und schaffen die Voraussetzungen für energieeffizient"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 32,
+    "y": 759,
+    "w": 132,
+    "h": 28,
+    "text": "KI Stromversorgung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 56,
+    "y": 803,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 132,
+    "y": 803,
+    "w": 75,
+    "h": 20,
+    "level": 4,
+    "text": "okt. 29, 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-681794aadb > h2#future",
+    "x": 16,
+    "y": 855,
+    "w": 328,
+    "h": 90,
+    "level": 2,
+    "text": "wegbereiter für eine effiziente, zuverlässige und vertrauenswürdige ki"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-55070c586a > p",
+    "x": 16,
+    "y": 961,
+    "w": 328,
+    "h": 312,
+    "text": "Künstliche Intelligenz lässt den Bedarf an Rechenleistung in bislang ungekanntem"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.quote-wrapper-mobile.mobile-view > div.quote-mobile-img-text > img",
+    "x": 16,
+    "y": 1330,
+    "w": 64,
+    "h": 64,
+    "text": "adam white, präsident der division power systems bei infineo",
+    "file": "adam-white-ps.png:asset-680-1x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.quote-wrapper-mobile.mobile-view > div.quote-mobile-img-text > p.mb-0.heading-04",
+    "x": 16,
+    "y": 1330,
+    "w": 328,
+    "h": 140,
+    "text": "Ohne Strom keine KI. Der nächste große Entwicklungsschritt der KI hängt von eine"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.quote-wrapper-mobile.mobile-view > div.quote-mobile-name > p.mb-0.body-03",
+    "x": 16,
+    "y": 1478,
+    "w": 328,
+    "h": 52,
+    "text": "Adam White, Präsident der Division Power Systems bei Infineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-41e43fd248 > p",
+    "x": 16,
+    "y": 1546,
+    "w": 328,
+    "h": 208,
+    "text": "Diese Herausforderung zu meistern, erfordert mehr als schrittweise Verbesserunge"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#ext_video_0_container_inner > div#ext_video_0_videoPlayer > div#IconEffect_s7classic_1B",
+    "x": 140,
+    "y": 1822,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "section.imageGallery-Container.add-gaps > div#cmp-imagegallery > h2.cmp-imagegalleryy.mb-4",
+    "x": 16,
+    "y": 2018,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "kennzahlen zum energiebedarf von ki"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-Container-right > picture#fullImage > img.w-100.h-100",
+    "x": 16,
+    "y": 2102,
+    "w": 328,
+    "h": 184,
+    "text": "1 question to chatgpt needs 10x the energy of 1 google searc",
+    "file": "question-to-chat-gpt.png:asset-680-16x9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-76b8b22032 > h2.dynamicAnchors.heading-03",
+    "x": 40,
+    "y": 2406,
+    "w": 280,
+    "h": 60,
+    "level": 2,
+    "text": "drei ebenen der herausforderung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-9a9d23cb1d > p",
+    "x": 40,
+    "y": 2482,
+    "w": 280,
+    "h": 208,
+    "text": "Das Training immer größerer KI-Modelle in riesigen Rechenzentren erfordert immer"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-9a9d23cb1d > ul > li",
+    "x": 56,
+    "y": 2706,
+    "w": 264,
+    "h": 234,
+    "text": "Immer höhere Lastströme und starke, kurzfristige Lastschwankungen stellen neue A"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-9a9d23cb1d > ul > li",
+    "x": 56,
+    "y": 2956,
+    "w": 264,
+    "h": 130,
+    "text": "Der Leistungsbedarf wird auf mehr als 1 MW pro Rack steigen. Auch das entspricht"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-9a9d23cb1d > ul > li",
+    "x": 56,
+    "y": 3102,
+    "w": 264,
+    "h": 286,
+    "text": "Leistungsanforderungen im Gigawatt-Bereich erfordern eine andere Infrastruktur u"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-36ef0c833d > h2.dynamicAnchors.heading-03",
+    "x": 40,
+    "y": 3404,
+    "w": 280,
+    "h": 90,
+    "level": 2,
+    "text": "wie sieht das energiemanagement der zukunft aus?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-96ddeb4b47 > p",
+    "x": 40,
+    "y": 3510,
+    "w": 280,
+    "h": 312,
+    "text": "In unserem Whitepaper „The Future of Powering AI“ geben wir Einblicke in möglich"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.btn-col > div.selected-icon.gaparound > a.reusebtn.standard",
+    "x": 38,
+    "y": 3838,
+    "w": 284,
+    "h": 48,
+    "text": "whitepaper herunterladen",
+    "href": "/aipredictions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-9317e98855 > h2.dynamicAnchors.heading-03",
+    "x": 16,
+    "y": 3950,
+    "w": 328,
+    "h": 120,
+    "level": 2,
+    "text": "vor welchen herausforderungen stehen ki-rechenzentren und wie helfen halbleiter bei deren bewältigung?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-eee3ce19bf > p",
+    "x": 16,
+    "y": 4086,
+    "w": 328,
+    "h": 156,
+    "text": "KI lässt den Bedarf an Rechenleistung in bislang ungekanntem Ausmaß steigen. Mit"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-20e4cea5bf > h2.dynamicAnchors.heading-04",
+    "x": 16,
+    "y": 4258,
+    "w": 328,
+    "h": 84,
+    "level": 2,
+    "text": "wie lassen sich ki-prozessoren auf kleinerem raum mit ausreichend strom versorgen?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 4358,
+    "w": 320,
+    "h": 304,
+    "text": "1,650 gw waiting to connect",
+    "file": "ai-1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-387669f6dd > p",
+    "x": 16,
+    "y": 4678,
+    "w": 328,
+    "h": 234,
+    "text": "KI-Prozessoren benötigen extrem hohe Stromstärken und müssen sehr schnell auf La"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-387669f6dd > p",
+    "x": 16,
+    "y": 4928,
+    "w": 328,
+    "h": 234,
+    "text": "Bei der vertikalen Stromversorgung wird der Strom durch die Leiterplatte zur Rüc"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 5178,
+    "w": 260,
+    "h": 24,
+    "text": "silicon carbide coolsic™ mosfets",
+    "href": "/products/power/mosfet/silicon-carbide"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 5218,
+    "w": 221,
+    "h": 24,
+    "text": "high density power modules",
+    "href": "/products/power/dc-dc-converters/high-density-power-modules"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-63a29092f4 > h2.dynamicAnchors.heading-04",
+    "x": 16,
+    "y": 5250,
+    "w": 328,
+    "h": 56,
+    "level": 2,
+    "text": "wie können ki-racks die heutigen leistungsgrenzen überwinden?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 5322,
+    "w": 328,
+    "h": 312,
+    "text": "",
+    "file": "icon-artificial-intelligence"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-220339bd31 > p",
+    "x": 16,
+    "y": 5650,
+    "w": 328,
+    "h": 234,
+    "text": "Der Leistungsbedarf von KI-Racks steigt rasant, weil immer mehr GPUs und Beschle"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-220339bd31 > p",
+    "x": 16,
+    "y": 5900,
+    "w": 328,
+    "h": 234,
+    "text": "DC-Architekturen mit höheren Spannungen, disaggregierte Power Shelves, hocheffiz"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 6150,
+    "w": 205,
+    "h": 24,
+    "text": "powering ai psu solutions",
+    "href": "/technology/ai/we-power-ai/psu"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 6190,
+    "w": 206,
+    "h": 24,
+    "text": "powering ai bbu solutions",
+    "href": "/technology/ai/we-power-ai/bbu"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-1ec3b93931 > h2.dynamicAnchors.heading-04",
+    "x": 16,
+    "y": 6246,
+    "w": 328,
+    "h": 84,
+    "level": 2,
+    "text": "wie können ganze ki-rechenzentren effizienter und zuverlässiger mit strom versorgt werden?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 6346,
+    "w": 320,
+    "h": 304,
+    "text": "1,650 gw waiting to connect",
+    "file": "data-center-2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-2df2ecdcc1 > p",
+    "x": 16,
+    "y": 6666,
+    "w": 328,
+    "h": 260,
+    "text": "KI-Rechenzentren entwickeln sich zunehmend zu großen Stromverbrauchern. Schnell "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-2df2ecdcc1 > p",
+    "x": 16,
+    "y": 6942,
+    "w": 328,
+    "h": 312,
+    "text": "Das „Grid-to-Core“-Portfolio von Infineon umfasst Lösungen für Umwandlung, Schut"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 7270,
+    "w": 224,
+    "h": 24,
+    "text": "easy power modules for ssts",
+    "href": "/product-information/easy-power-modules-for-solid-state-transformers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 7310,
+    "w": 328,
+    "h": 48,
+    "text": "next-generation solid-state power distribution",
+    "href": "/product-information/power/silicon-carbide-jfets"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-96b06106cb > h2.dynamicAnchors.heading-04",
+    "x": 16,
+    "y": 7366,
+    "w": 328,
+    "h": 112,
+    "level": 2,
+    "text": "wie lassen sich der wachsende energiebedarf von ki und ökologische verantwortung miteinander verbinden?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 7494,
+    "w": 320,
+    "h": 304,
+    "text": "1,650 gw waiting to connect",
+    "file": "green-energy-1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-7bbc02f422 > p",
+    "x": 16,
+    "y": 7814,
+    "w": 328,
+    "h": 208,
+    "text": "KI-Anwendungen benötigen enorme Rechenleistung und damit auch Energie für Kühlun"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-7bbc02f422 > p",
+    "x": 16,
+    "y": 8038,
+    "w": 328,
+    "h": 260,
+    "text": "Moderne Leistungshalbleiter können Verluste in mehreren Stufen der Energieumwand"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 8314,
+    "w": 315,
+    "h": 24,
+    "text": "supporting ai power demands sustainably",
+    "href": "/e/supporting-ai-power-demands-sustainably-the-role-of-renewables/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 8354,
+    "w": 328,
+    "h": 48,
+    "text": "empowering green energy with wbg semiconductors",
+    "href": "/our-stories/empowering-green-energy-wide-bandgap-semiconductors"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-f6793c9a8b > h2#core",
+    "x": 16,
+    "y": 8434,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "wie gelangt der strom vom stromnetz bis zum prozessorkern?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-6776c585fc > p",
+    "x": 16,
+    "y": 8510,
+    "w": 328,
+    "h": 338,
+    "text": "KI-Rechenzentren benötigen entlang der gesamten Energiekette eine zuverlässige u"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-6776c585fc > p",
+    "x": 16,
+    "y": 8864,
+    "w": 328,
+    "h": 130,
+    "text": "Im Rechenzentrum sorgen Lösungen für die Umwandlung und Verteilung elektrischer "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 9010,
+    "w": 328,
+    "h": 185,
+    "text": "how does power flow from grid to core",
+    "file": "how-power-flows-from-grid-to-core"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-1c2fadb80d > h2#buzz",
+    "x": 16,
+    "y": 9219,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "hinter dem ki-hype: der co₂-fußabdruck"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-f399a5e3a1 > p",
+    "x": 16,
+    "y": 9295,
+    "w": 328,
+    "h": 156,
+    "text": "Hinter den Möglichkeiten künstlicher Intelligenz steckt ein hoher Rechen- und En"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 9467,
+    "w": 320,
+    "h": 320,
+    "text": "100,000 km global hvdc lines",
+    "file": "carbon-footprint-co2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-a8b657aeb1 > h2.dynamicAnchors.heading-05",
+    "x": 16,
+    "y": 9787,
+    "w": 328,
+    "h": 104,
+    "level": 2,
+    "text": "das training eines großen ki-sprachmodells verursacht so viel co₂ wie fünf autos während ihrer gesamten lebensdauer.*"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-c2607e36b6 > p",
+    "x": 16,
+    "y": 9907,
+    "w": 328,
+    "h": 156,
+    "text": "Durch den Einsatz verschiedener moderner Leistungshalbleiter von Infineon könnte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-c2607e36b6 > p > sup",
+    "x": 16,
+    "y": 10076,
+    "w": 80,
+    "h": 19,
+    "text": "*Quelle: CNBC"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-d6fb584f2d > h2#demand",
+    "x": 16,
+    "y": 10145,
+    "w": 328,
+    "h": 90,
+    "level": 2,
+    "text": "energie für die zukunft: den wachsenden strombedarf von rechenzentren bewältigen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-d1f05f17f9 > p",
+    "x": 16,
+    "y": 10251,
+    "w": 328,
+    "h": 260,
+    "text": "Mit Blick in die Zukunft stehen wir vor zahlreichen technologischen Herausforder"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-d1f05f17f9 > p",
+    "x": 16,
+    "y": 10527,
+    "w": 328,
+    "h": 130,
+    "text": "Es geht darum, die Voraussetzungen dafür zu schaffen, dass KI-Technologien weite"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-d1f05f17f9 > p",
+    "x": 16,
+    "y": 10673,
+    "w": 328,
+    "h": 182,
+    "text": "Diese Erkenntnis treibt uns an, unsere Technologien kontinuierlich weiterzuentwi"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-b07da2c73b > h2#demand",
+    "x": 40,
+    "y": 10903,
+    "w": 280,
+    "h": 30,
+    "level": 2,
+    "text": "faq"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 40,
+    "y": 10949,
+    "w": 256,
+    "h": 25,
+    "text": "Warum benötigt KI so viel Strom?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-5f888f61e7 > p",
+    "x": 40,
+    "y": 10991,
+    "w": 280,
+    "h": 312,
+    "text": "KI-Modelle verarbeiten große Datenmengen und führen komplexe Berechnungen durch."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 40,
+    "y": 11319,
+    "w": 261,
+    "h": 51,
+    "text": "Was bedeutet „vom Stromnetz bis zum Prozessor“?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-5f888f61e7 > p",
+    "x": 40,
+    "y": 11387,
+    "w": 280,
+    "h": 312,
+    "text": "„Vom Stromnetz bis zum Prozessor“ beschreibt den gesamten Weg der Stromversorgun"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 40,
+    "y": 11715,
+    "w": 266,
+    "h": 77,
+    "text": "Welche Technologien von Infineon unterstützen die Stromversorgung von KI-Rechenz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-5f888f61e7 > p",
+    "x": 40,
+    "y": 11809,
+    "w": 280,
+    "h": 312,
+    "text": "Dazu gehören Leistungshalbleiter auf Basis von Silizium, Siliziumkarbid und Gall"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 40,
+    "y": 12137,
+    "w": 213,
+    "h": 77,
+    "text": "Wie können Halbleiter die Energieeffizienz von KI-Rechenzentren verbessern?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-5f888f61e7 > p",
+    "x": 40,
+    "y": 12231,
+    "w": 280,
+    "h": 338,
+    "text": "Bei jedem AC/DC- und DC/DC-Umwandlungsschritt können Verluste entstehen. Moderne"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 40,
+    "y": 12585,
+    "w": 276,
+    "h": 51,
+    "text": "Wie können KI-Rechenzentren ihren Energiebedarf effizienter decken?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-5f888f61e7 > p",
+    "x": 40,
+    "y": 12653,
+    "w": 280,
+    "h": 286,
+    "text": "Ansatzpunkte sind eine effiziente Energieumwandlung, hohe Systemzuverlässigkeit,"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-079a691b9b > h2#anch1",
+    "x": 16,
+    "y": 13003,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "maximale flexibilität für ihr design"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-f119cadced > p",
+    "x": 16,
+    "y": 13091,
+    "w": 328,
+    "h": 234,
+    "text": "Mit unserem umfassenden Portfolio an Leistungshalbleitern und unserer Expertise "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_copy__1238466470_ifxcontainer_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 16,
+    "y": 13341,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "die richtige lösung für ihre designanforderung"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 20,
+    "y": 13437,
+    "w": 316,
+    "h": 160,
+    "text": "podcast4engineers: powering ai series",
+    "file": "infineon-key-visual-full-shot-01.png:ass"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 44,
+    "y": 13613,
+    "w": 268,
+    "h": 56,
+    "text": "Podcast4Engineers: Powering AI series"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.description",
+    "x": 44,
+    "y": 13685,
+    "w": 268,
+    "h": 72,
+    "text": "Dive into the key challenges AI brings and explore the different ways to address"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 44,
+    "y": 13795,
+    "w": 120,
+    "h": 24,
+    "text": "jetzt anhören",
+    "href": "/product-information/podcast4engineers/we-power-ai"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 356,
+    "y": 13437,
+    "w": 316,
+    "h": 160,
+    "text": "we power ai: leading ai data center power innovation",
+    "file": "ai-we-power-ai.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.article-container > div.container-title-left > div.container-preheading",
+    "x": 16,
+    "y": 13849,
+    "w": 143,
+    "h": 24,
+    "text": "Mehr Insights"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.article-container > div.container-title-left > h2.container-heading",
+    "x": 16,
+    "y": 13889,
+    "w": 328,
+    "h": 108,
+    "level": 2,
+    "text": "mehr über die technologien hinter der ki stromversorgung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card.column > div.card-body > p.card-title",
+    "x": 45,
+    "y": 14197,
+    "w": 275,
+    "h": 56,
+    "text": "Wir versorgen KI mit Strom: vom Stromnetz bis zum Prozessor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.card-description-and-filter > p.card-description",
+    "x": 45,
+    "y": 14269,
+    "w": 275,
+    "h": 78,
+    "text": "Wir versorgen KI mit Strom und schaffen die Voraussetzungen für energieeffizient"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 45,
+    "y": 14363,
+    "w": 134,
+    "h": 30,
+    "text": "KI Stromversorgung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-type",
+    "x": 45,
+    "y": 14407,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-publish-date",
+    "x": 92,
+    "y": 14407,
+    "w": 95,
+    "h": 20,
+    "text": "Oct 29th, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card.column > div.card-body > p.card-title",
+    "x": 45,
+    "y": 14643,
+    "w": 275,
+    "h": 56,
+    "text": "Wir unterstützen die Energieinfrastruktur der Zukunft"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.card-description-and-filter > p.card-description",
+    "x": 45,
+    "y": 14715,
+    "w": 275,
+    "h": 78,
+    "text": "Das Zeitalter der Elektrizität ist da – und es erfordert eine fortschrittliche E"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 45,
+    "y": 14809,
+    "w": 122,
+    "h": 30,
+    "text": "Energieinfrastru..."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 175,
+    "y": 14809,
+    "w": 40,
+    "h": 30,
+    "text": "KI..."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-type",
+    "x": 45,
+    "y": 14853,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-publish-date",
+    "x": 92,
+    "y": 14853,
+    "w": 91,
+    "h": 20,
+    "text": "Sep 3rd, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card.column > div.card-body > p.card-title",
+    "x": 45,
+    "y": 15089,
+    "w": 275,
+    "h": 56,
+    "text": "Wir ermöglichen und bieten KI - für zuverlässige und effiziente KI direkt auf de"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.card-description-and-filter > p.card-description",
+    "x": 45,
+    "y": 15161,
+    "w": 275,
+    "h": 78,
+    "text": "Haben Sie sich schon einmal gefragt, wie Ihre Geräte intelligenter und effizient"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 45,
+    "y": 15255,
+    "w": 91,
+    "h": 30,
+    "text": "Smart Living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 144,
+    "y": 15255,
+    "w": 40,
+    "h": 30,
+    "text": "KI..."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-type",
+    "x": 45,
+    "y": 15299,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-publish-date",
+    "x": 92,
+    "y": 15299,
+    "w": 95,
+    "h": 20,
+    "text": "Oct 14th, 2025"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 16,
+    "y": 15559,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 16,
+    "y": 15647,
+    "w": 328,
+    "h": 120,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 16,
+    "y": 15799,
+    "w": 328,
+    "h": 48,
+    "text": "abonnieren",
+    "href": "/de/our-stories/we-power-ai"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 16,
+    "y": 15967,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 16061,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 16101,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 16143,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 16185,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 16227,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 16269,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 196,
+    "y": 16061,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 16101,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 16143,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 16185,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 16253,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 16295,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 16337,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 16403,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 16443,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 16485,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 16527,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 32,
+    "y": 16593,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 16633,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 16675,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 16717,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 16759,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 16825,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 192,
+    "y": 16825,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 16855,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 21,
+    "y": 16890,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 16,
+    "y": 16943,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 56,
+    "y": 16943,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 96,
+    "y": 16943,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 136,
+    "y": 16940,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 136,
+    "y": 16944,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 176,
+    "y": 16943,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 1,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 4,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 12,
+    "textNodes": 155,
+    "controls": 49,
+    "total": 1
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLIPPED",
+     "advisory": false,
+     "n": 1,
+     "clipper": "p.card-title",
+     "path": "div.row > div.card.column > div.card-body > p.card-title",
+     "text": "wir ermöglichen und bieten ki - für zuverlässige und effizie",
+     "cutMin": 21,
+     "cutMax": 21
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 3,
+     "clipper": "p.card-description",
+     "path": "div.card.column > div.card-body > div.card-description-and-filter > p.card-description",
+     "text": "wir versorgen ki mit strom und schaffen die voraussetzungen ",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p.description",
+     "path": "div.card > div.image-container-swiper.row-link-container > div.card-body > p.description",
+     "text": "dive into the key challenges ai brings and explore the diffe",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/we-power-ai",
+  "at": "2026-11-18T23:35:28.958Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 15850,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "label": "search",
+    "value": "search",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.article-hero-crumbs > div.article-hero-back > a",
+    "x": 36,
+    "y": 77,
+    "w": 63,
+    "h": 20,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 0,
+    "y": 116,
+    "w": 360,
+    "h": 203,
+    "text": "artificial intelligence",
+    "file": "media_143c9cdd0e008e8b1ac78a6f2ff1f70bb3"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#wir-versorgen-ki-mit-strom-vom-stromnetz-bis-zum-prozessor",
+    "x": 32,
+    "y": 287,
+    "w": 296,
+    "h": 176,
+    "level": 1,
+    "text": "wir versorgen ki mit strom: vom stromnetz bis zum prozessor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 32,
+    "y": 479,
+    "w": 296,
+    "h": 264,
+    "text": "Wir versorgen KI mit Strom und schaffen die Voraussetzungen für energieeffizient"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 32,
+    "y": 759,
+    "w": 132,
+    "h": 28,
+    "text": "KI Stromversorgung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 56,
+    "y": 803,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#okt-29-2026",
+    "x": 132,
+    "y": 803,
+    "w": 75,
+    "h": 20,
+    "level": 4,
+    "text": "okt. 29, 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > h2#wegbereiter-für-eine-effiziente-zuverlässige-und-vertrauenswürdige-ki",
+    "x": 16,
+    "y": 855,
+    "w": 328,
+    "h": 90,
+    "level": 2,
+    "text": "wegbereiter für eine effiziente, zuverlässige und vertrauenswürdige ki"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 961,
+    "w": 328,
+    "h": 312,
+    "text": "Künstliche Intelligenz lässt den Bedarf an Rechenleistung in bislang ungekanntem"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 1330,
+    "w": 64,
+    "h": 64,
+    "text": "adam white, präsident der division power systems bei infineo",
+    "file": "media_177f69ba43d0c881eb69bc97c38371cd53"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-quote-text > blockquote > p",
+    "x": 16,
+    "y": 1330,
+    "w": 328,
+    "h": 140,
+    "text": "Ohne Strom keine KI. Der nächste große Entwicklungsschritt der KI hängt von eine"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.quote > div.story-hub-quote-name > h4#adam-white-präsident-der-division-power-systems-bei-infineon",
+    "x": 16,
+    "y": 1478,
+    "w": 328,
+    "h": 52,
+    "level": 4,
+    "text": "adam white, präsident der division power systems bei infineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 1546,
+    "w": 328,
+    "h": 208,
+    "text": "Diese Herausforderung zu meistern, erfordert mehr als schrittweise Verbesserunge"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 1770,
+    "w": 328,
+    "h": 185,
+    "text": "",
+    "file": "media_139a7475963613eb94e93b6d4ea377aa95"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-wrapper > div.story-hub.video > button.story-hub-video-play",
+    "x": 140,
+    "y": 1822,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.gallery > div.story-hub-gallery-title > h2#kennzahlen-zum-energiebedarf-von-ki",
+    "x": 16,
+    "y": 2018,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "kennzahlen zum energiebedarf von ki"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-gallery-stage > picture > img",
+    "x": 16,
+    "y": 2102,
+    "w": 328,
+    "h": 185,
+    "text": "",
+    "file": "media_1865fffb4c308b205f4ca92584e7a690f8"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-gallery-main > div.story-hub-gallery-nav > button.story-hub-gallery-prev",
+    "x": 132,
+    "y": 2302,
+    "w": 40,
+    "h": 40,
+    "text": "previous image"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-gallery-main > div.story-hub-gallery-nav > button.story-hub-gallery-next",
+    "x": 188,
+    "y": 2302,
+    "w": 40,
+    "h": 40,
+    "text": "next image"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head > h2#drei-ebenen-der-herausforderung",
+    "x": 40,
+    "y": 2382,
+    "w": 280,
+    "h": 60,
+    "level": 2,
+    "text": "drei ebenen der herausforderung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 40,
+    "y": 2458,
+    "w": 280,
+    "h": 208,
+    "text": "Das Training immer größerer KI-Modelle in riesigen Rechenzentren erfordert immer"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 56,
+    "y": 2682,
+    "w": 264,
+    "h": 234,
+    "text": "Immer höhere Lastströme und starke, kurzfristige Lastschwankungen stellen neue A"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 56,
+    "y": 2932,
+    "w": 264,
+    "h": 130,
+    "text": "Der Leistungsbedarf wird auf mehr als 1 MW pro Rack steigen. Auch das entspricht"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 56,
+    "y": 3078,
+    "w": 264,
+    "h": 286,
+    "text": "Leistungsanforderungen im Gigawatt-Bereich erfordern eine andere Infrastruktur u"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head > h2#wie-sieht-das-energiemanagement-der-zukunft-aus",
+    "x": 40,
+    "y": 3388,
+    "w": 280,
+    "h": 90,
+    "level": 2,
+    "text": "wie sieht das energiemanagement der zukunft aus?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 40,
+    "y": 3494,
+    "w": 280,
+    "h": 312,
+    "text": "In unserem Whitepaper „The Future of Powering AI“ geben wir Einblicke in möglich"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p.button-wrapper > a.button.primary",
+    "x": 40,
+    "y": 3822,
+    "w": 216,
+    "h": 42,
+    "text": "whitepaper herunterladen",
+    "href": "/aipredictions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-cols-head > div.story-hub-cols-title > h2#vor-welchen-herausforderungen-stehen-ki-rechenzentren-und-wie-helfen-halbleiter-bei-deren-bewältigung",
+    "x": 16,
+    "y": 3928,
+    "w": 328,
+    "h": 120,
+    "level": 2,
+    "text": "vor welchen herausforderungen stehen ki-rechenzentren und wie helfen halbleiter bei deren bewältigung?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-cols-head > div.story-hub-rt > p",
+    "x": 16,
+    "y": 4064,
+    "w": 328,
+    "h": 156,
+    "text": "KI lässt den Bedarf an Rechenleistung in bislang ungekanntem Ausmaß steigen. Mit"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#wie-lassen-sich-ki-prozessoren-auf-kleinerem-raum-mit-ausreichend-strom-versorgen",
+    "x": 16,
+    "y": 4236,
+    "w": 328,
+    "h": 84,
+    "level": 2,
+    "text": "wie lassen sich ki-prozessoren auf kleinerem raum mit ausreichend strom versorgen?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 4336,
+    "w": 328,
+    "h": 328,
+    "text": "1,650 gw waiting to connect",
+    "file": "media_1b8ea7d19f806a2fe826a1a3a03bac5403"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 16,
+    "y": 4680,
+    "w": 328,
+    "h": 234,
+    "text": "KI-Prozessoren benötigen extrem hohe Stromstärken und müssen sehr schnell auf La"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 16,
+    "y": 4930,
+    "w": 328,
+    "h": 234,
+    "text": "Bei der vertikalen Stromversorgung wird der Strom durch die Leiterplatte zur Rüc"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 16,
+    "y": 5180,
+    "w": 259,
+    "h": 24,
+    "text": "silicon carbide coolsic™ mosfets",
+    "href": "/products/power/mosfet/silicon-carbide"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 16,
+    "y": 5212,
+    "w": 220,
+    "h": 24,
+    "text": "high density power modules",
+    "href": "/products/power/dc-dc-converters/high-density-power-modules"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#wie-können-ki-racks-die-heutigen-leistungsgrenzen-überwinden",
+    "x": 16,
+    "y": 5244,
+    "w": 328,
+    "h": 56,
+    "level": 2,
+    "text": "wie können ki-racks die heutigen leistungsgrenzen überwinden?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 5316,
+    "w": 328,
+    "h": 328,
+    "text": "",
+    "file": "media_196ff96c2f72b6e57163784c72a8560996"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 16,
+    "y": 5660,
+    "w": 328,
+    "h": 234,
+    "text": "Der Leistungsbedarf von KI-Racks steigt rasant, weil immer mehr GPUs und Beschle"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 16,
+    "y": 5910,
+    "w": 328,
+    "h": 234,
+    "text": "DC-Architekturen mit höheren Spannungen, disaggregierte Power Shelves, hocheffiz"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 16,
+    "y": 6160,
+    "w": 204,
+    "h": 24,
+    "text": "powering ai psu solutions",
+    "href": "/technology/ai/we-power-ai/psu"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 16,
+    "y": 6192,
+    "w": 205,
+    "h": 24,
+    "text": "powering ai bbu solutions",
+    "href": "/technology/ai/we-power-ai/bbu"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#wie-können-ganze-ki-rechenzentren-effizienter-und-zuverlässiger-mit-strom-versorgt-werden",
+    "x": 16,
+    "y": 6248,
+    "w": 328,
+    "h": 84,
+    "level": 2,
+    "text": "wie können ganze ki-rechenzentren effizienter und zuverlässiger mit strom versorgt werden?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 6348,
+    "w": 328,
+    "h": 328,
+    "text": "1,650 gw waiting to connect",
+    "file": "media_1de6151ec0caf646c8457f3638ceb23674"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 16,
+    "y": 6692,
+    "w": 328,
+    "h": 260,
+    "text": "KI-Rechenzentren entwickeln sich zunehmend zu großen Stromverbrauchern. Schnell "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 16,
+    "y": 6968,
+    "w": 328,
+    "h": 312,
+    "text": "Das „Grid-to-Core“-Portfolio von Infineon umfasst Lösungen für Umwandlung, Schut"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 16,
+    "y": 7296,
+    "w": 223,
+    "h": 24,
+    "text": "easy power modules for ssts",
+    "href": "/product-information/easy-power-modules-for-solid-state-transformers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 16,
+    "y": 7328,
+    "w": 328,
+    "h": 48,
+    "text": "next-generation solid-state power distribution",
+    "href": "/product-information/power/silicon-carbide-jfets"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#wie-lassen-sich-der-wachsende-energiebedarf-von-ki-und-ökologische-verantwortung-miteinander-verbinden",
+    "x": 16,
+    "y": 7384,
+    "w": 328,
+    "h": 112,
+    "level": 2,
+    "text": "wie lassen sich der wachsende energiebedarf von ki und ökologische verantwortung miteinander verbinden?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 7512,
+    "w": 328,
+    "h": 328,
+    "text": "1,650 gw waiting to connect",
+    "file": "media_105ee9f654d91e6a49f072437acb8308d3"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 16,
+    "y": 7856,
+    "w": 328,
+    "h": 208,
+    "text": "KI-Anwendungen benötigen enorme Rechenleistung und damit auch Energie für Kühlun"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 16,
+    "y": 8080,
+    "w": 328,
+    "h": 260,
+    "text": "Moderne Leistungshalbleiter können Verluste in mehreren Stufen der Energieumwand"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 16,
+    "y": 8356,
+    "w": 314,
+    "h": 24,
+    "text": "supporting ai power demands sustainably",
+    "href": "/e/supporting-ai-power-demands-sustainably-the-role-of-renewables/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 16,
+    "y": 8388,
+    "w": 328,
+    "h": 48,
+    "text": "empowering green energy with wbg semiconductors",
+    "href": "/our-stories/empowering-green-energy-wide-bandgap-semiconductors"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > h2#wie-gelangt-der-strom-vom-stromnetz-bis-zum-prozessorkern",
+    "x": 16,
+    "y": 8468,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "wie gelangt der strom vom stromnetz bis zum prozessorkern?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 8544,
+    "w": 328,
+    "h": 338,
+    "text": "KI-Rechenzentren benötigen entlang der gesamten Energiekette eine zuverlässige u"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 8898,
+    "w": 328,
+    "h": 130,
+    "text": "Im Rechenzentrum sorgen Lösungen für die Umwandlung und Verteilung elektrischer "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 9044,
+    "w": 328,
+    "h": 184,
+    "text": "how does power flow from grid to core",
+    "file": "media_1880a1ec9440e0ded632696fd8e852f209"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > h2#hinter-dem-ki-hype-der-co-fußabdruck",
+    "x": 16,
+    "y": 9252,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "hinter dem ki-hype: der co₂-fußabdruck"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 9328,
+    "w": 328,
+    "h": 156,
+    "text": "Hinter den Möglichkeiten künstlicher Intelligenz steckt ein hoher Rechen- und En"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-pic > picture > img",
+    "x": 16,
+    "y": 9508,
+    "w": 320,
+    "h": 320,
+    "text": "100,000 km global hvdc lines",
+    "file": "media_120f5479949446c79d592b79dd61b38671"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-body > div.story-hub-fact-title > h2#das-training-eines-großen-ki-sprachmodells-verursacht-so-viel-co-wie-fünf-autos-während-ihrer-gesamten-lebensdauer",
+    "x": 16,
+    "y": 9828,
+    "w": 328,
+    "h": 112,
+    "level": 2,
+    "text": "das training eines großen ki-sprachmodells verursacht so viel co₂ wie fünf autos während ihrer gesamten lebensdauer.*"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-body > div.story-hub-rt > p",
+    "x": 16,
+    "y": 9948,
+    "w": 328,
+    "h": 156,
+    "text": "Durch den Einsatz verschiedener moderner Leistungshalbleiter von Infineon könnte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p > sup",
+    "x": 16,
+    "y": 10118,
+    "w": 80,
+    "h": 19,
+    "text": "*Quelle: CNBC"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > h2#energie-für-die-zukunft-den-wachsenden-strombedarf-von-rechenzentren-bewältigen",
+    "x": 16,
+    "y": 10186,
+    "w": 328,
+    "h": 90,
+    "level": 2,
+    "text": "energie für die zukunft: den wachsenden strombedarf von rechenzentren bewältigen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 10292,
+    "w": 328,
+    "h": 260,
+    "text": "Mit Blick in die Zukunft stehen wir vor zahlreichen technologischen Herausforder"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 10568,
+    "w": 328,
+    "h": 130,
+    "text": "Es geht darum, die Voraussetzungen dafür zu schaffen, dass KI-Technologien weite"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 10714,
+    "w": 328,
+    "h": 182,
+    "text": "Diese Erkenntnis treibt uns an, unsere Technologien kontinuierlich weiterzuentwi"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head > h2#faq",
+    "x": 40,
+    "y": 10944,
+    "w": 280,
+    "h": 30,
+    "level": 2,
+    "text": "faq"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 40,
+    "y": 10990,
+    "w": 256,
+    "h": 25,
+    "text": "Warum benötigt KI so viel Strom?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 40,
+    "y": 11032,
+    "w": 280,
+    "h": 312,
+    "text": "KI-Modelle verarbeiten große Datenmengen und führen komplexe Berechnungen durch."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 40,
+    "y": 11360,
+    "w": 261,
+    "h": 51,
+    "text": "Was bedeutet „vom Stromnetz bis zum Prozessor“?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 40,
+    "y": 11428,
+    "w": 280,
+    "h": 312,
+    "text": "„Vom Stromnetz bis zum Prozessor“ beschreibt den gesamten Weg der Stromversorgun"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 40,
+    "y": 11756,
+    "w": 266,
+    "h": 77,
+    "text": "Welche Technologien von Infineon unterstützen die Stromversorgung von KI-Rechenz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 40,
+    "y": 11850,
+    "w": 280,
+    "h": 312,
+    "text": "Dazu gehören Leistungshalbleiter auf Basis von Silizium, Siliziumkarbid und Gall"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 40,
+    "y": 12178,
+    "w": 213,
+    "h": 77,
+    "text": "Wie können Halbleiter die Energieeffizienz von KI-Rechenzentren verbessern?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 40,
+    "y": 12272,
+    "w": 280,
+    "h": 338,
+    "text": "Bei jedem AC/DC- und DC/DC-Umwandlungsschritt können Verluste entstehen. Moderne"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 40,
+    "y": 12626,
+    "w": 276,
+    "h": 51,
+    "text": "Wie können KI-Rechenzentren ihren Energiebedarf effizienter decken?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 40,
+    "y": 12694,
+    "w": 280,
+    "h": 286,
+    "text": "Ansatzpunkte sind eine effiziente Energieumwandlung, hohe Systemzuverlässigkeit,"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.wide.section > div.default-content-wrapper > h2#maximale-flexibilität-für-ihr-design",
+    "x": 16,
+    "y": 13052,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "maximale flexibilität für ihr design"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.wide.section > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 13140,
+    "w": 328,
+    "h": 234,
+    "text": "Mit unserem umfassenden Portfolio an Leistungshalbleitern und unserer Expertise "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#die-richtige-lösung-für-ihre-designanforderung",
+    "x": 16,
+    "y": 13390,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "die richtige lösung für ihre designanforderung"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 20,
+    "y": 13486,
+    "w": 316,
+    "h": 160,
+    "text": "podcast4engineers",
+    "file": "media_1cdf9e54f634bb46fbc1148651c4f1772d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 44,
+    "y": 13662,
+    "w": 268,
+    "h": 28,
+    "text": "Podcast4Engineers"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 44,
+    "y": 13706,
+    "w": 268,
+    "h": 28,
+    "text": "Powering AI Serie"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 44,
+    "y": 13756,
+    "w": 120,
+    "h": 24,
+    "text": "jetzt anhören",
+    "href": "/product-information/podcast4engineers/we-power-ai"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 356,
+    "y": 13486,
+    "w": 316,
+    "h": 160,
+    "text": "technologie",
+    "file": "media_1531d1df63fc566d772ecbdd60ead8ebeb"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#mehr-über-die-technologien-hinter-der-ki-stromversorgung",
+    "x": 16,
+    "y": 13817,
+    "w": 328,
+    "h": 108,
+    "level": 2,
+    "text": "mehr über die technologien hinter der ki stromversorgung"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 20,
+    "y": 13949,
+    "w": 316,
+    "h": 160,
+    "text": "artikel",
+    "file": "media_1268748f864201c8f825d41b147289c09c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 44,
+    "y": 14125,
+    "w": 268,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 44,
+    "y": 14169,
+    "w": 268,
+    "h": 56,
+    "text": "Willkommen in der Zukunft der effizienten, zuverlässigen und vertrauenswürdigen "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 44,
+    "y": 14247,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/artificial-intelligence-semiconductors"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 356,
+    "y": 13949,
+    "w": 316,
+    "h": 160,
+    "text": "artikel",
+    "file": "media_1eb5c27cf305606eb3390dbcd15ac41ecd"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#abonnieren-sie-die-marketingkommunikation",
+    "x": 16,
+    "y": 14396,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 16,
+    "y": 14484,
+    "w": 328,
+    "h": 120,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 14636,
+    "w": 328,
+    "h": 50,
+    "text": "abonnieren",
+    "href": "/de/our-stories/we-power-ai"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 16,
+    "y": 14845,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 16,
+    "y": 14806,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 14908,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 14948,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 14990,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 15032,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 15074,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 15116,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 196,
+    "y": 14908,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 14948,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 14990,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 15032,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 15100,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 15142,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 15184,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 15250,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 15290,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 15332,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 15374,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 32,
+    "y": 15440,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 15480,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 15522,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 15564,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 15606,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 15672,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 192,
+    "y": 15672,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 15702,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 188,
+    "y": 15702,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 21,
+    "y": 15737,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 15790,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 15790,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 15790,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 136,
+    "y": 15787,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 136,
+    "y": 15787,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 176,
+    "y": 15790,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 24,
+    "textNodes": 145,
+    "controls": 59,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.story-hub-card-title",
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "willkommen in der zukunft der effizienten, zuverlässigen und",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 2,
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "willkommen in der zukunft der effizienten, zuverlässigen und",
+     "clipper": "div.story-hub-card-title",
+     "rect": {
+      "l": 44,
+      "t": 14169,
+      "r": 304,
+      "b": 14197,
+      "w": 260,
+      "h": 28
+     },
+     "clip": {
+      "l": 44,
+      "t": 14169,
+      "r": 312,
+      "b": 14225,
+      "w": 268,
+      "h": 56
+     },
+     "lines": 5
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "wir versorgen ki mit strom: vom stromnetz bis zum prozessor",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 12,
+    "linkHidden": 0,
+    "button": 3,
+    "buttonHidden": 0,
+    "text": 44,
+    "textHidden": 0,
+    "image": 11,
+    "imageHidden": 2
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wegbereiter für eine effiziente, zuverlässige und vertrauenswürdige ki\" (y 855) has no origin heading",
+   "text": "wegbereiter für eine effiziente, zuverlässige und vertrauenswürdige ki"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"kennzahlen zum energiebedarf von ki\" (y 2018) has no origin heading",
+   "text": "kennzahlen zum energiebedarf von ki"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"drei ebenen der herausforderung\" (y 2382) has no origin heading",
+   "text": "drei ebenen der herausforderung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie sieht das energiemanagement der zukunft aus?\" (y 3388) has no origin heading",
+   "text": "wie sieht das energiemanagement der zukunft aus?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"vor welchen herausforderungen stehen ki-rechenzentren und wie helfen halbleiter bei deren bewältigung?\" (y 3928) has no origin heading",
+   "text": "vor welchen herausforderungen stehen ki-rechenzentren und wie helfen halbleiter bei deren bewältigung?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie lassen sich ki-prozessoren auf kleinerem raum mit ausreichend strom versorgen?\" (y 4236) has no origin heading",
+   "text": "wie lassen sich ki-prozessoren auf kleinerem raum mit ausreichend strom versorgen?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie können ki-racks die heutigen leistungsgrenzen überwinden?\" (y 5244) has no origin heading",
+   "text": "wie können ki-racks die heutigen leistungsgrenzen überwinden?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie können ganze ki-rechenzentren effizienter und zuverlässiger mit strom versorgt werden?\" (y 6248) has no origin heading",
+   "text": "wie können ganze ki-rechenzentren effizienter und zuverlässiger mit strom versorgt werden?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie lassen sich der wachsende energiebedarf von ki und ökologische verantwortung miteinander verbinden?\" (y 7384) has no origin heading",
+   "text": "wie lassen sich der wachsende energiebedarf von ki und ökologische verantwortung miteinander verbinden?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie gelangt der strom vom stromnetz bis zum prozessorkern?\" (y 8468) has no origin heading",
+   "text": "wie gelangt der strom vom stromnetz bis zum prozessorkern?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"hinter dem ki-hype: der co₂-fußabdruck\" (y 9252) has no origin heading",
+   "text": "hinter dem ki-hype: der co₂-fußabdruck"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"das training eines großen ki-sprachmodells verursacht so viel co₂ wie fünf autos während ihrer gesamten lebensdauer.*\" (y 9828) has no origin heading",
+   "text": "das training eines großen ki-sprachmodells verursacht so viel co₂ wie fünf autos während ihrer gesamten lebensdauer.*"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"energie für die zukunft: den wachsenden strombedarf von rechenzentren bewältigen\" (y 10186) has no origin heading",
+   "text": "energie für die zukunft: den wachsenden strombedarf von rechenzentren bewältigen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"faq\" (y 10944) has no origin heading",
+   "text": "faq"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"maximale flexibilität für ihr design\" (y 13052) has no origin heading",
+   "text": "maximale flexibilität für ihr design"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"die richtige lösung für ihre designanforderung\" (y 13390) has no origin heading",
+   "text": "die richtige lösung für ihre designanforderung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"mehr über die technologien hinter der ki stromversorgung\" (y 13817) has no origin heading",
+   "text": "mehr über die technologien hinter der ki stromversorgung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"abonnieren sie die marketingkommunikation!\" (y 14396) has no origin heading",
+   "text": "abonnieren sie die marketingkommunikation!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"play or pause video\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "play or pause video"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"previous image\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "previous image"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"next image\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "next image"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"whitepaper herunterladen\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "whitepaper herunterladen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"silicon carbide coolsic™ mosfets\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "silicon carbide coolsic™ mosfets"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"high density power modules\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "high density power modules"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"powering ai psu solutions\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "powering ai psu solutions"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"powering ai bbu solutions\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "powering ai bbu solutions"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"easy power modules for ssts\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "easy power modules for ssts"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"next-generation solid-state power distribution\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "next-generation solid-state power distribution"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"supporting ai power demands sustainably\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "supporting ai power demands sustainably"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"empowering green energy with wbg semiconductors\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "empowering green energy with wbg semiconductors"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"jetzt anhören\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "jetzt anhören"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr entdecken\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"abonnieren\" served in band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "abonnieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\": 3 origin → 44 served visible",
+   "band": 1,
+   "origin": 3,
+   "eds": 44,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"wir versorgen ki mit strom: vom stromnetz bis zum prozessor\": 0 origin → 11 served visible (+2 clipped away)",
+   "band": 1,
+   "origin": 0,
+   "eds": 11,
+   "hidden": 2
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 18,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 15,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 35,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 46,
+    "y": 77,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 286,
+    "w": 271,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 330,
+    "w": 157,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 374,
+    "w": 250,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 418,
+    "w": 132,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 480,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 504,
+    "w": 272,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 528,
+    "w": 218,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 552,
+    "w": 269,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 576,
+    "w": 171,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 600,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 624,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 648,
+    "w": 294,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 672,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 696,
+    "w": 256,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 720,
+    "w": 68,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 763,
+    "w": 116,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 803,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 132,
+    "y": 803,
+    "w": 75,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 854,
+    "w": 284,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 884,
+    "w": 154,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 914,
+    "w": 199,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 961,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 987,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1013,
+    "w": 263,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1039,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1065,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1091,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1117,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1143,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1169,
+    "w": 216,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1195,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1221,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1247,
+    "w": 198,
+    "h": 25
+   },
+   {
+    "x": 88,
+    "y": 1330,
+    "w": 209,
+    "h": 28
+   },
+   {
+    "x": 88,
+    "y": 1358,
+    "w": 119,
+    "h": 28
+   },
+   {
+    "x": 88,
+    "y": 1386,
+    "w": 220,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 1414,
+    "w": 294,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 1442,
+    "w": 286,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 1480,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1506,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1546,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1572,
+    "w": 230,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1598,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1624,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1650,
+    "w": 306,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1676,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1702,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1728,
+    "w": 157,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2017,
+    "w": 327,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 2047,
+    "w": 19,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 2405,
+    "w": 147,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 2435,
+    "w": 158,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 2482,
+    "w": 239,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 2508,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 2534,
+    "w": 164,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 2560,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 2586,
+    "w": 217,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 2612,
+    "w": 231,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 2638,
+    "w": 131,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 2664,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2708,
+    "w": 217,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2734,
+    "w": 92,
+    "h": 22
+   },
+   {
+    "x": 148,
+    "y": 2734,
+    "w": 95,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2760,
+    "w": 229,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2786,
+    "w": 212,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2812,
+    "w": 261,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2838,
+    "w": 241,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2864,
+    "w": 225,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2890,
+    "w": 209,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2916,
+    "w": 167,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2958,
+    "w": 246,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2984,
+    "w": 48,
+    "h": 22
+   },
+   {
+    "x": 104,
+    "y": 2984,
+    "w": 192,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3010,
+    "w": 249,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3036,
+    "w": 246,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3062,
+    "w": 146,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3104,
+    "w": 195,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3130,
+    "w": 108,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3156,
+    "w": 251,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3182,
+    "w": 199,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3208,
+    "w": 252,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3234,
+    "w": 252,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3260,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3286,
+    "w": 257,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3312,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3338,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3364,
+    "w": 213,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 3403,
+    "w": 120,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 3433,
+    "w": 229,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 3463,
+    "w": 119,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 3510,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3536,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3562,
+    "w": 217,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3588,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3614,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3640,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3666,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3692,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3718,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3744,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3770,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3796,
+    "w": 223,
+    "h": 25
+   },
+   {
+    "x": 76,
+    "y": 3851,
+    "w": 185,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3949,
+    "w": 298,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3979,
+    "w": 309,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 4009,
+    "w": 245,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 4039,
+    "w": 125,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 4086,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4112,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4138,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4164,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4190,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4216,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4258,
+    "w": 286,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 4286,
+    "w": 278,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 4314,
+    "w": 148,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 4678,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4704,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4730,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4756,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4782,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4808,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4834,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4860,
+    "w": 193,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4886,
+    "w": 135,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4928,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4954,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4980,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5006,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5032,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5058,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5084,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5110,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5136,
+    "w": 36,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5179,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5219,
+    "w": 199,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5250,
+    "w": 283,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 5278,
+    "w": 262,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 5650,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5676,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5702,
+    "w": 260,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5728,
+    "w": 261,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5754,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5780,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5806,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5832,
+    "w": 277,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5858,
+    "w": 163,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5900,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5926,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5952,
+    "w": 224,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5978,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6004,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6030,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6056,
+    "w": 224,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6082,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6108,
+    "w": 190,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6151,
+    "w": 183,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6191,
+    "w": 184,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6246,
+    "w": 305,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 6274,
+    "w": 325,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 6302,
+    "w": 146,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 6666,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6692,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6718,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6744,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6770,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6796,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6822,
+    "w": 286,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6848,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6874,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6900,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6942,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6968,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6994,
+    "w": 271,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7020,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7046,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7072,
+    "w": 204,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7098,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7124,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7150,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7176,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7202,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7228,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7271,
+    "w": 202,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7311,
+    "w": 317,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7366,
+    "w": 256,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 7394,
+    "w": 317,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 7422,
+    "w": 234,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 7450,
+    "w": 94,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 7814,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7840,
+    "w": 271,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7866,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7892,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7918,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7944,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7970,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7996,
+    "w": 145,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8038,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8064,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8090,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8116,
+    "w": 263,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8142,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8168,
+    "w": 260,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8194,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8220,
+    "w": 234,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8246,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8272,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8315,
+    "w": 293,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 8355,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 8379,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 8433,
+    "w": 249,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 8463,
+    "w": 318,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 8510,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8536,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8562,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8588,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8614,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8640,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8666,
+    "w": 238,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8692,
+    "w": 255,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8718,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8744,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8770,
+    "w": 281,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8796,
+    "w": 180,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8822,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8864,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8890,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8916,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8942,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8968,
+    "w": 157,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9218,
+    "w": 269,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 9248,
+    "w": 112,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 9295,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9321,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9347,
+    "w": 262,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9373,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9399,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9425,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9787,
+    "w": 219,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9813,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9839,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9865,
+    "w": 107,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9907,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9933,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9959,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9985,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10011,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10037,
+    "w": 185,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10076,
+    "w": 80,
+    "h": 19
+   },
+   {
+    "x": 16,
+    "y": 10144,
+    "w": 256,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 10174,
+    "w": 278,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 10204,
+    "w": 247,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 10251,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10277,
+    "w": 215,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10303,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10329,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10355,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10381,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10407,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10433,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10459,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10485,
+    "w": 117,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10527,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10553,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10579,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10605,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10631,
+    "w": 243,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10673,
+    "w": 208,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 10673,
+    "w": 41,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10699,
+    "w": 238,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10725,
+    "w": 210,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10751,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10777,
+    "w": 231,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10803,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10829,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 10902,
+    "w": 37,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 10949,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 10991,
+    "w": 218,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11017,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11043,
+    "w": 258,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11069,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11095,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11121,
+    "w": 277,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11147,
+    "w": 271,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11173,
+    "w": 262,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11199,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11225,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11251,
+    "w": 240,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11277,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11319,
+    "w": 261,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11345,
+    "w": 130,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11387,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11413,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11439,
+    "w": 198,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11465,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11491,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11517,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11543,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11569,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11595,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11621,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11647,
+    "w": 248,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11673,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11715,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11741,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11767,
+    "w": 178,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11809,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11835,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11861,
+    "w": 180,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11887,
+    "w": 192,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11913,
+    "w": 262,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11939,
+    "w": 217,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11965,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11991,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12017,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12043,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12069,
+    "w": 255,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12095,
+    "w": 164,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12137,
+    "w": 198,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12163,
+    "w": 181,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12189,
+    "w": 213,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12231,
+    "w": 222,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12257,
+    "w": 217,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12283,
+    "w": 214,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12309,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12335,
+    "w": 229,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12361,
+    "w": 189,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12387,
+    "w": 218,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12413,
+    "w": 219,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12439,
+    "w": 258,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12465,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12491,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12517,
+    "w": 202,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12543,
+    "w": 85,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12585,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12611,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12653,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12679,
+    "w": 203,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12705,
+    "w": 197,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12731,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12757,
+    "w": 212,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12783,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12809,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12835,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12861,
+    "w": 242,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12887,
+    "w": 221,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12913,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13002,
+    "w": 299,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 13038,
+    "w": 74,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 13091,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13117,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13143,
+    "w": 239,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13169,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13195,
+    "w": 230,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13221,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13247,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13273,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13299,
+    "w": 284,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13340,
+    "w": 293,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 13376,
+    "w": 211,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 13614,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 44,
+    "y": 13642,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 44,
+    "y": 13686,
+    "w": 246,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 13710,
+    "w": 218,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 13734,
+    "w": 244,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 13796,
+    "w": 96,
+    "h": 22
+   },
+   {
+    "x": 21,
+    "y": 13851,
+    "w": 138,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 13888,
+    "w": 303,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 13924,
+    "w": 135,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 13960,
+    "w": 191,
+    "h": 37
+   },
+   {
+    "x": 45,
+    "y": 14197,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 14223,
+    "w": 218,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 14271,
+    "w": 267,
+    "h": 22
+   },
+   {
+    "x": 45,
+    "y": 14297,
+    "w": 275,
+    "h": 22
+   },
+   {
+    "x": 45,
+    "y": 14323,
+    "w": 236,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 14368,
+    "w": 116,
+    "h": 20
+   },
+   {
+    "x": 45,
+    "y": 14407,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 104,
+    "y": 14407,
+    "w": 83,
+    "h": 20
+   },
+   {
+    "x": 45,
+    "y": 14643,
+    "w": 153,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 14669,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 14717,
+    "w": 264,
+    "h": 22
+   },
+   {
+    "x": 45,
+    "y": 14743,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 45,
+    "y": 14769,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 14814,
+    "w": 104,
+    "h": 20
+   },
+   {
+    "x": 184,
+    "y": 14814,
+    "w": 22,
+    "h": 20
+   },
+   {
+    "x": 45,
+    "y": 14853,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 104,
+    "y": 14853,
+    "w": 79,
+    "h": 20
+   },
+   {
+    "x": 45,
+    "y": 15089,
+    "w": 262,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 15115,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 15115,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 15141,
+    "w": 134,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 15163,
+    "w": 271,
+    "h": 22
+   },
+   {
+    "x": 45,
+    "y": 15189,
+    "w": 258,
+    "h": 22
+   },
+   {
+    "x": 45,
+    "y": 15215,
+    "w": 270,
+    "h": 22
+   },
+   {
+    "x": 45,
+    "y": 15215,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 15260,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 153,
+    "y": 15260,
+    "w": 22,
+    "h": 20
+   },
+   {
+    "x": 45,
+    "y": 15299,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 104,
+    "y": 15299,
+    "w": 83,
+    "h": 20
+   },
+   {
+    "x": 159,
+    "y": 15401,
+    "w": 7,
+    "h": 20
+   },
+   {
+    "x": 199,
+    "y": 15401,
+    "w": 7,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 15558,
+    "w": 204,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 15594,
+    "w": 293,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 15646,
+    "w": 228,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 15676,
+    "w": 275,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 15706,
+    "w": 312,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 15736,
+    "w": 106,
+    "h": 32
+   },
+   {
+    "x": 152,
+    "y": 15812,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 16062,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 16101,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 16143,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 16185,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 16227,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 16269,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 16062,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 16101,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 16143,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 16185,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 16211,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 16253,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 16295,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 16337,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 16404,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 16443,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 16485,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 16527,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 16594,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 16633,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 16675,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 16717,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 16759,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 16830,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 16830,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 16860,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 16860,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 16890,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 16890,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 16890,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 36,
+    "y": 77,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 286,
+    "w": 271,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 330,
+    "w": 157,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 374,
+    "w": 250,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 418,
+    "w": 132,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 480,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 504,
+    "w": 272,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 528,
+    "w": 218,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 552,
+    "w": 269,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 576,
+    "w": 171,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 600,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 624,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 648,
+    "w": 294,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 672,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 696,
+    "w": 256,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 720,
+    "w": 68,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 763,
+    "w": 116,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 803,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 132,
+    "y": 803,
+    "w": 75,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 854,
+    "w": 284,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 884,
+    "w": 154,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 914,
+    "w": 199,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 961,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 987,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1013,
+    "w": 263,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1039,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1065,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1091,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1117,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1143,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1169,
+    "w": 216,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1195,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1221,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1247,
+    "w": 198,
+    "h": 25
+   },
+   {
+    "x": 88,
+    "y": 1330,
+    "w": 209,
+    "h": 28
+   },
+   {
+    "x": 88,
+    "y": 1358,
+    "w": 119,
+    "h": 28
+   },
+   {
+    "x": 88,
+    "y": 1386,
+    "w": 220,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 1414,
+    "w": 294,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 1442,
+    "w": 286,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 1480,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1506,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1546,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1572,
+    "w": 230,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1598,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1624,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1650,
+    "w": 306,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1676,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1702,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1728,
+    "w": 157,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2017,
+    "w": 327,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 2047,
+    "w": 19,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 2381,
+    "w": 147,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 2411,
+    "w": 158,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 2458,
+    "w": 239,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 2484,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 2510,
+    "w": 164,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 2536,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 2562,
+    "w": 217,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 2588,
+    "w": 231,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 2614,
+    "w": 131,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 2640,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2684,
+    "w": 217,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2710,
+    "w": 89,
+    "h": 22
+   },
+   {
+    "x": 145,
+    "y": 2710,
+    "w": 98,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2736,
+    "w": 229,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2762,
+    "w": 212,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2788,
+    "w": 261,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2814,
+    "w": 241,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2840,
+    "w": 225,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2866,
+    "w": 209,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2892,
+    "w": 167,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2934,
+    "w": 246,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2960,
+    "w": 45,
+    "h": 22
+   },
+   {
+    "x": 101,
+    "y": 2960,
+    "w": 195,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2986,
+    "w": 249,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3012,
+    "w": 246,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3038,
+    "w": 146,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3080,
+    "w": 195,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3106,
+    "w": 108,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3132,
+    "w": 251,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3158,
+    "w": 199,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3184,
+    "w": 252,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3210,
+    "w": 252,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3236,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3262,
+    "w": 257,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3288,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3314,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3340,
+    "w": 213,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 3387,
+    "w": 120,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 3417,
+    "w": 229,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 3447,
+    "w": 119,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 3494,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3520,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3546,
+    "w": 217,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3572,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3598,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3624,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3650,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3676,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3702,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3728,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3754,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3780,
+    "w": 223,
+    "h": 25
+   },
+   {
+    "x": 57,
+    "y": 3832,
+    "w": 182,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3927,
+    "w": 298,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3957,
+    "w": 309,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3987,
+    "w": 245,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 4017,
+    "w": 125,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 4064,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4090,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4116,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4142,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4168,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4194,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4236,
+    "w": 286,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 4264,
+    "w": 278,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 4292,
+    "w": 148,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 4680,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4706,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4732,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4758,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4784,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4810,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4836,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4862,
+    "w": 193,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4888,
+    "w": 135,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4930,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4956,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4982,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5008,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5034,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5060,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5086,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5112,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5138,
+    "w": 36,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5181,
+    "w": 235,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5213,
+    "w": 196,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5244,
+    "w": 283,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 5272,
+    "w": 262,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 5660,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5686,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5712,
+    "w": 260,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5738,
+    "w": 261,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5764,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5790,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5816,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5842,
+    "w": 277,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5868,
+    "w": 163,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5910,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5936,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5962,
+    "w": 224,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5988,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6014,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6040,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6066,
+    "w": 224,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6092,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6118,
+    "w": 190,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6161,
+    "w": 180,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6193,
+    "w": 181,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6248,
+    "w": 305,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 6276,
+    "w": 325,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 6304,
+    "w": 146,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 6692,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6718,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6744,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6770,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6796,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6822,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6848,
+    "w": 286,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6874,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6900,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6926,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6968,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6994,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7020,
+    "w": 271,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7046,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7072,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7098,
+    "w": 204,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7124,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7150,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7176,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7202,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7228,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7254,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7297,
+    "w": 199,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7329,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7353,
+    "w": 81,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7384,
+    "w": 256,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 7412,
+    "w": 317,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 7440,
+    "w": 234,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 7468,
+    "w": 94,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 7856,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7882,
+    "w": 271,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7908,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7934,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7960,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7986,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8012,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8038,
+    "w": 145,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8080,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8106,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8132,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8158,
+    "w": 263,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8184,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8210,
+    "w": 260,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8236,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8262,
+    "w": 234,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8288,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8314,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8357,
+    "w": 290,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 8389,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 8413,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 8467,
+    "w": 249,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 8497,
+    "w": 318,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 8544,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8570,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8596,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8622,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8648,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8674,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8700,
+    "w": 238,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8726,
+    "w": 255,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8752,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8778,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8804,
+    "w": 281,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8830,
+    "w": 180,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8856,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8898,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8924,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8950,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8976,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9002,
+    "w": 157,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9251,
+    "w": 269,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 9281,
+    "w": 112,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 9328,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9354,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9380,
+    "w": 262,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9406,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9432,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9458,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9828,
+    "w": 244,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 9856,
+    "w": 312,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 9884,
+    "w": 242,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 9912,
+    "w": 205,
+    "h": 28
+   },
+   {
+    "x": 16,
+    "y": 9948,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9974,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10000,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10026,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10052,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10078,
+    "w": 185,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10118,
+    "w": 80,
+    "h": 19
+   },
+   {
+    "x": 16,
+    "y": 10185,
+    "w": 256,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 10215,
+    "w": 278,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 10245,
+    "w": 247,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 10292,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10318,
+    "w": 215,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10344,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10370,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10396,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10422,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10448,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10474,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10500,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10526,
+    "w": 117,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10568,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10594,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10620,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10646,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10672,
+    "w": 243,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10714,
+    "w": 204,
+    "h": 25
+   },
+   {
+    "x": 220,
+    "y": 10714,
+    "w": 45,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10740,
+    "w": 238,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10766,
+    "w": 210,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10792,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10818,
+    "w": 231,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10844,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 10870,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 10943,
+    "w": 37,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 10990,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11032,
+    "w": 218,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11058,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11084,
+    "w": 258,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11110,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11136,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11162,
+    "w": 277,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11188,
+    "w": 271,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11214,
+    "w": 262,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11240,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11266,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11292,
+    "w": 240,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11318,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11360,
+    "w": 261,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11386,
+    "w": 130,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11428,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11454,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11480,
+    "w": 198,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11506,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11532,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11558,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11584,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11610,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11636,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11662,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11688,
+    "w": 248,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11714,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11756,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11782,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11808,
+    "w": 178,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11850,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11876,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11902,
+    "w": 180,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11928,
+    "w": 192,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11954,
+    "w": 262,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 11980,
+    "w": 217,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12006,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12032,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12058,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12084,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12110,
+    "w": 255,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12136,
+    "w": 164,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12178,
+    "w": 198,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12204,
+    "w": 181,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12230,
+    "w": 213,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12272,
+    "w": 222,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12298,
+    "w": 217,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12324,
+    "w": 214,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12350,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12376,
+    "w": 229,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12402,
+    "w": 189,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12428,
+    "w": 218,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12454,
+    "w": 219,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12480,
+    "w": 258,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12506,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12532,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12558,
+    "w": 202,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12584,
+    "w": 85,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12626,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12652,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12694,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12720,
+    "w": 203,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12746,
+    "w": 197,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12772,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12798,
+    "w": 212,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12824,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12850,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12876,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12902,
+    "w": 242,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12928,
+    "w": 221,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 12954,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13051,
+    "w": 299,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 13087,
+    "w": 74,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 13140,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13166,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13192,
+    "w": 239,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13218,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13244,
+    "w": 230,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13270,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13296,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13322,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13348,
+    "w": 284,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 13389,
+    "w": 293,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 13425,
+    "w": 211,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 13662,
+    "w": 181,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 13706,
+    "w": 147,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 13757,
+    "w": 96,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 13816,
+    "w": 303,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 13852,
+    "w": 135,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 13888,
+    "w": 191,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 14125,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 14169,
+    "w": 260,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 14197,
+    "w": 250,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 14197,
+    "w": 238,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 14248,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 14395,
+    "w": 204,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 14431,
+    "w": 293,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 14483,
+    "w": 228,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 14513,
+    "w": 275,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 14543,
+    "w": 312,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 14573,
+    "w": 106,
+    "h": 32
+   },
+   {
+    "x": 152,
+    "y": 14650,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 14909,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 14948,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 14990,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 15032,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 15074,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 15116,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 14909,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 14948,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 14990,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 15032,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 15058,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 15100,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 15142,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 15184,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 15251,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 15290,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 15332,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 15374,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 15441,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 15480,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 15522,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 15564,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 15606,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 15677,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 15677,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 15707,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 15707,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 15737,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 15737,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 15737,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

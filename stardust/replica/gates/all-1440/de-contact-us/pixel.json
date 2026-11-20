@@ -1,0 +1,56 @@
+{
+  "a": "stardust/replica/gates/all-1440/de-contact-us/origin.png",
+  "b": "stardust/replica/gates/all-1440/de-contact-us/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 2853,
+    "mode": "overlap"
+  },
+  "heightDelta": 13,
+  "differingPixels": 244255,
+  "pct": 5.95,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/de-contact-us/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 14.95,
+  "textBoxes": 120,
+  "textPixels": 297115,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 9.4
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 15.5
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 2.5
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 1.4
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 4
+    },
+    {
+      "y0": 2500,
+      "y1": 2853,
+      "pct": 1.5
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--938eead7--aemcoder.aem.live/de/contact-us"
+  }
+}

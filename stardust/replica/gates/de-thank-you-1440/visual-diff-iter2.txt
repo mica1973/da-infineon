@@ -1,0 +1,217 @@
+[live-session] waiting to pace live navigations to www.infineon.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 951 ms
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/de-thank-you-1440/vdiff-iter2/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 704,
+  "textLen": 193,
+  "images": [
+   {
+    "src": "spinner-48.svg",
+    "natural": "48x48",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo.svg",
+    "natural": "91x40",
+    "rendered": "82x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "1x1",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "2025-09-03-infineon-illustration-newweb-order-confirmationde.png:asset-680-1x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x680",
+    "rendered": "624x624",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Infineon_Logo_Inverted.svg",
+    "natural": "182x80",
+    "rendered": "124x54",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "tiktok.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "0?ti=12013328&tm=gtm002&Ver=2&mid=26a046d9-56d3-4cab-b74f-3524ff79e750&bo=3&sid=a18713a0e30111f1ac0bcfe0e4b4e6c7&vid=a1874ef0e30111f18ffe158064f1848b&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1440&sh=1000&sc=24&tl=Danke%20%7C%20Infineon%20Technologies&p=https%3A%2F%2Fwww.infineon.com%2Fde%2Fthank-you&r=&lt=1153&evt=pageLoad&sv=2&asc=G&cdb=AQET&rn=565145",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Vielen Dank für Ihren Einkauf",
+    "color": "rgb(29, 29, 29)",
+    "fontSize": "44px",
+    "family": "Source Sans 3",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "Auftragsbestätigung",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "Über uns",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Quicklinks",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "myInfineon",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Karriere",
+    "color": "rgb(255, 255, 255)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "row",
+    "width": 1248,
+    "left": 96
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 704,
+  "textLen": 194,
+  "images": [
+   {
+    "src": "logo.svg",
+    "natural": "91x40",
+    "rendered": "82x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "2025-09-03-infineon-illustration-newweb-order-confirmationde.png:asset-680-1x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x680",
+    "rendered": "624x624",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Infineon_Logo_Inverted.svg",
+    "natural": "182x80",
+    "rendered": "124x54",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "tiktok.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Vielen Dank für Ihren Einkauf",
+    "color": "rgb(29, 29, 29)",
+    "fontSize": "44px",
+    "family": "Source Sans 3",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "Auftragsbestätigung",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "Über uns",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Quicklinks",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "myInfineon",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Karriere",
+    "color": "rgb(255, 255, 255)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "ty__row",
+    "width": 1248,
+    "left": 96
+   }
+  ]
+ }
+}

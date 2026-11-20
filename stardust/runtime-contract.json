@@ -1,0 +1,109 @@
+{
+  "runtime": "vanilla-eds",
+  "blockWrapperClass": "block",
+  "buttonClasses": ".button / .button.primary / .button.secondary / .button.accent, in p.button-wrapper",
+  "buttonization": "formatted-only",
+  "fragmentScriptPolicy": "inert-innerHTML",
+  "emptySectionCollapse": true,
+  "foundation": {
+    "unit": "C0",
+    "files": [
+      "styles/styles.css", "styles/fonts.css", "styles/lazy-styles.css",
+      "fonts/source-sans-3-400.woff2", "fonts/source-sans-3-600.woff2",
+      "fonts/source-sans-3-900.woff2", "fonts/infineon-icons.woff2",
+      "icons/logo.svg", "icons/infineon-logo-inverted.svg", "icons/tiktok.svg",
+      "favicon.ico", "head.html", "scripts/scripts.js", "scripts/martech.js",
+      "scripts/consent-check.js", "blocks/header/header.js", "blocks/header/header.css",
+      "blocks/footer/footer.js", "blocks/footer/footer.css",
+      "content/nav.html", "content/footer.html"
+    ],
+    "breakpoints": {
+      "mobileFirst": true,
+      "desktop": "@media (width >= 992px)",
+      "jsDesktop": "window.matchMedia('(width >= 992px)')",
+      "note": "one layout step (canon `max-width: 991px` inverted); `npm run lint` runs breakpoint-lint"
+    },
+    "classNaming": "canon classes with BEM `__` and `--` flattened to `-` (stylelint kebab-case): .btn--primary -> .btn-primary, .eyebrow--line -> .eyebrow-line, .site-header__bar -> .site-header-bar"
+  },
+  "tokens": {
+    "colors": {
+      "--ifx-canvas": "#fff", "--ifx-ink": "#1d1d1d", "--ifx-teal": "#0a8276",
+      "--ifx-teal-deep": "#08665c", "--ifx-teal-tint": "#31968c", "--ifx-stone-text": "#575352",
+      "--ifx-stone-mid": "#8d8786", "--ifx-border": "#bfbbbb", "--ifx-rule": "#ccc",
+      "--ifx-surface-muted": "#eeeded", "--ifx-surface-band": "#f7f7f7", "--ifx-black": "#000",
+      "--ifx-white-soft": "#f7f7f7"
+    },
+    "type": {
+      "--ifx-font": "'Source Sans 3', source-sans-3-fallback, arial, 'Liberation Sans', sans-serif",
+      "--ifx-icon-font": "infineon-icons"
+    },
+    "shape": {
+      "--ifx-radius-sm": "4px", "--ifx-radius-btn": "1px", "--ifx-radius-pill": "9999px",
+      "--ifx-card-ring": "inset 0 0 0 1px #eeeded"
+    },
+    "layout": {
+      "--ifx-shell": "1400px", "--ifx-gutter": "16px mobile / 76px >=992",
+      "--ifx-header-h": "61px mobile / 67.2px >=992", "--nav-height": "= --ifx-header-h",
+      "--max-width": "= --ifx-shell"
+    },
+    "boilerplateAliases": [
+      "--background-color", "--text-color", "--link-color", "--link-hover-color",
+      "--body-font-family", "--heading-font-family"
+    ]
+  },
+  "fonts": {
+    "Source Sans 3": "400/600/900, self-hosted woff2 in /fonts, @font-face in styles/fonts.css (late, swap); metric-matched source-sans-3-fallback (local Arial) in styles.css",
+    "infineon-icons": "glyph font, @font-face in styles.css (font-display: block)"
+  },
+  "classes": {
+    "container": {
+      ".ifx-shell": "max-width 1400, centred, no padding",
+      ".ifx-fixed": "max-width 1400 + --ifx-gutter padding (1248 content at 1440) — blocks cap their content with it",
+      ".ifx-band-grey": "#f7f7f7 band", ".ifx-band-teal": "teal band, white text"
+    },
+    "sectionModel": "main > .section and its block wrappers are FULL-BLEED (margin/padding 0, no max-width); .default-content-wrapper gets the 1400 shell + gutters. A block that must cap at 1400 puts .ifx-fixed (or .ifx-shell) on its own inner wrapper.",
+    "sectionStyles": ["grey", "teal", "spaced (32px / 80px vertical padding)"],
+    "type": {
+      ".h-display": "56/64 600 (also main h1)", ".h-44": "32/44 -> 44/56 (main h2)",
+      ".h-36": "26/36 -> 36/48 (main h3)", ".h-28": "22/30 -> 28/36 (main h4)",
+      ".h-20": "18/26 -> 20/28 (main h5)",
+      ".eyebrow, .eyebrow-wrap :where(p)": "14/24 600, 3.2px tracking, uppercase",
+      ".eyebrow-line": "flex with a 48px rule before"
+    },
+    "reset": "global border-box; h1-h6/p/ul/ol/figure margin 0; ul/ol list-style none + padding 0; a inherits colour, no underline (default-content links are teal); img block max-width 100% height auto",
+    "buttons": {
+      "authored": "<strong><a> -> a.button.primary (teal fill), <em><a> -> a.button.secondary (teal outline on white), <strong><em><a> -> a.button.accent (white fill, teal text: on-dark)",
+      "utility": ".btn + .btn-primary | .btn-outline | .btn-white (same paint, for block-built non-authored controls only)",
+      "metrics": "16/24 600, padding 8px 16px, 1px border, radius 1px"
+    },
+    "links": {
+      ".link-arrow, .link-arrow-wrap :where(a)": "teal 18/26 600 + arrow glyph ::after (wrapper variant survives edit mode)"
+    },
+    "icons": {
+      "markup": "<span class=\"icon icon-NAME\"> (authored as :NAME:)",
+      "glyphNames": "scripts.js GLYPH_ICONS + every ico-* name render from the infineon-icons font via .icon-NAME::before (no <img>, no /icons fetch); size with font-size",
+      "svgIcons": "any other name -> stock /icons/NAME.svg <img> in a 24px box (shipped: logo, infineon-logo-inverted, tiktok)",
+      "jsApi": "import { decorateGlyphIcons, GLYPH_ICONS } from '../../scripts/scripts.js' for icon spans a block builds itself before decorateIcons; spans built AFTER decoration need no call",
+      "available": "accordion-circle arrow-right article cart check chevron-down chevron-left chevron-right chips code cross dot facebook globe instagram left-arrow linkedin map-pin medal media-pause media-play menu money plus right-arrow search table user video youtube + ico-applications-* ico-design-* ico-product-* (see styles.css)"
+    },
+    "editMode": "styles.css ships the .prosemirror-editor CTA repaint + card-link inner anchor reset"
+  },
+  "chrome": {
+    "header": {
+      "block": "blocks/header (loads /nav, or the page's `nav` metadata path)",
+      "root": "header .site-header[data-open=''|'mega'|'language'|'currency'|'account'|'cart'|'search'|'drawer'] > .site-header-bar",
+      "height": "var(--nav-height) reserved on <header>; header is static (scrolls away, no sticky)",
+      "navDocument": "sections: 1 brand link (:logo:), 2 <ul> top items (link > <ul> categories: optional :ico-*: icon + link or text > <ul> links), then styled sections search | language | currency | account (first <p> = login link) | cart | news (section-metadata `menus` = comma list of top item names)",
+      "events": "root dispatches `site-header:panel` ({ li, mega }) when a top item opens"
+    },
+    "footer": {
+      "block": "blocks/footer (loads /footer, or the page's `footer` metadata path)",
+      "root": "footer .site-footer > .ifx-fixed > nav.site-footer-nav + .site-footer-legal",
+      "footerDocument": "sections: 1 logo link (:infineon-logo-inverted:), 2 repeated <p>title + <ul> link columns, 3 legal <ul> + copyright <p>, 4 social <ul> of icon links (title = label)",
+      "spacing": "footer has no top margin; the last page section owns the gap above it"
+    },
+    "notShipped": "the Ask-AI launcher (.da-launcher) and the third-level product menus are not part of the foundation"
+  },
+  "martech": "scripts/martech.js unchanged (all routes + CMP disabled); loadEager imports it and calls loadConsent(); consent-check.js loads in loadDelayed",
+  "lang": "document lang = de under /de, else en (scripts.js loadEager)"
+}

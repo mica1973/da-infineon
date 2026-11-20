@@ -1,0 +1,57 @@
+{
+ "url": "https://main--938eead7--aemcoder.aem.live/de/config",
+ "at": "2026-11-18T23:24:53.539Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 4,
+  "offPage": 50,
+  "textNodes": 252,
+  "controls": 35,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 3,
+   "clipper": null,
+   "path": "div.config-list.block > div.config-list-body > ul > li",
+   "text": "//www.youtube.com/channel/ucotflchmpx0vbfxvxymcu9w",
+   "cutMin": 48,
+   "cutMax": 76
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": null,
+   "path": "tr > td > p > code",
+   "text": "at,be,bg,ee,fi,fr,de,gr,ie,it,lv,lt,lu,nl,pt,sk,si,es",
+   "cutMin": 264,
+   "cutMax": 264
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 4,
+   "offPage": 50,
+   "textNodes": 248,
+   "controls": 31,
+   "total": 0
+  }
+ }
+}

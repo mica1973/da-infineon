@@ -1,0 +1,3924 @@
+{
+  "_provenance": {
+    "writtenBy": "gate-all.mjs",
+    "writtenAt": "2026-11-18T23:23:31.402Z",
+    "stage": "published",
+    "breakpoint": 1440,
+    "threshold": 10,
+    "heightTolerance": 0.05,
+    "clipMax": 0,
+    "unitTol": 4,
+    "criteria": {
+      "pixel": true,
+      "height": true,
+      "clip": true,
+      "content": true
+    },
+    "verdict": "overlap pixel % ≤ 10 AND |Δh| ≤ 5% of origin height AND clipped ≤ 0 (+ documented allowance) AND content MISSING + HIDDEN links/headings = 0",
+    "origin": "https://www.infineon.com",
+    "eds": "https://main--938eead7--aemcoder.aem.live",
+    "edsHostOverride": null,
+    "only": null
+  },
+  "totals": {
+    "pages": 60,
+    "pass": 1,
+    "pixelOnlyPass": 50,
+    "overridePass": 59,
+    "fail": 59,
+    "error": 0,
+    "failPixel": 10,
+    "failHeight": 0,
+    "failClip": 0,
+    "failContent": 0,
+    "failUnits": 1,
+    "fontsNotLoaded": 59,
+    "fontChecksSkipped": 0,
+    "contentNA": 0,
+    "asymmetricOrigins": 0,
+    "degradedTier": 0,
+    "passWithOverrides": 60
+  },
+  "rows": [
+    {
+      "slug": "index",
+      "path": "/",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 4.78,
+      "textPct": 4.25,
+      "heightDelta": 0,
+      "originH": 6630,
+      "edsH": 6630,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": false,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "units",
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "units off 3 hidden 0 missing 4",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 49,
+        "variable": []
+      },
+      "units": {
+        "units": 19,
+        "within": 128,
+        "off": 3,
+        "hidden": 0,
+        "missing": 4,
+        "errors": 0,
+        "requiredOff": 7
+      },
+      "unitsRequired": true,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "units: footer columns 4/4 within tolerance after the selector fix; remaining offsets are carousel-slide picture wrapper boxes (event slider picture h +108..178 with the visible img unchanged, product-card rows off-screen in the swiper) carried since recreate as a measurement artifact; pixel 1440 4.78 % / 360 9.01 % within bar. font-not-loaded is the live origin metric-fallback face",
+        "waives": [
+          "units",
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "0-500:38%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de",
+      "path": "/de",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 4.84,
+      "textPct": 3.96,
+      "heightDelta": 0,
+      "originH": 5658,
+      "edsH": 5658,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 49,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (all-1440/de/eds.capture.json)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "0-500:38.1%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-logout",
+      "path": "/de/logout",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 0.01,
+      "textPct": 0,
+      "heightDelta": 0,
+      "originH": 900,
+      "edsH": 900,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 0,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (all-1440/de-logout/eds.capture.json)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-config",
+      "path": "/de/config",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 4.86,
+      "textPct": 14.08,
+      "heightDelta": -59,
+      "originH": 3819,
+      "edsH": 3878,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 4,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (all-1440/de-config/eds.capture.json)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "3000-3500:15.2%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-partners",
+      "path": "/de/partners",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 6.15,
+      "textPct": 10.23,
+      "heightDelta": 25,
+      "originH": 3177,
+      "edsH": 3152,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 14,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-support",
+      "path": "/de/support",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 3.28,
+      "textPct": 10.97,
+      "heightDelta": 10,
+      "originH": 2784,
+      "edsH": 2774,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 32,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-opn",
+      "path": "/de/opn",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 0.34,
+      "textPct": 2.68,
+      "heightDelta": 0,
+      "originH": 7242,
+      "edsH": 7242,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 1,
+        "hiddenButtons": 0,
+        "findings": 56,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-package-overview",
+      "path": "/de/package-overview",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 7.65,
+      "textPct": 12.78,
+      "heightDelta": -4,
+      "originH": 6394,
+      "edsH": 6398,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 1,
+        "hiddenButtons": 0,
+        "findings": 140,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "4500-5000:23.9%",
+        "5500-6000:18.8%",
+        "6000-6394:15.7%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-contact-us",
+      "path": "/de/contact-us",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 5.95,
+      "textPct": 14.95,
+      "heightDelta": 13,
+      "originH": 2866,
+      "edsH": 2853,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": true,
+      "failing": [],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [],
+      "fontChecksSkipped": [],
+      "reasons": [],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 38,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "500-1000:15.5%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-glossary",
+      "path": "/de/glossary",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 0.14,
+      "textPct": 0.79,
+      "heightDelta": 0,
+      "originH": 6064,
+      "edsH": 6064,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 66,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-training",
+      "path": "/de/training",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 2.82,
+      "textPct": 5.92,
+      "heightDelta": 56,
+      "originH": 4025,
+      "edsH": 3969,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 23,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-thank-you",
+      "path": "/de/thank-you",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 0.2,
+      "textPct": 1.45,
+      "heightDelta": 0,
+      "originH": 1485,
+      "edsH": 1485,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 0,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (all-1440/de-thank-you/eds.capture.json)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-about",
+      "path": "/de/about",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 0.17,
+      "textPct": 0.98,
+      "heightDelta": 0,
+      "originH": 5445,
+      "edsH": 5445,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 38,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed []",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-careers",
+      "path": "/de/careers",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 4.41,
+      "textPct": 8.04,
+      "heightDelta": -4,
+      "originH": 5584,
+      "edsH": 5588,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 26,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-microelectronics-connecting-real-digital-world",
+      "path": "/de/our-stories/microelectronics-connecting-real-digital-world",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 8.39,
+      "textPct": 13.18,
+      "heightDelta": -154,
+      "originH": 9192,
+      "edsH": 9346,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 31,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "1500-2000:19.9%",
+        "7500-8000:17.7%",
+        "8000-8500:20.9%",
+        "8500-9000:31.1%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee",
+      "path": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 15.14,
+      "textPct": 11.02,
+      "heightDelta": -70,
+      "originH": 9297,
+      "edsH": 9367,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 15.14% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 25,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "pixel residual 15.14% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh -70px within 5 %; measured cause: podcast container composition at 360 (82 px logo + text column) and heading gaps after videos +26. Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+        "waives": [
+          "fonts",
+          "pixel"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "3500-4000:21%",
+        "4000-4500:24.6%",
+        "4500-5000:48.6%",
+        "5000-5500:21.6%",
+        "6000-6500:26%",
+        "6500-7000:21.4%",
+        "7000-7500:31.9%",
+        "7500-8000:21.6%",
+        "8000-8500:23.5%",
+        "8500-9000:18.2%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-green-hydrogen-fuel-future",
+      "path": "/de/our-stories/green-hydrogen-fuel-future",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 10.97,
+      "textPct": 9.21,
+      "heightDelta": 70,
+      "originH": 8180,
+      "edsH": 8110,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 10.97% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 36,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "pixel residual 10.97% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh 70px within 5 %; measured cause: timeline-box list item spacing -42 and rail +16. Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+        "waives": [
+          "fonts",
+          "pixel"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "3000-3500:16.5%",
+        "4500-5000:43.1%",
+        "5000-5500:21.5%",
+        "6000-6500:25.3%",
+        "6500-7000:20.1%",
+        "7500-8000:16.2%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-efficient-energy-storage-systems-energy-transition",
+      "path": "/de/our-stories/efficient-energy-storage-systems-energy-transition",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 20.2,
+      "textPct": 15.29,
+      "heightDelta": -271,
+      "originH": 8625,
+      "edsH": 8896,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 20.2% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 38,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "pixel residual 20.2% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh -271px within 5 %; measured cause: box / boxed-columns edges off by 20-40 px, boxed-columns titles 12 vs 16, rail gap +112. Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+        "waives": [
+          "fonts",
+          "pixel"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "3500-4000:25.9%",
+        "4000-4500:21.5%",
+        "4500-5000:15.4%",
+        "5000-5500:35.1%",
+        "5500-6000:31.6%",
+        "6000-6500:27.7%",
+        "6500-7000:33.4%",
+        "7000-7500:45.7%",
+        "7500-8000:29.4%",
+        "8000-8500:51.5%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-semiconductors-bring-heat-pumps-life",
+      "path": "/de/our-stories/semiconductors-bring-heat-pumps-life",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 8.87,
+      "textPct": 7.2,
+      "heightDelta": 46,
+      "originH": 7421,
+      "edsH": 7375,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 24,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2500-3000:16.5%",
+        "5500-6000:30.7%",
+        "6000-6500:19.5%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-electric-cordless-power-tools",
+      "path": "/de/our-stories/electric-cordless-power-tools",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 0.27,
+      "textPct": 1.46,
+      "heightDelta": -2,
+      "originH": 5151,
+      "edsH": 5153,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 12,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-green-chargers-adapters",
+      "path": "/de/our-stories/green-chargers-adapters",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 2.88,
+      "textPct": 3.9,
+      "heightDelta": 14,
+      "originH": 6318,
+      "edsH": 6304,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 21,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "4000-4500:16.6%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-green-potential-data-centers",
+      "path": "/de/our-stories/green-potential-data-centers",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 6.75,
+      "textPct": 9.78,
+      "heightDelta": 14,
+      "originH": 7661,
+      "edsH": 7647,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 31,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2500-3000:18%",
+        "4000-4500:25.6%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors",
+      "path": "/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 9.18,
+      "textPct": 9.24,
+      "heightDelta": -41,
+      "originH": 12529,
+      "edsH": 12570,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 26,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "7500-8000:23.6%",
+        "8500-9000:31.7%",
+        "9000-9500:27.1%",
+        "9500-10000:30.4%",
+        "10500-11000:28.6%",
+        "11000-11500:28.6%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-semiconductors-driving-decarbonization",
+      "path": "/de/our-stories/semiconductors-driving-decarbonization",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 0.22,
+      "textPct": 1.24,
+      "heightDelta": -2,
+      "originH": 10848,
+      "edsH": 10850,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 18,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about / the pillar archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-sensors-energy-efficient-smart-buildings",
+      "path": "/de/our-stories/sensors-energy-efficient-smart-buildings",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 9.29,
+      "textPct": 10.35,
+      "heightDelta": -10,
+      "originH": 8751,
+      "edsH": 8761,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 34,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2000-2500:27.1%",
+        "2500-3000:20%",
+        "3000-3500:31.8%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-smart-things-consumer-devices",
+      "path": "/de/our-stories/smart-things-consumer-devices",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 6.06,
+      "textPct": 8.27,
+      "heightDelta": -90,
+      "originH": 7285,
+      "edsH": 7375,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 21,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "6000-6500:23.1%",
+        "6500-7000:21.7%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-smart-health-appliances",
+      "path": "/de/our-stories/smart-health-appliances",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 9.8,
+      "textPct": 8.22,
+      "heightDelta": 116,
+      "originH": 5605,
+      "edsH": 5489,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 15,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "3000-3500:23.9%",
+        "3500-4000:16.6%",
+        "4000-4500:15.1%",
+        "4500-5000:15.4%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-smart-factory-technologies",
+      "path": "/de/our-stories/smart-factory-technologies",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 9.69,
+      "textPct": 11.09,
+      "heightDelta": 106,
+      "originH": 5866,
+      "edsH": 5760,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 23,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "3500-4000:23.7%",
+        "4000-4500:27.9%",
+        "4500-5000:15.5%",
+        "5000-5500:24.1%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-smart-home-building-technologies",
+      "path": "/de/our-stories/smart-home-building-technologies",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 16.85,
+      "textPct": 11.92,
+      "heightDelta": 186,
+      "originH": 6668,
+      "edsH": 6482,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 16.85% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 21,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "pixel residual 16.85% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh 186px within 5 %; measured cause: heading/box gaps the template tokens do not reach (final-stories REPORT). Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+        "waives": [
+          "fonts",
+          "pixel"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2000-2500:32.1%",
+        "3000-3500:16.6%",
+        "3500-4000:35.8%",
+        "4000-4500:17.1%",
+        "4500-5000:27.6%",
+        "5000-5500:41.9%",
+        "5500-6000:16%",
+        "6000-6482:23.5%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-green-iot",
+      "path": "/de/our-stories/green-iot",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 3.35,
+      "textPct": 3.66,
+      "heightDelta": 78,
+      "originH": 8015,
+      "edsH": 7937,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 25,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "6500-7000:23.9%",
+        "7000-7500:19.4%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-smart-factory-semiconductor-solutions",
+      "path": "/de/our-stories/smart-factory-semiconductor-solutions",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 7.76,
+      "textPct": 12.73,
+      "heightDelta": 14,
+      "originH": 5596,
+      "edsH": 5582,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 27,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2500-3000:15.6%",
+        "3500-4000:21.8%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-artificial-intelligence-semiconductors",
+      "path": "/de/our-stories/artificial-intelligence-semiconductors",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 19.22,
+      "textPct": 17.41,
+      "heightDelta": 114,
+      "originH": 10273,
+      "edsH": 10159,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 19.22% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 33,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "pixel residual 19.22% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh 114px within 5 %; measured cause: 2x2 text/picture grid inset 8 px on the source and its head-row gap 40 vs 16. Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+        "waives": [
+          "fonts",
+          "pixel"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "1500-2000:23.5%",
+        "2500-3000:25.2%",
+        "3000-3500:33.8%",
+        "4500-5000:15.8%",
+        "5500-6000:37%",
+        "6000-6500:20.6%",
+        "7000-7500:39%",
+        "7500-8000:31%",
+        "8000-8500:38.2%",
+        "8500-9000:34%",
+        "9500-10000:24.3%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-we-power-ai",
+      "path": "/de/our-stories/we-power-ai",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 8.13,
+      "textPct": 13.07,
+      "heightDelta": -71,
+      "originH": 9743,
+      "edsH": 9814,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 36,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about / pillar archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "7500-8000:31.3%",
+        "8000-8500:19.3%",
+        "9000-9500:18.5%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-enable-provide-ai-customer-innovation",
+      "path": "/de/our-stories/enable-provide-ai-customer-innovation",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 9.34,
+      "textPct": 12.93,
+      "heightDelta": -33,
+      "originH": 10199,
+      "edsH": 10232,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 24,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "4500-5000:16.5%",
+        "7000-7500:28.8%",
+        "8000-8500:16.4%",
+        "8500-9000:21.7%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-micromobility",
+      "path": "/de/our-stories/micromobility",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 12.32,
+      "textPct": 12.6,
+      "heightDelta": -62,
+      "originH": 7045,
+      "edsH": 7107,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 12.32% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 19,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "pixel residual 12.32% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh -62px within 5 %; measured cause: box head h2 is heading-02 on the source (36/48 vs 28/36), case-study eyebrow heading-04. Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+        "waives": [
+          "fonts",
+          "pixel"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "1000-1500:18.7%",
+        "1500-2000:21.5%",
+        "3000-3500:19%",
+        "3500-4000:48.1%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-micromobility-battery-swapping",
+      "path": "/de/our-stories/micromobility-battery-swapping",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 8.06,
+      "textPct": 11.71,
+      "heightDelta": -82,
+      "originH": 5782,
+      "edsH": 5864,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 19,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2500-3000:17.5%",
+        "3000-3500:20.4%",
+        "5000-5500:20.5%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-charging-infrastructure",
+      "path": "/de/our-stories/charging-infrastructure",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 3.72,
+      "textPct": 6.46,
+      "heightDelta": -22,
+      "originH": 7818,
+      "edsH": 7840,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 27,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-fast-charging-solutions",
+      "path": "/de/our-stories/fast-charging-solutions",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 3.14,
+      "textPct": 8.55,
+      "heightDelta": -2,
+      "originH": 4985,
+      "edsH": 4987,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 19,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-bi-directional-charging",
+      "path": "/de/our-stories/bi-directional-charging",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 6.09,
+      "textPct": 8.06,
+      "heightDelta": 92,
+      "originH": 6344,
+      "edsH": 6252,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 21,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "4500-5000:15.5%",
+        "5500-6000:22.1%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-software-defined-vehicles",
+      "path": "/de/our-stories/software-defined-vehicles",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 10.64,
+      "textPct": 14.73,
+      "heightDelta": 118,
+      "originH": 12818,
+      "edsH": 12700,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 10.64% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 47,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "pixel residual 10.64% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh 118px within 5 %; measured cause: pillar rail card image taller than the source (about 190 vs 150 px) and box text wrap. Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+        "waives": [
+          "fonts",
+          "pixel"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "6000-6500:16.1%",
+        "8000-8500:22%",
+        "10500-11000:32.9%",
+        "11000-11500:36.3%",
+        "11500-12000:20.3%",
+        "12000-12500:25.6%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-emission-saving-potential-freight-transportation",
+      "path": "/de/our-stories/emission-saving-potential-freight-transportation",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 9.5,
+      "textPct": 10.68,
+      "heightDelta": -126,
+      "originH": 5653,
+      "edsH": 5779,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 27,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "3000-3500:17.3%",
+        "4000-4500:32.6%",
+        "5000-5500:26.1%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-shaping-the-future-of-mobility",
+      "path": "/de/our-stories/shaping-the-future-of-mobility",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 8.6,
+      "textPct": 11.56,
+      "heightDelta": -54,
+      "originH": 6228,
+      "edsH": 6282,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 18,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "4500-5000:26%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-public-transportation",
+      "path": "/de/our-stories/public-transportation",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 8.24,
+      "textPct": 5.9,
+      "heightDelta": -128,
+      "originH": 9437,
+      "edsH": 9565,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 30,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "6500-7000:28.4%",
+        "7000-7500:54.8%",
+        "8000-8500:31.1%",
+        "8500-9000:25%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-electromobility-greener-future",
+      "path": "/de/our-stories/electromobility-greener-future",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 0.3,
+      "textPct": 1.02,
+      "heightDelta": -2,
+      "originH": 10785,
+      "edsH": 10787,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 32,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-green-buildings-rise",
+      "path": "/de/our-stories/green-buildings-rise",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 3.73,
+      "textPct": 7.16,
+      "heightDelta": 2,
+      "originH": 8442,
+      "edsH": 8440,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 40,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-power-infrastructure-renewables",
+      "path": "/de/our-stories/power-infrastructure-renewables",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 8.45,
+      "textPct": 14.37,
+      "heightDelta": -14,
+      "originH": 11668,
+      "edsH": 11682,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 38,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about / pillar archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "7000-7500:15.1%",
+        "7500-8000:15.9%",
+        "9500-10000:17.7%",
+        "10000-10500:15.4%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-essential-role-cybersecurity",
+      "path": "/de/our-stories/essential-role-cybersecurity",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 3.52,
+      "textPct": 6.41,
+      "heightDelta": -19,
+      "originH": 7087,
+      "edsH": 7106,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 20,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-how-microcontroller-enable-risc-v",
+      "path": "/de/our-stories/how-microcontroller-enable-risc-v",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 10.32,
+      "textPct": 13.14,
+      "heightDelta": 58,
+      "originH": 7227,
+      "edsH": 7169,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 10.32% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 23,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "pixel residual 10.32% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh 58px within 5 %; measured cause: section spacing deltas accumulated below the hero (offset-contaminated bands). Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+        "waives": [
+          "fonts",
+          "pixel"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "1500-2000:27.8%",
+        "5000-5500:31%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-semiconductors-key-technology-software-defined-vehicles",
+      "path": "/de/our-stories/semiconductors-key-technology-software-defined-vehicles",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 3.58,
+      "textPct": 6.29,
+      "heightDelta": 78,
+      "originH": 3012,
+      "edsH": 2934,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 7,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2000-2500:18.7%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-software-defined-vehicle-agm",
+      "path": "/de/our-stories/software-defined-vehicle-agm",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 3.67,
+      "textPct": 7.25,
+      "heightDelta": 78,
+      "originH": 2988,
+      "edsH": 2910,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 7,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2000-2500:19.1%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-ecosystem-summit",
+      "path": "/de/our-stories/ecosystem-summit",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 8.69,
+      "textPct": 10.38,
+      "heightDelta": 14,
+      "originH": 4797,
+      "edsH": 4783,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 10,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "1000-1500:39.1%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-enabling-ethernet",
+      "path": "/de/our-stories/enabling-ethernet",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 6.67,
+      "textPct": 9.44,
+      "heightDelta": -52,
+      "originH": 7943,
+      "edsH": 7995,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 28,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "6500-7000:41.8%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-european-cyber-resilience-act",
+      "path": "/de/our-stories/european-cyber-resilience-act",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 14.74,
+      "textPct": 13.07,
+      "heightDelta": -82,
+      "originH": 4785,
+      "edsH": 4867,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 14.74% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 15,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "pixel residual 14.74% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh -82px within 5 %; measured cause: heading inside its columns block +32 / +40. Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+        "waives": [
+          "fonts",
+          "pixel"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2000-2500:38.2%",
+        "2500-3000:27.1%",
+        "3000-3500:15.9%",
+        "3500-4000:22.1%",
+        "4000-4500:20.1%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-semiconductors-key-technology-sst-sscb",
+      "path": "/de/our-stories/semiconductors-key-technology-sst-sscb",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 9.75,
+      "textPct": 8.52,
+      "heightDelta": -42,
+      "originH": 3696,
+      "edsH": 3738,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 7,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2000-2500:23.7%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-mobility-tech-talk-software-defined-vehicles",
+      "path": "/de/our-stories/mobility-tech-talk-software-defined-vehicles",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 7.08,
+      "textPct": 8.76,
+      "heightDelta": 14,
+      "originH": 3108,
+      "edsH": 3094,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 7,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "1500-2000:35.7%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-rc1-for-sdv-sdx-and-physical-ai",
+      "path": "/de/our-stories/rc1-for-sdv-sdx-and-physical-ai",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 17.41,
+      "textPct": 19.21,
+      "heightDelta": -132,
+      "originH": 6486,
+      "edsH": 6618,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 17.41% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 20,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "pixel residual 17.41% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh -132px within 5 %; measured cause: h2 after hero +48 and the 12/12 RISC-V block (cluster-article residuals.md). Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+        "waives": [
+          "fonts",
+          "pixel"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "1000-1500:17.8%",
+        "3000-3500:37.1%",
+        "3500-4000:21.9%",
+        "4500-5000:38.5%",
+        "5000-5500:47.2%",
+        "5500-6000:15.8%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-artificial-intelligence-in-everyday-life",
+      "path": "/de/our-stories/artificial-intelligence-in-everyday-life",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 9.73,
+      "textPct": 11.91,
+      "heightDelta": 126,
+      "originH": 10416,
+      "edsH": 10290,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 31,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about / pillar archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "1500-2000:25%",
+        "5500-6000:15.6%",
+        "8000-8500:28.5%",
+        "8500-9000:18.7%",
+        "9000-9500:18.8%",
+        "9500-10000:26.8%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-event-techfor",
+      "path": "/de/event/techfor",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 0.83,
+      "textPct": 1.87,
+      "heightDelta": 0,
+      "originH": 3424,
+      "edsH": 3424,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 12,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-support-service-center",
+      "path": "/de/support/service-center",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 0.46,
+      "textPct": 4.44,
+      "heightDelta": 0,
+      "originH": 4410,
+      "edsH": 4410,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 1,
+        "hiddenButtons": 0,
+        "findings": 12,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    },
+    {
+      "slug": "de-support-faqs",
+      "path": "/de/support/faqs",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 3.47,
+      "textPct": 10.56,
+      "heightDelta": -27,
+      "originH": 2422,
+      "edsH": 2449,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 20,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    }
+  ]
+}

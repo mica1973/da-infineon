@@ -1,0 +1,77 @@
+{
+ "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/green-buildings-rise",
+ "at": "2026-11-18T23:18:22.131Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 2,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 3,
+  "offPage": 0,
+  "textNodes": 140,
+  "controls": 75,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.story-hub-card-title",
+   "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+   "text": "xensiv™ pas co2-sensor von infineon erfüllt die kriterien de",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.story-hub-card-type",
+   "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-type > p",
+   "text": "pressemeldung",
+   "cutMin": 71,
+   "cutMax": 71
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.story-hub.rail",
+   "path": "div.story-hub-card-body > div.story-hub-card-link > p > a",
+   "text": "mehr erfahren",
+   "cutMin": 50,
+   "cutMax": 50
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.story-hub.rail",
+   "path": "div.story-hub-card-body > div.story-hub-card-link > p > a",
+   "text": "mehr erfahren",
+   "cutMin": 26,
+   "cutMax": 26
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 2,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 2,
+   "offPage": 0,
+   "textNodes": 140,
+   "controls": 70,
+   "total": 0
+  }
+ }
+}

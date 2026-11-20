@@ -1,0 +1,135 @@
+{
+  "_provenance": {
+    "writtenBy": "gate-all.mjs",
+    "writtenAt": "2026-11-18T07:18:47.836Z",
+    "stage": "published",
+    "breakpoint": 360,
+    "threshold": 10,
+    "heightTolerance": 0.05,
+    "clipMax": 0,
+    "unitTol": 4,
+    "criteria": {
+      "pixel": true,
+      "height": true,
+      "clip": true,
+      "content": true
+    },
+    "verdict": "overlap pixel % ≤ 10 AND |Δh| ≤ 5% of origin height AND clipped ≤ 0 (+ documented allowance) AND content MISSING + HIDDEN links/headings = 0",
+    "origin": "https://www.infineon.com",
+    "eds": "https://main--938eead7--aemcoder.aem.page",
+    "edsHostOverride": "https://main--938eead7--aemcoder.aem.page",
+    "only": [
+      "index"
+    ]
+  },
+  "totals": {
+    "pages": 1,
+    "pass": 0,
+    "pixelOnlyPass": 0,
+    "overridePass": 0,
+    "fail": 1,
+    "error": 0,
+    "failPixel": 1,
+    "failHeight": 1,
+    "failClip": 0,
+    "failContent": 0,
+    "failUnits": 1,
+    "fontsNotLoaded": 1,
+    "fontChecksSkipped": 0,
+    "contentNA": 0,
+    "asymmetricOrigins": 0,
+    "degradedTier": 0,
+    "passWithOverrides": 0
+  },
+  "rows": [
+    {
+      "slug": "index",
+      "path": "/",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 35.35,
+      "textPct": 38.93,
+      "heightDelta": -1706,
+      "originH": 11066,
+      "edsH": 12772,
+      "pixelPass": false,
+      "heightPass": false,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": false,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "height",
+        "units",
+        "fonts"
+      ],
+      "unwaived": [
+        "pixel",
+        "height",
+        "units",
+        "fonts"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 35.35% > 10%",
+        "Δh -1706px > 5% of 11066",
+        "units off 6 hidden 0 missing 3",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 43,
+        "variable": []
+      },
+      "units": {
+        "units": 12,
+        "within": 77,
+        "off": 6,
+        "hidden": 0,
+        "missing": 3,
+        "errors": 1,
+        "requiredOff": 9
+      },
+      "unitsRequired": true,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": null,
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "0-500:43.8%",
+        "5000-5500:22.4%",
+        "5500-6000:85%",
+        "6000-6500:81.5%",
+        "6500-7000:72.6%",
+        "7000-7500:48.9%",
+        "7500-8000:53.8%",
+        "8000-8500:56.9%",
+        "8500-9000:53.9%",
+        "9000-9500:50.8%",
+        "9500-10000:40.8%",
+        "10000-10500:57.8%",
+        "10500-11000:92.4%",
+        "11000-11066:92%"
+      ],
+      "error": null
+    }
+  ]
+}

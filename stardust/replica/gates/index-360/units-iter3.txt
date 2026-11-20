@@ -1,0 +1,162 @@
+[live-session] waiting to pace live navigations to www.infineon.com (1000 ms apart, 1 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+unit-geometry @ 360px, tol 4px — https://www.infineon.com/ vs http://localhost:8791/index-proposed.html
+unit 1 of home-market-cards (required) #pzn-home-teaser-row-cards .row-cards-type=.markets .mk-card: origin 16,991 328×378 vs served 16,991 328×378 → Δx 0 Δy 0 Δw 0 Δh 0; 5 elements: 5 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:picture.img-container#1" | 4,0 324×160 | 4,0 324×160 | 0 | 0 | 0 | 0 | ✓ |
+| image "electromobility" | 4,0 324×160 | 4,0 324×160 | 0 | 0 | 0 | 0 | ✓ |
+| text "made with ai" | 16,12 75×19 | 16,12 75×19 | 0 | 0 | 0 | 0 | ✓ |
+| text "we support the transition to electro" | 28,244 276×72 | 28,244 276×72 | 0 | 0 | 0 | 0 | ✓ |
+| link "all about electromobility" | 28,338 195×24 | 28,338 195×24 | 0 | 0 | 0 | 0 | ✓ |
+unit 2 of home-market-cards (required) #pzn-home-teaser-row-cards .row-cards-type=.markets .mk-card: origin 16,1401 328×378 vs served 16,1401 328×378 → Δx 0 Δy 0 Δw 0 Δh 0; 5 elements: 5 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:picture.img-container#1" | 4,0 324×160 | 4,0 324×160 | 0 | 0 | 0 | 0 | ✓ |
+| image "software-defined vehicles" | 4,0 324×160 | 4,0 324×160 | 0 | 0 | 0 | 0 | ✓ |
+| text "made with ai" | 16,12 75×19 | 16,12 75×19 | 0 | 0 | 0 | 0 | ✓ |
+| text "we enable software-defined vehicles " | 28,244 276×72 | 28,244 276×72 | 0 | 0 | 0 | 0 | ✓ |
+| link "all about software-defined vehicles" | 28,338 265×24 | 28,338 265×24 | 0 | 0 | 0 | 0 | ✓ |
+unit 3 of home-market-cards (required) #pzn-home-teaser-row-cards .row-cards-type=.markets .mk-card: origin 16,1811 328×378 vs served 16,1811 328×378 → Δx 0 Δy 0 Δw 0 Δh 0; 5 elements: 5 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:picture.img-container#1" | 4,0 324×160 | 4,0 324×160 | 0 | 0 | 0 | 0 | ✓ |
+| image "robotics" | 4,0 324×160 | 4,0 324×160 | 0 | 0 | 0 | 0 | ✓ |
+| text "made with ai" | 16,12 75×19 | 16,12 75×19 | 0 | 0 | 0 | 0 | ✓ |
+| text "we empower robots with semiconductor" | 28,244 276×72 | 28,244 276×72 | 0 | 0 | 0 | 0 | ✓ |
+| link "all about robotics" | 28,338 145×24 | 28,338 145×24 | 0 | 0 | 0 | 0 | ✓ |
+unit 4 of home-market-cards (required) #pzn-home-teaser-row-cards .row-cards-type=.markets .mk-card: origin 16,2221 328×378 vs served 16,2221 328×378 → Δx 0 Δy 0 Δw 0 Δh 0; 5 elements: 5 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:picture.img-container#1" | 4,0 324×160 | 4,0 324×160 | 0 | 0 | 0 | 0 | ✓ |
+| image "smart living" | 4,0 324×160 | 4,0 324×160 | 0 | 0 | 0 | 0 | ✓ |
+| text "made with ai" | 16,12 75×19 | 16,12 75×19 | 0 | 0 | 0 | 0 | ✓ |
+| text "we bring intelligence closer to ever" | 28,244 276×72 | 28,244 276×72 | 0 | 0 | 0 | 0 | ✓ |
+| link "all about smart living" | 28,338 170×24 | 28,338 170×24 | 0 | 0 | 0 | 0 | ✓ |
+unit 1 of home-product-cards (required) .cmp-productcarousel .swiper-slide=.np .np-card: origin 16,3601 300×315 vs served 16,3601 300×315 → Δx 0 Δy 0 Δw 0 Δh 0; 10 elements: 9 within 4px, 0 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| box "box:div.cmp-productcarousel__image-w" | 0,0 300×160 | 0,0 300×160 | 0 | 0 | 0 | 0 | ✓ |
+| image "igc016k10s2" | 16,16 268×128 | 16,16 268×128 | 0 | 0 | 0 | 0 | ✓ |
+| text "new" | 16,16 44×23 | 16,16 44×23 | 0 | 0 | 0 | 0 | ✓ |
+| text "medium-voltage gan transistors" | 16,176 268×20 | 16,176 268×20 | 0 | 0 | 0 | 0 | ✓ |
+| heading "igc016k10s2" | 16,196 268×24 | 16,196 268×24 | 0 | 0 | 0 | 0 | ✓ |
+| link "igc016k10s2" | 16,197 90×22 | 16,197 90×22 | 0 | 0 | 0 | 0 | ✓ |
+| text "coolgan™ transistor 100 v g5 in pqfn" | 16,220 268×42 | 16,220 268×40 | 0 | 0 | 0 | -2 | ✓ |
+| link "view product" | 16,278 77×21 | 16,278 77×21 | 0 | 0 | 0 | 0 | ✓ |
+| link "view family" | 109,278 67×21 | 109,278 67×21 | 0 | 0 | 0 | 0 | ✓ |
+| box "box:article.cmp-productcarousel__car" | 0,0 300×315 | — | | | | | ✗ missing |
+unit 2 of home-product-cards (required) .cmp-productcarousel .swiper-slide=.np .np-card: origin 332,3601 300×315 vs served 332,3601 300×315 → Δx 0 Δy 0 Δw 0 Δh 0; 10 elements: 0 within 4px, 0 off, 9 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| box "box:div.cmp-productcarousel__image-w" | 0,0 300×160 | 0,0 300×160 | 0 | 0 | 0 | 0 | ✗ hidden (clipped) |
+| image "df300r07w2s5_b77" | 16,16 268×128 | 16,16 268×128 | 0 | 0 | 0 | 0 | ✗ hidden (clipped) |
+| text "new" | 16,16 44×23 | 16,16 44×23 | 0 | 0 | 0 | 0 | ✗ hidden (clipped) |
+| text "igbt modules" | 16,176 268×20 | 16,176 268×20 | 0 | 0 | 0 | 0 | ✗ hidden (clipped) |
+| heading "df300r07w2s5_b77" | 16,196 268×24 | 16,196 268×24 | 0 | 0 | 0 | 0 | ✗ hidden (clipped) |
+| link "df300r07w2s5_b77" | 16,197 138×22 | 16,197 138×22 | 0 | 0 | 0 | 0 | ✗ hidden (clipped) |
+| text "650 v, 300 a booster igbt module" | 16,220 268×42 | 16,220 268×40 | 0 | 0 | 0 | -2 | ✗ hidden (clipped) |
+| link "view product" | 16,278 77×21 | 16,278 77×21 | 0 | 0 | 0 | 0 | ✗ hidden (clipped) |
+| link "link:a.cmp-productcarousel__link.cmp" | 109,278 67×21 | 109,278 67×21 | 0 | 0 | 0 | 0 | ✗ hidden (clipped) |
+| box "box:article.cmp-productcarousel__car" | 0,0 300×315 | — | | | | | ✗ missing |
+unit 1 of home-event-slides (required) .marketingEvent .swiper-slide=.ev .ev-slide: origin 16,4457 305×360 vs served 16,4457 306×360 → Δx 0 Δy 0 Δw +1 Δh 0; 8 elements: 6 within 4px, 1 off, 0 hidden, 1 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "nov 18th, 2026 singapore fintech fes" | 4,0 301×360 | 4,0 302×360 | 0 | 0 | +1 | 0 | ✓ |
+| image "image:picture#1" | 4,68 301×22 | 4,0 302×160 | 0 | -68 | +1 | +138 | ✗ |
+| text "nov 18th, 2026" | 28,176 86×20 | 28,176 86×20 | 0 | 0 | 0 | 0 | ✓ |
+| heading "singapore fintech festival 2026" | 28,196 253×26 | 28,196 254×26 | 0 | 0 | +1 | 0 | ✓ |
+| text "face-to-f..." | 28,256 86×20 | 28,258 88×20 | 0 | +2 | +2 | 0 | ✓ |
+| text "tradeshows & conferences" | 131,256 151×20 | 133,258 149×20 | +2 | +2 | -2 | 0 | ✓ |
+| text "at singapore fintech festival 2026, " | 28,284 253×52 | 28,284 254×52 | 0 | 0 | +1 | 0 | ✓ |
+| image "image:img.image.image-crop#1" | 4,0 301×160 | — | | | | | ✗ missing |
+| box "box:li.ev-card__div#1" | — | 124,261 1×14 | | | | | 🟡 extra |
+unit 2 of home-event-slides (required) .marketingEvent .swiper-slide=.ev .ev-slide: origin 337,4457 305×360 vs served 338,4457 306×360 → Δx +1 Δy 0 Δw +1 Δh 0; 9 elements: 0 within 4px, 6 off, 8 hidden, 1 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "link:a.card#1" | 4,0 301×360 | 4,0 302×360 | 0 | 0 | +1 | 0 | ✗ hidden (clipped) |
+| image "image:picture#1" | 4,68 301×22 | 4,0 302×160 | 0 | -68 | +1 | +138 | ✗ hidden (clipped) |
+| text "nov 19th, 2026" | 28,176 86×20 | 28,176 86×20 | 0 | 0 | 0 | 0 | ✗ hidden (clipped) |
+| heading "heading:h5.Article-title#1" | 28,196 253×52 | 28,196 254×26 | 0 | 0 | +1 | -26 | ✗ hidden (clipped) |
+| text "online" | 28,264 63×20 | 28,258 63×20 | 0 | -6 | 0 | 0 | ✗ hidden (clipped) |
+| text "live" | 108,264 24×20 | 108,258 24×20 | 0 | -6 | 0 | 0 | ✗ hidden (clipped) |
+| box "box:span.icon.icon-online-event#1" | 28,267 16×16 | 28,260 16×16 | 0 | -7 | 0 | 0 | ✗ hidden (clipped) |
+| text "webinar: point-of-load regulation fo" | 28,292 253×52 | 28,284 254×52 | 0 | -8 | +1 | 0 | ✗ hidden (clipped) |
+| image "image:img.image.image-crop#1" | 4,0 301×160 | — | | | | | ✗ missing |
+| box "box:li.ev-card__div#1" | — | 99,261 1×14 | | | | | 🟡 extra |
+unit 1 of home-story-cards (required) #articlecards .card=.st .st-card: origin 17,5691 327×414 vs served 17,5691 327×414 → Δx 0 Δy 0 Δw 0 Δh 0; 7 elements: 6 within 4px, 0 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| box "box:div.card-body#1" | 4,160 323×254 | 4,160 323×254 | 0 | 0 | 0 | 0 | ✓ |
+| text "we turn intelligence into motion. fr" | 28,160 275×56 | 28,160 275×52 | 0 | 0 | 0 | -4 | ✓ |
+| text "your hand switches from a gentle gri" | 28,232 275×78 | 28,232 275×78 | 0 | 0 | 0 | 0 | ✓ |
+| text "robotics" | 28,326 69×30 | 28,326 69×30 | 0 | 0 | 0 | 0 | ✓ |
+| text "article" | 28,370 61×20 | 28,370 63×20 | 0 | 0 | +2 | 0 | ✓ |
+| text "nov 16th, 2026" | 97,370 98×20 | 99,370 98×20 | +2 | 0 | 0 | 0 | ✓ |
+| image "image:picture#1" | 4,0 323×160 | — | | | | | ✗ missing |
+unit 2 of home-story-cards (required) #articlecards .card=.st .st-card: origin 17,6137 327×414 vs served 17,6137 327×414 → Δx 0 Δy 0 Δw 0 Δh 0; 7 elements: 6 within 4px, 0 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| box "box:div.card-body#1" | 4,160 323×254 | 4,160 323×254 | 0 | 0 | 0 | 0 | ✓ |
+| text "aurix™ rc1: redefining real-time com" | 28,160 275×56 | 28,160 275×52 | 0 | 0 | 0 | -4 | ✓ |
+| text "we are redefining real time compute " | 28,232 275×78 | 28,232 275×78 | 0 | 0 | 0 | 0 | ✓ |
+| text "software-defined..." | 28,326 130×30 | 28,326 130×30 | 0 | 0 | 0 | 0 | ✓ |
+| text "article" | 28,370 61×20 | 28,370 63×20 | 0 | 0 | +2 | 0 | ✓ |
+| text "nov 3rd, 2026" | 97,370 92×20 | 99,370 92×20 | +2 | 0 | 0 | 0 | ✓ |
+| image "image:picture#1" | 4,0 323×160 | — | | | | | ✗ missing |
+unit 3 of home-story-cards (required) #articlecards .card=.st .st-card: origin 17,6583 327×414 vs served 17,6583 327×414 → Δx 0 Δy 0 Δw 0 Δh 0; 7 elements: 6 within 4px, 0 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| box "box:div.card-body#1" | 4,160 323×254 | 4,160 323×254 | 0 | 0 | 0 | 0 | ✓ |
+| text "bringing artificial intelligence int" | 28,160 275×56 | 28,160 275×52 | 0 | 0 | 0 | -4 | ✓ |
+| text "smart living is about bringing artif" | 28,232 275×78 | 28,232 275×78 | 0 | 0 | 0 | 0 | ✓ |
+| text "smart living" | 28,326 88×30 | 28,326 88×30 | 0 | 0 | 0 | 0 | ✓ |
+| text "article" | 28,370 61×20 | 28,370 63×20 | 0 | 0 | +2 | 0 | ✓ |
+| text "oct 28th, 2026" | 97,370 95×20 | 99,370 95×20 | +2 | 0 | 0 | 0 | ✓ |
+| image "image:picture#1" | 4,0 323×160 | — | | | | | ✗ missing |
+unit 4 of home-story-cards (required) #articlecards .card=.st .st-card: origin 17,7029 327×414 vs served 17,7029 327×414 → Δx 0 Δy 0 Δw 0 Δh 0; 8 elements: 6 within 4px, 1 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| box "box:div.card-body#1" | 4,160 323×254 | 4,160 323×254 | 0 | 0 | 0 | 0 | ✓ |
+| text "we make power infrastructure future-" | 28,160 275×56 | 28,160 275×52 | 0 | 0 | 0 | -4 | ✓ |
+| text "the age of electricity is here – and" | 28,232 275×78 | 28,232 275×78 | 0 | 0 | 0 | 0 | ✓ |
+| text "power infrastruc..." | 28,326 124×30 | 28,326 124×30 | 0 | 0 | 0 | 0 | ✓ |
+| text "po..." ≈ "powerin..." (by position) | 160,326 44×30 | 160,326 77×30 | 0 | 0 | +33 | 0 | ✗ |
+| text "article" | 28,370 61×20 | 28,370 63×20 | 0 | 0 | +2 | 0 | ✓ |
+| text "sep 3rd, 2026" | 97,370 91×20 | 99,370 91×20 | +2 | 0 | 0 | 0 | ✓ |
+| image "image:picture#1" | 4,0 323×160 | — | | | | | ✗ missing |
+unit 1 of footer-link-columns (required) footer .link-list=.site-footer__list: origin 16,10340 164×276 vs served 16,10339 164×276 → Δx 0 Δy -1 Δw 0 Δh 0; 6 elements: 6 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "about us" | 0,0 96×24 | 0,0 96×24 | 0 | 0 | 0 | 0 | ✓ |
+| link "company" | 0,40 72×26 | 0,40 72×26 | 0 | 0 | 0 | 0 | ✓ |
+| link "contact us" | 0,82 80×26 | 0,82 80×26 | 0 | 0 | 0 | 0 | ✓ |
+| link "events" | 0,124 50×26 | 0,124 50×26 | 0 | 0 | 0 | 0 | ✓ |
+| link "press" | 0,166 40×26 | 0,166 40×26 | 0 | 0 | 0 | 0 | ✓ |
+| link "investor" | 0,208 61×26 | 0,208 61×26 | 0 | 0 | 0 | 0 | ✓ |
+unit 2 of footer-link-columns (required) footer .link-list=.site-footer__list: origin 180,10340 164×276 vs served 180,10339 164×276 → Δx 0 Δy -1 Δw 0 Δh 0; 7 elements: 7 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "quicklinks" | 16,0 118×24 | 16,0 118×24 | 0 | 0 | 0 | 0 | ✓ |
+| link "community" | 16,40 88×26 | 16,40 88×26 | 0 | 0 | 0 | 0 | ✓ |
+| link "support" | 16,82 61×26 | 16,82 61×26 | 0 | 0 | 0 | 0 | ✓ |
+| link "where to buy" | 16,124 99×26 | 16,124 99×26 | 0 | 0 | 0 | 0 | ✓ |
+| link "online sampling" | 16,166 123×26 | 16,166 123×26 | 0 | 0 | 0 | 0 | ✓ |
+| link "quality" | 16,208 54×26 | 16,208 54×26 | 0 | 0 | 0 | 0 | ✓ |
+| link "website feedback" | 16,250 132×26 | 16,250 132×26 | 0 | 0 | 0 | 0 | ✓ |
+unit 3 of footer-link-columns (required) footer .link-list=.site-footer__list: origin 16,10656 164×192 vs served 16,10655 164×192 → Δx 0 Δy -1 Δw 0 Δh 0; 4 elements: 4 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "myinfineon" | 0,0 120×24 | 0,0 120×24 | 0 | 0 | 0 | 0 | ✓ |
+| link "benefits" | 0,40 61×26 | 0,40 61×26 | 0 | 0 | 0 | 0 | ✓ |
+| link "profile center" | 0,82 100×26 | 0,82 100×26 | 0 | 0 | 0 | 0 | ✓ |
+| link "register" | 0,124 61×26 | 0,124 61×26 | 0 | 0 | 0 | 0 | ✓ |
+unit 4 of footer-link-columns (required) footer .link-list=.site-footer__list: origin 180,10656 164×192 vs served 180,10655 164×192 → Δx 0 Δy -1 Δw 0 Δh 0; 5 elements: 5 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "careers" | 16,0 85×24 | 16,0 85×24 | 0 | 0 | 0 | 0 | ✓ |
+| link "overview" | 16,40 71×26 | 16,40 71×26 | 0 | 0 | 0 | 0 | ✓ |
+| link "job search" | 16,82 83×26 | 16,82 83×26 | 0 | 0 | 0 | 0 | ✓ |
+| link "teams" | 16,124 49×26 | 16,124 49×26 | 0 | 0 | 0 | 0 | ✓ |
+| link "how to apply" | 16,166 99×26 | 16,166 99×26 | 0 | 0 | 0 | 0 | ✓ |
+Units: 16 compared; elements within 81, off 8, hidden 17, missing 8 → FAIL
+json → stardust/replica/gates/index-360/units-iter3.json

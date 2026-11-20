@@ -1,0 +1,2564 @@
+{
+ "tool": "chrome-explore",
+ "url": "https://www.infineon.com/de",
+ "at": "2026-11-18T04:01:52.066Z",
+ "shots": "stardust/.work/chrome/header-contract",
+ "widths": {
+  "360": {
+   "root": "#container-868ea39d6d>div>div>header>div",
+   "controls": [
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#indiLogo",
+     "href": "https://www.infineon.com/de",
+     "expanded": null,
+     "rect": [
+      16,
+      14,
+      82,
+      36
+     ],
+     "actions": {}
+    },
+    {
+     "name": "",
+     "key": "",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#infiContainer>div:nth-of-type(1)>div>button:nth-of-type(1)",
+     "expanded": null,
+     "rect": [
+      164,
+      14,
+      40,
+      34
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 6,
+       "panel": {
+        "links": [
+         {
+          "text": "Close",
+          "href": "https://www.infineon.com/de#"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         0,
+         12,
+         360,
+         38
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "360-001-toggle-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 9,
+       "panel": {
+        "links": [
+         {
+          "text": "Close",
+          "href": "https://www.infineon.com/de#"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         }
+        ],
+        "headings": [
+         "Singapore FinTech Festival 2026"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         20,
+         15,
+         330,
+         830
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "360-002-toggle-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": false,
+      "toggle": false
+     }
+    },
+    {
+     "name": "Cart",
+     "key": "cart",
+     "role": "toggle",
+     "kind": "cart",
+     "sel": "#cart-Icon-0",
+     "expanded": null,
+     "rect": [
+      220,
+      15,
+      24,
+      24
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 3,
+       "panel": {
+        "links": [
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         }
+        ],
+        "headings": [
+         "Singapore FinTech Festival 2026"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "Login",
+         "Register",
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         20,
+         241,
+         330,
+         603
+        ]
+       },
+       "expanded": null,
+       "focus": "elsewhere",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.modal-backdrop"
+        },
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-out",
+         "target": "div.modal-dialog"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.fade"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "360-003-Cart-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 3,
+       "panel": {
+        "links": [
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         }
+        ],
+        "headings": [
+         "Singapore FinTech Festival 2026"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "Login",
+         "Register",
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         20,
+         241,
+         330,
+         603
+        ]
+       },
+       "expanded": null,
+       "focus": "elsewhere",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.modal-backdrop"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.fade"
+        },
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-out",
+         "target": "div.modal-dialog"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "360-004-Cart-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": false
+     }
+    },
+    {
+     "name": "",
+     "key": "",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#infiContainer>div:nth-of-type(1)>div>button:nth-of-type(2)",
+     "expanded": null,
+     "rect": [
+      260,
+      17,
+      40,
+      25
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 4,
+       "panel": {
+        "links": [
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         }
+        ],
+        "headings": [
+         "Singapore FinTech Festival 2026"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "close-navigation",
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         20,
+         11,
+         330,
+         833
+        ]
+       },
+       "expanded": null,
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "360-005-toggle-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 3,
+       "panel": {
+        "links": [
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         }
+        ],
+        "headings": [
+         "Singapore FinTech Festival 2026"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         20,
+         728,
+         330,
+         116
+        ]
+       },
+       "expanded": null,
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "360-006-toggle-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": false
+     }
+    },
+    {
+     "name": "Toggle navigation",
+     "key": "toggle navigation",
+     "role": "toggle",
+     "kind": "drawer",
+     "sel": "#infiContainer>div:nth-of-type(1)>div>button:nth-of-type(3)",
+     "expanded": "false",
+     "rect": [
+      308,
+      14,
+      36,
+      36
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 3,
+       "panel": {
+        "links": [
+         {
+          "text": "Produkte",
+          "href": "https://www.infineon.com/de#"
+         },
+         {
+          "text": "Applikationen",
+          "href": "https://www.infineon.com/de#"
+         },
+         {
+          "text": "Designressourcen",
+          "href": "https://www.infineon.com/de#"
+         },
+         {
+          "text": "Support & Training",
+          "href": "https://www.infineon.com/de#"
+         },
+         {
+          "text": "Über uns",
+          "href": "https://www.infineon.com/de#"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         }
+        ],
+        "headings": [
+         "Singapore FinTech Festival 2026"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "MobileDropdown",
+         "$ US-Dollar",
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         16,
+         55,
+         334,
+         789
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "border-top-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.btn"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-bottom-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.btn"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-left-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.btn"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-right-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.btn"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "360-007-Toggle-navigation-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 3,
+       "panel": {
+        "links": [
+         {
+          "text": "Produkte",
+          "href": "https://www.infineon.com/de#"
+         },
+         {
+          "text": "Applikationen",
+          "href": "https://www.infineon.com/de#"
+         },
+         {
+          "text": "Designressourcen",
+          "href": "https://www.infineon.com/de#"
+         },
+         {
+          "text": "Support & Training",
+          "href": "https://www.infineon.com/de#"
+         },
+         {
+          "text": "Über uns",
+          "href": "https://www.infineon.com/de#"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         }
+        ],
+        "headings": [
+         "Singapore FinTech Festival 2026"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "MobileDropdown",
+         "$ US-Dollar",
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         16,
+         55,
+         334,
+         789
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "border-top-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.btn"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-bottom-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.btn"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-left-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.btn"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-right-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.btn"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "360-008-Toggle-navigation-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": false
+     }
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 61,
+     "position": "relative",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": -1000,
+     "height": 61,
+     "position": "relative",
+     "inView": false
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": -700,
+     "height": 61,
+     "position": "relative",
+     "inView": false
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 61,
+     "position": "relative",
+     "inView": true
+    }
+   ],
+   "states": 8,
+   "truncated": "depth 1 at ",
+   "loads": 21,
+   "requests": 2014,
+   "maxRequests": 0,
+   "inputsSkipped": 0
+  },
+  "1440": {
+   "root": "#container-868ea39d6d>div>div>header>div",
+   "controls": [
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#indiLogo",
+     "href": "https://www.infineon.com/de",
+     "expanded": null,
+     "rect": [
+      60,
+      16,
+      82,
+      36
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Produkte",
+     "key": "produkte",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navItems0",
+     "expanded": null,
+     "rect": [
+      166,
+      22,
+      61,
+      24
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "ASIC",
+          "href": "https://www.infineon.com/products/asic"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/products/asic/asic"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/products/asic/soc-sip-fpga"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         0,
+         67,
+         1440,
+         833
+        ]
+       },
+       "expanded": null,
+       "focus": "elsewhere",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        }
+       ],
+       "shot": "1440-001-Produkte-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 6,
+       "panel": {
+        "links": [
+         {
+          "text": "ASIC",
+          "href": "https://www.infineon.com/products/asic"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/products/asic/asic"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/products/asic/soc-sip-fpga"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 2,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         444,
+         99,
+         986,
+         801
+        ]
+       },
+       "expanded": null,
+       "focus": "elsewhere",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "border-top-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-bottom-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-left-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-right-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-002-Produkte-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": false
+     }
+    },
+    {
+     "name": "Applikationen",
+     "key": "applikationen",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navItems1",
+     "expanded": null,
+     "rect": [
+      243,
+      22,
+      94,
+      24
+     ],
+     "actions": {
+      "hover": {
+       "opened": true,
+       "hidden": 7,
+       "panel": {
+        "links": [
+         {
+          "text": "Alles über Energieinfrastruktur",
+          "href": "https://www.infineon.com/de/about/our-stories/power-infrastructure"
+         },
+         {
+          "text": "Alles über Elektromobilität",
+          "href": "https://www.infineon.com/de/about/our-stories/electromobility"
+         },
+         {
+          "text": "Alles über Robotics",
+          "href": "https://www.infineon.com/de/about/our-stories/robotics"
+         },
+         {
+          "text": "Alles über Softwaredefinierte Fahrzeuge",
+          "href": "https://www.infineon.com/de/about/our-stories/software-defined-vehicle"
+         },
+         {
+          "text": "Alles über Edge AI",
+          "href": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+         },
+         {
+          "text": "Alles über Powering AI",
+          "href": "https://www.infineon.com/de/our-stories/we-power-ai"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen",
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 8,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         100,
+         784,
+         1330,
+         116
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-003-Applikationen-hover.png"
+      },
+      "click": {
+       "opened": true,
+       "hidden": 7,
+       "panel": {
+        "links": [
+         {
+          "text": "Aerospace and defense",
+          "href": "https://www.infineon.com/applications/aerospace-and-defense"
+         },
+         {
+          "text": "Alles über Energieinfrastruktur",
+          "href": "https://www.infineon.com/de/about/our-stories/power-infrastructure"
+         },
+         {
+          "text": "Alles über Elektromobilität",
+          "href": "https://www.infineon.com/de/about/our-stories/electromobility"
+         },
+         {
+          "text": "Alles über Robotics",
+          "href": "https://www.infineon.com/de/about/our-stories/robotics"
+         },
+         {
+          "text": "Alles über Softwaredefinierte Fahrzeuge",
+          "href": "https://www.infineon.com/de/about/our-stories/software-defined-vehicle"
+         },
+         {
+          "text": "Alles über Edge AI",
+          "href": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+         },
+         {
+          "text": "Alles über Powering AI",
+          "href": "https://www.infineon.com/de/our-stories/we-power-ai"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen",
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 8,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         100,
+         99,
+         1330,
+         801
+        ]
+       },
+       "expanded": null,
+       "focus": "elsewhere",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-004-Applikationen-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 7,
+       "panel": {
+        "links": [
+         {
+          "text": "Aerospace and defense",
+          "href": "https://www.infineon.com/applications/aerospace-and-defense"
+         },
+         {
+          "text": "Alles über Energieinfrastruktur",
+          "href": "https://www.infineon.com/de/about/our-stories/power-infrastructure"
+         },
+         {
+          "text": "Alles über Elektromobilität",
+          "href": "https://www.infineon.com/de/about/our-stories/electromobility"
+         },
+         {
+          "text": "Alles über Robotics",
+          "href": "https://www.infineon.com/de/about/our-stories/robotics"
+         },
+         {
+          "text": "Alles über Softwaredefinierte Fahrzeuge",
+          "href": "https://www.infineon.com/de/about/our-stories/software-defined-vehicle"
+         },
+         {
+          "text": "Alles über Edge AI",
+          "href": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+         },
+         {
+          "text": "Alles über Powering AI",
+          "href": "https://www.infineon.com/de/our-stories/we-power-ai"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen",
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 8,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         100,
+         99,
+         1330,
+         801
+        ]
+       },
+       "expanded": null,
+       "focus": "elsewhere",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "border-top-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-bottom-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-left-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-right-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-005-Applikationen-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": false
+     }
+    },
+    {
+     "name": "Designressourcen",
+     "key": "designressourcen",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navItems2",
+     "expanded": null,
+     "rect": [
+      353,
+      22,
+      118,
+      24
+     ],
+     "actions": {
+      "hover": {
+       "opened": true,
+       "hidden": 6,
+       "panel": {
+        "links": [
+         {
+          "text": "Alles über Energieinfrastruktur",
+          "href": "https://www.infineon.com/de/about/our-stories/power-infrastructure"
+         },
+         {
+          "text": "Alles über Elektromobilität",
+          "href": "https://www.infineon.com/de/about/our-stories/electromobility"
+         },
+         {
+          "text": "Alles über Robotics",
+          "href": "https://www.infineon.com/de/about/our-stories/robotics"
+         },
+         {
+          "text": "Alles über Softwaredefinierte Fahrzeuge",
+          "href": "https://www.infineon.com/de/about/our-stories/software-defined-vehicle"
+         },
+         {
+          "text": "Alles über Edge AI",
+          "href": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+         },
+         {
+          "text": "Alles über Powering AI",
+          "href": "https://www.infineon.com/de/our-stories/we-power-ai"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen",
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 8,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         100,
+         784,
+         1330,
+         116
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-006-Designressourcen-hover.png"
+      },
+      "click": {
+       "opened": true,
+       "hidden": 7,
+       "panel": {
+        "links": [
+         {
+          "text": "Digital documentation",
+          "href": "https://www.infineon.com/design-resources/digital-documentation"
+         },
+         {
+          "text": "Alles über Energieinfrastruktur",
+          "href": "https://www.infineon.com/de/about/our-stories/power-infrastructure"
+         },
+         {
+          "text": "Alles über Elektromobilität",
+          "href": "https://www.infineon.com/de/about/our-stories/electromobility"
+         },
+         {
+          "text": "Alles über Robotics",
+          "href": "https://www.infineon.com/de/about/our-stories/robotics"
+         },
+         {
+          "text": "Alles über Softwaredefinierte Fahrzeuge",
+          "href": "https://www.infineon.com/de/about/our-stories/software-defined-vehicle"
+         },
+         {
+          "text": "Alles über Edge AI",
+          "href": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+         },
+         {
+          "text": "Alles über Powering AI",
+          "href": "https://www.infineon.com/de/our-stories/we-power-ai"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen",
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 8,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         100,
+         105,
+         1330,
+         795
+        ]
+       },
+       "expanded": null,
+       "focus": "elsewhere",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-007-Designressourcen-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 6,
+       "panel": {
+        "links": [
+         {
+          "text": "Digital documentation",
+          "href": "https://www.infineon.com/design-resources/digital-documentation"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 2,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         132,
+         105,
+         1298,
+         795
+        ]
+       },
+       "expanded": null,
+       "focus": "elsewhere",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "border-top-color",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-bottom-color",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-left-color",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-right-color",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-008-Designressourcen-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": false
+     }
+    },
+    {
+     "name": "Support & Training",
+     "key": "support training",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navItems3",
+     "expanded": null,
+     "rect": [
+      487,
+      22,
+      125,
+      24
+     ],
+     "actions": {
+      "hover": {
+       "opened": true,
+       "hidden": 6,
+       "panel": {
+        "links": [
+         {
+          "text": "Alles über Energieinfrastruktur",
+          "href": "https://www.infineon.com/de/about/our-stories/power-infrastructure"
+         },
+         {
+          "text": "Alles über Elektromobilität",
+          "href": "https://www.infineon.com/de/about/our-stories/electromobility"
+         },
+         {
+          "text": "Alles über Robotics",
+          "href": "https://www.infineon.com/de/about/our-stories/robotics"
+         },
+         {
+          "text": "Alles über Softwaredefinierte Fahrzeuge",
+          "href": "https://www.infineon.com/de/about/our-stories/software-defined-vehicle"
+         },
+         {
+          "text": "Alles über Edge AI",
+          "href": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+         },
+         {
+          "text": "Alles über Powering AI",
+          "href": "https://www.infineon.com/de/our-stories/we-power-ai"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen",
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 8,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         100,
+         784,
+         1330,
+         116
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-009-Support-Training-hover.png"
+      },
+      "click": {
+       "opened": true,
+       "hidden": 6,
+       "panel": {
+        "links": [
+         {
+          "text": "Support",
+          "href": "https://www.infineon.com/de/support"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/de/support/faqs"
+         },
+         {
+          "text": "",
+          "href": "https://mycases.infineon.com/"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/de/contact-us"
+         },
+         {
+          "text": "EU-Forschungsprojekt „Listen2Future“ macht Akustiksensoren für Medizin, Energie und Industrie kleiner und smarter",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-032"
+         },
+         {
+          "text": "Infineon startet limitiertes Aktienrückkaufprogramm zur Erfüllung von Verpflichtungen aus bestehenden Mitarbeiterbeteili",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-029"
+         },
+         {
+          "text": "Infineon schließt GJ 2026 mit Rekordquartal ab und erwartet für GJ 2027 starkes Umsatzwachstum von mehr als 20 Prozent u",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-025"
+         },
+         {
+          "text": "Infineon erzielt technologischen Meilenstein mit weltweit erstem 300-Millimeter-Siliziumkarbid-(SiC)-Wafer für Leistungs",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-028"
+         },
+         {
+          "text": "Alle Nachrichten anzeigen",
+          "href": "https://www.infineon.com/de/about/press"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 2,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         444,
+         99,
+         986,
+         801
+        ]
+       },
+       "expanded": null,
+       "focus": "elsewhere",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-010-Support-Training-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 6,
+       "panel": {
+        "links": [
+         {
+          "text": "Support",
+          "href": "https://www.infineon.com/de/support"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/de/support/faqs"
+         },
+         {
+          "text": "",
+          "href": "https://mycases.infineon.com/"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/de/contact-us"
+         },
+         {
+          "text": "EU-Forschungsprojekt „Listen2Future“ macht Akustiksensoren für Medizin, Energie und Industrie kleiner und smarter",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-032"
+         },
+         {
+          "text": "Infineon startet limitiertes Aktienrückkaufprogramm zur Erfüllung von Verpflichtungen aus bestehenden Mitarbeiterbeteili",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-029"
+         },
+         {
+          "text": "Infineon schließt GJ 2026 mit Rekordquartal ab und erwartet für GJ 2027 starkes Umsatzwachstum von mehr als 20 Prozent u",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-025"
+         },
+         {
+          "text": "Infineon erzielt technologischen Meilenstein mit weltweit erstem 300-Millimeter-Siliziumkarbid-(SiC)-Wafer für Leistungs",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-028"
+         },
+         {
+          "text": "Alle Nachrichten anzeigen",
+          "href": "https://www.infineon.com/de/about/press"
+         },
+         {
+          "text": "Alles über Energieinfrastruktur",
+          "href": "https://www.infineon.com/de/about/our-stories/power-infrastructure"
+         },
+         {
+          "text": "Alles über Elektromobilität",
+          "href": "https://www.infineon.com/de/about/our-stories/electromobility"
+         },
+         {
+          "text": "Alles über Robotics",
+          "href": "https://www.infineon.com/de/about/our-stories/robotics"
+         },
+         {
+          "text": "Alles über Softwaredefinierte Fahrzeuge",
+          "href": "https://www.infineon.com/de/about/our-stories/software-defined-vehicle"
+         },
+         {
+          "text": "Alles über Edge AI",
+          "href": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+         },
+         {
+          "text": "Alles über Powering AI",
+          "href": "https://www.infineon.com/de/our-stories/we-power-ai"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen",
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 8,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         100,
+         99,
+         1330,
+         801
+        ]
+       },
+       "expanded": null,
+       "focus": "elsewhere",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "border-top-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-bottom-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-left-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-right-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-011-Support-Training-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": false
+     }
+    },
+    {
+     "name": "Über uns",
+     "key": "über uns",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navItems4",
+     "expanded": null,
+     "rect": [
+      629,
+      22,
+      60,
+      24
+     ],
+     "actions": {
+      "hover": {
+       "opened": true,
+       "hidden": 7,
+       "panel": {
+        "links": [
+         {
+          "text": "Alles über Energieinfrastruktur",
+          "href": "https://www.infineon.com/de/about/our-stories/power-infrastructure"
+         },
+         {
+          "text": "Alles über Elektromobilität",
+          "href": "https://www.infineon.com/de/about/our-stories/electromobility"
+         },
+         {
+          "text": "Alles über Robotics",
+          "href": "https://www.infineon.com/de/about/our-stories/robotics"
+         },
+         {
+          "text": "Alles über Softwaredefinierte Fahrzeuge",
+          "href": "https://www.infineon.com/de/about/our-stories/software-defined-vehicle"
+         },
+         {
+          "text": "Alles über Edge AI",
+          "href": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+         },
+         {
+          "text": "Alles über Powering AI",
+          "href": "https://www.infineon.com/de/our-stories/we-power-ai"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen",
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 8,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         100,
+         784,
+         1330,
+         116
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-012--ber-uns-hover.png"
+      },
+      "click": {
+       "opened": true,
+       "hidden": 7,
+       "panel": {
+        "links": [
+         {
+          "text": "Unternehmen",
+          "href": "https://www.infineon.com/de/about/company"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/de/about/company/our-divisions"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/de/about/company/leadership-team/"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/de/about/company/sustainability"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/de/contact-us"
+         },
+         {
+          "text": "EU-Forschungsprojekt „Listen2Future“ macht Akustiksensoren für Medizin, Energie und Industrie kleiner und smarter",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-032"
+         },
+         {
+          "text": "Infineon startet limitiertes Aktienrückkaufprogramm zur Erfüllung von Verpflichtungen aus bestehenden Mitarbeiterbeteili",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-029"
+         },
+         {
+          "text": "Infineon schließt GJ 2026 mit Rekordquartal ab und erwartet für GJ 2027 starkes Umsatzwachstum von mehr als 20 Prozent u",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-025"
+         },
+         {
+          "text": "Infineon erzielt technologischen Meilenstein mit weltweit erstem 300-Millimeter-Siliziumkarbid-(SiC)-Wafer für Leistungs",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-028"
+         },
+         {
+          "text": "Alle Nachrichten anzeigen",
+          "href": "https://www.infineon.com/de/about/press"
+         },
+         {
+          "text": "Alles über Energieinfrastruktur",
+          "href": "https://www.infineon.com/de/about/our-stories/power-infrastructure"
+         },
+         {
+          "text": "Alles über Elektromobilität",
+          "href": "https://www.infineon.com/de/about/our-stories/electromobility"
+         },
+         {
+          "text": "Alles über Robotics",
+          "href": "https://www.infineon.com/de/about/our-stories/robotics"
+         },
+         {
+          "text": "Alles über Softwaredefinierte Fahrzeuge",
+          "href": "https://www.infineon.com/de/about/our-stories/software-defined-vehicle"
+         },
+         {
+          "text": "Alles über Edge AI",
+          "href": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+         },
+         {
+          "text": "Alles über Powering AI",
+          "href": "https://www.infineon.com/de/our-stories/we-power-ai"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen",
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 8,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         100,
+         99,
+         1330,
+         801
+        ]
+       },
+       "expanded": null,
+       "focus": "elsewhere",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-013--ber-uns-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 6,
+       "panel": {
+        "links": [
+         {
+          "text": "Unternehmen",
+          "href": "https://www.infineon.com/de/about/company"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/de/about/company/our-divisions"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/de/about/company/leadership-team/"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/de/about/company/sustainability"
+         },
+         {
+          "text": "",
+          "href": "https://www.infineon.com/de/contact-us"
+         },
+         {
+          "text": "EU-Forschungsprojekt „Listen2Future“ macht Akustiksensoren für Medizin, Energie und Industrie kleiner und smarter",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-032"
+         },
+         {
+          "text": "Infineon startet limitiertes Aktienrückkaufprogramm zur Erfüllung von Verpflichtungen aus bestehenden Mitarbeiterbeteili",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-029"
+         },
+         {
+          "text": "Infineon schließt GJ 2026 mit Rekordquartal ab und erwartet für GJ 2027 starkes Umsatzwachstum von mehr als 20 Prozent u",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-025"
+         },
+         {
+          "text": "Infineon erzielt technologischen Meilenstein mit weltweit erstem 300-Millimeter-Siliziumkarbid-(SiC)-Wafer für Leistungs",
+          "href": "https://www.infineon.com/de/press-release/2026/infpr202611-028"
+         },
+         {
+          "text": "Alle Nachrichten anzeigen",
+          "href": "https://www.infineon.com/de/about/press"
+         },
+         {
+          "text": "Alles über Energieinfrastruktur",
+          "href": "https://www.infineon.com/de/about/our-stories/power-infrastructure"
+         },
+         {
+          "text": "Alles über Elektromobilität",
+          "href": "https://www.infineon.com/de/about/our-stories/electromobility"
+         },
+         {
+          "text": "Alles über Robotics",
+          "href": "https://www.infineon.com/de/about/our-stories/robotics"
+         },
+         {
+          "text": "Alles über Softwaredefinierte Fahrzeuge",
+          "href": "https://www.infineon.com/de/about/our-stories/software-defined-vehicle"
+         },
+         {
+          "text": "Alles über Edge AI",
+          "href": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+         },
+         {
+          "text": "Alles über Powering AI",
+          "href": "https://www.infineon.com/de/our-stories/we-power-ai"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen",
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 8,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         100,
+         99,
+         1330,
+         801
+        ]
+       },
+       "expanded": null,
+       "focus": "elsewhere",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "border-top-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-bottom-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-left-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-right-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.mainNavItem"
+        },
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-014--ber-uns-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": false
+     }
+    },
+    {
+     "name": "English 中文 日本語 Deutsch",
+     "key": "english 中文 日本語 deutsch",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navbarDropdown",
+     "expanded": "false",
+     "rect": [
+      1008,
+      26,
+      32,
+      16
+     ],
+     "actions": {
+      "hover": {
+       "opened": true,
+       "hidden": 6,
+       "panel": {
+        "links": [
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 2,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         446,
+         784,
+         984,
+         116
+        ]
+       },
+       "expanded": "false",
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-015-English-Deutsch-hover.png"
+      },
+      "click": {
+       "opened": true,
+       "hidden": 6,
+       "panel": {
+        "links": [
+         {
+          "text": "English",
+          "href": "https://www.infineon.com/"
+         },
+         {
+          "text": "中文",
+          "href": "https://www.infineon.cn/"
+         },
+         {
+          "text": "日本語",
+          "href": "https://www.infineon.com/ja"
+         },
+         {
+          "text": "Deutsch",
+          "href": "https://www.infineon.com/de"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 2,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         446,
+         76,
+         984,
+         824
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-016-English-Deutsch-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 6,
+       "panel": {
+        "links": [
+         {
+          "text": "English",
+          "href": "https://www.infineon.com/"
+         },
+         {
+          "text": "中文",
+          "href": "https://www.infineon.cn/"
+         },
+         {
+          "text": "日本語",
+          "href": "https://www.infineon.com/ja"
+         },
+         {
+          "text": "Deutsch",
+          "href": "https://www.infineon.com/de"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 2,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         446,
+         76,
+         984,
+         824
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-017-English-Deutsch-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": false,
+      "toggle": false
+     }
+    },
+    {
+     "name": "Currency",
+     "key": "currency",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#react-currency-icon>div>button:nth-of-type(1)",
+     "expanded": "false",
+     "rect": [
+      1040,
+      18,
+      32,
+      32
+     ],
+     "actions": {
+      "hover": {
+       "opened": true,
+       "hidden": 6,
+       "panel": {
+        "links": [
+         {
+          "text": "Alles über Energieinfrastruktur",
+          "href": "https://www.infineon.com/de/about/our-stories/power-infrastructure"
+         },
+         {
+          "text": "Alles über Elektromobilität",
+          "href": "https://www.infineon.com/de/about/our-stories/electromobility"
+         },
+         {
+          "text": "Alles über Robotics",
+          "href": "https://www.infineon.com/de/about/our-stories/robotics"
+         },
+         {
+          "text": "Alles über Softwaredefinierte Fahrzeuge",
+          "href": "https://www.infineon.com/de/about/our-stories/software-defined-vehicle"
+         },
+         {
+          "text": "Alles über Edge AI",
+          "href": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+         },
+         {
+          "text": "Alles über Powering AI",
+          "href": "https://www.infineon.com/de/our-stories/we-power-ai"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen",
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 8,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         100,
+         784,
+         1330,
+         116
+        ]
+       },
+       "expanded": "false",
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-018-Currency-hover.png"
+      },
+      "click": {
+       "opened": true,
+       "hidden": 7,
+       "panel": {
+        "links": [
+         {
+          "text": "Alles über Energieinfrastruktur",
+          "href": "https://www.infineon.com/de/about/our-stories/power-infrastructure"
+         },
+         {
+          "text": "Alles über Elektromobilität",
+          "href": "https://www.infineon.com/de/about/our-stories/electromobility"
+         },
+         {
+          "text": "Alles über Robotics",
+          "href": "https://www.infineon.com/de/about/our-stories/robotics"
+         },
+         {
+          "text": "Alles über Softwaredefinierte Fahrzeuge",
+          "href": "https://www.infineon.com/de/about/our-stories/software-defined-vehicle"
+         },
+         {
+          "text": "Alles über Edge AI",
+          "href": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+         },
+         {
+          "text": "Alles über Powering AI",
+          "href": "https://www.infineon.com/de/our-stories/we-power-ai"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen",
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 8,
+        "inputs": [
+         "search"
+        ],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         100,
+         88,
+         1330,
+         812
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-019-Currency-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 6,
+       "panel": {
+        "links": [
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         },
+         {
+          "text": "Nov 19th, 2026 POL regulation for compute and telecom Online Live",
+          "href": "https://www.infineon.com/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom.html"
+         }
+        ],
+        "headings": [
+         "Singapore FinTech Festival 2026",
+         "POL regulation for compute and telecom"
+        ],
+        "images": 2,
+        "inputs": [
+         "search"
+        ],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         446,
+         88,
+         984,
+         812
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "1440-020-Currency-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": false,
+      "toggle": false
+     }
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 67,
+     "position": "relative",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": -1000,
+     "height": 67,
+     "position": "relative",
+     "inView": false
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": -700,
+     "height": 67,
+     "position": "relative",
+     "inView": false
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 67,
+     "position": "relative",
+     "inView": true
+    }
+   ],
+   "states": 20,
+   "truncated": "depth 1 at Produkte",
+   "loads": 42,
+   "requests": 4272,
+   "maxRequests": 0,
+   "inputsSkipped": 0
+  }
+ },
+ "probe": null
+}

@@ -1,0 +1,335 @@
+{
+ "units": {
+  "plan": {
+   "status": "done",
+   "kind": "plan",
+   "templates": [
+    "landing",
+    "article",
+    "pillar",
+    "static",
+    "listing",
+    "reference",
+    "utility"
+   ],
+   "pages": 7,
+   "startedAt": "2026-11-18T05:51:04Z",
+   "endedAt": "2026-11-18T05:53:41.284Z",
+   "verdict": "rendered 7, unchanged 0, refused 0, passthrough 0"
+  },
+  "landing": {
+   "status": "done",
+   "kind": "render",
+   "templates": [
+    "landing"
+   ],
+   "archetype": "index",
+   "pages": 1,
+   "slugs": [
+    "de"
+   ],
+   "endedAt": "2026-11-18T08:11:24.000Z"
+  },
+  "article-1": {
+   "status": "done",
+   "kind": "render",
+   "templates": [
+    "article"
+   ],
+   "archetype": "de-our-stories-semiconductors-driving-decarbonization",
+   "pages": 8,
+   "slugs": [
+    "de-our-stories-microelectronics-connecting-real-digital-world",
+    "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee",
+    "de-our-stories-green-hydrogen-fuel-future",
+    "de-our-stories-efficient-energy-storage-systems-energy-transition",
+    "de-our-stories-semiconductors-bring-heat-pumps-life",
+    "de-our-stories-electric-cordless-power-tools",
+    "de-our-stories-green-chargers-adapters",
+    "de-our-stories-green-potential-data-centers"
+   ],
+   "startedAt": "2026-11-18T10:02:50.999Z",
+   "note": "cap 3 reached; 5 pages over the pixel bar with residuals logged (per-element AEM spacing, tertiary link size, gallery thumbs, video spacing); round-3 code gated via local proxy, preview re-gate after push is part of cluster-article; clipped 0, missing 0",
+   "endedAt": "2026-11-18T10:49:44Z",
+   "verdict": "article-1: pages 8/8 live, blocks 4, gate 1440 30.14% / 360 14.97% (worst), requests 0, rounds 3",
+   "gates": {
+    "360": {
+     "microelectronics-connecting-real-digital-world": 8.69,
+     "turning-ray-sunshine-into-cup-hot-coffee": 14.97,
+     "green-hydrogen-fuel-future": 11.05,
+     "efficient-energy-storage-systems-energy-transition": 14.28,
+     "semiconductors-bring-heat-pumps-life": 7.72,
+     "electric-cordless-power-tools": 2.41,
+     "green-chargers-adapters": 7.48,
+     "green-potential-data-centers": 8.54
+    },
+    "1440": {
+     "microelectronics-connecting-real-digital-world": 10.12,
+     "turning-ray-sunshine-into-cup-hot-coffee": 30.14,
+     "green-hydrogen-fuel-future": 11.68,
+     "efficient-energy-storage-systems-energy-transition": 24.66,
+     "semiconductors-bring-heat-pumps-life": 10.44,
+     "electric-cordless-power-tools": 2.01,
+     "green-chargers-adapters": 5.59,
+     "green-potential-data-centers": 9.83
+    }
+   }
+  },
+  "article-2": {
+   "status": "done",
+   "kind": "render",
+   "templates": [
+    "article"
+   ],
+   "archetype": "de-our-stories-semiconductors-driving-decarbonization",
+   "pages": 8,
+   "slugs": [
+    "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors",
+    "de-our-stories-sensors-energy-efficient-smart-buildings",
+    "de-our-stories-smart-things-consumer-devices",
+    "de-our-stories-smart-health-appliances",
+    "de-our-stories-smart-factory-technologies",
+    "de-our-stories-smart-home-building-technologies",
+    "de-our-stories-green-iot",
+    "de-our-stories-smart-factory-semiconductor-solutions"
+   ],
+   "endedAt": "2026-11-18T12:01:20Z",
+   "verdict": "article-2: pages 8/8 live, blocks 4, gate 1440 14.89% / 360 14.74% (worst), requests 0, rounds 3",
+   "gates": {
+    "360": {
+     "empowering-green-energy-wide-bandgap-semiconductors": 7.25,
+     "sensors-energy-efficient-smart-buildings": 14.2,
+     "smart-things-consumer-devices": 8.58,
+     "smart-health-appliances": 7.6,
+     "smart-factory-technologies": 13.47,
+     "smart-home-building-technologies": 14.74,
+     "green-iot": 13.66,
+     "smart-factory-semiconductor-solutions": 14.07
+    },
+    "1440": {
+     "empowering-green-energy-wide-bandgap-semiconductors": 14.89,
+     "sensors-energy-efficient-smart-buildings": 11.3,
+     "smart-things-consumer-devices": 7.76,
+     "smart-health-appliances": 7.26,
+     "smart-factory-technologies": 6.43,
+     "smart-home-building-technologies": 13.92,
+     "green-iot": 14.62,
+     "smart-factory-semiconductor-solutions": 11.5
+    }
+   },
+   "note": "cap 3 reached; numbers via local code proxy over published content (code now pushed) — preview re-gate of articles 1-4 is the first step of article-5/cluster-article close; encoder spacing tokens added; article-4 code requests still open (see .work/rollout/cluster-article/NEXT-UNITS.md)"
+  },
+  "article-3": {
+   "status": "done",
+   "kind": "render",
+   "templates": [
+    "article"
+   ],
+   "archetype": "de-our-stories-semiconductors-driving-decarbonization",
+   "pages": 8,
+   "slugs": [
+    "de-our-stories-artificial-intelligence-semiconductors",
+    "de-our-stories-enable-provide-ai-customer-innovation",
+    "de-our-stories-micromobility",
+    "de-our-stories-micromobility-battery-swapping",
+    "de-our-stories-charging-infrastructure",
+    "de-our-stories-fast-charging-solutions",
+    "de-our-stories-bi-directional-charging",
+    "de-our-stories-emission-saving-potential-freight-transportation"
+   ],
+   "endedAt": "2026-11-18T11:16:46Z",
+   "verdict": "article-3: pages 8/8 live, blocks 4, gate 1440 24.41% / 360 20.42% (worst), requests 0, rounds 2",
+   "gates": {
+    "360": {
+     "artificial-intelligence-semiconductors": 20.42,
+     "enable-provide-ai-customer-innovation": 15.16,
+     "micromobility": 12.21,
+     "micromobility-battery-swapping": 9.13,
+     "charging-infrastructure": 11.31,
+     "fast-charging-solutions": 10.93,
+     "bi-directional-charging": 13.39,
+     "emission-saving-potential-freight-transportation": 11.7
+    },
+    "1440": {
+     "artificial-intelligence-semiconductors": 15.12,
+     "enable-provide-ai-customer-innovation": 24.41,
+     "micromobility": 14.85,
+     "micromobility-battery-swapping": 10.23,
+     "charging-infrastructure": 11.81,
+     "fast-charging-solutions": 11.5,
+     "bi-directional-charging": 14.36,
+     "emission-saving-potential-freight-transportation": 18.99
+    }
+   },
+   "note": "pixel residuals: per-element AEM spacing has no carrier in DA default content (16-48px per heading); content post-pass u3/content-fixes.sh must be re-run after re-encode; article-hero back-link + encoder grid fixes routed to the code owner; clipped 0"
+  },
+  "article-4": {
+   "status": "done",
+   "kind": "render",
+   "templates": [
+    "article"
+   ],
+   "archetype": "de-our-stories-semiconductors-driving-decarbonization",
+   "pages": 8,
+   "slugs": [
+    "de-our-stories-shaping-the-future-of-mobility",
+    "de-our-stories-public-transportation",
+    "de-our-stories-green-buildings-rise",
+    "de-our-stories-essential-role-cybersecurity",
+    "de-our-stories-how-microcontroller-enable-risc-v",
+    "de-our-stories-semiconductors-key-technology-software-defined-vehicles",
+    "de-our-stories-software-defined-vehicle-agm",
+    "de-our-stories-ecosystem-summit"
+   ],
+   "endedAt": "2026-11-18T11:49:59Z",
+   "verdict": "article-4: pages 8/8 live, blocks 4, gate 1440 20.77% / 360 24.94% (worst), requests 0, rounds 3",
+   "gates": {
+    "360": {
+     "shaping-the-future-of-mobility": 24.94,
+     "public-transportation": 11.9,
+     "green-buildings-rise": 22.17,
+     "essential-role-cybersecurity": 20.07,
+     "how-microcontroller-enable-risc-v": 10.3,
+     "semiconductors-key-technology-software-defined-vehicles": 12.14,
+     "software-defined-vehicle-agm": 12.42,
+     "ecosystem-summit": 14.81
+    },
+    "1440": {
+     "shaping-the-future-of-mobility": 14.4,
+     "public-transportation": 20.77,
+     "green-buildings-rise": 6.56,
+     "essential-role-cybersecurity": 17.12,
+     "how-microcontroller-enable-risc-v": 9.27,
+     "semiconductors-key-technology-software-defined-vehicles": 0.82,
+     "software-defined-vehicle-agm": 0.85,
+     "ecosystem-summit": 16.07
+    }
+   },
+   "note": "cap 3 reached; residuals: reversed grids below 992 (block CSS), per-component spacing, row gaps, rail gap at 360; code fixes routed to the code owner (article-2); content post-pass u4/content-fixes.sh; clipped 0, missing 0"
+  },
+  "article-5": {
+   "status": "done",
+   "kind": "render",
+   "templates": [
+    "article"
+   ],
+   "archetype": "de-our-stories-semiconductors-driving-decarbonization",
+   "pages": 5,
+   "slugs": [
+    "de-our-stories-enabling-ethernet",
+    "de-our-stories-european-cyber-resilience-act",
+    "de-our-stories-semiconductors-key-technology-sst-sscb",
+    "de-our-stories-mobility-tech-talk-software-defined-vehicles",
+    "de-our-stories-rc1-for-sdv-sdx-and-physical-ai"
+   ],
+   "startedAt": "2026-11-18T12:02:38Z",
+   "endedAt": "2026-11-18T12:21:16Z",
+   "verdict": "article-5: pages 5/5 live, blocks 4, gate 1440 22.84% / 360 13% (worst), requests 0, rounds 1",
+   "gates": {
+    "360": {
+     "enabling-ethernet": 9.79,
+     "european-cyber-resilience-act": 9.53,
+     "semiconductors-key-technology-sst-sscb": 13,
+     "mobility-tech-talk-software-defined-vehicles": 6.36,
+     "rc1-for-sdv-sdx-and-physical-ai": 11.97
+    },
+    "1440": {
+     "enabling-ethernet": 8.3,
+     "european-cyber-resilience-act": 20.46,
+     "semiconductors-key-technology-sst-sscb": 9.75,
+     "mobility-tech-talk-software-defined-vehicles": 7.08,
+     "rc1-for-sdv-sdx-and-physical-ai": 22.84
+    }
+   },
+   "note": "3/5 pass at 1440, 3/5 at 360 (fonts waived); clipped 0, missing 0. Residuals: per-heading source spacing (richtext/16-40 vs 64 px h2 gap), body-end gap before rails (144 vs 56-64), rc1 full-width RISC-V block (12/12 vs 10/12 column), european 1440 height -5.6% from those gaps, rail card title clamp at 360 (sst-sscb), enabling-ethernet single-item check-icon subheads kept as bullets. Encoder: new `button` mapping (rc1 only; 32 earlier pages re-encode byte-identical). story-hub.css: article-scoped a.button rule (UNPUSHED, gated via code-proxy; only rc1 has an article-section button). Content post-pass u5/content-fixes.sh (RISC-V href lowercase, rc1 checks block). presence.json + overrides.json entries added for the 5 slugs."
+  },
+  "pillar": {
+   "status": "done",
+   "kind": "render",
+   "templates": [
+    "pillar"
+   ],
+   "archetype": "de-our-stories-electromobility-greener-future",
+   "pages": 4,
+   "slugs": [
+    "de-our-stories-we-power-ai",
+    "de-our-stories-software-defined-vehicles",
+    "de-our-stories-power-infrastructure-renewables",
+    "de-our-stories-artificial-intelligence-in-everyday-life"
+   ],
+   "startedAt": "2026-11-18T08:43:26.906Z",
+   "endedAt": "2026-11-18T09:56:51.336Z",
+   "note": "migrate.mjs render refused (no sibling prototype source); pages authored from capture by cluster-pillar, no migrate sidecars"
+  },
+  "static": {
+   "status": "done",
+   "kind": "render",
+   "templates": [
+    "static"
+   ],
+   "archetype": "de-about",
+   "pages": 5,
+   "slugs": [
+    "de-partners",
+    "de-support",
+    "de-training",
+    "de-careers",
+    "de-event-techfor"
+   ],
+   "endedAt": "2026-11-18T08:13:31.000Z",
+   "note": "migrate.mjs render refused (no sibling prototype source); pages authored directly as content/ by the cluster unit, no migrate sidecars"
+  },
+  "listing": {
+   "status": "done",
+   "kind": "render",
+   "templates": [
+    "listing"
+   ],
+   "archetype": "de-package-overview",
+   "pages": 2,
+   "slugs": [
+    "de-contact-us",
+    "de-support-faqs"
+   ],
+   "startedAt": "2026-11-18T09:32:53.399Z",
+   "endedAt": "2026-11-18T10:24:33Z",
+   "note": "pages authored by cluster-listing, content-count 0 lost"
+  },
+  "reference": {
+   "status": "done",
+   "kind": "render",
+   "templates": [
+    "reference"
+   ],
+   "archetype": "de-glossary",
+   "pages": 2,
+   "slugs": [
+    "de-opn",
+    "de-support-service-center"
+   ],
+   "startedAt": "2026-11-18T09:05:00.189Z",
+   "endedAt": "2026-11-18T09:43:01.637Z",
+   "note": "migrate.mjs render refused (no sibling prototype source); pages authored from capture by cluster-reference (gen-content.py), no migrate sidecars"
+  },
+  "utility": {
+   "status": "done",
+   "kind": "render",
+   "templates": [
+    "utility"
+   ],
+   "archetype": "de-thank-you",
+   "pages": 2,
+   "slugs": [
+    "de-logout",
+    "de-config"
+   ],
+   "endedAt": "2026-11-18T08:11:24.000Z"
+  },
+  "report": {
+   "status": "pending",
+   "kind": "report",
+   "templates": [],
+   "pages": 60
+  }
+ }
+}

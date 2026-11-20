@@ -1,0 +1,77 @@
+{
+ "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/shaping-the-future-of-mobility",
+ "at": "2026-11-18T23:17:25.007Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 1,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 3,
+  "offPage": 4,
+  "textNodes": 91,
+  "controls": 61,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.story-hub-card-title",
+   "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+   "text": "öffentlicher stadtverkehr neu gedacht. transportlösungen für",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.story-hub-card-title",
+   "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+   "text": "the future of charging electric vehicles",
+   "cutMin": 177,
+   "cutMax": 177
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.story-hub.rail",
+   "path": "div.story-hub-card-body > div.story-hub-card-link > p > a",
+   "text": "mehr entdecken",
+   "cutMin": 63,
+   "cutMax": 63
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.story-hub.rail",
+   "path": "div.story-hub-card-body > div.story-hub-card-link > p > a",
+   "text": "mehr entdecken",
+   "cutMin": 39,
+   "cutMax": 39
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 1,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 2,
+   "offPage": 3,
+   "textNodes": 90,
+   "controls": 55,
+   "total": 0
+  }
+ }
+}

@@ -1,0 +1,637 @@
+{
+  "_provenance": {
+    "writtenBy": "gate-all.mjs",
+    "writtenAt": "2026-11-18T11:00:06.671Z",
+    "stage": "published",
+    "breakpoint": 1440,
+    "threshold": 10,
+    "heightTolerance": 0.05,
+    "clipMax": 0,
+    "unitTol": 4,
+    "criteria": {
+      "pixel": true,
+      "height": true,
+      "clip": true,
+      "content": true
+    },
+    "verdict": "overlap pixel % ≤ 10 AND |Δh| ≤ 5% of origin height AND clipped ≤ 0 (+ documented allowance) AND content MISSING + HIDDEN links/headings = 0",
+    "origin": "https://www.infineon.com",
+    "eds": "https://main--938eead7--aemcoder.aem.page",
+    "edsHostOverride": "https://main--938eead7--aemcoder.aem.page",
+    "only": [
+      "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors",
+      "de-our-stories-sensors-energy-efficient-smart-buildings",
+      "de-our-stories-smart-things-consumer-devices",
+      "de-our-stories-smart-health-appliances",
+      "de-our-stories-smart-factory-technologies",
+      "de-our-stories-smart-home-building-technologies",
+      "de-our-stories-green-iot",
+      "de-our-stories-smart-factory-semiconductor-solutions"
+    ]
+  },
+  "totals": {
+    "pages": 8,
+    "pass": 0,
+    "pixelOnlyPass": 1,
+    "overridePass": 1,
+    "fail": 8,
+    "error": 0,
+    "failPixel": 7,
+    "failHeight": 2,
+    "failClip": 0,
+    "failContent": 0,
+    "failUnits": 0,
+    "fontsNotLoaded": 8,
+    "fontChecksSkipped": 0,
+    "contentNA": 0,
+    "asymmetricOrigins": 0,
+    "degradedTier": 0,
+    "passWithOverrides": 1
+  },
+  "rows": [
+    {
+      "slug": "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors",
+      "path": "/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 14.89,
+      "textPct": 13.4,
+      "heightDelta": 59,
+      "originH": 12529,
+      "edsH": 12470,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [
+        "pixel"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 14.89% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 26,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "3500-4000:16.8%",
+        "4000-4500:31.5%",
+        "7500-8000:16.5%",
+        "8500-9000:42.3%",
+        "9000-9500:31.2%",
+        "9500-10000:39%",
+        "10500-11000:25.4%",
+        "11000-11500:35%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-sensors-energy-efficient-smart-buildings",
+      "path": "/de/our-stories/sensors-energy-efficient-smart-buildings",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 11.3,
+      "textPct": 11.59,
+      "heightDelta": -70,
+      "originH": 8751,
+      "edsH": 8821,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [
+        "pixel"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 11.3% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 34,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2000-2500:27.1%",
+        "2500-3000:21.8%",
+        "3000-3500:36.7%",
+        "3500-4000:19%",
+        "8000-8500:17.9%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-smart-things-consumer-devices",
+      "path": "/de/our-stories/smart-things-consumer-devices",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 29.08,
+      "textPct": 22.39,
+      "heightDelta": -450,
+      "originH": 7285,
+      "edsH": 7735,
+      "pixelPass": false,
+      "heightPass": false,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "height",
+        "fonts"
+      ],
+      "unwaived": [
+        "pixel",
+        "height"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 29.08% > 10%",
+        "Δh -450px > 5% of 7285",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 21,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "1500-2000:20.3%",
+        "2000-2500:29%",
+        "2500-3000:42.1%",
+        "3000-3500:45.2%",
+        "3500-4000:49.3%",
+        "4000-4500:48%",
+        "4500-5000:49.5%",
+        "6000-6500:31.5%",
+        "6500-7000:57.8%",
+        "7000-7285:60.9%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-smart-health-appliances",
+      "path": "/de/our-stories/smart-health-appliances",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 14.64,
+      "textPct": 13.98,
+      "heightDelta": -166,
+      "originH": 5605,
+      "edsH": 5771,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [
+        "pixel"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 14.64% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 15,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "3000-3500:36.5%",
+        "3500-4000:37.2%",
+        "4000-4500:22.8%",
+        "5000-5500:32.5%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-smart-factory-technologies",
+      "path": "/de/our-stories/smart-factory-technologies",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 9.13,
+      "textPct": 10.19,
+      "heightDelta": -114,
+      "originH": 5866,
+      "edsH": 5980,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 23,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "4000-4500:24.5%",
+        "5000-5500:24.7%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-smart-home-building-technologies",
+      "path": "/de/our-stories/smart-home-building-technologies",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 21.09,
+      "textPct": 14.79,
+      "heightDelta": 182,
+      "originH": 6668,
+      "edsH": 6486,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [
+        "pixel"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 21.09% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 20,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2000-2500:43.1%",
+        "3000-3500:29%",
+        "3500-4000:53.8%",
+        "4000-4500:20.2%",
+        "4500-5000:30%",
+        "5000-5500:41.1%",
+        "5500-6000:15.3%",
+        "6000-6486:23.3%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-green-iot",
+      "path": "/de/our-stories/green-iot",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 25.33,
+      "textPct": 30.38,
+      "heightDelta": -346,
+      "originH": 8015,
+      "edsH": 8361,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "fonts"
+      ],
+      "unwaived": [
+        "pixel"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 25.33% > 10%",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 25,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2000-2500:21.8%",
+        "2500-3000:18.2%",
+        "3000-3500:21.5%",
+        "3500-4000:25.3%",
+        "4000-4500:52.7%",
+        "4500-5000:40.6%",
+        "5000-5500:45.3%",
+        "5500-6000:46.5%",
+        "6000-6500:19.2%",
+        "6500-7000:23.7%",
+        "7000-7500:25.3%",
+        "7500-8000:58.6%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-smart-factory-semiconductor-solutions",
+      "path": "/de/our-stories/smart-factory-semiconductor-solutions",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 19.63,
+      "textPct": 18.3,
+      "heightDelta": -384,
+      "originH": 5596,
+      "edsH": 5980,
+      "pixelPass": false,
+      "heightPass": false,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "height",
+        "fonts"
+      ],
+      "unwaived": [
+        "pixel",
+        "height"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 19.63% > 10%",
+        "Δh -384px > 5% of 5596",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 27,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2500-3000:19.4%",
+        "3000-3500:23.2%",
+        "3500-4000:29.5%",
+        "4000-4500:38%",
+        "5000-5500:73.2%"
+      ],
+      "error": null
+    }
+  ]
+}

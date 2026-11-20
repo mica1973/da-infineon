@@ -1,0 +1,59 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "design-system-font",
+        "value": "infineon-icons",
+        "createdAt": "2026-11-18T04:14:08.687Z",
+        "reason": "source site's own icon font, declared in DESIGN.json extensions.fonts.icons (replica, captured asset)"
+      },
+      {
+        "rule": "side-tab",
+        "value": "*",
+        "files": [
+          "stardust/prototypes/de-package-overview.css"
+        ],
+        "createdAt": "2026-11-18T05:21:41.802Z",
+        "reason": "replica run (no-redesign contract): borders reproduce the live infineon.com/de/package-overview design (warning banner, teaser cards, active jump-link underline); changing them would be a fidelity defect"
+      },
+      {
+        "rule": "border-accent-on-rounded",
+        "value": "*",
+        "files": [
+          "stardust/prototypes/de-package-overview.css"
+        ],
+        "createdAt": "2026-11-18T05:21:41.827Z",
+        "reason": "replica run (no-redesign contract): borders reproduce the live infineon.com/de/package-overview design (warning banner, teaser cards, active jump-link underline); changing them would be a fidelity defect"
+      },
+      {
+        "rule": "side-tab",
+        "value": "*",
+        "files": [
+          "blocks/hub-band/hub-band.css"
+        ],
+        "createdAt": "2026-11-18T07:11:00.387Z",
+        "reason": "replica migration: border lifted from the live infineon.com design, which the run must reproduce pixel-for-pixel (empty inconsistency register)"
+      },
+      {
+        "rule": "side-tab",
+        "value": "*",
+        "files": [
+          "blocks/event-slider/event-slider.css"
+        ],
+        "createdAt": "2026-11-18T07:11:00.393Z",
+        "reason": "replica migration: border lifted from the live infineon.com design, which the run must reproduce pixel-for-pixel (empty inconsistency register)"
+      },
+      {
+        "rule": "side-tab",
+        "value": "*",
+        "files": [
+          "blocks/story-cards/story-cards.css"
+        ],
+        "createdAt": "2026-11-18T07:11:00.400Z",
+        "reason": "replica migration: border lifted from the live infineon.com design, which the run must reproduce pixel-for-pixel (empty inconsistency register)"
+      }
+    ]
+  }
+}

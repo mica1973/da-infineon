@@ -1,0 +1,303 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-18T05:53:56.457Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-18T23:44:49.485Z",
+  "templates": [
+    {
+      "id": "article",
+      "representativeSlug": "de-our-stories-artificial-intelligence-semiconductors",
+      "pages": [
+        "de-our-stories-artificial-intelligence-semiconductors",
+        "de-our-stories-bi-directional-charging",
+        "de-our-stories-charging-infrastructure",
+        "de-our-stories-ecosystem-summit",
+        "de-our-stories-efficient-energy-storage-systems-energy-transition",
+        "de-our-stories-electric-cordless-power-tools",
+        "de-our-stories-emission-saving-potential-freight-transportation",
+        "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors",
+        "de-our-stories-enable-provide-ai-customer-innovation",
+        "de-our-stories-enabling-ethernet",
+        "de-our-stories-essential-role-cybersecurity",
+        "de-our-stories-european-cyber-resilience-act",
+        "de-our-stories-fast-charging-solutions",
+        "de-our-stories-green-buildings-rise",
+        "de-our-stories-green-chargers-adapters",
+        "de-our-stories-green-hydrogen-fuel-future",
+        "de-our-stories-green-iot",
+        "de-our-stories-green-potential-data-centers",
+        "de-our-stories-how-microcontroller-enable-risc-v",
+        "de-our-stories-microelectronics-connecting-real-digital-world",
+        "de-our-stories-micromobility",
+        "de-our-stories-micromobility-battery-swapping",
+        "de-our-stories-mobility-tech-talk-software-defined-vehicles",
+        "de-our-stories-public-transportation",
+        "de-our-stories-rc1-for-sdv-sdx-and-physical-ai",
+        "de-our-stories-semiconductors-bring-heat-pumps-life",
+        "de-our-stories-semiconductors-key-technology-software-defined-vehicles",
+        "de-our-stories-semiconductors-key-technology-sst-sscb",
+        "de-our-stories-sensors-energy-efficient-smart-buildings",
+        "de-our-stories-shaping-the-future-of-mobility",
+        "de-our-stories-smart-factory-semiconductor-solutions",
+        "de-our-stories-smart-factory-technologies",
+        "de-our-stories-smart-health-appliances",
+        "de-our-stories-smart-home-building-technologies",
+        "de-our-stories-smart-things-consumer-devices",
+        "de-our-stories-software-defined-vehicle-agm",
+        "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee"
+      ],
+      "pageCount": 37,
+      "blocks": [],
+      "delivery": {
+        "verified": 37,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "de-about",
+      "representativeSlug": "de-about",
+      "pages": [
+        "de-about"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "hub-band",
+        "page-header"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "de-glossary",
+      "representativeSlug": "de-glossary",
+      "pages": [
+        "de-glossary"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "breadcrumb",
+        "glossary-accordion",
+        "page-header"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "de-our-stories-electromobility-greener-future",
+      "representativeSlug": "de-our-stories-electromobility-greener-future",
+      "pages": [
+        "de-our-stories-electromobility-greener-future"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article-hero",
+        "newsletter-offramp",
+        "story-hub"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "de-our-stories-semiconductors-driving-decarbonization",
+      "representativeSlug": "de-our-stories-semiconductors-driving-decarbonization",
+      "pages": [
+        "de-our-stories-semiconductors-driving-decarbonization"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article-body",
+        "article-hero",
+        "breadcrumb",
+        "newsletter-offramp"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "de-package-overview",
+      "representativeSlug": "de-package-overview",
+      "pages": [
+        "de-package-overview"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "breadcrumb",
+        "document-list",
+        "package-categories",
+        "product-hero",
+        "support-offramp",
+        "teaser-cards"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "de-thank-you",
+      "representativeSlug": "de-thank-you",
+      "pages": [
+        "de-thank-you"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "thank-you"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "index",
+      "representativeSlug": "index",
+      "pages": [
+        "index"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "career-offramp",
+        "event-slider",
+        "hero-carousel",
+        "market-cards",
+        "partner-teaser",
+        "product-carousel",
+        "story-cards"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "landing",
+      "representativeSlug": "de",
+      "pages": [
+        "de"
+      ],
+      "pageCount": 1,
+      "blocks": [],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "listing",
+      "representativeSlug": "de-contact-us",
+      "pages": [
+        "de-contact-us",
+        "de-support-faqs"
+      ],
+      "pageCount": 2,
+      "blocks": [],
+      "delivery": {
+        "verified": 2,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "pillar",
+      "representativeSlug": "de-our-stories-artificial-intelligence-in-everyday-life",
+      "pages": [
+        "de-our-stories-artificial-intelligence-in-everyday-life",
+        "de-our-stories-power-infrastructure-renewables",
+        "de-our-stories-software-defined-vehicles",
+        "de-our-stories-we-power-ai"
+      ],
+      "pageCount": 4,
+      "blocks": [],
+      "delivery": {
+        "verified": 4,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "reference",
+      "representativeSlug": "de-opn",
+      "pages": [
+        "de-opn",
+        "de-support-service-center"
+      ],
+      "pageCount": 2,
+      "blocks": [],
+      "delivery": {
+        "verified": 2,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "static",
+      "representativeSlug": "de-careers",
+      "pages": [
+        "de-careers",
+        "de-event-techfor",
+        "de-partners",
+        "de-support",
+        "de-training"
+      ],
+      "pageCount": 5,
+      "blocks": [],
+      "delivery": {
+        "verified": 5,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "utility",
+      "representativeSlug": "de-config",
+      "pages": [
+        "de-config",
+        "de-logout"
+      ],
+      "pageCount": 2,
+      "blocks": [],
+      "delivery": {
+        "verified": 2,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    }
+  ]
+}

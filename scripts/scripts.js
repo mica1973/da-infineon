@@ -38,6 +38,34 @@ if (window.trustedTypes && window.trustedTypes.createPolicy) {
 }
 
 /**
+ * Icon names rendered from the infineon-icons glyph font (see styles.css), plus every
+ * `ico-*` name. Anything else falls through to the stock SVG lookup under /icons/.
+ */
+export const GLYPH_ICONS = new Set([
+  'accordion-circle', 'arrow-right', 'article', 'cart', 'check', 'chevron-down', 'chevron-left',
+  'chevron-right', 'chips', 'code', 'cross', 'dot', 'facebook', 'globe', 'instagram',
+  'left-arrow', 'linkedin', 'map-pin', 'medal', 'media-pause', 'media-play', 'menu', 'money',
+  'plus', 'right-arrow', 'search', 'table', 'user', 'video', 'youtube',
+  'calendar', 'laptop', 'launch', 'quote', 'share', 'mail', 'link', 'divider', 'star', 'c-check', 'minus',
+]);
+
+/**
+ * Marks glyph-font icons so the stock decorateIcons() leaves them alone (no /icons/*.svg fetch).
+ * @param {Element} element Container element
+ */
+export function decorateGlyphIcons(element) {
+  element.querySelectorAll('span.icon').forEach((span) => {
+    if (span.hasChildNodes()) return;
+    const cls = [...span.classList].find((c) => c.startsWith('icon-'));
+    const name = cls ? cls.substring(5) : '';
+    if (GLYPH_ICONS.has(name) || name.startsWith('ico-')) {
+      span.append(document.createTextNode(''));
+      span.setAttribute('aria-hidden', 'true');
+    }
+  });
+}
+
+/**
  * load fonts.css and set a session storage flag
  */
 async function loadFonts() {
@@ -146,8 +174,8 @@ function decorateButtons(main) {
  * Decorates the main element.
  * @param {Element} main The main element
  */
-// eslint-disable-next-line import/prefer-default-export
 export function decorateMain(main) {
+  decorateGlyphIcons(main);
   decorateIcons(main);
   buildAutoBlocks(main);
   decorateSections(main);
@@ -160,7 +188,8 @@ export function decorateMain(main) {
  * @param {Element} doc The container element
  */
 async function loadEager(doc) {
-  document.documentElement.lang = 'en';
+  import('./martech.js').then((m) => m.loadConsent());
+  document.documentElement.lang = /^\/de(\/|$)/.test(window.location.pathname) ? 'de' : 'en';
   decorateTemplateAndTheme();
   const main = doc.querySelector('main');
   if (main) {

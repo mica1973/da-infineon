@@ -1,0 +1,7 @@
+{
+  "home-market-cards": { "origin": "#pzn-home-teaser-row-cards .row-cards-type", "build": ".markets .mk-card", "n": 3, "required": true, "pages": ["index"], "templates": ["landing"] },
+  "home-product-cards": { "origin": ".cmp-productcarousel .swiper-slide", "build": ".np .np-card", "n": 3, "required": true, "pages": ["index"], "templates": ["landing"] },
+  "home-event-slides": { "origin": ".marketingEvent .swiper-slide", "build": ".ev .ev-slide", "n": 2, "required": true, "pages": ["index"], "templates": ["landing"] },
+  "home-story-cards": { "origin": "#articlecards .card", "build": ".st .st-card", "n": 3, "required": true, "pages": ["index"], "templates": ["landing"] },
+  "footer-link-columns": { "origin": "footer .link-list", "build": ".site-footer__list, .site-footer .site-footer-col", "n": 4, "required": true, "pages": ["index"], "templates": ["landing", "*"] }
+}

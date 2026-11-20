@@ -1,0 +1,1393 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics plan",
+  "writtenAt": "2026-11-18T05:54:16.381Z",
+  "input": "stardust/current/_dynamics.json",
+  "target": "https://main--938eead7--aemcoder.aem.page",
+  "migrated": "stardust/migrated",
+  "knowledge": null,
+  "chrome": "stardust/chrome/header-contract.json"
+ },
+ "rows": [
+  {
+   "id": "a-unknown-third-party-host-cookies-data-onetrust-io",
+   "class": "A",
+   "feature": "unknown third-party host cookies-data.onetrust.io",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "cookies-data.onetrust.io"
+   ],
+   "pattern": "inspect",
+   "disposition": "static-snapshot",
+   "target": null,
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "inspect the XHR, add a vendor row"
+  },
+  {
+   "id": "a-unknown-third-party-host-www-google-com",
+   "class": "A",
+   "feature": "unknown third-party host www.google.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "www.google.com"
+   ],
+   "pattern": "inspect",
+   "disposition": "static-snapshot",
+   "target": null,
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "inspect the XHR, add a vendor row"
+  },
+  {
+   "id": "a-unknown-third-party-host-pixels-spotify-com",
+   "class": "A",
+   "feature": "unknown third-party host pixels.spotify.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "pixels.spotify.com"
+   ],
+   "pattern": "inspect",
+   "disposition": "static-snapshot",
+   "target": null,
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "inspect the XHR, add a vendor row"
+  },
+  {
+   "id": "a-unknown-third-party-host-pixel-config-reddit-com",
+   "class": "A",
+   "feature": "unknown third-party host pixel-config.reddit.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "pixel-config.reddit.com"
+   ],
+   "pattern": "inspect",
+   "disposition": "static-snapshot",
+   "target": null,
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "inspect the XHR, add a vendor row"
+  },
+  {
+   "id": "a-unknown-third-party-host-alb-reddit-com",
+   "class": "A",
+   "feature": "unknown third-party host alb.reddit.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "alb.reddit.com"
+   ],
+   "pattern": "inspect",
+   "disposition": "static-snapshot",
+   "target": null,
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "inspect the XHR, add a vendor row"
+  },
+  {
+   "id": "a-experimentation-adobe-target",
+   "class": "A",
+   "feature": "experimentation: Adobe Target",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "infineontechnologies.tt.omtrdc.net",
+    "mboxedge35.tt.omtrdc.net"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which experiments move to the new host"
+  },
+  {
+   "id": "a-unknown-third-party-host-px-ads-linkedin-com",
+   "class": "A",
+   "feature": "unknown third-party host px.ads.linkedin.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "px.ads.linkedin.com"
+   ],
+   "pattern": "inspect",
+   "disposition": "static-snapshot",
+   "target": null,
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "inspect the XHR, add a vendor row"
+  },
+  {
+   "id": "a-cms-app-settings-object-datalayer",
+   "class": "A",
+   "feature": "CMS / app settings object dataLayer",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "a-cms-app-settings-object-granite",
+   "class": "A",
+   "feature": "CMS / app settings object Granite",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "a-cms-app-settings-object-cq",
+   "class": "A",
+   "feature": "CMS / app settings object CQ",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "cr-client-rendered-slot-s7container",
+   "class": "CR",
+   "feature": "client-rendered slot s7container",
+   "pages": 2,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "data-component=Container"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-s7emaildialog",
+   "class": "CR",
+   "feature": "client-rendered slot s7emaildialog",
+   "pages": 2,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "data-component=EmailDialog"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-s7embeddialog",
+   "class": "CR",
+   "feature": "client-rendered slot s7embeddialog",
+   "pages": 2,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "data-component=EmbedDialog"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-s7linkdialog",
+   "class": "CR",
+   "feature": "client-rendered slot s7linkdialog",
+   "pages": 2,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "data-component=LinkDialog"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-js-tab-buttons-tab-buttons-active",
+   "class": "CR",
+   "feature": "client-rendered slot js-tab-buttons tab-buttons active",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "Events Press releases Technology news See all events Press o"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-articles-card-ifx-ifx-articles-card-",
+   "class": "CR",
+   "feature": "client-rendered slot articles_card_ifx ifx_articles_card add-gaps",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "data-api=/dataApi/en.ifxarticles.json?path=/root/ifxcontainer/ifxcont",
+    "data-component=articlescard"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-events-card-ifx-ifx-events-card-add-",
+   "class": "CR",
+   "feature": "client-rendered slot events_card_ifx ifx_events_card add-gaps",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "data-component=eventscard",
+    "data-componentname=IFX Events Card"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-documents-ifx-react-mounted",
+   "class": "CR",
+   "feature": "client-rendered slot documents_ifx _react_mounted",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "data-component=documentstable",
+    "data-api=/dataApi/de/package-overview.product-document.de.json?path=/",
+    "data-componentname=IFX Documents"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "d-first-party-data-file-get-etc-clientlibs-onetrustrow-onetr",
+   "class": "D",
+   "feature": "first-party data file GET /etc/clientlibs/onetrustrow/oneTrust-production/scripttemplates/202610.1.0/assets/otCenterRounded.json",
+   "pages": 7,
+   "probed": 7,
+   "reach": {
+    "pages": 60,
+    "of": 60
+   },
+   "evidence": [
+    "GET /etc/clientlibs/onetrustrow/oneTrust-production/scripttemplates/202610.1.0/assets/otCenterRounded.json → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "d-first-party-data-file-get-etc-clientlibs-onetrustrow-onetr",
+   "class": "D",
+   "feature": "first-party data file GET /etc/clientlibs/onetrustrow/oneTrust-production/consent/{uuid}/{uuid}.json",
+   "pages": 7,
+   "probed": 7,
+   "reach": {
+    "pages": 60,
+    "of": 60
+   },
+   "evidence": [
+    "GET /etc/clientlibs/onetrustrow/oneTrust-production/consent/{uuid}/{uuid}.json → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "d-first-party-data-file-get-etc-clientlibs-onetrustrow-onetr",
+   "class": "D",
+   "feature": "first-party data file GET /etc/clientlibs/onetrustrow/oneTrust-production/consent/{uuid}/{uuid}/en.json",
+   "pages": 7,
+   "probed": 7,
+   "reach": {
+    "pages": 60,
+    "of": 60
+   },
+   "evidence": [
+    "GET /etc/clientlibs/onetrustrow/oneTrust-production/consent/{uuid}/{uuid}/en.json → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "d-first-party-data-file-get-content-ifx-en-geolocation-json",
+   "class": "D",
+   "feature": "first-party data file GET /content/ifx/en.geolocation.json",
+   "pages": 7,
+   "probed": 7,
+   "reach": {
+    "pages": 60,
+    "of": 60
+   },
+   "evidence": [
+    "GET /content/ifx/en.geolocation.json → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "d-first-party-data-file-get-etc-clientlibs-ifx-clientlibs-cl",
+   "class": "D",
+   "feature": "first-party data file GET /etc.clientlibs/ifx/clientlibs/clientlib-base/resources/dictionary/de.json",
+   "pages": 6,
+   "probed": 7,
+   "reach": {
+    "pages": 58,
+    "of": 60
+   },
+   "evidence": [
+    "GET /etc.clientlibs/ifx/clientlibs/clientlib-base/resources/dictionary/de.json → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "d-first-party-data-file-get-etc-clientlibs-ifx-clientlibs-cl",
+   "class": "D",
+   "feature": "first-party data file GET /etc.clientlibs/ifx/clientlibs/clientlib-base/resources/dictionary/en.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 1,
+    "of": 60
+   },
+   "evidence": [
+    "GET /etc.clientlibs/ifx/clientlibs/clientlib-base/resources/dictionary/en.json → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "d-first-party-data-file-get-dataapi-en-marketingcarousel-jso",
+   "class": "D",
+   "feature": "first-party data file GET /dataApi/en.marketingcarousel.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 1,
+    "of": 60
+   },
+   "evidence": [
+    "GET /dataApi/en.marketingcarousel.json?path → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "d-first-party-data-file-get-dataapi-en-ifxarticles-json",
+   "class": "D",
+   "feature": "first-party data file GET /dataApi/en.ifxarticles.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 1,
+    "of": 60
+   },
+   "evidence": [
+    "GET /dataApi/en.ifxarticles.json?path → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "d-first-party-data-file-get-dataapi-de-about-ifxeventscard-j",
+   "class": "D",
+   "feature": "first-party data file GET /dataApi/de/about.ifxeventscard.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 1,
+    "of": 60
+   },
+   "evidence": [
+    "GET /dataApi/de/about.ifxeventscard.json?path → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "d-first-party-data-file-get-libs-cq-i18n-dict-de-json",
+   "class": "D",
+   "feature": "first-party data file GET /libs/cq/i18n/dict.de.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 2,
+    "of": 60
+   },
+   "evidence": [
+    "GET /libs/cq/i18n/dict.de.json → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "d-first-party-data-file-get-dataapi-de-package-overview-prod",
+   "class": "D",
+   "feature": "first-party data file GET /dataApi/de/package-overview.product-document.de.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 1,
+    "of": 60
+   },
+   "evidence": [
+    "GET /dataApi/de/package-overview.product-document.de.json?limit,offset,packageId,path → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "d-first-party-data-file-get-libs-granite-csrf-token-json",
+   "class": "D",
+   "feature": "first-party data file GET /libs/granite/csrf/token.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 1,
+    "of": 60
+   },
+   "evidence": [
+    "GET /libs/granite/csrf/token.json → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "f-form-backend-salesforce-pardot",
+   "class": "F",
+   "feature": "form backend: Salesforce / Pardot",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "cdn.c360a.salesforce.com",
+    "h04tg9dcg03wg9jqg0ztsmzxgy.c360a.salesforce.com"
+   ],
+   "pattern": "forms",
+   "disposition": "rebuild-native",
+   "target": "block",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "forms",
+   "decision": "production backend (vendor form id + field mapping)"
+  },
+  {
+   "id": "i18n-locale-variants-x-default-en-ja-zh",
+   "class": "I18N",
+   "feature": "locale variants x-default,en,ja,zh",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "https://www.infineon.com/ja",
+    "https://www.infineon.com/de",
+    "https://www.infineon.com/ja/our-stories/semiconductors-driving-decarbonization",
+    "https://www.infineon.com/ja/our-stories/electromobility-greener-future"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "needs-business-decision",
+   "status": "delivered-by-capture",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees",
+   "alreadyDelivered": "output already carries \"https://www.infineon.com/de\""
+  },
+  {
+   "id": "l-listing-candidate-banner-left-side-3-cards",
+   "class": "L",
+   "feature": "listing candidate banner-left-side (3 cards)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "listing-index-backed",
+   "disposition": "index-backed",
+   "target": "block",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "listings",
+   "decision": "index-driven or editorially curated?"
+  },
+  {
+   "id": "l-listing-candidate-aem-grid-aem-grid-12-5-cards",
+   "class": "L",
+   "feature": "listing candidate aem-Grid aem-Grid--12 (5 cards)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "listing-index-backed",
+   "disposition": "index-backed",
+   "target": "block",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "listings",
+   "decision": "index-driven or editorially curated?"
+  },
+  {
+   "id": "l-listing-candidate-swiper-wrapper-cmp-productcarousel-track",
+   "class": "L",
+   "feature": "listing candidate swiper-wrapper cmp-productcarousel__track (9 cards)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "listing-index-backed",
+   "disposition": "index-backed",
+   "target": "block",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "listings",
+   "decision": "index-driven or editorially curated?"
+  },
+  {
+   "id": "l-listing-candidate-image-container-teasercard-6-cards",
+   "class": "L",
+   "feature": "listing candidate image-container teaserCard (6 cards)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "listing-index-backed",
+   "disposition": "index-backed",
+   "target": "block",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "listings",
+   "decision": "index-driven or editorially curated?"
+  },
+  {
+   "id": "l-listing-candidate-swiper-slide-all-swiper-wrapper-7-cards",
+   "class": "L",
+   "feature": "listing candidate swiper-slide-all swiper-wrapper (7 cards)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "listing-index-backed",
+   "disposition": "index-backed",
+   "target": "block",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "listings",
+   "decision": "index-driven or editorially curated?"
+  },
+  {
+   "id": "l-listing-candidate-selected-icon-iconcollection-row-6-cards",
+   "class": "L",
+   "feature": "listing candidate selected-icon iconcollection-row (6 cards)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "listing-index-backed",
+   "disposition": "index-backed",
+   "target": "block",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "listings",
+   "decision": "index-driven or editorially curated?"
+  },
+  {
+   "id": "l-listing-candidate-aem-grid-aem-grid-12-6-cards",
+   "class": "L",
+   "feature": "listing candidate aem-Grid aem-Grid--12 (6 cards)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "listing-index-backed",
+   "disposition": "index-backed",
+   "target": "block",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "listings",
+   "decision": "index-driven or editorially curated?"
+  },
+  {
+   "id": "l-listing-candidate-selected-icon-col-lg-12-8-cards",
+   "class": "L",
+   "feature": "listing candidate selected-icon col-lg-12 (8 cards)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "listing-index-backed",
+   "disposition": "index-backed",
+   "target": "block",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "listings",
+   "decision": "index-driven or editorially curated?"
+  },
+  {
+   "id": "l-listing-candidate-selected-icon-col-lg-12-6-cards",
+   "class": "L",
+   "feature": "listing candidate selected-icon col-lg-12 (6 cards)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "listing-index-backed",
+   "disposition": "index-backed",
+   "target": "block",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "listings",
+   "decision": "index-driven or editorially curated?"
+  },
+  {
+   "id": "l-listing-candidate-selected-icon-col-lg-12-7-cards",
+   "class": "L",
+   "feature": "listing candidate selected-icon col-lg-12 (7 cards)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "listing-index-backed",
+   "disposition": "index-backed",
+   "target": "block",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "listings",
+   "decision": "index-driven or editorially curated?"
+  },
+  {
+   "id": "l-listing-candidate-cmp-container-tablet-margin0-4-cards",
+   "class": "L",
+   "feature": "listing candidate cmp-container tablet-margin0 (4 cards)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "listing-index-backed",
+   "disposition": "index-backed",
+   "target": "block",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "listings",
+   "decision": "index-driven or editorially curated?"
+  },
+  {
+   "id": "m-modal-trigger-aria-haspopup-chrome-only-button-content",
+   "class": "M",
+   "feature": "modal trigger aria-haspopup (chrome only) → button:content",
+   "pages": 3,
+   "probed": 7,
+   "reach": {
+    "pages": 242,
+    "of": 60
+   },
+   "evidence": [
+    "$ US-Dollar"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "delivered-by-capture",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)",
+   "alreadyDelivered": "output already carries \"$ US-Dollar\""
+  },
+  {
+   "id": "m-modal-trigger-aria-haspopup-menu-content-button-content",
+   "class": "M",
+   "feature": "modal trigger aria-haspopup → menu:content/button:content",
+   "pages": 2,
+   "probed": 7,
+   "reach": {
+    "pages": 242,
+    "of": 60
+   },
+   "evidence": [
+    "$ US-Dollar"
+   ],
+   "pattern": "modal-loader",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "delivered-by-capture",
+   "phase": "interactive",
+   "decision": "none",
+   "alreadyDelivered": "output already carries \"$ US-Dollar\""
+  },
+  {
+   "id": "m-modal-trigger-s7dialogaddemailbutton-button-content",
+   "class": "M",
+   "feature": "modal trigger s7dialogaddemailbutton → button:content",
+   "pages": 2,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "Add Another Email Address"
+   ],
+   "pattern": "modal-loader",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "delivered-by-capture",
+   "phase": "interactive",
+   "decision": "none",
+   "alreadyDelivered": "output already carries \"Add Another Email Address\""
+  },
+  {
+   "id": "m-modal-trigger-s7dialogcancelbutton-chrome-only-button-cont",
+   "class": "M",
+   "feature": "modal trigger s7dialogcancelbutton (chrome only) → button:content",
+   "pages": 2,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "Cancel"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)"
+  },
+  {
+   "id": "m-modal-trigger-s7dialogactionbutton-chrome-only-button-cont",
+   "class": "M",
+   "feature": "modal trigger s7dialogactionbutton (chrome only) → button:content",
+   "pages": 2,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "Send Email",
+    "Select All"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "delivered-by-capture",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)",
+   "alreadyDelivered": "output already carries \"Send Email\""
+  },
+  {
+   "id": "m-modal-trigger-aria-haspopup-chrome-only-div-content-button",
+   "class": "M",
+   "feature": "modal trigger aria-haspopup (chrome only) → div:content/button:content",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 242,
+    "of": 60
+   },
+   "evidence": [
+    "$ U. S. Dollar (USD)"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "delivered-by-capture",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)",
+   "alreadyDelivered": "output already carries \"$ U. S. Dollar (USD)\""
+  },
+  {
+   "id": "m-modal-trigger-aria-haspopup-button-content",
+   "class": "M",
+   "feature": "modal trigger aria-haspopup → button:content",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 242,
+    "of": 60
+   },
+   "evidence": [
+    "$ US-Dollar"
+   ],
+   "pattern": "modal-loader",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "delivered-by-capture",
+   "phase": "interactive",
+   "decision": "none",
+   "alreadyDelivered": "output already carries \"$ US-Dollar\""
+  },
+  {
+   "id": "s-search-hosted-search-service",
+   "class": "S",
+   "feature": "search: hosted search service",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "static.cloud.coveo.com"
+   ],
+   "pattern": "search-index-backed",
+   "disposition": "index-backed",
+   "target": "widget",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "search",
+   "decision": "replace the hosted search service?"
+  },
+  {
+   "id": "t-unknown-third-party-host-rum-hlx-page",
+   "class": "T",
+   "feature": "unknown third-party host rum.hlx.page",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "rum.hlx.page"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-consent-onetrust",
+   "class": "T",
+   "feature": "consent: OneTrust",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "geolocation.onetrust.com",
+    "privacyportal-eu.onetrust.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "CMP domain script reuse on the new host"
+  },
+  {
+   "id": "t-unknown-third-party-host-patches-ahrefs-com",
+   "class": "T",
+   "feature": "unknown third-party host patches.ahrefs.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "patches.ahrefs.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-tag-manager-google-tag-manager",
+   "class": "T",
+   "feature": "tag manager: Google Tag Manager",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "www.googletagmanager.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-feedback-survey-voc-badge",
+   "class": "T",
+   "feature": "feedback: survey / VoC badge",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "zn4mbdaokn6kcahtg-cypress.siteintercept.qualtrics.com",
+    "siteintercept.qualtrics.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-img-en25-com",
+   "class": "T",
+   "feature": "unknown third-party host img.en25.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "img.en25.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-pixel-byspotify-com",
+   "class": "T",
+   "feature": "unknown third-party host pixel.byspotify.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "pixel.byspotify.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-www-redditstatic-com",
+   "class": "T",
+   "feature": "unknown third-party host www.redditstatic.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "www.redditstatic.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-marketing-ad-retargeting-pixel",
+   "class": "T",
+   "feature": "marketing: ad / retargeting pixel",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "connect.facebook.net",
+    "analytics.tiktok.com",
+    "ad.doubleclick.net",
+    "snap.licdn.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-analytics-session-replay",
+   "class": "T",
+   "feature": "analytics: session replay",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "static.hotjar.com",
+    "script.hotjar.com",
+    "vc.hotjar.io"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-analytics-adobe-analytics-experience-cloud-id",
+   "class": "T",
+   "feature": "analytics: Adobe Analytics / Experience Cloud ID",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "dpm.demdex.net",
+    "infineonag.demdex.net"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-www-facebook-com",
+   "class": "T",
+   "feature": "unknown third-party host www.facebook.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "www.facebook.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "delivered-by-capture",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids",
+   "alreadyDelivered": "output already carries \"www.facebook.com\""
+  },
+  {
+   "id": "t-unknown-third-party-host-www-linkedin-com",
+   "class": "T",
+   "feature": "unknown third-party host www.linkedin.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "www.linkedin.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "delivered-by-capture",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids",
+   "alreadyDelivered": "output already carries \"www.linkedin.com\""
+  },
+  {
+   "id": "t-unknown-third-party-host-analytics-ipv6-tiktokw-us",
+   "class": "T",
+   "feature": "unknown third-party host analytics-ipv6.tiktokw.us",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "analytics-ipv6.tiktokw.us"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-px4-ads-linkedin-com",
+   "class": "T",
+   "feature": "unknown third-party host px4.ads.linkedin.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "px4.ads.linkedin.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "v-iframe-without-src-runtime-injected-embed",
+   "class": "V",
+   "feature": "iframe without src (runtime-injected embed)",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "0×0"
+   ],
+   "pattern": "embed-passthrough",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "embeds",
+   "decision": "resolve the runtime src from a rendered capture"
+  },
+  {
+   "id": "v-player-element-div",
+   "class": "V",
+   "feature": "player element <div>",
+   "pages": 2,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "?/default/23e73bc1-5b77-4037-9fbf-943b0090c788",
+    "?/default/5a66c8cb-50e6-4510-a9a2-3cff022a7fab"
+   ],
+   "pattern": "media-as-url",
+   "disposition": "embed-passthrough",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "media",
+   "decision": "none (player ids are public)"
+  },
+  {
+   "id": "x-sign-in-account-links",
+   "class": "X",
+   "feature": "sign-in / account links",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "https://www.infineon.com/product-table/psoc-analog-coprocessor-m0-plus",
+    "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu/psoc-analog-coprocessor-m0-plus",
+    "https://www.infineon.com/product-table/accessories",
+    "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs/accessories"
+   ],
+   "pattern": "decided-out",
+   "disposition": "decided-out",
+   "target": null,
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "register",
+   "decision": "auth / commerce on the new host?"
+  },
+  {
+   "id": "x-commerce-signals-cart-true-prices-0",
+   "class": "X",
+   "feature": "commerce signals (cart: true, prices: 0)",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "decided-out",
+   "disposition": "decided-out",
+   "target": null,
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "register",
+   "decision": "auth / commerce on the new host?"
+  },
+  {
+   "id": "chrome-menu",
+   "source": "header-contract",
+   "class": "M",
+   "feature": "header menu: menu, Produkte, Applikationen, Designressourcen, Support & Training, Über uns, English 中文 日本語 Deutsch, Currency (chrome only)",
+   "pages": 1,
+   "probed": 1,
+   "reach": null,
+   "evidence": [
+    "360 click/key",
+    "1440 click/key",
+    "1440 hover/click/key"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)"
+  },
+  {
+   "id": "chrome-cart",
+   "source": "header-contract",
+   "class": "X",
+   "feature": "header cart: Cart (chrome only)",
+   "pages": 1,
+   "probed": 1,
+   "reach": null,
+   "evidence": [
+    "360 click/key"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "target": "widget",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "the commerce backend on the new host (the drawer ships per the contract either way)"
+  },
+  {
+   "id": "chrome-drawer",
+   "source": "header-contract",
+   "class": "M",
+   "feature": "header drawer: Toggle navigation (chrome only)",
+   "pages": 1,
+   "probed": 1,
+   "reach": null,
+   "evidence": [
+    "360 click/key"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)"
+  }
+ ]
+}

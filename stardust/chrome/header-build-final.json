@@ -1,0 +1,2435 @@
+{
+ "tool": "chrome-explore",
+ "url": "https://main--938eead7--aemcoder.aem.live/de",
+ "at": "2026-11-18T15:52:24.250Z",
+ "shots": "stardust/.work/chrome/header-build-final",
+ "widths": {
+  "360": {
+   "root": "body>header",
+   "controls": [
+    {
+     "name": "Infineon",
+     "key": "infineon",
+     "role": "link",
+     "kind": "link",
+     "sel": "body>header>div>div>div:nth-of-type(1)>a",
+     "href": "https://main--938eead7--aemcoder.aem.live/de",
+     "expanded": null,
+     "rect": [
+      16,
+      14,
+      82,
+      36
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Search",
+     "key": "search",
+     "role": "toggle",
+     "kind": "search",
+     "sel": "body>header>div>div>div:nth-of-type(1)>div:nth-of-type(2)>button:nth-of-type(1)",
+     "expanded": "false",
+     "rect": [
+      164,
+      15,
+      40,
+      34
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [
+         "search"
+        ],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         12,
+         360,
+         38
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "360-001-Search-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [
+         "search"
+        ],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         12,
+         360,
+         38
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "360-002-Search-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": true,
+      "toggle": false
+     }
+    },
+    {
+     "name": "Cart",
+     "key": "cart",
+     "role": "toggle",
+     "kind": "cart",
+     "sel": "body>header>div>div>div:nth-of-type(1)>div:nth-of-type(2)>button:nth-of-type(2)",
+     "expanded": "false",
+     "rect": [
+      220,
+      20,
+      24,
+      24
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Login",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=lg_lg"
+         },
+         {
+          "text": "Register",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=rg_rg"
+         }
+        ],
+        "headings": [
+         "Greifen Sie auf Ihren Warenkorb zu!"
+        ],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         29,
+         246,
+         307,
+         356
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.cart-backdrop"
+        },
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-out",
+         "target": "div.cart-dialog"
+        }
+       ],
+       "shot": "360-003-Cart-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Login",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=lg_lg"
+         },
+         {
+          "text": "Register",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=rg_rg"
+         }
+        ],
+        "headings": [
+         "Greifen Sie auf Ihren Warenkorb zu!"
+        ],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         29,
+         246,
+         307,
+         356
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.cart-backdrop"
+        },
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-out",
+         "target": "div.cart-dialog"
+        }
+       ],
+       "shot": "360-004-Cart-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": null,
+      "toggle": true
+     }
+    },
+    {
+     "name": "Account",
+     "key": "account",
+     "role": "toggle",
+     "kind": "account",
+     "sel": "body>header>div>div>div:nth-of-type(1)>div:nth-of-type(2)>button:nth-of-type(3)",
+     "expanded": "false",
+     "rect": [
+      260,
+      19,
+      40,
+      25
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Einloggen",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=lg_lg"
+         },
+         {
+          "text": "Registrieren",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=rg_rg"
+         },
+         {
+          "text": "myInfineon Vorteile",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/benefits"
+         },
+         {
+          "text": "Mein dashboard",
+          "href": "https://www.infineon.com/de/login/dashboard"
+         },
+         {
+          "text": "Benachrichtigungen",
+          "href": "https://www.infineon.com/de/login/dashboard/notification"
+         },
+         {
+          "text": "Lesezeichen",
+          "href": "https://www.infineon.com/de/login/dashboard/bookmarks"
+         },
+         {
+          "text": "Online Bestellungen",
+          "href": "https://www.infineon.com/de/login/dashboard/orders"
+         },
+         {
+          "text": "My cases",
+          "href": "https://mycases.infineon.com/"
+         },
+         {
+          "text": "myICP",
+          "href": "https://myicp.infineon.com/"
+         },
+         {
+          "text": "Profil",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/login/dashboard/profile"
+         },
+         {
+          "text": "Abmelden",
+          "href": "https://www.infineon.com/de/logout.logout.de.json"
+         }
+        ],
+        "headings": [
+         "Account"
+        ],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         0,
+         55,
+         360,
+         490
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 1000,
+         "delay": 0,
+         "easing": "ease",
+         "target": "div.hero-slide"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 1000,
+         "delay": 0,
+         "easing": "ease",
+         "target": "li.hero-img"
+        },
+        {
+         "kind": "animation",
+         "prop": "hero-progress",
+         "ms": 15000,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.hero-fill"
+        }
+       ],
+       "shot": "360-005-Account-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Einloggen",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=lg_lg"
+         },
+         {
+          "text": "Registrieren",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=rg_rg"
+         },
+         {
+          "text": "myInfineon Vorteile",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/benefits"
+         },
+         {
+          "text": "Mein dashboard",
+          "href": "https://www.infineon.com/de/login/dashboard"
+         },
+         {
+          "text": "Benachrichtigungen",
+          "href": "https://www.infineon.com/de/login/dashboard/notification"
+         },
+         {
+          "text": "Lesezeichen",
+          "href": "https://www.infineon.com/de/login/dashboard/bookmarks"
+         },
+         {
+          "text": "Online Bestellungen",
+          "href": "https://www.infineon.com/de/login/dashboard/orders"
+         },
+         {
+          "text": "My cases",
+          "href": "https://mycases.infineon.com/"
+         },
+         {
+          "text": "myICP",
+          "href": "https://myicp.infineon.com/"
+         },
+         {
+          "text": "Profil",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/login/dashboard/profile"
+         },
+         {
+          "text": "Abmelden",
+          "href": "https://www.infineon.com/de/logout.logout.de.json"
+         }
+        ],
+        "headings": [
+         "Account"
+        ],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         0,
+         55,
+         360,
+         490
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "360-006-Account-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": true,
+      "toggle": true
+     }
+    },
+    {
+     "name": "Toggle navigation",
+     "key": "toggle navigation",
+     "role": "toggle",
+     "kind": "drawer",
+     "sel": "body>header>div>div>div:nth-of-type(1)>div:nth-of-type(2)>button:nth-of-type(4)",
+     "expanded": "false",
+     "rect": [
+      308,
+      14,
+      36,
+      36
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Produkte",
+          "href": "https://main--938eead7--aemcoder.aem.live/products"
+         },
+         {
+          "text": "Applikationen",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications"
+         },
+         {
+          "text": "Designressourcen",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources"
+         },
+         {
+          "text": "Support & Training",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/support"
+         },
+         {
+          "text": "Über uns",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Deutsch",
+         "$ US-Dollar"
+        ],
+        "options": 0,
+        "rect": [
+         16,
+         55,
+         334,
+         789
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "border-top-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.m-menu"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-bottom-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.m-menu"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-left-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.m-menu"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-right-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.m-menu"
+        }
+       ],
+       "shot": "360-007-Toggle-navigation-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Produkte",
+          "href": "https://main--938eead7--aemcoder.aem.live/products"
+         },
+         {
+          "text": "Applikationen",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications"
+         },
+         {
+          "text": "Designressourcen",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources"
+         },
+         {
+          "text": "Support & Training",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/support"
+         },
+         {
+          "text": "Über uns",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Deutsch",
+         "$ US-Dollar"
+        ],
+        "options": 0,
+        "rect": [
+         16,
+         55,
+         334,
+         789
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "border-top-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.m-menu"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-bottom-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.m-menu"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-left-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.m-menu"
+        },
+        {
+         "kind": "transition",
+         "prop": "border-right-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "button.m-menu"
+        }
+       ],
+       "shot": "360-008-Toggle-navigation-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": true,
+      "toggle": true
+     }
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 61,
+     "position": "static",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": -1000,
+     "height": 61,
+     "position": "static",
+     "inView": false
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": -700,
+     "height": 61,
+     "position": "static",
+     "inView": false
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 61,
+     "position": "static",
+     "inView": true
+    }
+   ],
+   "states": 8,
+   "truncated": "depth 1 at Search",
+   "loads": 1,
+   "requests": 53,
+   "maxRequests": 600,
+   "inputsSkipped": 0
+  },
+  "1440": {
+   "root": "body>header",
+   "controls": [
+    {
+     "name": "Infineon",
+     "key": "infineon",
+     "role": "link",
+     "kind": "link",
+     "sel": "body>header>div>div>div:nth-of-type(1)>a",
+     "href": "https://main--938eead7--aemcoder.aem.live/de",
+     "expanded": null,
+     "rect": [
+      60,
+      15,
+      82,
+      36
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Produkte",
+     "key": "produkte",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#site-nav-1>ul>li:nth-of-type(1)>a",
+     "expanded": "false",
+     "rect": [
+      166,
+      21,
+      61,
+      24
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "ASIC",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/asic"
+         },
+         {
+          "text": "ASIC",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/asic"
+         },
+         {
+          "text": "ASIC Solutions",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/asic/asic"
+         },
+         {
+          "text": "SoC & SiP & FPGA",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/asic/soc-sip-fpga"
+         },
+         {
+          "text": "Battery management ICs",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/battery-management-ics"
+         },
+         {
+          "text": "Clocks and timing solutions",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/clocks-timing-solutions"
+         },
+         {
+          "text": "ESD and surge protection devices",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/esd-surge-protection"
+         },
+         {
+          "text": "Automotive Ethernet",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/ethernet"
+         },
+         {
+          "text": "Evaluation Boards",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/evaluation-boards"
+         },
+         {
+          "text": "High reliability",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/high-reliability"
+         },
+         {
+          "text": "Isolation",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/isolation"
+         },
+         {
+          "text": "Memories",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/memories"
+         },
+         {
+          "text": "Microcontroller",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/microcontroller"
+         },
+         {
+          "text": "Power",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/power"
+         },
+         {
+          "text": "RF",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/rf"
+         },
+         {
+          "text": "Security and smart card solutions",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/security-smart-card-solutions"
+         },
+         {
+          "text": "Sensor technology",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/sensor"
+         },
+         {
+          "text": "Small signal transistors and diodes",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/small-signal-transistors-diodes"
+         },
+         {
+          "text": "Transceivers",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/transceivers"
+         },
+         {
+          "text": "Universal Serial Bus (USB)",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/universal-serial-bus"
+         },
+         {
+          "text": "Wireless connectivity",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/wireless-connectivity"
+         },
+         {
+          "text": "Technologie",
+          "href": "https://main--938eead7--aemcoder.aem.live/technology"
+         },
+         {
+          "text": "Packages",
+          "href": "https://main--938eead7--aemcoder.aem.live/package-overview"
+         },
+         {
+          "text": "Produktinformationen",
+          "href": "https://main--938eead7--aemcoder.aem.live/product-information"
+         },
+         {
+          "text": "Bezugsquellen",
+          "href": "https://main--938eead7--aemcoder.aem.live/contact-us/where-to-buy"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "ASIC",
+         "Clocks and timing solutions",
+         "ESD and surge protection devices",
+         "Automotive Ethernet",
+         "High reliability",
+         "Isolation",
+         "Memories",
+         "Microcontroller",
+         "Power",
+         "RF",
+         "Security and smart card solutions",
+         "Sensor technology",
+         "Small signal transistors and diodes",
+         "Transceivers",
+         "Universal Serial Bus (USB)",
+         "Wireless connectivity",
+         "Suchwerkzeuge",
+         "Technologie",
+         "Produktinformationen",
+         "Bezugsquellen",
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         67,
+         1440,
+         833
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.nav-item-link"
+        }
+       ],
+       "shot": "1440-001-Produkte-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "ASIC",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/asic"
+         },
+         {
+          "text": "ASIC",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/asic"
+         },
+         {
+          "text": "ASIC Solutions",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/asic/asic"
+         },
+         {
+          "text": "SoC & SiP & FPGA",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/asic/soc-sip-fpga"
+         },
+         {
+          "text": "Battery management ICs",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/battery-management-ics"
+         },
+         {
+          "text": "Clocks and timing solutions",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/clocks-timing-solutions"
+         },
+         {
+          "text": "ESD and surge protection devices",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/esd-surge-protection"
+         },
+         {
+          "text": "Automotive Ethernet",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/ethernet"
+         },
+         {
+          "text": "Evaluation Boards",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/evaluation-boards"
+         },
+         {
+          "text": "High reliability",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/high-reliability"
+         },
+         {
+          "text": "Isolation",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/isolation"
+         },
+         {
+          "text": "Memories",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/memories"
+         },
+         {
+          "text": "Microcontroller",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/microcontroller"
+         },
+         {
+          "text": "Power",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/power"
+         },
+         {
+          "text": "RF",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/rf"
+         },
+         {
+          "text": "Security and smart card solutions",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/security-smart-card-solutions"
+         },
+         {
+          "text": "Sensor technology",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/sensor"
+         },
+         {
+          "text": "Small signal transistors and diodes",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/small-signal-transistors-diodes"
+         },
+         {
+          "text": "Transceivers",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/transceivers"
+         },
+         {
+          "text": "Universal Serial Bus (USB)",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/universal-serial-bus"
+         },
+         {
+          "text": "Wireless connectivity",
+          "href": "https://main--938eead7--aemcoder.aem.live/products/wireless-connectivity"
+         },
+         {
+          "text": "Technologie",
+          "href": "https://main--938eead7--aemcoder.aem.live/technology"
+         },
+         {
+          "text": "Packages",
+          "href": "https://main--938eead7--aemcoder.aem.live/package-overview"
+         },
+         {
+          "text": "Produktinformationen",
+          "href": "https://main--938eead7--aemcoder.aem.live/product-information"
+         },
+         {
+          "text": "Bezugsquellen",
+          "href": "https://main--938eead7--aemcoder.aem.live/contact-us/where-to-buy"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "ASIC",
+         "Clocks and timing solutions",
+         "ESD and surge protection devices",
+         "Automotive Ethernet",
+         "High reliability",
+         "Isolation",
+         "Memories",
+         "Microcontroller",
+         "Power",
+         "RF",
+         "Security and smart card solutions",
+         "Sensor technology",
+         "Small signal transistors and diodes",
+         "Transceivers",
+         "Universal Serial Bus (USB)",
+         "Wireless connectivity",
+         "Suchwerkzeuge",
+         "Technologie",
+         "Produktinformationen",
+         "Bezugsquellen",
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         67,
+         1440,
+         833
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.nav-item-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 1000,
+         "delay": 0,
+         "easing": "ease",
+         "target": "div.hero-slide"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 1000,
+         "delay": 0,
+         "easing": "ease",
+         "target": "li.hero-img"
+        },
+        {
+         "kind": "animation",
+         "prop": "hero-progress",
+         "ms": 15000,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.hero-fill"
+        }
+       ],
+       "shot": "1440-002-Produkte-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": null,
+      "toggle": true
+     }
+    },
+    {
+     "name": "Applikationen",
+     "key": "applikationen",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#site-nav-1>ul>li:nth-of-type(2)>a",
+     "expanded": "false",
+     "rect": [
+      243,
+      21,
+      94,
+      24
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Aerospace and defense",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/aerospace-and-defense"
+         },
+         {
+          "text": "Aerospace and defense",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/aerospace-and-defense"
+         },
+         {
+          "text": "AI and data center",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/ai-data-center"
+         },
+         {
+          "text": "Automotive",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/automotive"
+         },
+         {
+          "text": "Communications",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/communications"
+         },
+         {
+          "text": "Consumer electronics",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/consumer-electronics"
+         },
+         {
+          "text": "Industrial",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/industrial"
+         },
+         {
+          "text": "Security solutions",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/security-solutions"
+         },
+         {
+          "text": "Smart home and building",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/smart-home-building"
+         },
+         {
+          "text": "Solutions",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/solutions"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Aerospace and defense",
+         "AI and data center",
+         "Automotive",
+         "Communications",
+         "Consumer electronics",
+         "Industrial",
+         "Security solutions",
+         "Smart home and building",
+         "Solutions",
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         67,
+         1440,
+         833
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.nav-item-link"
+        }
+       ],
+       "shot": "1440-003-Applikationen-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Aerospace and defense",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/aerospace-and-defense"
+         },
+         {
+          "text": "Aerospace and defense",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/aerospace-and-defense"
+         },
+         {
+          "text": "AI and data center",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/ai-data-center"
+         },
+         {
+          "text": "Automotive",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/automotive"
+         },
+         {
+          "text": "Communications",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/communications"
+         },
+         {
+          "text": "Consumer electronics",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/consumer-electronics"
+         },
+         {
+          "text": "Industrial",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/industrial"
+         },
+         {
+          "text": "Security solutions",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/security-solutions"
+         },
+         {
+          "text": "Smart home and building",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/smart-home-building"
+         },
+         {
+          "text": "Solutions",
+          "href": "https://main--938eead7--aemcoder.aem.live/applications/solutions"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Aerospace and defense",
+         "AI and data center",
+         "Automotive",
+         "Communications",
+         "Consumer electronics",
+         "Industrial",
+         "Security solutions",
+         "Smart home and building",
+         "Solutions",
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         67,
+         1440,
+         833
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.nav-item-link"
+        }
+       ],
+       "shot": "1440-004-Applikationen-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": null,
+      "toggle": true
+     }
+    },
+    {
+     "name": "Designressourcen",
+     "key": "designressourcen",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#site-nav-1>ul>li:nth-of-type(3)>a",
+     "expanded": "false",
+     "rect": [
+      353,
+      21,
+      118,
+      24
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Digital documentation",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/digital-documentation"
+         },
+         {
+          "text": "Boards & Kits",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/boards-and-kits"
+         },
+         {
+          "text": "Finder & selection tools",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/finder-selection-tools"
+         },
+         {
+          "text": "Platforms",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/platforms"
+         },
+         {
+          "text": "Services",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/services"
+         },
+         {
+          "text": "Simulation & Modeling",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/simulation-modeling"
+         },
+         {
+          "text": "Software",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/embedded-software"
+         },
+         {
+          "text": "Tools",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/development-tools"
+         },
+         {
+          "text": "Partners",
+          "href": "https://main--938eead7--aemcoder.aem.live/partners"
+         },
+         {
+          "text": "Maker",
+          "href": "https://main--938eead7--aemcoder.aem.live/infineon-for-makers"
+         },
+         {
+          "text": "University Alliance Program",
+          "href": "https://main--938eead7--aemcoder.aem.live/university-alliance"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Boards & Kits",
+         "Finder & selection tools",
+         "Platforms",
+         "Services",
+         "Simulation & Modeling",
+         "Software",
+         "Tools",
+         "Partners",
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         67,
+         1440,
+         833
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.nav-item-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 1000,
+         "delay": 0,
+         "easing": "ease",
+         "target": "li.hero-img"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 1000,
+         "delay": 0,
+         "easing": "ease",
+         "target": "div.hero-slide"
+        },
+        {
+         "kind": "animation",
+         "prop": "hero-progress",
+         "ms": 15000,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.hero-fill"
+        }
+       ],
+       "shot": "1440-005-Designressourcen-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Digital documentation",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/digital-documentation"
+         },
+         {
+          "text": "Boards & Kits",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/boards-and-kits"
+         },
+         {
+          "text": "Finder & selection tools",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/finder-selection-tools"
+         },
+         {
+          "text": "Platforms",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/platforms"
+         },
+         {
+          "text": "Services",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/services"
+         },
+         {
+          "text": "Simulation & Modeling",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/simulation-modeling"
+         },
+         {
+          "text": "Software",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/embedded-software"
+         },
+         {
+          "text": "Tools",
+          "href": "https://main--938eead7--aemcoder.aem.live/design-resources/development-tools"
+         },
+         {
+          "text": "Partners",
+          "href": "https://main--938eead7--aemcoder.aem.live/partners"
+         },
+         {
+          "text": "Maker",
+          "href": "https://main--938eead7--aemcoder.aem.live/infineon-for-makers"
+         },
+         {
+          "text": "University Alliance Program",
+          "href": "https://main--938eead7--aemcoder.aem.live/university-alliance"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Boards & Kits",
+         "Finder & selection tools",
+         "Platforms",
+         "Services",
+         "Simulation & Modeling",
+         "Software",
+         "Tools",
+         "Partners",
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         67,
+         1440,
+         833
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.nav-item-link"
+        }
+       ],
+       "shot": "1440-006-Designressourcen-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": null,
+      "toggle": true
+     }
+    },
+    {
+     "name": "Support & Training",
+     "key": "support training",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#site-nav-1>ul>li:nth-of-type(4)>a",
+     "expanded": "false",
+     "rect": [
+      487,
+      21,
+      125,
+      24
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Support",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/support"
+         },
+         {
+          "text": "Support",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/support"
+         },
+         {
+          "text": "FAQs",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/support/faqs"
+         },
+         {
+          "text": "Case management portal",
+          "href": "https://mycases.infineon.com/"
+         },
+         {
+          "text": "Kontakt",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/contact-us"
+         },
+         {
+          "text": "Training",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/training"
+         },
+         {
+          "text": "Infineon Developer Community",
+          "href": "https://community.infineon.com/"
+         },
+         {
+          "text": "Infineon startet limitiertes Aktienrückkaufprogramm zur Erfüllung von Verpflichtungen aus bestehenden Mitarbeiterbeteili",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-029"
+         },
+         {
+          "text": "Infineon schließt GJ 2026 mit Rekordquartal ab und erwartet für GJ 2027 starkes Umsatzwachstum von mehr als 20 Prozent u",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-025"
+         },
+         {
+          "text": "Infineon erzielt technologischen Meilenstein mit weltweit erstem 300-Millimeter-Siliziumkarbid-(SiC)-Wafer für Leistungs",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-028"
+         },
+         {
+          "text": "Infineon setzt mit AURIX™ RC1 neue Maßstäbe für Echtzeit-Computing und -Steuerung in softwaredefinierten Fahrzeugen und ",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-026"
+         },
+         {
+          "text": "Alle Nachrichten anzeigen",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/press"
+         }
+        ],
+        "headings": [
+         "Neueste Nachrichten"
+        ],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Support",
+         "Training",
+         "Infineon Developer Community",
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         67,
+         1440,
+         833
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.nav-item-link"
+        }
+       ],
+       "shot": "1440-007-Support-Training-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Support",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/support"
+         },
+         {
+          "text": "Support",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/support"
+         },
+         {
+          "text": "FAQs",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/support/faqs"
+         },
+         {
+          "text": "Case management portal",
+          "href": "https://mycases.infineon.com/"
+         },
+         {
+          "text": "Kontakt",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/contact-us"
+         },
+         {
+          "text": "Training",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/training"
+         },
+         {
+          "text": "Infineon Developer Community",
+          "href": "https://community.infineon.com/"
+         },
+         {
+          "text": "Infineon startet limitiertes Aktienrückkaufprogramm zur Erfüllung von Verpflichtungen aus bestehenden Mitarbeiterbeteili",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-029"
+         },
+         {
+          "text": "Infineon schließt GJ 2026 mit Rekordquartal ab und erwartet für GJ 2027 starkes Umsatzwachstum von mehr als 20 Prozent u",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-025"
+         },
+         {
+          "text": "Infineon erzielt technologischen Meilenstein mit weltweit erstem 300-Millimeter-Siliziumkarbid-(SiC)-Wafer für Leistungs",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-028"
+         },
+         {
+          "text": "Infineon setzt mit AURIX™ RC1 neue Maßstäbe für Echtzeit-Computing und -Steuerung in softwaredefinierten Fahrzeugen und ",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-026"
+         },
+         {
+          "text": "Alle Nachrichten anzeigen",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/press"
+         }
+        ],
+        "headings": [
+         "Neueste Nachrichten"
+        ],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Support",
+         "Training",
+         "Infineon Developer Community",
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         67,
+         1440,
+         833
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.nav-item-link"
+        }
+       ],
+       "shot": "1440-008-Support-Training-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": null,
+      "toggle": true
+     }
+    },
+    {
+     "name": "Über uns",
+     "key": "über uns",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#site-nav-1>ul>li:nth-of-type(5)>a",
+     "expanded": "false",
+     "rect": [
+      629,
+      21,
+      60,
+      24
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Unternehmen",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/company"
+         },
+         {
+          "text": "Unternehmen",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/company"
+         },
+         {
+          "text": "Unsere Divisionen",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/company/our-divisions"
+         },
+         {
+          "text": "Führungsteam",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/company/leadership-team/"
+         },
+         {
+          "text": "Nachhaltigkeit",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/company/sustainability"
+         },
+         {
+          "text": "Kontakt",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/contact-us"
+         },
+         {
+          "text": "Unsere Geschichten",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/our-stories"
+         },
+         {
+          "text": "Events",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/events"
+         },
+         {
+          "text": "Presse",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/press"
+         },
+         {
+          "text": "Investor",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/investor"
+         },
+         {
+          "text": "Karriere",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/careers"
+         },
+         {
+          "text": "Qualität",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/quality"
+         },
+         {
+          "text": "Infineon startet limitiertes Aktienrückkaufprogramm zur Erfüllung von Verpflichtungen aus bestehenden Mitarbeiterbeteili",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-029"
+         },
+         {
+          "text": "Infineon schließt GJ 2026 mit Rekordquartal ab und erwartet für GJ 2027 starkes Umsatzwachstum von mehr als 20 Prozent u",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-025"
+         },
+         {
+          "text": "Infineon erzielt technologischen Meilenstein mit weltweit erstem 300-Millimeter-Siliziumkarbid-(SiC)-Wafer für Leistungs",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-028"
+         },
+         {
+          "text": "Infineon setzt mit AURIX™ RC1 neue Maßstäbe für Echtzeit-Computing und -Steuerung in softwaredefinierten Fahrzeugen und ",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-026"
+         },
+         {
+          "text": "Alle Nachrichten anzeigen",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/press"
+         }
+        ],
+        "headings": [
+         "Neueste Nachrichten"
+        ],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Unternehmen",
+         "Unsere Geschichten",
+         "Events",
+         "Presse",
+         "Investor",
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         67,
+         1440,
+         833
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.nav-item-link"
+        }
+       ],
+       "shot": "1440-009--ber-uns-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Unternehmen",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/company"
+         },
+         {
+          "text": "Unternehmen",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/company"
+         },
+         {
+          "text": "Unsere Divisionen",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/company/our-divisions"
+         },
+         {
+          "text": "Führungsteam",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/company/leadership-team/"
+         },
+         {
+          "text": "Nachhaltigkeit",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/company/sustainability"
+         },
+         {
+          "text": "Kontakt",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/contact-us"
+         },
+         {
+          "text": "Unsere Geschichten",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/our-stories"
+         },
+         {
+          "text": "Events",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/events"
+         },
+         {
+          "text": "Presse",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/press"
+         },
+         {
+          "text": "Investor",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/investor"
+         },
+         {
+          "text": "Karriere",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/careers"
+         },
+         {
+          "text": "Qualität",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/quality"
+         },
+         {
+          "text": "Infineon startet limitiertes Aktienrückkaufprogramm zur Erfüllung von Verpflichtungen aus bestehenden Mitarbeiterbeteili",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-029"
+         },
+         {
+          "text": "Infineon schließt GJ 2026 mit Rekordquartal ab und erwartet für GJ 2027 starkes Umsatzwachstum von mehr als 20 Prozent u",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-025"
+         },
+         {
+          "text": "Infineon erzielt technologischen Meilenstein mit weltweit erstem 300-Millimeter-Siliziumkarbid-(SiC)-Wafer für Leistungs",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-028"
+         },
+         {
+          "text": "Infineon setzt mit AURIX™ RC1 neue Maßstäbe für Echtzeit-Computing und -Steuerung in softwaredefinierten Fahrzeugen und ",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/press-release/2026/infpr202611-026"
+         },
+         {
+          "text": "Alle Nachrichten anzeigen",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/about/press"
+         }
+        ],
+        "headings": [
+         "Neueste Nachrichten"
+        ],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Unternehmen",
+         "Unsere Geschichten",
+         "Events",
+         "Presse",
+         "Investor",
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         67,
+         1440,
+         833
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "a.nav-item-link"
+        }
+       ],
+       "shot": "1440-010--ber-uns-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": null,
+      "toggle": true
+     }
+    },
+    {
+     "name": "Suchen",
+     "key": "suchen",
+     "role": "input",
+     "kind": "search",
+     "sel": "body>header>div>div>div:nth-of-type(1)>form>input",
+     "expanded": null,
+     "rect": [
+      713,
+      14,
+      232,
+      38
+     ],
+     "actions": {},
+     "search": {
+      "probe": "produkte",
+      "typeahead": {
+       "links": 0,
+       "options": 0
+      },
+      "submit": "https://www.infineon.com/de/search/global-search-page"
+     }
+    },
+    {
+     "name": "Sprache",
+     "key": "sprache",
+     "role": "toggle",
+     "kind": "locale",
+     "sel": "body>header>div>div>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(1)>button",
+     "expanded": "false",
+     "rect": [
+      1016,
+      17,
+      32,
+      32
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "English",
+          "href": "https://main--938eead7--aemcoder.aem.live/"
+         },
+         {
+          "text": "中文",
+          "href": "https://www.infineon.cn/"
+         },
+         {
+          "text": "日本語",
+          "href": "https://main--938eead7--aemcoder.aem.live/ja"
+         },
+         {
+          "text": "Deutsch",
+          "href": "https://main--938eead7--aemcoder.aem.live/de"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         976,
+         67,
+         160,
+         160
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-011-Sprache-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "English",
+          "href": "https://main--938eead7--aemcoder.aem.live/"
+         },
+         {
+          "text": "中文",
+          "href": "https://www.infineon.cn/"
+         },
+         {
+          "text": "日本語",
+          "href": "https://main--938eead7--aemcoder.aem.live/ja"
+         },
+         {
+          "text": "Deutsch",
+          "href": "https://main--938eead7--aemcoder.aem.live/de"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         976,
+         67,
+         160,
+         160
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-012-Sprache-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": true,
+      "toggle": true
+     }
+    },
+    {
+     "name": "Currency",
+     "key": "currency",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "body>header>div>div>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(2)>button",
+     "expanded": "false",
+     "rect": [
+      1048,
+      17,
+      32,
+      32
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [
+         "search"
+        ],
+        "buttons": [],
+        "options": 5,
+        "rect": [
+         916,
+         67,
+         264,
+         280
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-013-Currency-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [
+         "search"
+        ],
+        "buttons": [],
+        "options": 5,
+        "rect": [
+         916,
+         67,
+         264,
+         280
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-014-Currency-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": true,
+      "toggle": true
+     }
+    },
+    {
+     "name": "Cart",
+     "key": "cart",
+     "role": "toggle",
+     "kind": "cart",
+     "sel": "body>header>div>div>div:nth-of-type(1)>div:nth-of-type(1)>button",
+     "expanded": "false",
+     "rect": [
+      1080,
+      13,
+      40,
+      40
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Login",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=lg_lg"
+         },
+         {
+          "text": "Register",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=rg_rg"
+         }
+        ],
+        "headings": [
+         "Greifen Sie auf Ihren Warenkorb zu!"
+        ],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         505,
+         106,
+         470,
+         360
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.cart-backdrop"
+        },
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-out",
+         "target": "div.cart-dialog"
+        }
+       ],
+       "shot": "1440-015-Cart-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Login",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=lg_lg"
+         },
+         {
+          "text": "Register",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=rg_rg"
+         }
+        ],
+        "headings": [
+         "Greifen Sie auf Ihren Warenkorb zu!"
+        ],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         505,
+         106,
+         470,
+         360
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.cart-backdrop"
+        },
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-out",
+         "target": "div.cart-dialog"
+        }
+       ],
+       "shot": "1440-016-Cart-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": null,
+      "toggle": true
+     }
+    },
+    {
+     "name": "Anmeldung zu myInfineon",
+     "key": "anmeldung zu myinfineon",
+     "role": "link",
+     "kind": "link",
+     "sel": "body>header>div>div>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(2)>p>a",
+     "href": "https://www.infineon.com/de/login.login.de.json?action=lg_lg",
+     "expanded": null,
+     "rect": [
+      1132,
+      13,
+      207,
+      40
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Account",
+     "key": "account",
+     "role": "toggle",
+     "kind": "account",
+     "sel": "body>header>div>div>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(2)>button",
+     "expanded": "false",
+     "rect": [
+      1339,
+      13,
+      41,
+      40
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Einloggen",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=lg_lg"
+         },
+         {
+          "text": "Registrieren",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=rg_rg"
+         },
+         {
+          "text": "myInfineon Vorteile",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/benefits"
+         },
+         {
+          "text": "Mein dashboard",
+          "href": "https://www.infineon.com/de/login/dashboard"
+         },
+         {
+          "text": "Benachrichtigungen",
+          "href": "https://www.infineon.com/de/login/dashboard/notification"
+         },
+         {
+          "text": "Lesezeichen",
+          "href": "https://www.infineon.com/de/login/dashboard/bookmarks"
+         },
+         {
+          "text": "Online Bestellungen",
+          "href": "https://www.infineon.com/de/login/dashboard/orders"
+         },
+         {
+          "text": "My cases",
+          "href": "https://mycases.infineon.com/"
+         },
+         {
+          "text": "myICP",
+          "href": "https://myicp.infineon.com/"
+         },
+         {
+          "text": "Profil",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/login/dashboard/profile"
+         },
+         {
+          "text": "Abmelden",
+          "href": "https://www.infineon.com/de/logout.logout.de.json"
+         }
+        ],
+        "headings": [
+         "Account"
+        ],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         1070,
+         61,
+         330,
+         514
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-017-Account-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Einloggen",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=lg_lg"
+         },
+         {
+          "text": "Registrieren",
+          "href": "https://www.infineon.com/de/login.login.de.json?action=rg_rg"
+         },
+         {
+          "text": "myInfineon Vorteile",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/benefits"
+         },
+         {
+          "text": "Mein dashboard",
+          "href": "https://www.infineon.com/de/login/dashboard"
+         },
+         {
+          "text": "Benachrichtigungen",
+          "href": "https://www.infineon.com/de/login/dashboard/notification"
+         },
+         {
+          "text": "Lesezeichen",
+          "href": "https://www.infineon.com/de/login/dashboard/bookmarks"
+         },
+         {
+          "text": "Online Bestellungen",
+          "href": "https://www.infineon.com/de/login/dashboard/orders"
+         },
+         {
+          "text": "My cases",
+          "href": "https://mycases.infineon.com/"
+         },
+         {
+          "text": "myICP",
+          "href": "https://myicp.infineon.com/"
+         },
+         {
+          "text": "Profil",
+          "href": "https://main--938eead7--aemcoder.aem.live/de/login/dashboard/profile"
+         },
+         {
+          "text": "Abmelden",
+          "href": "https://www.infineon.com/de/logout.logout.de.json"
+         }
+        ],
+        "headings": [
+         "Account"
+        ],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         1070,
+         61,
+         330,
+         514
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-018-Account-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": true,
+      "toggle": true
+     }
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 67,
+     "position": "static",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": -1000,
+     "height": 67,
+     "position": "static",
+     "inView": false
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": -700,
+     "height": 67,
+     "position": "static",
+     "inView": false
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 67,
+     "position": "static",
+     "inView": true
+    }
+   ],
+   "states": 18,
+   "truncated": "depth 1 at Produkte",
+   "loads": 1,
+   "requests": 62,
+   "maxRequests": 600,
+   "inputsSkipped": 0
+  }
+ },
+ "probe": "produkte"
+}

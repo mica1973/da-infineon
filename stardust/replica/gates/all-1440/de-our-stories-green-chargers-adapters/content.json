@@ -1,0 +1,4396 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:09:25.388Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/green-chargers-adapters",
+  "at": "2026-11-18T23:09:04.420Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6318,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems0",
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems1",
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems2",
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems3",
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems4",
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 714,
+    "y": 16,
+    "w": 197,
+    "h": 36,
+    "label": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die suche zu aktivieren.",
+    "value": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die ",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "text": "navbardropdown"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "label": "navbardropdown",
+    "value": "navbardropdown",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-1",
+    "x": 1072,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.nav-item.desktopProfile > div.login-dropdown > button.login-button",
+    "x": 1132,
+    "y": 14,
+    "w": 248,
+    "h": 40,
+    "text": "anmeldung zu myinfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 254,
+    "y": 86,
+    "w": 217,
+    "h": 20,
+    "text": "ladegeräte und adapter werden grün",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "woman with smartphone charger",
+    "file": "woman-with-smartphone-charger.png:asset-"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 56,
+    "level": 1,
+    "text": "ladegeräte und adapter werden grün"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 242,
+    "y": 555,
+    "w": 956,
+    "h": 72,
+    "text": "Können Sie sich ein Leben ohne Kommunikationsgeräte vorstellen? Ein Leben ohne L"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 266,
+    "y": 643,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 342,
+    "y": 643,
+    "w": 72,
+    "h": 20,
+    "level": 4,
+    "text": "juli 07, 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 777,
+    "w": 72,
+    "h": 22,
+    "text": "cool down",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 811,
+    "w": 282,
+    "h": 22,
+    "text": "energieeinsparungen: die summe macht's",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 845,
+    "w": 270,
+    "h": 22,
+    "text": "weniger material, weniger elektroschrott",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 879,
+    "w": 193,
+    "h": 22,
+    "text": "der grüne move hin zu usb-c",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 913,
+    "w": 255,
+    "h": 22,
+    "text": "entdecken sie unser produkt-portfolio",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > p",
+    "x": 224,
+    "y": 743,
+    "w": 177,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-8ff72739a1 > h2#anch1",
+    "x": 200,
+    "y": 1025,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "cool down"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-0706fac9d4 > p",
+    "x": 200,
+    "y": 1077,
+    "w": 1040,
+    "h": 130,
+    "text": "Es ist eine unsichtbare, aber wichtige Aufgabe. Ladegeräte sind dafür zuständig,"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-469a9e7779 > h2#anch2",
+    "x": 200,
+    "y": 1271,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "energieeinsparungen: die summe macht's"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-e079a21643 > p",
+    "x": 200,
+    "y": 1323,
+    "w": 1040,
+    "h": 104,
+    "text": "Modernste Mikroelektronik im Inneren des Geräts kann diese Abwärme deutlich redu"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 1459,
+    "w": 1040,
+    "h": 585,
+    "text": "ee campaign dyk fact chargers",
+    "file": "ee-campaign-dyk-fact-chargers.png:asset-"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-55a3b4fedd > h2#anch3",
+    "x": 200,
+    "y": 2108,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "weniger material, weniger elektroschrott"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-822501823d > p",
+    "x": 200,
+    "y": 2160,
+    "w": 1040,
+    "h": 130,
+    "text": "Eine geringere Wärmeentwicklung ist wichtig, gleichzeitig brauchen wir leistungs"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 2322,
+    "w": 1040,
+    "h": 585,
+    "text": "fff",
+    "file": "ee-campaign-chargers-gan-graphics.png:as"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-d729fb8846 > h2#anch4",
+    "x": 200,
+    "y": 2971,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "der grüne move hin zu usb-c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-abcd3cd280 > p",
+    "x": 200,
+    "y": 3023,
+    "w": 1040,
+    "h": 156,
+    "text": "Im Dezember 2024 ist eine wichtige neue Verordnung in der EU in Kraft getreten: "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 3211,
+    "w": 1040,
+    "h": 585,
+    "text": "ee campaign usb-c less waste graphics",
+    "file": "ee-campaign-usb-c-less-waste-graphics.pn"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-0fbdb42677 > h2#anch5",
+    "x": 200,
+    "y": 3860,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "entdecken sie unser produkt-portfolio"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-feac64262e > ul > li",
+    "x": 240,
+    "y": 3952,
+    "w": 976,
+    "h": 52,
+    "text": "HEMTs, IPS, Drivers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 3980,
+    "w": 116,
+    "h": 22,
+    "text": "all gan solutions",
+    "href": "/technology/wide-bandgap-semiconductors-sic-gan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-feac64262e > ul > li",
+    "x": 240,
+    "y": 4020,
+    "w": 976,
+    "h": 52,
+    "text": "First PFC + hybrid flyback IC"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 4048,
+    "w": 132,
+    "h": 22,
+    "text": "xdp™ digital power",
+    "href": "/promo/driving-gigantic-performance"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-feac64262e > ul > li",
+    "x": 240,
+    "y": 4088,
+    "w": 976,
+    "h": 52,
+    "text": "Großes Portfolio an high-quality USB-C PD Lösungen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 4116,
+    "w": 199,
+    "h": 22,
+    "text": "usb-c adapters and chargers",
+    "href": "/applications/consumer-electronics/adapters-chargers/pd-mobile-adapter-charger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_15216_ifxcontainer_4140295_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 4260,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 4356,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "infineon-campeon-cut-for-header-format-1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 4572,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 124,
+    "y": 4640,
+    "w": 323,
+    "h": 56,
+    "text": "Grüne Gebäude auf dem Vormarsch"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 4718,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/green-buildings-rise"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 507,
+    "y": 4356,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "sic-wafer-aluminum-metallization-01.png:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 531,
+    "y": 4572,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 531,
+    "y": 4640,
+    "w": 323,
+    "h": 56,
+    "text": "Grüne Energie mit Wide-Bandgap-Halbleitern"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 531,
+    "y": 4718,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 914,
+    "y": 4356,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "smart-home-1.png:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 938,
+    "y": 4572,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 938,
+    "y": 4640,
+    "w": 323,
+    "h": 56,
+    "text": "Sensoren für energieeffiziente, intelligente Gebäude"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 938,
+    "y": 4718,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/sensors-energy-efficient-smart-buildings"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_ifxcontainer_4140295_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 4894,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "related content"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 4990,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "laptop-smartphone-charger.tif:asset-680-"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 5206,
+    "w": 323,
+    "h": 52,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 124,
+    "y": 5274,
+    "w": 323,
+    "h": 56,
+    "text": "Adapters and chargers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 5352,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/consumer-electronics/adapters-chargers"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 203,
+    "y": 5552,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "subscribe to marketing communications!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 732,
+    "y": 5552,
+    "w": 505,
+    "h": 60,
+    "text": "You will receive interesting information and articles. You may withdraw consent "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 732,
+    "y": 5636,
+    "w": 124,
+    "h": 48,
+    "text": "subscribe",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 96,
+    "y": 5844,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 367,
+    "y": 5844,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 5900,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 5942,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 5984,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6026,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6068,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 619,
+    "y": 5844,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5900,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5942,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5984,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6026,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6068,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6110,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 926,
+    "y": 5844,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 5900,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 5942,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 5984,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 1193,
+    "y": 5844,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 5900,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 5942,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 5984,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6026,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 96,
+    "y": 6248,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 272,
+    "y": 6248,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 380,
+    "y": 6248,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 647,
+    "y": 6253,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 1168,
+    "y": 6252,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 1208,
+    "y": 6252,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 1248,
+    "y": 6252,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 1288,
+    "y": 6249,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 1288,
+    "y": 6253,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 1328,
+    "y": 6252,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 81,
+    "controls": 53,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/green-chargers-adapters",
+  "at": "2026-11-18T23:09:25.279Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6304,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 166,
+    "y": 21,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/products"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 243,
+    "y": 21,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/applications"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 353,
+    "y": 21,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/design-resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 487,
+    "y": 21,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 629,
+    "y": 21,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/about"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "sprache"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "sprache",
+    "value": "sprache",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-login > p > a",
+    "x": 1132,
+    "y": 13,
+    "w": 207,
+    "h": 40,
+    "text": "anmeldung zu myinfineon",
+    "href": "/de/login.login.de.json"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 254,
+    "y": 85,
+    "w": 217,
+    "h": 20,
+    "text": "ladegeräte und adapter werden grün",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "woman with smartphone charger",
+    "file": "media_1dfa253ba8b11d38675a1db860d9b607a3"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#ladegeräte-und-adapter-werden-grün",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 56,
+    "level": 1,
+    "text": "ladegeräte und adapter werden grün"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 242,
+    "y": 555,
+    "w": 956,
+    "h": 72,
+    "text": "Können Sie sich ein Leben ohne Kommunikationsgeräte vorstellen? Ein Leben ohne L"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 266,
+    "y": 643,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#juli-07-2025",
+    "x": 342,
+    "y": 643,
+    "w": 72,
+    "h": 20,
+    "level": 4,
+    "text": "juli 07, 2025"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-toc.block > div.article-toc-label > p",
+    "x": 224,
+    "y": 743,
+    "w": 992,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 777,
+    "w": 72,
+    "h": 22,
+    "text": "cool down",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 811,
+    "w": 282,
+    "h": 22,
+    "text": "energieeinsparungen: die summe macht's",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 845,
+    "w": 270,
+    "h": 22,
+    "text": "weniger material, weniger elektroschrott",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 879,
+    "w": 193,
+    "h": 22,
+    "text": "der grüne move hin zu usb-c",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 913,
+    "w": 255,
+    "h": 22,
+    "text": "entdecken sie unser produkt-portfolio",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > h2#cool-down",
+    "x": 200,
+    "y": 1025,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "cool down"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1077,
+    "w": 1040,
+    "h": 130,
+    "text": "Es ist eine unsichtbare, aber wichtige Aufgabe. Ladegeräte sind dafür zuständig,"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > h2#energieeinsparungen-die-summe-machts",
+    "x": 200,
+    "y": 1271,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "energieeinsparungen: die summe macht's"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1323,
+    "w": 1040,
+    "h": 104,
+    "text": "Modernste Mikroelektronik im Inneren des Geräts kann diese Abwärme deutlich redu"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 1459,
+    "w": 1040,
+    "h": 585,
+    "text": "ee campaign dyk fact chargers",
+    "file": "media_1b84b5a7bd661874435f46d446cb5d69f1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > h2#weniger-material-weniger-elektroschrott",
+    "x": 200,
+    "y": 2108,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "weniger material, weniger elektroschrott"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2160,
+    "w": 1040,
+    "h": 130,
+    "text": "Eine geringere Wärmeentwicklung ist wichtig, gleichzeitig brauchen wir leistungs"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 2322,
+    "w": 1040,
+    "h": 585,
+    "text": "fff",
+    "file": "media_13fc89ed6bbe60394d8d131291a22fc982"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > h2#der-grüne-move-hin-zu-usb-c",
+    "x": 200,
+    "y": 2971,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "der grüne move hin zu usb-c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3023,
+    "w": 1040,
+    "h": 156,
+    "text": "Im Dezember 2024 ist eine wichtige neue Verordnung in der EU in Kraft getreten: "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 3211,
+    "w": 1040,
+    "h": 585,
+    "text": "ee campaign usb-c less waste graphics",
+    "file": "media_1e04dc9c7c8db9cacee531bf7b43f53a38"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > h2#entdecken-sie-unser-produkt-portfolio",
+    "x": 200,
+    "y": 3860,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "entdecken sie unser produkt-portfolio"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 240,
+    "y": 3936,
+    "w": 976,
+    "h": 52,
+    "text": "HEMTs, IPS, Drivers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 3964,
+    "w": 116,
+    "h": 22,
+    "text": "all gan solutions",
+    "href": "/technology/wide-bandgap-semiconductors-sic-gan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 240,
+    "y": 4004,
+    "w": 976,
+    "h": 52,
+    "text": "First PFC + hybrid flyback IC"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 4032,
+    "w": 132,
+    "h": 22,
+    "text": "xdp™ digital power",
+    "href": "/promo/driving-gigantic-performance"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 240,
+    "y": 4072,
+    "w": 976,
+    "h": 52,
+    "text": "Großes Portfolio an high-quality USB-C PD Lösungen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 4100,
+    "w": 199,
+    "h": 22,
+    "text": "usb-c adapters and chargers",
+    "href": "/applications/consumer-electronics/adapters-chargers/pd-mobile-adapter-charger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#weitere-geschichten",
+    "x": 96,
+    "y": 4244,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 4340,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_1f1b03a196efb10470819575a470dd9f7e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 4556,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 4624,
+    "w": 323,
+    "h": 28,
+    "text": "Grüne Gebäude auf dem Vormarsch"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 128,
+    "y": 4702,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/green-buildings-rise"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 507,
+    "y": 4340,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_1b9458c14e6f8df0b1989b797723c043bb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 531,
+    "y": 4556,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 531,
+    "y": 4624,
+    "w": 323,
+    "h": 56,
+    "text": "Grüne Energie mit Wide-Bandgap-Halbleitern"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 535,
+    "y": 4702,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 914,
+    "y": 4340,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_1c1ee0e80e83924f940af52b7c9df45653"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 938,
+    "y": 4556,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 938,
+    "y": 4624,
+    "w": 323,
+    "h": 56,
+    "text": "Sensoren für energieeffiziente, intelligente Gebäude"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 942,
+    "y": 4702,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/sensors-energy-efficient-smart-buildings"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#related-content",
+    "x": 96,
+    "y": 4878,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "related content"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 4974,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "media_11d16e01578e6dcd41e24b634b30e4a7ea"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 5190,
+    "w": 323,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 5258,
+    "w": 323,
+    "h": 28,
+    "text": "Adapters and chargers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 128,
+    "y": 5336,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/consumer-electronics/adapters-chargers"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#subscribe-to-marketing-communications",
+    "x": 203,
+    "y": 5536,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "subscribe to marketing communications!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 732,
+    "y": 5536,
+    "w": 505,
+    "h": 60,
+    "text": "You will receive interesting information and articles. You may withdraw consent "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 732,
+    "y": 5620,
+    "w": 126,
+    "h": 50,
+    "text": "subscribe",
+    "href": "/de/our-stories/green-chargers-adapters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 96,
+    "y": 5869,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 96,
+    "y": 5830,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 367,
+    "y": 5830,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 5886,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 5928,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 5970,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6012,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6054,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 619,
+    "y": 5830,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5886,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5928,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5970,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6012,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6054,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6096,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 926,
+    "y": 5830,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 5886,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 5928,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 5970,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 1193,
+    "y": 5830,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 5886,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 5928,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 5970,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6012,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 6234,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 272,
+    "y": 6234,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 380,
+    "y": 6234,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 6234,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 647,
+    "y": 6239,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 6238,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1208,
+    "y": 6238,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1248,
+    "y": 6238,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1288,
+    "y": 6235,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 1288,
+    "y": 6235,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1328,
+    "y": 6238,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 80,
+    "controls": 56,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "ladegeräte und adapter werden grün",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 13,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 19,
+    "textHidden": 0,
+    "image": 7,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"cool down\" (y 1025) has no origin heading",
+   "text": "cool down"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"energieeinsparungen: die summe macht's\" (y 1271) has no origin heading",
+   "text": "energieeinsparungen: die summe macht's"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"weniger material, weniger elektroschrott\" (y 2108) has no origin heading",
+   "text": "weniger material, weniger elektroschrott"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"der grüne move hin zu usb-c\" (y 2971) has no origin heading",
+   "text": "der grüne move hin zu usb-c"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"entdecken sie unser produkt-portfolio\" (y 3860) has no origin heading",
+   "text": "entdecken sie unser produkt-portfolio"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"weitere geschichten\" (y 4244) has no origin heading",
+   "text": "weitere geschichten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"related content\" (y 4878) has no origin heading",
+   "text": "related content"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"subscribe to marketing communications!\" (y 5536) has no origin heading",
+   "text": "subscribe to marketing communications!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"cool down\" served in band \"ladegeräte und adapter werden grün\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "cool down"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"energieeinsparungen: die summe macht's\" served in band \"ladegeräte und adapter werden grün\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "energieeinsparungen: die summe macht's"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"weniger material, weniger elektroschrott\" served in band \"ladegeräte und adapter werden grün\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "weniger material, weniger elektroschrott"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"der grüne move hin zu usb-c\" served in band \"ladegeräte und adapter werden grün\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "der grüne move hin zu usb-c"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"entdecken sie unser produkt-portfolio\" served in band \"ladegeräte und adapter werden grün\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "entdecken sie unser produkt-portfolio"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"all gan solutions\" served in band \"ladegeräte und adapter werden grün\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "all gan solutions"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"xdp™ digital power\" served in band \"ladegeräte und adapter werden grün\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "xdp™ digital power"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"usb-c adapters and chargers\" served in band \"ladegeräte und adapter werden grün\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "usb-c adapters and chargers"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×3 \"mehr entdecken\" served in band \"ladegeräte und adapter werden grün\", no origin link or button",
+   "band": 1,
+   "n": 3,
+   "text": "mehr entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr erfahren\" served in band \"ladegeräte und adapter werden grün\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr erfahren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"subscribe\" served in band \"ladegeräte und adapter werden grün\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "subscribe"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"ladegeräte und adapter werden grün\": 2 origin → 19 served visible",
+   "band": 1,
+   "origin": 2,
+   "eds": 19,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"ladegeräte und adapter werden grün\": 0 origin → 7 served visible",
+   "band": 1,
+   "origin": 0,
+   "eds": 7,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 8,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 13,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 21,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 166,
+    "y": 23,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 23,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 23,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 23,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 23,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 23,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 86,
+    "w": 217,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 686,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 556,
+    "w": 951,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 580,
+    "w": 935,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 604,
+    "w": 476,
+    "h": 22
+   },
+   {
+    "x": 266,
+    "y": 643,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 643,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 252,
+    "y": 777,
+    "w": 72,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 811,
+    "w": 282,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 845,
+    "w": 270,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 879,
+    "w": 193,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 913,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 224,
+    "y": 744,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1023,
+    "w": 125,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1077,
+    "w": 976,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1103,
+    "w": 937,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1129,
+    "w": 1018,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1155,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1181,
+    "w": 688,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1269,
+    "w": 497,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1323,
+    "w": 1027,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1349,
+    "w": 1031,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1375,
+    "w": 1006,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1401,
+    "w": 945,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2106,
+    "w": 478,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2160,
+    "w": 1017,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2186,
+    "w": 968,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2212,
+    "w": 962,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2238,
+    "w": 970,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2264,
+    "w": 886,
+    "h": 25
+   },
+   {
+    "x": 1090,
+    "y": 2264,
+    "w": 118,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2969,
+    "w": 339,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 3023,
+    "w": 1032,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3049,
+    "w": 1040,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3075,
+    "w": 1004,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3101,
+    "w": 1015,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3127,
+    "w": 1007,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3153,
+    "w": 125,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3858,
+    "w": 449,
+    "h": 40
+   },
+   {
+    "x": 240,
+    "y": 3954,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3980,
+    "w": 116,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4022,
+    "w": 184,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4048,
+    "w": 132,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4090,
+    "w": 349,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4116,
+    "w": 199,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 4258,
+    "w": 309,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 4572,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4640,
+    "w": 297,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4719,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 4572,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 4640,
+    "w": 285,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 4668,
+    "w": 95,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 4719,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 4572,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 4640,
+    "w": 258,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 4668,
+    "w": 175,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 4719,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 4892,
+    "w": 239,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 5206,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 5274,
+    "w": 187,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 5353,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 5550,
+    "w": 348,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 5598,
+    "w": 269,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 5551,
+    "w": 473,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 5581,
+    "w": 359,
+    "h": 32
+   },
+   {
+    "x": 772,
+    "y": 5649,
+    "w": 68,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 5845,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 5900,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5942,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5984,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6026,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6068,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5845,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 5900,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5942,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5984,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6026,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6068,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6110,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5845,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 5900,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5942,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5984,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5845,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 5900,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5942,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5984,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6026,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 6253,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 6253,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 6253,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 6253,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 6253,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 6253,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 6253,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 22,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 85,
+    "w": 217,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 686,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 556,
+    "w": 951,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 580,
+    "w": 935,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 604,
+    "w": 476,
+    "h": 22
+   },
+   {
+    "x": 266,
+    "y": 643,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 643,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 224,
+    "y": 744,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 777,
+    "w": 72,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 811,
+    "w": 282,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 845,
+    "w": 270,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 879,
+    "w": 193,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 913,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1023,
+    "w": 125,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1077,
+    "w": 976,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1103,
+    "w": 937,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1129,
+    "w": 1018,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1155,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1181,
+    "w": 688,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1269,
+    "w": 497,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1323,
+    "w": 1027,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1349,
+    "w": 1031,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1375,
+    "w": 1006,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1401,
+    "w": 945,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2106,
+    "w": 478,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2160,
+    "w": 1017,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2186,
+    "w": 968,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2212,
+    "w": 962,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2238,
+    "w": 970,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2264,
+    "w": 1008,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2969,
+    "w": 339,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 3023,
+    "w": 1032,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3049,
+    "w": 1040,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3075,
+    "w": 1004,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3101,
+    "w": 1015,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3127,
+    "w": 1007,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3153,
+    "w": 125,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3858,
+    "w": 449,
+    "h": 40
+   },
+   {
+    "x": 240,
+    "y": 3938,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3964,
+    "w": 116,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4006,
+    "w": 184,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4032,
+    "w": 132,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4074,
+    "w": 349,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4100,
+    "w": 199,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 4242,
+    "w": 309,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 4556,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4624,
+    "w": 297,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 4703,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 4556,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 4624,
+    "w": 285,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 4652,
+    "w": 95,
+    "h": 28
+   },
+   {
+    "x": 535,
+    "y": 4703,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 4556,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 4624,
+    "w": 258,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 4652,
+    "w": 175,
+    "h": 28
+   },
+   {
+    "x": 942,
+    "y": 4703,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 4876,
+    "w": 239,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 5190,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 5258,
+    "w": 187,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 5337,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 5534,
+    "w": 348,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 5582,
+    "w": 269,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 5535,
+    "w": 473,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 5565,
+    "w": 359,
+    "h": 32
+   },
+   {
+    "x": 773,
+    "y": 5634,
+    "w": 68,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 5831,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 5886,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5928,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5970,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6012,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6054,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5831,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 5886,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5928,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5970,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6012,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6054,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6096,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5831,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 5886,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5928,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5970,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5831,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 5886,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5928,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5970,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6012,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 6239,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 6239,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 6239,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 6239,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 6239,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 6239,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 6239,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

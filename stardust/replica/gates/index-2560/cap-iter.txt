@@ -1,0 +1,15 @@
+cap-probe  base 1440 → probe 2560 (from stardust/current/DESIGN.json)
+live   https://www.infineon.com/
+  modules  6 sections: capped 1400 ×4 · full-bleed ×2
+  contentMaxWidth 1400px (module) · shellMaxWidth fluid · root main > article > div.root.container > div.cmp-container
+build  http://localhost:8791/index-proposed.html
+  modules  4 sections: capped 1400 ×4 · full-bleed ×0
+  contentMaxWidth 1400px (module) · shellMaxWidth fluid · root body > main.root
+rows
+  ✓ content cap: live 1400px = build 1400px (±20, shared module cap)
+  ⚠ sections: live 6 vs build 4 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches
+  ⚠ module 1/6: live full-bleed (article > div.root.container > div.cmp-container > div.aem-Grid.aem-Grid--12) → build 1400px (main.root > div.cmp-container > section.ifxcontainer.ifx-fluid > div.hero__stage.ifx-shell)
+  ✓ module 2/6: 1400px = 1400px
+  ✓ module 3/6: 1400px = 1400px
+  ✓ module 4/6: 1400px = 1400px
+cap-probe: PASS at 2560 — 0 of 6 rows failed (evidence stardust/replica/gates/index-2560/cap-iter.json)

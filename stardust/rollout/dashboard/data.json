@@ -1,0 +1,690 @@
+{
+  "generatedAt": "2026-11-18T23:45:49.993Z",
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://www.infineon.com/",
+    "liveHost": "main--938eead7--aemcoder.aem.live"
+  },
+  "stageCount": {
+    "identified": 60,
+    "prototyped": 60,
+    "deployed": 60,
+    "optimised": 30
+  },
+  "stageExclusive": {
+    "identified": 0,
+    "prototyped": 0,
+    "deployed": 30,
+    "optimised": 30
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "path": "/",
+      "stage": "deployed",
+      "templateId": "index",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "de",
+      "path": "/de",
+      "stage": "deployed",
+      "templateId": "landing",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-about",
+      "path": "/de/about",
+      "stage": "optimised",
+      "templateId": "de-about",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-careers",
+      "path": "/de/careers",
+      "stage": "optimised",
+      "templateId": "static",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-config",
+      "path": "/de/config",
+      "stage": "optimised",
+      "templateId": "utility",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-contact-us",
+      "path": "/de/contact-us",
+      "stage": "optimised",
+      "templateId": "listing",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-event-techfor",
+      "path": "/de/event/techfor",
+      "stage": "optimised",
+      "templateId": "static",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-glossary",
+      "path": "/de/glossary",
+      "stage": "optimised",
+      "templateId": "de-glossary",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-logout",
+      "path": "/de/logout",
+      "stage": "optimised",
+      "templateId": "utility",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-opn",
+      "path": "/de/opn",
+      "stage": "optimised",
+      "templateId": "reference",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-artificial-intelligence-in-everyday-life",
+      "path": "/de/our-stories/artificial-intelligence-in-everyday-life",
+      "stage": "optimised",
+      "templateId": "pillar",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-artificial-intelligence-semiconductors",
+      "path": "/de/our-stories/artificial-intelligence-semiconductors",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-bi-directional-charging",
+      "path": "/de/our-stories/bi-directional-charging",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-charging-infrastructure",
+      "path": "/de/our-stories/charging-infrastructure",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-ecosystem-summit",
+      "path": "/de/our-stories/ecosystem-summit",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-efficient-energy-storage-systems-energy-transition",
+      "path": "/de/our-stories/efficient-energy-storage-systems-energy-transition",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-electric-cordless-power-tools",
+      "path": "/de/our-stories/electric-cordless-power-tools",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-electromobility-greener-future",
+      "path": "/de/our-stories/electromobility-greener-future",
+      "stage": "optimised",
+      "templateId": "de-our-stories-electromobility-greener-future",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-emission-saving-potential-freight-transportation",
+      "path": "/de/our-stories/emission-saving-potential-freight-transportation",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors",
+      "path": "/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-enable-provide-ai-customer-innovation",
+      "path": "/de/our-stories/enable-provide-ai-customer-innovation",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-enabling-ethernet",
+      "path": "/de/our-stories/enabling-ethernet",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-essential-role-cybersecurity",
+      "path": "/de/our-stories/essential-role-cybersecurity",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-european-cyber-resilience-act",
+      "path": "/de/our-stories/european-cyber-resilience-act",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-fast-charging-solutions",
+      "path": "/de/our-stories/fast-charging-solutions",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-green-buildings-rise",
+      "path": "/de/our-stories/green-buildings-rise",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-green-chargers-adapters",
+      "path": "/de/our-stories/green-chargers-adapters",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-green-hydrogen-fuel-future",
+      "path": "/de/our-stories/green-hydrogen-fuel-future",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-green-iot",
+      "path": "/de/our-stories/green-iot",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-green-potential-data-centers",
+      "path": "/de/our-stories/green-potential-data-centers",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-how-microcontroller-enable-risc-v",
+      "path": "/de/our-stories/how-microcontroller-enable-risc-v",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-microelectronics-connecting-real-digital-world",
+      "path": "/de/our-stories/microelectronics-connecting-real-digital-world",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-micromobility",
+      "path": "/de/our-stories/micromobility",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-micromobility-battery-swapping",
+      "path": "/de/our-stories/micromobility-battery-swapping",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-mobility-tech-talk-software-defined-vehicles",
+      "path": "/de/our-stories/mobility-tech-talk-software-defined-vehicles",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-power-infrastructure-renewables",
+      "path": "/de/our-stories/power-infrastructure-renewables",
+      "stage": "deployed",
+      "templateId": "pillar",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-public-transportation",
+      "path": "/de/our-stories/public-transportation",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-rc1-for-sdv-sdx-and-physical-ai",
+      "path": "/de/our-stories/rc1-for-sdv-sdx-and-physical-ai",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-semiconductors-bring-heat-pumps-life",
+      "path": "/de/our-stories/semiconductors-bring-heat-pumps-life",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-semiconductors-driving-decarbonization",
+      "path": "/de/our-stories/semiconductors-driving-decarbonization",
+      "stage": "deployed",
+      "templateId": "de-our-stories-semiconductors-driving-decarbonization",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-semiconductors-key-technology-software-defined-vehicles",
+      "path": "/de/our-stories/semiconductors-key-technology-software-defined-vehicles",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-semiconductors-key-technology-sst-sscb",
+      "path": "/de/our-stories/semiconductors-key-technology-sst-sscb",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-sensors-energy-efficient-smart-buildings",
+      "path": "/de/our-stories/sensors-energy-efficient-smart-buildings",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-shaping-the-future-of-mobility",
+      "path": "/de/our-stories/shaping-the-future-of-mobility",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-smart-factory-semiconductor-solutions",
+      "path": "/de/our-stories/smart-factory-semiconductor-solutions",
+      "stage": "optimised",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-our-stories-smart-factory-technologies",
+      "path": "/de/our-stories/smart-factory-technologies",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-smart-health-appliances",
+      "path": "/de/our-stories/smart-health-appliances",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-smart-home-building-technologies",
+      "path": "/de/our-stories/smart-home-building-technologies",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-smart-things-consumer-devices",
+      "path": "/de/our-stories/smart-things-consumer-devices",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-software-defined-vehicle-agm",
+      "path": "/de/our-stories/software-defined-vehicle-agm",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-software-defined-vehicles",
+      "path": "/de/our-stories/software-defined-vehicles",
+      "stage": "deployed",
+      "templateId": "pillar",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee",
+      "path": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee",
+      "stage": "deployed",
+      "templateId": "article",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-our-stories-we-power-ai",
+      "path": "/de/our-stories/we-power-ai",
+      "stage": "deployed",
+      "templateId": "pillar",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-package-overview",
+      "path": "/de/package-overview",
+      "stage": "optimised",
+      "templateId": "de-package-overview",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-partners",
+      "path": "/de/partners",
+      "stage": "optimised",
+      "templateId": "static",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-support",
+      "path": "/de/support",
+      "stage": "deployed",
+      "templateId": "static",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-support-faqs",
+      "path": "/de/support/faqs",
+      "stage": "deployed",
+      "templateId": "listing",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "de-support-service-center",
+      "path": "/de/support/service-center",
+      "stage": "optimised",
+      "templateId": "reference",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-thank-you",
+      "path": "/de/thank-you",
+      "stage": "optimised",
+      "templateId": "de-thank-you",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "de-training",
+      "path": "/de/training",
+      "stage": "optimised",
+      "templateId": "static",
+      "isTemplate": false,
+      "openFindings": 0
+    }
+  ],
+  "templates": [
+    {
+      "id": "article",
+      "archetype": "de-our-stories-artificial-intelligence-semiconductors",
+      "pageCount": 37,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 22,
+        "optimised": 15
+      }
+    },
+    {
+      "id": "de-about",
+      "archetype": "de-about",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "de-glossary",
+      "archetype": "de-glossary",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "de-our-stories-electromobility-greener-future",
+      "archetype": "de-our-stories-electromobility-greener-future",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "de-our-stories-semiconductors-driving-decarbonization",
+      "archetype": "de-our-stories-semiconductors-driving-decarbonization",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "de-package-overview",
+      "archetype": "de-package-overview",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "de-thank-you",
+      "archetype": "de-thank-you",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "index",
+      "archetype": "index",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "landing",
+      "archetype": "de",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "listing",
+      "archetype": "de-contact-us",
+      "pageCount": 2,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "pillar",
+      "archetype": "de-our-stories-artificial-intelligence-in-everyday-life",
+      "pageCount": 4,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 3,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "reference",
+      "archetype": "de-opn",
+      "pageCount": 2,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 2
+      }
+    },
+    {
+      "id": "static",
+      "archetype": "de-careers",
+      "pageCount": 5,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 4
+      }
+    },
+    {
+      "id": "utility",
+      "archetype": "de-config",
+      "pageCount": 2,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 2
+      }
+    }
+  ],
+  "blocks": {
+    "total": 21,
+    "converted": 6
+  },
+  "quality": {
+    "overall": 99,
+    "dimensions": {
+      "brand-tensions": null,
+      "design-ux": null,
+      "accessibility": null,
+      "seo": 100,
+      "content-conversion": null,
+      "ai-search": 100,
+      "cross-page": 96
+    },
+    "severity": {
+      "P1": 0,
+      "P2": 0,
+      "P3": 1
+    },
+    "history": [
+      65,
+      99
+    ]
+  },
+  "findings": {
+    "byFixability": {
+      "out-of-scope": 27,
+      "design-pass": 1
+    },
+    "byAutofix": {}
+  }
+}

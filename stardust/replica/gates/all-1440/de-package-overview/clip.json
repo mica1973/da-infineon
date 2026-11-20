@@ -1,0 +1,77 @@
+{
+ "url": "https://main--938eead7--aemcoder.aem.live/de/package-overview",
+ "at": "2026-11-18T23:05:45.592Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 4,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 4,
+  "offPage": 5,
+  "textNodes": 316,
+  "controls": 187,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 4,
+   "clipper": "p",
+   "path": "li.teaser-cards-card > div.teaser-cards-body > div.teaser-cards-title > p",
+   "text": "perfekte wahl für zukünftige automotive-anwendungen bis 250 ",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "p",
+   "path": "li.teaser-cards-card > div.teaser-cards-body > div.teaser-cards-title > p",
+   "text": "neueste platzsparende und leistungsstarke pakete",
+   "cutMin": 184,
+   "cutMax": 244
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "ul.teaser-cards-track",
+   "path": "div.teaser-cards-body > div.teaser-cards-link > p > a",
+   "text": "mehr erfahren",
+   "cutMin": 46,
+   "cutMax": 46
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "ul.teaser-cards-track",
+   "path": "div.teaser-cards-body > div.teaser-cards-link > p > a",
+   "text": "mehr erfahren",
+   "cutMin": 22,
+   "cutMax": 22
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 4,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 2,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 2,
+   "offPage": 4,
+   "textNodes": 316,
+   "controls": 176,
+   "total": 4
+  }
+ }
+}

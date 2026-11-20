@@ -1,0 +1,580 @@
+/* accordion: heading + expandable items (live .accordion-comp) */
+.accordion .accordion-inner {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.accordion :is(h1, h2, h3, h4, h5, h6, p) {
+  margin: 0;
+}
+
+.accordion .accordion-head :is(h1, h2, h3) {
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: -0.22px;
+}
+
+.accordion .accordion-items {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-top: 24px;
+}
+
+.accordion .accordion-item {
+  min-height: 69px;
+  border-bottom: 1px solid var(--ifx-surface-muted);
+  border-radius: 4px;
+}
+
+.accordion .accordion-bar {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.accordion .accordion-title {
+  flex: 1 1 auto;
+  padding: 12px 0;
+  cursor: pointer;
+}
+
+.accordion .accordion-title :is(h2, h3, h4, h5, h6) {
+  color: #212529;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 0;
+}
+
+.accordion .accordion-toggle {
+  flex: none;
+  width: 24px;
+  height: 24px;
+  margin-top: 22px;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--ifx-teal);
+  cursor: pointer;
+}
+
+.accordion .accordion-toggle::before {
+  content: '\e9ff';
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  border: 1px solid currentcolor;
+  border-radius: 50%;
+  font-family: var(--ifx-icon-font);
+  font-size: 12px;
+}
+
+.accordion .accordion-item.open .accordion-toggle::before {
+  content: '\e9eb';
+}
+
+.accordion .accordion-body {
+  padding: 0 0 24px;
+  color: var(--ifx-stone-text);
+  font-size: 16px;
+  line-height: 24px;
+}
+
+@media (width >= 992px) {
+  .accordion .accordion-inner {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .accordion .accordion-head :is(h1, h2, h3) {
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.28px;
+  }
+}
+
+/* ---------- variant glossary: reference A–Z body (live /de/glossary .gl-body) ---------- */
+.accordion.glossary .accordion-inner {
+  display: flow-root;
+  padding-top: 24px;
+  padding-bottom: 0;
+}
+
+.accordion.glossary .accordion-flow {
+  margin-bottom: 16px;
+  color: var(--ifx-stone-text);
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.accordion.glossary .accordion-index p,
+.accordion.glossary .accordion-flow strong {
+  font-weight: 600;
+}
+
+.accordion.glossary .accordion-flow a:any-link {
+  color: var(--ifx-teal);
+}
+
+.accordion.glossary .accordion-flow a:any-link:hover {
+  text-decoration: underline;
+}
+
+.accordion.glossary .accordion-letter :is(h2, h3) {
+  margin-bottom: 16px;
+  color: var(--ifx-ink);
+  scroll-margin-top: 16px;
+}
+
+.accordion.glossary .accordion-letter-minor.accordion-plain h3 {
+  margin-bottom: 16px;
+}
+
+.accordion.glossary .accordion-letter:not(.accordion-plain) {
+  margin-bottom: 0;
+}
+
+.accordion.glossary .accordion-letter-minor.accordion-plain {
+  margin-bottom: 24px;
+}
+
+.accordion.glossary .accordion-flow :is(h4, h5, h6) {
+  margin-bottom: 8px;
+  color: var(--ifx-ink);
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  letter-spacing: -0.14px;
+}
+
+.accordion.glossary :is(.accordion-flow, .accordion-body) p + p {
+  margin-top: 16px;
+}
+
+.accordion.glossary .accordion-items {
+  display: block;
+  margin-top: 0;
+}
+
+.accordion.glossary .accordion-item {
+  min-height: 0;
+  margin: 24px 0;
+  padding: 0 0 16px;
+  background: #fff;
+}
+
+.accordion.glossary .accordion-bar {
+  min-height: 44px;
+  margin: 0 0 8px;
+  padding: 0 0 8px;
+}
+
+.accordion.glossary .accordion-title {
+  padding: 0;
+}
+
+.accordion.glossary .accordion-title :is(h2, h3, h4, h5, h6) {
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: -0.16px;
+  transition: color 0.15s ease-in-out;
+}
+
+.accordion.glossary .accordion-item.open .accordion-title :is(h2, h3, h4, h5, h6) {
+  color: #000;
+}
+
+.accordion.glossary .accordion-toggle {
+  width: 32px;
+  height: 32px;
+  margin-top: 0;
+}
+
+.accordion.glossary .accordion-item .accordion-toggle::before {
+  content: '\e933';
+  width: 32px;
+  height: 32px;
+  border: 0;
+  border-radius: 0;
+  font-size: 32px;
+  line-height: 32px;
+}
+
+.accordion.glossary .accordion-item.open .accordion-toggle::before {
+  content: '\e936';
+}
+
+.accordion.glossary .accordion-body {
+  overflow: hidden;
+  padding: 4px 0 8px;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.accordion.glossary .accordion-body.collapsing {
+  transition: height 0.35s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .accordion.glossary .accordion-body.collapsing,
+  .accordion.glossary .accordion-title :is(h2, h3, h4, h5, h6) {
+    transition: none;
+  }
+}
+
+@media (width >= 576px) {
+  .accordion.glossary .accordion-letter :is(h2, h3) {
+    margin-bottom: 32px;
+  }
+
+  .accordion.glossary .accordion-letter-minor.accordion-plain {
+    margin-bottom: 48px;
+  }
+}
+
+@media (width >= 992px) {
+  .accordion.glossary .accordion-inner {
+    padding-top: 48px;
+    padding-bottom: 0;
+  }
+
+  .accordion.glossary .accordion-flow {
+    margin-bottom: 24px;
+  }
+
+  .accordion.glossary .accordion-flow :is(h4, h5, h6) {
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: -0.18px;
+  }
+}
+
+/* ---------- modifier article: reference siblings (live /de/opn, /de/support/service-center) ---------- */
+.accordion.glossary.article .accordion-inner {
+  padding-top: 16px;
+}
+
+.accordion.glossary.article .accordion-flow {
+  display: flow-root;
+  margin-bottom: 0;
+}
+
+.accordion.glossary.article.spacious .accordion-flow {
+  margin-bottom: 8px;
+}
+
+.accordion.glossary.article .accordion-flow :is(p, li) {
+  margin-bottom: 16px;
+}
+
+.accordion.glossary.article .accordion-flow li {
+  font-size: 16px;
+}
+
+.accordion.glossary.article .accordion-flow :is(ul, ol) {
+  margin: 0;
+  padding-left: 16px;
+}
+
+.accordion.glossary.article .accordion-flow :is(h1, h2, h3, h4, h5, h6) {
+  color: var(--ifx-ink);
+}
+
+.accordion.glossary.article .accordion-flow h1 {
+  margin-bottom: 16px;
+  font-size: 32px;
+  line-height: 44px;
+  letter-spacing: -0.32px;
+}
+
+.accordion.glossary.article .accordion-flow :is(h3, h5) {
+  margin-bottom: 8px;
+}
+
+.accordion.glossary.article .accordion-flow h5 {
+  font-size: 18px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+}
+
+.accordion.glossary.article .accordion-flow :is(picture, img) {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-bottom: 24px;
+}
+
+.accordion.glossary.article .accordion-flow img {
+  padding-right: 16px;
+  object-fit: cover;
+}
+
+.accordion.glossary.article .accordion-flow picture img {
+  margin-bottom: 0;
+}
+
+.accordion.glossary.article .accordion-flow picture {
+  padding-top: 8px;
+}
+
+.accordion.glossary.article .accordion-flow a:any-link {
+  color: var(--ifx-teal);
+}
+
+.accordion.glossary.article .accordion-jump {
+  margin-bottom: 16px;
+  padding: 24px;
+  background: var(--ifx-surface-band);
+  color: var(--ifx-ink);
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.accordion.glossary.article .accordion-jump p {
+  margin-bottom: 8px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.accordion.glossary.article .accordion-jump ul {
+  padding-left: 28px;
+  list-style: none;
+}
+
+.accordion.glossary.article .accordion-jump li {
+  margin-bottom: 6px;
+}
+
+.accordion.glossary.article .accordion-jump a:any-link {
+  color: var(--ifx-ink);
+}
+
+.accordion.glossary.article .accordion-table {
+  margin-bottom: 8px;
+  overflow-x: auto;
+}
+
+.accordion.glossary.article .accordion-table table {
+  width: 100%;
+  border: 1px solid #eeeded;
+  border-collapse: collapse;
+  color: var(--ifx-ink);
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.accordion.glossary.article .accordion-table tr:nth-child(odd) {
+  background: #f7f7f7;
+}
+
+.accordion.glossary.article .accordion-table tbody tr:nth-child(odd) {
+  background: #fff;
+}
+
+.accordion.glossary.article .accordion-table tbody tr:nth-child(even) {
+  background: #f7f7f7;
+}
+
+.accordion.glossary.article .accordion-table :is(th, td) {
+  width: 50%;
+  padding: 16px;
+  border-bottom: 1px solid #eeeded;
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+
+.accordion.glossary.article .accordion-table th {
+  padding: 8px 16px;
+}
+
+.accordion.glossary.article .accordion-table :is(th, td) + :is(th, td) {
+  border-left: 1px solid #eeeded;
+}
+
+.accordion.glossary.article .accordion-table :is(th, td):first-child {
+  font-weight: 600;
+}
+
+.accordion.glossary.article .accordion-table p {
+  margin: 0;
+}
+
+.accordion.glossary.article .accordion-table a:any-link {
+  color: var(--ifx-teal);
+}
+
+.accordion.glossary.article .accordion-items {
+  padding-top: 16px;
+}
+
+.accordion.glossary.article .accordion-body {
+  padding-bottom: 8px;
+  color: var(--ifx-stone-text);
+}
+
+.accordion.glossary.article .accordion-body p {
+  margin-bottom: 16px;
+}
+
+.accordion.glossary.article .accordion-aside {
+  padding-top: 8px;
+}
+
+.accordion.glossary.article .accordion-box {
+  margin: 0 0 24px;
+  padding: 16px;
+  background: #f7f7f7;
+  color: var(--ifx-ink);
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.accordion.glossary.article .accordion-box p {
+  margin-bottom: 0;
+}
+
+.accordion.glossary.article .accordion-box p:has(strong) {
+  margin-top: 8px;
+  margin-bottom: 4px;
+  line-height: 24px;
+}
+
+.accordion.glossary.article .accordion-box p:has(a) {
+  margin-top: 16px;
+}
+
+.accordion.glossary.article .accordion-box p:has(strong) + p:has(a) {
+  margin-top: 20px;
+}
+
+.accordion.glossary.article .accordion-box strong {
+  font-weight: 600;
+}
+
+.accordion.glossary.article .accordion-box a:any-link {
+  display: block;
+  padding: 8px 0;
+  border: 1px solid var(--ifx-teal);
+  background: #fff;
+  color: var(--ifx-teal);
+  font-weight: 600;
+  line-height: 24px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* spacious: hotline spacing (48px under the crumb, 32px under the title, 160px to the footer) */
+.accordion.glossary.article.spacious .accordion-inner {
+  padding-top: 24px;
+  padding-bottom: 8px;
+}
+
+.accordion.glossary.article.spacious .accordion-flow:has(+ .accordion-table) {
+  margin-bottom: 0;
+}
+
+.accordion.glossary.article.spacious .accordion-flow:has(+ .accordion-table) h5 {
+  margin-bottom: 16px;
+}
+
+.accordion.glossary.article.spacious .accordion-table {
+  margin-bottom: 0;
+}
+
+.accordion.glossary.article.spacious .accordion-items {
+  padding-top: 8px;
+}
+
+/* regions: 20px item titles, first item open */
+.accordion.glossary.article.regions .accordion-title :is(h2, h3, h4, h5, h6) {
+  color: #000;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+@media (width >= 992px) {
+  .accordion.glossary.article .accordion-inner {
+    padding-top: 24px;
+  }
+
+  .accordion.glossary.article .accordion-main {
+    max-width: calc(100% * 8 / 12);
+  }
+
+  .accordion.glossary.article .accordion-columns {
+    display: grid;
+    grid-template-columns: minmax(0, 808fr) minmax(0, 392fr);
+    column-gap: 48px;
+    align-items: start;
+  }
+
+  .accordion.glossary.article .accordion-columns .accordion-main {
+    max-width: none;
+  }
+
+  .accordion.glossary.article .accordion-flow {
+    margin-bottom: 8px;
+  }
+
+  .accordion.glossary.article .accordion-jump {
+    margin-bottom: 24px;
+  }
+
+  .accordion.glossary.article .accordion-flow picture,
+  .accordion.glossary.article .accordion-flow img {
+    width: 75%;
+  }
+
+  .accordion.glossary.article .accordion-flow picture img {
+    width: 100%;
+  }
+
+  .accordion.glossary.article .accordion-flow h5 {
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: -0.2px;
+  }
+
+  .accordion.glossary.article.spacious .accordion-inner {
+    padding-top: 48px;
+    padding-bottom: 136px;
+  }
+
+  .accordion.glossary.article.spacious .accordion-flow {
+    margin-bottom: 48px;
+  }
+
+  .accordion.glossary.article.spacious .accordion-flow:has(+ .accordion-items) {
+    margin-bottom: 8px;
+  }
+
+  .accordion.glossary.article .accordion-flow h1 {
+    font-size: 44px;
+    line-height: 56px;
+    letter-spacing: -0.44px;
+  }
+
+  .accordion.glossary.article.spacious .accordion-title-group h1 {
+    margin-bottom: 32px;
+  }
+
+  .accordion.glossary.article .accordion-aside {
+    padding-top: 0;
+  }
+
+
+  .accordion.glossary.article.regions .accordion-title :is(h2, h3, h4, h5, h6) {
+    font-size: 20px;
+    line-height: 25px;
+  }
+}
+
+.accordion.glossary.article.spacious .accordion-title-group {
+  margin-bottom: 0;
+}

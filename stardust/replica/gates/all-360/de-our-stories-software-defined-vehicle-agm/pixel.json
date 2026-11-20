@@ -1,0 +1,57 @@
+{
+  "a": "stardust/replica/gates/all-360/de-our-stories-software-defined-vehicle-agm/origin.png",
+  "b": "stardust/replica/gates/all-360/de-our-stories-software-defined-vehicle-agm/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 3045,
+    "mode": "overlap"
+  },
+  "heightDelta": -6,
+  "differingPixels": 70119,
+  "pct": 6.4,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/de-our-stories-software-defined-vehicle-agm/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 7.87,
+  "textBoxes": 59,
+  "textPixels": 225426,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.5
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0.7
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 28.6
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 3.7
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 2.6
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 2.8
+    },
+    {
+      "y0": 3000,
+      "y1": 3045,
+      "pct": 1.2
+    }
+  ]
+}

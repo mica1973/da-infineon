@@ -1,0 +1,264 @@
+{
+  "_provenance": {
+    "writtenBy": "gate-all.mjs",
+    "writtenAt": "2026-11-18T17:52:47.648Z",
+    "stage": "published",
+    "breakpoint": 360,
+    "threshold": 10,
+    "heightTolerance": 0.05,
+    "clipMax": 0,
+    "unitTol": 4,
+    "criteria": {
+      "pixel": true,
+      "height": true,
+      "clip": true,
+      "content": true
+    },
+    "verdict": "overlap pixel % ≤ 10 AND |Δh| ≤ 5% of origin height AND clipped ≤ 0 (+ documented allowance) AND content MISSING + HIDDEN links/headings = 0",
+    "origin": "https://www.infineon.com",
+    "eds": "http://127.0.0.1:8817",
+    "edsHostOverride": "http://127.0.0.1:8817",
+    "only": [
+      "de-careers",
+      "de-event-techfor",
+      "de-partners"
+    ]
+  },
+  "totals": {
+    "pages": 3,
+    "pass": 0,
+    "pixelOnlyPass": 3,
+    "overridePass": 1,
+    "fail": 3,
+    "error": 0,
+    "failPixel": 0,
+    "failHeight": 0,
+    "failClip": 2,
+    "failContent": 0,
+    "failUnits": 0,
+    "fontsNotLoaded": 2,
+    "fontChecksSkipped": 0,
+    "contentNA": 0,
+    "asymmetricOrigins": 0,
+    "degradedTier": 0,
+    "passWithOverrides": 1
+  },
+  "rows": [
+    {
+      "slug": "de-partners",
+      "path": "/de/partners",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 9.52,
+      "textPct": 9.48,
+      "heightDelta": -24,
+      "originH": 4741,
+      "edsH": 4765,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "fonts"
+      ],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 14,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "2000-2500:30.2%",
+        "2500-3000:24.3%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-careers",
+      "path": "/de/careers",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 9.48,
+      "textPct": 9.29,
+      "heightDelta": -6,
+      "originH": 7683,
+      "edsH": 7689,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 1,
+      "clipPass": false,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "clip"
+      ],
+      "unwaived": [
+        "clip"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "clipped 1 (text 1, controls 0)"
+      ],
+      "clipGroups": [
+        {
+          "kind": "TEXT HIDDEN",
+          "advisory": false,
+          "n": 1,
+          "clipper": "p",
+          "path": "li.teaser-cards-card > div.teaser-cards-body > div.teaser-cards-desc > p",
+          "text": "helfen sie uns, die zukunft der ki zu gestalten und technolo",
+          "cutMin": 22,
+          "cutMax": 22
+        }
+      ],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 29,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "0-500:20.6%",
+        "4500-5000:26.8%",
+        "5500-6000:32.3%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-event-techfor",
+      "path": "/de/event/techfor",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 1.06,
+      "textPct": 3.08,
+      "heightDelta": -7,
+      "originH": 5412,
+      "edsH": 5419,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 1,
+      "clipPass": false,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "clip",
+        "fonts"
+      ],
+      "unwaived": [
+        "clip"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "clipped 1 (text 1, controls 0)",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [
+        {
+          "kind": "TEXT HIDDEN",
+          "advisory": false,
+          "n": 1,
+          "clipper": "p",
+          "path": "div.teaser-cards-body > div.teaser-cards-title > p > strong",
+          "text": "techfor™ münchen auf der dld27",
+          "cutMin": 28,
+          "cutMax": 28
+        }
+      ],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 12,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    }
+  ]
+}

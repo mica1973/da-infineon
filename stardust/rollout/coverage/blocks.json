@@ -1,0 +1,443 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/blocks",
+    "writtenAt": "2026-11-18T05:54:03.976Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage/pages.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-18T09:13:35.722Z",
+  "blocks": [
+    {
+      "id": "article-body",
+      "label": "article-body",
+      "kind": "module",
+      "signature": "module:article-body",
+      "source": null,
+      "usedByTemplates": [
+        "de-our-stories-semiconductors-driving-decarbonization"
+      ],
+      "usedByPages": [
+        "de-our-stories-semiconductors-driving-decarbonization"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "article-body",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "article-hero",
+      "label": "article-hero",
+      "kind": "module",
+      "signature": "module:article-hero",
+      "source": null,
+      "usedByTemplates": [
+        "de-our-stories-electromobility-greener-future",
+        "de-our-stories-semiconductors-driving-decarbonization"
+      ],
+      "usedByPages": [
+        "de-our-stories-electromobility-greener-future",
+        "de-our-stories-semiconductors-driving-decarbonization"
+      ],
+      "instanceCount": 2,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "article-hero",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "breadcrumb",
+      "label": "breadcrumb",
+      "kind": "module",
+      "signature": "module:breadcrumb",
+      "source": null,
+      "usedByTemplates": [
+        "de-glossary",
+        "de-our-stories-semiconductors-driving-decarbonization",
+        "de-package-overview"
+      ],
+      "usedByPages": [
+        "de-glossary",
+        "de-our-stories-semiconductors-driving-decarbonization",
+        "de-package-overview"
+      ],
+      "instanceCount": 3,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "breadcrumb",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "career-offramp",
+      "label": "career-offramp",
+      "kind": "module",
+      "signature": "module:career-offramp",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "career-offramp",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "document-list",
+      "label": "document-list",
+      "kind": "module",
+      "signature": "module:document-list",
+      "source": null,
+      "usedByTemplates": [
+        "de-package-overview"
+      ],
+      "usedByPages": [
+        "de-package-overview"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "document-list",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "event-slider",
+      "label": "event-slider",
+      "kind": "module",
+      "signature": "module:event-slider",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "event-slider",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "glossary-accordion",
+      "label": "glossary-accordion",
+      "kind": "module",
+      "signature": "module:glossary-accordion",
+      "source": null,
+      "usedByTemplates": [
+        "de-glossary"
+      ],
+      "usedByPages": [
+        "de-glossary"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "accordion",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "hero-carousel",
+      "label": "hero-carousel",
+      "kind": "module",
+      "signature": "module:hero-carousel",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "hero-carousel",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "hub-band",
+      "label": "hub-band",
+      "kind": "module",
+      "signature": "module:hub-band",
+      "source": null,
+      "usedByTemplates": [
+        "de-about"
+      ],
+      "usedByPages": [
+        "de-about"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "hub-band",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "market-cards",
+      "label": "market-cards",
+      "kind": "module",
+      "signature": "module:market-cards",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "market-cards",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "newsletter-offramp",
+      "label": "newsletter-offramp",
+      "kind": "module",
+      "signature": "module:newsletter-offramp",
+      "source": null,
+      "usedByTemplates": [
+        "de-our-stories-electromobility-greener-future",
+        "de-our-stories-semiconductors-driving-decarbonization"
+      ],
+      "usedByPages": [
+        "de-our-stories-electromobility-greener-future",
+        "de-our-stories-semiconductors-driving-decarbonization"
+      ],
+      "instanceCount": 2,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "newsletter-offramp",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "package-categories",
+      "label": "package-categories",
+      "kind": "module",
+      "signature": "module:package-categories",
+      "source": null,
+      "usedByTemplates": [
+        "de-package-overview"
+      ],
+      "usedByPages": [
+        "de-package-overview"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "package-categories",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "page-header",
+      "label": "page-header",
+      "kind": "module",
+      "signature": "module:page-header",
+      "source": null,
+      "usedByTemplates": [
+        "de-about",
+        "de-glossary"
+      ],
+      "usedByPages": [
+        "de-about",
+        "de-glossary"
+      ],
+      "instanceCount": 2,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "page-header",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "partner-teaser",
+      "label": "partner-teaser",
+      "kind": "module",
+      "signature": "module:partner-teaser",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "partner-teaser",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "product-carousel",
+      "label": "product-carousel",
+      "kind": "module",
+      "signature": "module:product-carousel",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "product-carousel",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "product-hero",
+      "label": "product-hero",
+      "kind": "module",
+      "signature": "module:product-hero",
+      "source": null,
+      "usedByTemplates": [
+        "de-package-overview"
+      ],
+      "usedByPages": [
+        "de-package-overview"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "product-hero",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "story-cards",
+      "label": "story-cards",
+      "kind": "module",
+      "signature": "module:story-cards",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "story-cards",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "story-hub",
+      "label": "story-hub",
+      "kind": "module",
+      "signature": "module:story-hub",
+      "source": null,
+      "usedByTemplates": [
+        "de-our-stories-electromobility-greener-future"
+      ],
+      "usedByPages": [
+        "de-our-stories-electromobility-greener-future"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "story-hub",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "support-offramp",
+      "label": "support-offramp",
+      "kind": "module",
+      "signature": "module:support-offramp",
+      "source": null,
+      "usedByTemplates": [
+        "de-package-overview"
+      ],
+      "usedByPages": [
+        "de-package-overview"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "support-offramp",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "teaser-cards",
+      "label": "teaser-cards",
+      "kind": "module",
+      "signature": "module:teaser-cards",
+      "source": null,
+      "usedByTemplates": [
+        "de-package-overview"
+      ],
+      "usedByPages": [
+        "de-package-overview"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "teaser-cards",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "thank-you",
+      "label": "thank-you",
+      "kind": "module",
+      "signature": "module:thank-you",
+      "source": null,
+      "usedByTemplates": [
+        "de-thank-you"
+      ],
+      "usedByPages": [
+        "de-thank-you"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "thank-you",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1904 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:27:03.824Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/thank-you",
+  "at": "2026-11-18T23:26:47.748Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 2083,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button#searchicon-items",
+    "x": 164,
+    "y": 14,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-0",
+    "x": 220,
+    "y": 15,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.usericon-item.d-block",
+    "x": 260,
+    "y": 17,
+    "w": 40,
+    "h": 25,
+    "text": "user profile"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.wrapper.col-md-6 > picture > img.image-class",
+    "x": 140,
+    "y": 62,
+    "w": 80,
+    "h": 24,
+    "text": "thankyou",
+    "file": "2025-09-03-infineon-illustration-newweb-"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.col-md-6.d-flex > div.pre.d-flex > div.pre-head",
+    "x": 40,
+    "y": 405,
+    "w": 206,
+    "h": 21,
+    "text": "Auftragsbestätigung"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.col-md-6.d-flex > div.subcontent-container > h1.head",
+    "x": 16,
+    "y": 426,
+    "w": 328,
+    "h": 120,
+    "level": 1,
+    "text": "vielen dank für ihren einkauf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.subcontent-container > div.auth-text > p",
+    "x": 16,
+    "y": 546,
+    "w": 328,
+    "h": 81,
+    "text": "Sie haben eine Bestellbestätigung per E-Mail erhalten. Sie können Ihre Bestellun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.block-cont > div.atag > a",
+    "x": 16,
+    "y": 665,
+    "w": 328,
+    "h": 22,
+    "text": "zum dashboard navigieren",
+    "href": "/de/login/dashboard"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.atag > a > button.testbutton.standard",
+    "x": 16,
+    "y": 651,
+    "w": 328,
+    "h": 50,
+    "text": "zum dashboard navigieren"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 16,
+    "y": 1047,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 1141,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 1181,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 1223,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 1265,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 1307,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 1349,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 196,
+    "y": 1141,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 1181,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 1223,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 1265,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 1333,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 1375,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 1417,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 1483,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 1523,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 1565,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 1607,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 32,
+    "y": 1673,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 1713,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 1755,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 1797,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 1839,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 1905,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 192,
+    "y": 1905,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 1935,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 21,
+    "y": 1970,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 16,
+    "y": 2023,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 56,
+    "y": 2023,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 96,
+    "y": 2023,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 136,
+    "y": 2020,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 136,
+    "y": 2025,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 176,
+    "y": 2023,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 40,
+    "controls": 33,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/thank-you",
+  "at": "2026-11-18T23:27:03.689Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 2090,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "label": "search",
+    "value": "search",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.thank-you-media > picture > img",
+    "x": 16,
+    "y": 61,
+    "w": 328,
+    "h": 328,
+    "text": "thankyou",
+    "file": "media_145794b9b849cd3af467864679f20f84dd"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.thank-you-content > div.thank-you-pre > p",
+    "x": 40,
+    "y": 413,
+    "w": 206,
+    "h": 21,
+    "text": "Auftragsbestätigung"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.thank-you-content > div.thank-you-head > h1#vielen-dank-für-ihren-einkauf",
+    "x": 16,
+    "y": 434,
+    "w": 328,
+    "h": 120,
+    "level": 1,
+    "text": "vielen dank für ihren einkauf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.thank-you-content > div.thank-you-text > p",
+    "x": 16,
+    "y": 554,
+    "w": 328,
+    "h": 81,
+    "text": "Sie haben eine Bestellbestätigung per E-Mail erhalten. Sie können Ihre Bestellun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.thank-you-actions > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 659,
+    "w": 328,
+    "h": 50,
+    "text": "zum dashboard navigieren",
+    "href": "/de/login/dashboard"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 16,
+    "y": 1085,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 16,
+    "y": 1047,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 1148,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1188,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1230,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1272,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1314,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1356,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 196,
+    "y": 1148,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 1188,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 1230,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 1272,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 1340,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 1382,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 1424,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 1490,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1530,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1572,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1614,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 32,
+    "y": 1680,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 1720,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 1762,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 1804,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 1846,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1912,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 192,
+    "y": 1912,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1942,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 188,
+    "y": 1942,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 21,
+    "y": 1977,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2030,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 2030,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 2030,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 136,
+    "y": 2027,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 136,
+    "y": 2027,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 176,
+    "y": 2030,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 40,
+    "controls": 36,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "vielen dank für ihren einkauf",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 40,
+    "y": 405,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 441,
+    "w": 281,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 485,
+    "w": 102,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 547,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 574,
+    "w": 306,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 601,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 88,
+    "y": 665,
+    "w": 185,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1142,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1181,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1223,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1265,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1307,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1349,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1142,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 1181,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1223,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1265,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1291,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1333,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1375,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1417,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1484,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1523,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1565,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1607,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 1674,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1713,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 1755,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 1797,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 1839,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 1910,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 1910,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 1940,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 1940,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 1970,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 1970,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 1970,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 40,
+    "y": 413,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 449,
+    "w": 281,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 493,
+    "w": 102,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 555,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 582,
+    "w": 306,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 609,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 88,
+    "y": 673,
+    "w": 185,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1149,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1188,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1230,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1272,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1314,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1356,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1149,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 1188,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1230,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1272,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1298,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1340,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1382,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1424,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1491,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1530,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1572,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1614,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 1681,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1720,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 1762,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 1804,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 1846,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 1917,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 1917,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 1947,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 1947,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 1977,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 1977,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 1977,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

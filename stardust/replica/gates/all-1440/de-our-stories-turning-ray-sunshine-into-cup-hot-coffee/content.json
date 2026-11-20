@@ -1,0 +1,5951 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:08:16.611Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee",
+  "at": "2026-11-18T23:07:51.660Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 9297,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems0",
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems1",
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems2",
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems3",
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems4",
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 714,
+    "y": 16,
+    "w": 197,
+    "h": 36,
+    "label": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die suche zu aktivieren.",
+    "value": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die ",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "text": "navbardropdown"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "label": "navbardropdown",
+    "value": "navbardropdown",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-1",
+    "x": 1072,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.nav-item.desktopProfile > div.login-dropdown > button.login-button",
+    "x": 1132,
+    "y": 14,
+    "w": 248,
+    "h": 40,
+    "text": "anmeldung zu myinfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 254,
+    "y": 86,
+    "w": 360,
+    "h": 20,
+    "text": "wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "company",
+    "file": "woman-drinking-coffe-balcon.jpg:asset-20"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 112,
+    "level": 1,
+    "text": "wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 242,
+    "y": 611,
+    "w": 956,
+    "h": 48,
+    "text": "Elektrizität spielt in unserem Leben eine zentrale Rolle, sei es beim Kochen, be"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 242,
+    "y": 675,
+    "w": 134,
+    "h": 28,
+    "text": "Energieinfrastruktur"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 266,
+    "y": 719,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 342,
+    "y": 719,
+    "w": 79,
+    "h": 20,
+    "level": 4,
+    "text": "märz 31, 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 853,
+    "w": 328,
+    "h": 22,
+    "text": "die energiewende setzt auf erneuerbare energien",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 887,
+    "w": 198,
+    "h": 22,
+    "text": "sonnenlicht als energiequelle",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 921,
+    "w": 684,
+    "h": 22,
+    "text": "mehr energie aus jedem sonnenstrahl – effiziente energieumwandlung für photovolt",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 955,
+    "w": 326,
+    "h": 22,
+    "text": "effizienzgewinne durch wide-bandgap halbleiter",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 989,
+    "w": 412,
+    "h": 22,
+    "text": "batterie-energiespeicher gleichen angebot und nachfrage aus",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > p",
+    "x": 224,
+    "y": 819,
+    "w": 177,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-501d2fa276 > h2#transition",
+    "x": 200,
+    "y": 1101,
+    "w": 1040,
+    "h": 48,
+    "level": 2,
+    "text": "die energiewende setzt auf erneuerbare energien"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-0ce08454ab > p",
+    "x": 200,
+    "y": 1173,
+    "w": 1040,
+    "h": 104,
+    "text": "Wir beginnen unseren Tag mit einer Tasse heißem Kaffee oder Tee. Wenn wir von zu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-0ce08454ab > p",
+    "x": 200,
+    "y": 1293,
+    "w": 1040,
+    "h": 78,
+    "text": "Elektrizität spielt in unserem Leben eine immer zentralere Rolle. Wir sind für a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-0ce08454ab > p",
+    "x": 200,
+    "y": 1387,
+    "w": 1040,
+    "h": 26,
+    "text": "Die IEA prognostiziert für die nächsten fünf Jahre einen Anstieg des weltweiten "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 1445,
+    "w": 1040,
+    "h": 585,
+    "text": "global-electricity-consumption",
+    "file": "grafik-global-electricity-consumption-de"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-97e18927db > p",
+    "x": 200,
+    "y": 2071,
+    "w": 1040,
+    "h": 78,
+    "text": "Elektrische Energie ist die hochwertigste und flexibelste Energieform, da wir St"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-4d56c240bb > h2#sunlight",
+    "x": 200,
+    "y": 2181,
+    "w": 1040,
+    "h": 48,
+    "level": 2,
+    "text": "sonnenlicht als energiequelle"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-cfbdcc0481 > p > b",
+    "x": 200,
+    "y": 2253,
+    "w": 810,
+    "h": 25,
+    "text": "Wie wird ein Sonnenstrahl in elektrische Energie umgewandelt? Die Animation zeig"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#ext_video_0_container_inner > div#ext_video_0_videoPlayer > div#IconEffect_s7classic_51",
+    "x": 680,
+    "y": 2563,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-7bc620ee16 > ul > li",
+    "x": 200,
+    "y": 2936,
+    "w": 1040,
+    "h": 58,
+    "text": "Photovoltaik (PV)-Solarmodule nutzen das Sonnenlicht als Energiequelle zur Erzeu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-7bc620ee16 > ul > li",
+    "x": 200,
+    "y": 2994,
+    "w": 1040,
+    "h": 84,
+    "text": "Die Photonen des Sonnenlichts regen die verschiedenen elektrischen Eigenschaften"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-7bc620ee16 > ul > li",
+    "x": 200,
+    "y": 3078,
+    "w": 1040,
+    "h": 84,
+    "text": "Solarzellen werden verwendet, um Energie aus Lichtstrahlen zu erzeugen, aber es "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-7bc620ee16 > ul > li",
+    "x": 200,
+    "y": 3162,
+    "w": 1040,
+    "h": 58,
+    "text": "Der Wechselrichter ist das Bindeglied zwischen dem Solarmodul und dem Stromnetz."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-7bc620ee16 > ul > li",
+    "x": 200,
+    "y": 3220,
+    "w": 1040,
+    "h": 84,
+    "text": "Er wandelt den von den Solarmodulen erzeugten Gleichstrom (DC) in Wechselstrom ("
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-c846ad90c2 > h2#inverters",
+    "x": 200,
+    "y": 3336,
+    "w": 1040,
+    "h": 96,
+    "level": 2,
+    "text": "mehr energie aus jedem sonnenstrahl – effiziente energieumwandlung für photovoltaik-wechselrichter"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-d68b5210f7 > p",
+    "x": 200,
+    "y": 3456,
+    "w": 1040,
+    "h": 52,
+    "text": "Infineon bietet ein breites Portfolio an Halbleiter-Lösungen für Wechselrichter-"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-3d2a03f72d > h3.dynamicAnchors.heading-03",
+    "x": 200,
+    "y": 3540,
+    "w": 1040,
+    "h": 36,
+    "level": 3,
+    "text": "photovoltaik für privathaushalte: stromerzeugung auf dem dach"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-f323b9eb3a > p",
+    "x": 200,
+    "y": 3600,
+    "w": 1040,
+    "h": 104,
+    "text": "Photovoltaikanlagen für Privathaushalte wandeln Sonnenlicht zu Hause in sauberen"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-ea0d817a0d > h2.dynamicAnchors.heading-05",
+    "x": 200,
+    "y": 3736,
+    "w": 504,
+    "h": 28,
+    "level": 2,
+    "text": "konzept mit zentralwechselrichter"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#ext_video_1_container_inner > div#ext_video_1_videoPlayer > div#IconEffect_s7classic_53",
+    "x": 412,
+    "y": 3874,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-f31b579b58 > h2.dynamicAnchors.heading-05",
+    "x": 736,
+    "y": 3736,
+    "w": 504,
+    "h": 28,
+    "level": 2,
+    "text": "konzept mit mikro-wechselrichter"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#ext_video_2_container_inner > div#ext_video_2_videoPlayer > div#IconEffect_s7classic_52",
+    "x": 948,
+    "y": 3874,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 4127,
+    "w": 348,
+    "h": 24,
+    "text": "erfahren sie mehr zu den lösungen für inverter",
+    "href": "/applications/industrial/photovoltaic"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-b0d1a37556 > h3.dynamicAnchors.heading-03",
+    "x": 200,
+    "y": 4191,
+    "w": 1040,
+    "h": 36,
+    "level": 3,
+    "text": "photovoltaik-kraftwerke: versorgung des stromnetzes mit grüner energie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-adef5b7346 > p",
+    "x": 200,
+    "y": 4251,
+    "w": 1040,
+    "h": 52,
+    "text": "Große Solarkraftwerke erzeugen Strom für das öffentliche Stromnetz. Sie bestehen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-adef5b7346 > p",
+    "x": 200,
+    "y": 4319,
+    "w": 1040,
+    "h": 52,
+    "text": "Unsere Leistungshalbleiter auf Silizium- und Siliziumkarbid-Basis ermöglichen ei"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 4403,
+    "w": 1040,
+    "h": 692,
+    "text": "global-electricity-consumption",
+    "file": "energy-generation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 5135,
+    "w": 347,
+    "h": 24,
+    "text": "lösungen für inverter im industriellen maßstab",
+    "href": "/applications/industrial/photovoltaic/central-inverter-solutions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-f9f4301bf6 > h2#wideband",
+    "x": 200,
+    "y": 5199,
+    "w": 1040,
+    "h": 48,
+    "level": 2,
+    "text": "effizienzgewinne durch wide-bandgap halbleiter"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-4a61cb31ff > p",
+    "x": 200,
+    "y": 5271,
+    "w": 1040,
+    "h": 104,
+    "text": "Moderne Leistungshalbleiter basieren auf speziellen Wafer-Materialien (Siliziumk"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-4a61cb31ff > p",
+    "x": 200,
+    "y": 5391,
+    "w": 1040,
+    "h": 78,
+    "text": "Ein gutes Beispiel, bei dem Siliziumkarbid (SiC) eine erhebliche Miniaturisierun"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-4a61cb31ff > p",
+    "x": 200,
+    "y": 5485,
+    "w": 1040,
+    "h": 104,
+    "text": "Galliumnitrid (GaN) ist essentiell für die nächste Generation der Solarenergieer"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 5621,
+    "w": 285,
+    "h": 24,
+    "text": "wide-bandgap lösungen von infineon",
+    "href": "/technology/wide-bandgap-semiconductors-sic-gan"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-44265c4144 > h2#storage",
+    "x": 200,
+    "y": 5685,
+    "w": 1040,
+    "h": 48,
+    "level": 2,
+    "text": "batterie-energiespeicher gleichen angebot und nachfrage aus"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-e4f939d833 > p",
+    "x": 200,
+    "y": 5757,
+    "w": 1040,
+    "h": 52,
+    "text": "Die von Photovoltaikmodulen gelieferte Elektrizität schwankt je nach Wetterbedin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-e4f939d833 > p",
+    "x": 200,
+    "y": 5825,
+    "w": 1040,
+    "h": 78,
+    "text": "Halbleiter von Infineon spielen in vielen Bereichen eines Batterie-Energiespeich"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 5935,
+    "w": 1040,
+    "h": 775,
+    "text": "global-electricity-consumption",
+    "file": "energy-storage"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 6749,
+    "w": 346,
+    "h": 24,
+    "text": "erfahren sie mehr zum thema energiespeicher",
+    "href": "/de/our-stories/efficient-energy-storage-systems-energy-transition"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-07076d80a6 > h3.dynamicAnchors.heading-03",
+    "x": 200,
+    "y": 6837,
+    "w": 1040,
+    "h": 36,
+    "level": 3,
+    "text": "moore's lobby podcast"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-0bac393980 > h5.dynamicAnchors.heading-05",
+    "x": 200,
+    "y": 6897,
+    "w": 712,
+    "h": 56,
+    "level": 5,
+    "text": "strom für eine grünere zukunft: einblicke von dr. peter wawer, division president green industrial power"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-523852e8ad > p",
+    "x": 200,
+    "y": 6961,
+    "w": 712,
+    "h": 78,
+    "text": "Im Moore's Lobby-Podcast von \"All about Circuits\" gibt Dr. Peter Wawer Einblicke"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 7071,
+    "w": 121,
+    "h": 24,
+    "text": "jetzt anhören",
+    "href": "/podcast/powering-a-green-future-insights-from-infineons-peter-wawer/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 944,
+    "y": 6897,
+    "w": 296,
+    "h": 167,
+    "text": "renewables podcast with peter wawer",
+    "file": "renewables-podcast-aac-p-wawer.jpg:asset"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_17517_ifxcontainer_1798897_ > div.header-style > h4.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 7199,
+    "w": 1324,
+    "h": 32,
+    "level": 4,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 7279,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "power-line-forest-1.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 7495,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 124,
+    "y": 7563,
+    "w": 323,
+    "h": 56,
+    "text": "Energieinfrastuktur und erneuerbare Energien"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 7641,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/power-infrastructure-renewables"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 507,
+    "y": 7279,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "gettyimages-2188034572.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 531,
+    "y": 7495,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 531,
+    "y": 7563,
+    "w": 323,
+    "h": 56,
+    "text": "Effiziente Batterie-Energiespeichersysteme für die Energiewende"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 531,
+    "y": 7641,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/efficient-energy-storage-systems-energy-transition"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 914,
+    "y": 7279,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "infineon-25-years-sungrow-promopage-01-v"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 938,
+    "y": 7495,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 938,
+    "y": 7563,
+    "w": 323,
+    "h": 56,
+    "text": "Storing the sun for cloudy days"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 938,
+    "y": 7641,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/our-stories/storing-sun-cloudy-days"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_ifxcontainer_1798897_ > div.header-style > h4.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 7817,
+    "w": 1324,
+    "h": 32,
+    "level": 4,
+    "text": "weiterführende inhalte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 7897,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "key-visual-hybrid-inverter-01.tif:asset-"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 8113,
+    "w": 323,
+    "h": 52,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 124,
+    "y": 8181,
+    "w": 323,
+    "h": 56,
+    "text": "Photovoltaic"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 8259,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/industrial/photovoltaic"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 507,
+    "y": 7897,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "two-engineers-installing-solar-panels.jp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 531,
+    "y": 8113,
+    "w": 323,
+    "h": 52,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 531,
+    "y": 8181,
+    "w": 323,
+    "h": 56,
+    "text": "3-phase hybrid inverter solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 531,
+    "y": 8259,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/industrial/photovoltaic/3-phase-hybrid-inverter-solutions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 914,
+    "y": 7897,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "energy-storage-systems.png:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 938,
+    "y": 8113,
+    "w": 323,
+    "h": 52,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 938,
+    "y": 8181,
+    "w": 323,
+    "h": 56,
+    "text": "Battery energy storage (BESS)"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 938,
+    "y": 8259,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/industrial/battery-energy-storage"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 203,
+    "y": 8531,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 732,
+    "y": 8531,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 732,
+    "y": 8615,
+    "w": 136,
+    "h": 48,
+    "text": "abonnieren",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 96,
+    "y": 8823,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 367,
+    "y": 8823,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 8879,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 8921,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 8963,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 9005,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 9047,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 619,
+    "y": 8823,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 8879,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 8921,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 8963,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 9005,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 9047,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 9089,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 926,
+    "y": 8823,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 8879,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 8921,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 8963,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 1193,
+    "y": 8823,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 8879,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 8921,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 8963,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 9005,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 96,
+    "y": 9227,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 272,
+    "y": 9227,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 380,
+    "y": 9227,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 647,
+    "y": 9232,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 1168,
+    "y": 9231,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 1208,
+    "y": 9231,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 1248,
+    "y": 9231,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 1288,
+    "y": 9228,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 1288,
+    "y": 9233,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 1328,
+    "y": 9231,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 109,
+    "controls": 60,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p.preheadline",
+     "path": "div.card > div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+     "text": "effiziente batterie-energiespeichersysteme für die energiewe",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee",
+  "at": "2026-11-18T23:08:16.479Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 9367,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 166,
+    "y": 21,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/products"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 243,
+    "y": 21,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/applications"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 353,
+    "y": 21,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/design-resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 487,
+    "y": 21,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 629,
+    "y": 21,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/about"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "sprache"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "sprache",
+    "value": "sprache",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-login > p > a",
+    "x": 1132,
+    "y": 13,
+    "w": 207,
+    "h": 40,
+    "text": "anmeldung zu myinfineon",
+    "href": "/de/login.login.de.json"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 254,
+    "y": 85,
+    "w": 360,
+    "h": 20,
+    "text": "wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "company",
+    "file": "media_15bbd493280633288eced076dbd77f9954"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#wie-aus-einem-sonnenstrahl-eine-tasse-heißer-kaffee-entsteht",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 112,
+    "level": 1,
+    "text": "wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 242,
+    "y": 611,
+    "w": 956,
+    "h": 48,
+    "text": "Elektrizität spielt in unserem Leben eine zentrale Rolle, sei es beim Kochen, be"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 242,
+    "y": 675,
+    "w": 134,
+    "h": 28,
+    "text": "Energieinfrastruktur"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 266,
+    "y": 719,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#märz-31-2026",
+    "x": 342,
+    "y": 719,
+    "w": 79,
+    "h": 20,
+    "level": 4,
+    "text": "märz 31, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-toc.block > div.article-toc-label > p",
+    "x": 224,
+    "y": 819,
+    "w": 992,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 853,
+    "w": 328,
+    "h": 22,
+    "text": "die energiewende setzt auf erneuerbare energien",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 887,
+    "w": 198,
+    "h": 22,
+    "text": "sonnenlicht als energiequelle",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 921,
+    "w": 684,
+    "h": 22,
+    "text": "mehr energie aus jedem sonnenstrahl – effiziente energieumwandlung für photovolt",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 955,
+    "w": 325,
+    "h": 22,
+    "text": "effizienzgewinne durch wide-bandgap halbleiter",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 989,
+    "w": 412,
+    "h": 22,
+    "text": "batterie-energiespeicher gleichen angebot und nachfrage aus",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h2#die-energiewende-setzt-auf-erneuerbare-energien",
+    "x": 200,
+    "y": 1101,
+    "w": 1040,
+    "h": 48,
+    "level": 2,
+    "text": "die energiewende setzt auf erneuerbare energien"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1173,
+    "w": 1040,
+    "h": 104,
+    "text": "Wir beginnen unseren Tag mit einer Tasse heißem Kaffee oder Tee. Wenn wir von zu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1293,
+    "w": 1040,
+    "h": 78,
+    "text": "Elektrizität spielt in unserem Leben eine immer zentralere Rolle. Wir sind für a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1387,
+    "w": 1040,
+    "h": 26,
+    "text": "Die IEA prognostiziert für die nächsten fünf Jahre einen Anstieg des weltweiten "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-40 > picture > img",
+    "x": 200,
+    "y": 1445,
+    "w": 1040,
+    "h": 585,
+    "text": "global-electricity-consumption",
+    "file": "media_1440185b55c6bca345aac22969a5fe4afe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2070,
+    "w": 1040,
+    "h": 78,
+    "text": "Elektrische Energie ist die hochwertigste und flexibelste Energieform, da wir St"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h2#sonnenlicht-als-energiequelle",
+    "x": 200,
+    "y": 2180,
+    "w": 1040,
+    "h": 48,
+    "level": 2,
+    "text": "sonnenlicht als energiequelle"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 200,
+    "y": 2252,
+    "w": 810,
+    "h": 25,
+    "text": "Wie wird ein Sonnenstrahl in elektrische Energie umgewandelt? Die Animation zeig"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 2310,
+    "w": 1040,
+    "h": 585,
+    "text": "",
+    "file": "media_187a1c2d271bbfb61560808daca3097cda"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-wrapper > div.story-hub.video > button.story-hub-video-play",
+    "x": 680,
+    "y": 2563,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 2947,
+    "w": 1040,
+    "h": 58,
+    "text": "Photovoltaik (PV)-Solarmodule nutzen das Sonnenlicht als Energiequelle zur Erzeu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 3005,
+    "w": 1040,
+    "h": 84,
+    "text": "Die Photonen des Sonnenlichts regen die verschiedenen elektrischen Eigenschaften"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 3089,
+    "w": 1040,
+    "h": 84,
+    "text": "Solarzellen werden verwendet, um Energie aus Lichtstrahlen zu erzeugen, aber es "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 3173,
+    "w": 1040,
+    "h": 58,
+    "text": "Der Wechselrichter ist das Bindeglied zwischen dem Solarmodul und dem Stromnetz."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 3231,
+    "w": 1040,
+    "h": 84,
+    "text": "Er wandelt den von den Solarmodulen erzeugten Gleichstrom (DC) in Wechselstrom ("
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h2#mehr-energie-aus-jedem-sonnenstrahl--effiziente-energieumwandlung-für-photovoltaik-wechselrichter",
+    "x": 200,
+    "y": 3379,
+    "w": 1040,
+    "h": 96,
+    "level": 2,
+    "text": "mehr energie aus jedem sonnenstrahl – effiziente energieumwandlung für photovoltaik-wechselrichter"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3499,
+    "w": 1040,
+    "h": 52,
+    "text": "Infineon bietet ein breites Portfolio an Halbleiter-Lösungen für Wechselrichter-"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h3#photovoltaik-für-privathaushalte-stromerzeugung-auf-dem-dach",
+    "x": 200,
+    "y": 3583,
+    "w": 1040,
+    "h": 36,
+    "level": 3,
+    "text": "photovoltaik für privathaushalte: stromerzeugung auf dem dach"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3643,
+    "w": 1040,
+    "h": 104,
+    "text": "Photovoltaikanlagen für Privathaushalte wandeln Sonnenlicht zu Hause in sauberen"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#konzept-mit-zentralwechselrichter",
+    "x": 200,
+    "y": 3779,
+    "w": 504,
+    "h": 28,
+    "level": 5,
+    "text": "konzept mit zentralwechselrichter"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 3815,
+    "w": 504,
+    "h": 284,
+    "text": "",
+    "file": "media_15dedb7ea00df119cc2c2e92162f3286a6"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-pic.is-video > button.story-hub-video-play",
+    "x": 412,
+    "y": 3917,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#konzept-mit-mikro-wechselrichter",
+    "x": 736,
+    "y": 3779,
+    "w": 504,
+    "h": 28,
+    "level": 5,
+    "text": "konzept mit mikro-wechselrichter"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 736,
+    "y": 3815,
+    "w": 504,
+    "h": 284,
+    "text": "",
+    "file": "media_1a7647f57fd8d3da3126b635388841a970"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-pic.is-video > button.story-hub-video-play",
+    "x": 948,
+    "y": 3917,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.is-tl > a",
+    "x": 200,
+    "y": 4180,
+    "w": 323,
+    "h": 22,
+    "text": "erfahren sie mehr zu den lösungen für inverter",
+    "href": "/applications/industrial/photovoltaic"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h3#photovoltaik-kraftwerke-versorgung-des-stromnetzes-mit-grüner-energie",
+    "x": 200,
+    "y": 4243,
+    "w": 1040,
+    "h": 36,
+    "level": 3,
+    "text": "photovoltaik-kraftwerke: versorgung des stromnetzes mit grüner energie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 4303,
+    "w": 1040,
+    "h": 52,
+    "text": "Große Solarkraftwerke erzeugen Strom für das öffentliche Stromnetz. Sie bestehen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 4371,
+    "w": 1040,
+    "h": 52,
+    "text": "Unsere Leistungshalbleiter auf Silizium- und Siliziumkarbid-Basis ermöglichen ei"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-40 > picture > img",
+    "x": 200,
+    "y": 4455,
+    "w": 1040,
+    "h": 691,
+    "text": "global-electricity-consumption",
+    "file": "media_1b875b4275b9d659ae9fa1b2c17e4ec532"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.is-tl > a",
+    "x": 200,
+    "y": 5187,
+    "w": 322,
+    "h": 22,
+    "text": "lösungen für inverter im industriellen maßstab",
+    "href": "/applications/industrial/photovoltaic/central-inverter-solutions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h2#effizienzgewinne-durch-wide-bandgap-halbleiter",
+    "x": 200,
+    "y": 5250,
+    "w": 1040,
+    "h": 48,
+    "level": 2,
+    "text": "effizienzgewinne durch wide-bandgap halbleiter"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 5322,
+    "w": 1040,
+    "h": 104,
+    "text": "Moderne Leistungshalbleiter basieren auf speziellen Wafer-Materialien (Siliziumk"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 5442,
+    "w": 1040,
+    "h": 78,
+    "text": "Ein gutes Beispiel, bei dem Siliziumkarbid (SiC) eine erhebliche Miniaturisierun"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 5536,
+    "w": 1040,
+    "h": 104,
+    "text": "Galliumnitrid (GaN) ist essentiell für die nächste Generation der Solarenergieer"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.is-tl > a",
+    "x": 200,
+    "y": 5657,
+    "w": 260,
+    "h": 22,
+    "text": "wide-bandgap lösungen von infineon",
+    "href": "/technology/wide-bandgap-semiconductors-sic-gan"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h2#batterie-energiespeicher-gleichen-angebot-und-nachfrage-aus",
+    "x": 200,
+    "y": 5720,
+    "w": 1040,
+    "h": 48,
+    "level": 2,
+    "text": "batterie-energiespeicher gleichen angebot und nachfrage aus"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 5792,
+    "w": 1040,
+    "h": 52,
+    "text": "Die von Photovoltaikmodulen gelieferte Elektrizität schwankt je nach Wetterbedin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 5860,
+    "w": 1040,
+    "h": 78,
+    "text": "Halbleiter von Infineon spielen in vielen Bereichen eines Batterie-Energiespeich"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-40 > picture > img",
+    "x": 200,
+    "y": 5970,
+    "w": 1040,
+    "h": 775,
+    "text": "global-electricity-consumption",
+    "file": "media_16ce2d01e58d52062bf93fc2c8a0f31176"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.is-tl > a",
+    "x": 200,
+    "y": 6786,
+    "w": 320,
+    "h": 22,
+    "text": "erfahren sie mehr zum thema energiespeicher",
+    "href": "/de/our-stories/efficient-energy-storage-systems-energy-transition"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h3#moores-lobby-podcast",
+    "x": 200,
+    "y": 6873,
+    "w": 1040,
+    "h": 36,
+    "level": 3,
+    "text": "moore's lobby podcast"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#strom-für-eine-grünere-zukunft-einblicke-von-dr-peter-wawer-division-president-green-industrial-power",
+    "x": 200,
+    "y": 6933,
+    "w": 712,
+    "h": 56,
+    "level": 5,
+    "text": "strom für eine grünere zukunft: einblicke von dr. peter wawer, division president green industrial power"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 6997,
+    "w": 712,
+    "h": 78,
+    "text": "Im Moore's Lobby-Podcast von \"All about Circuits\" gibt Dr. Peter Wawer Einblicke"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 200,
+    "y": 7107,
+    "w": 120,
+    "h": 24,
+    "text": "jetzt anhören",
+    "href": "/podcast/powering-a-green-future-insights-from-infineons-peter-wawer/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-pic.is-end > picture > img",
+    "x": 944,
+    "y": 6933,
+    "w": 296,
+    "h": 167,
+    "text": "renewables podcast with peter wawer",
+    "file": "media_1597dd4b3ae098b5e2af0aac6c87dd5f47"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h4#weitere-geschichten",
+    "x": 96,
+    "y": 7267,
+    "w": 1324,
+    "h": 32,
+    "level": 4,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 7347,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_1f70092542724349103edcb0b501ea5c01"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 7563,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 7631,
+    "w": 323,
+    "h": 56,
+    "text": "Energieinfrastuktur und erneuerbare Energien"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 128,
+    "y": 7709,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/power-infrastructure-renewables"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 507,
+    "y": 7347,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_182b6da549f15461175867591b399b8265"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 531,
+    "y": 7563,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 531,
+    "y": 7631,
+    "w": 323,
+    "h": 56,
+    "text": "Effiziente Batterie-Energiespeichersysteme für die Energiewende"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 535,
+    "y": 7709,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/efficient-energy-storage-systems-energy-transition"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 914,
+    "y": 7347,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_14f83280add92b4fef2ebefd073419fb96"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 938,
+    "y": 7563,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 938,
+    "y": 7631,
+    "w": 323,
+    "h": 28,
+    "text": "Storing the sun for cloudy days"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 942,
+    "y": 7709,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/our-stories/storing-sun-cloudy-days"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h4#weiterführende-inhalte",
+    "x": 96,
+    "y": 7885,
+    "w": 1324,
+    "h": 32,
+    "level": 4,
+    "text": "weiterführende inhalte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 7965,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "media_194682e3f194a34c48c3e71766b2ac3262"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 8181,
+    "w": 323,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 8249,
+    "w": 323,
+    "h": 28,
+    "text": "Photovoltaic"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 128,
+    "y": 8327,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/industrial/photovoltaic"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 507,
+    "y": 7965,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "media_140c2540b3ef6eaac89037ad7b7a0d99b4"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 531,
+    "y": 8181,
+    "w": 323,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 531,
+    "y": 8249,
+    "w": 323,
+    "h": 28,
+    "text": "3-phase hybrid inverter solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 535,
+    "y": 8327,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/industrial/photovoltaic/3-phase-hybrid-inverter-solutions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 914,
+    "y": 7965,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "media_1099bf4764af06897a0be8c269fbcaadcc"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 938,
+    "y": 8181,
+    "w": 323,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 938,
+    "y": 8249,
+    "w": 323,
+    "h": 28,
+    "text": "Battery energy storage (BESS)"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 942,
+    "y": 8327,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/industrial/battery-energy-storage"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#abonnieren-sie-die-marketingkommunikation",
+    "x": 203,
+    "y": 8599,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 732,
+    "y": 8599,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 732,
+    "y": 8683,
+    "w": 138,
+    "h": 50,
+    "text": "abonnieren",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 96,
+    "y": 8932,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 96,
+    "y": 8893,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 367,
+    "y": 8893,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 8949,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 8991,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 9033,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 9075,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 9117,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 619,
+    "y": 8893,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 8949,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 8991,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 9033,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 9075,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 9117,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 9159,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 926,
+    "y": 8893,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 8949,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 8991,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 9033,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 1193,
+    "y": 8893,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 8949,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 8991,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 9033,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 9075,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 9297,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 272,
+    "y": 9297,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 380,
+    "y": 9297,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 9297,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 647,
+    "y": 9302,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 9301,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1208,
+    "y": 9301,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1248,
+    "y": 9301,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1288,
+    "y": 9298,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 1288,
+    "y": 9298,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1328,
+    "y": 9301,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 110,
+    "controls": 64,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.story-hub-card-title",
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "effiziente batterie-energiespeichersysteme für die energiewe",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 1,
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "effiziente batterie-energiespeichersysteme für die energiewe",
+     "clipper": "div.story-hub-card-title",
+     "rect": {
+      "l": 531,
+      "t": 7631,
+      "r": 687,
+      "b": 7659,
+      "w": 156,
+      "h": 28
+     },
+     "clip": {
+      "l": 531,
+      "t": 7631,
+      "r": 854,
+      "b": 7687,
+      "w": 323,
+      "h": 56
+     },
+     "lines": 3
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 17,
+    "linkHidden": 0,
+    "button": 3,
+    "buttonHidden": 0,
+    "text": 37,
+    "textHidden": 0,
+    "image": 13,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"die energiewende setzt auf erneuerbare energien\" (y 1101) has no origin heading",
+   "text": "die energiewende setzt auf erneuerbare energien"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"sonnenlicht als energiequelle\" (y 2180) has no origin heading",
+   "text": "sonnenlicht als energiequelle"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"mehr energie aus jedem sonnenstrahl – effiziente energieumwandlung für photovoltaik-wechselrichter\" (y 3379) has no origin heading",
+   "text": "mehr energie aus jedem sonnenstrahl – effiziente energieumwandlung für photovoltaik-wechselrichter"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"photovoltaik für privathaushalte: stromerzeugung auf dem dach\" (y 3583) has no origin heading",
+   "text": "photovoltaik für privathaushalte: stromerzeugung auf dem dach"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"photovoltaik-kraftwerke: versorgung des stromnetzes mit grüner energie\" (y 4243) has no origin heading",
+   "text": "photovoltaik-kraftwerke: versorgung des stromnetzes mit grüner energie"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"effizienzgewinne durch wide-bandgap halbleiter\" (y 5250) has no origin heading",
+   "text": "effizienzgewinne durch wide-bandgap halbleiter"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"batterie-energiespeicher gleichen angebot und nachfrage aus\" (y 5720) has no origin heading",
+   "text": "batterie-energiespeicher gleichen angebot und nachfrage aus"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"moore's lobby podcast\" (y 6873) has no origin heading",
+   "text": "moore's lobby podcast"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"abonnieren sie die marketingkommunikation!\" (y 8599) has no origin heading",
+   "text": "abonnieren sie die marketingkommunikation!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"die energiewende setzt auf erneuerbare energien\" served in band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "die energiewende setzt auf erneuerbare energien"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"sonnenlicht als energiequelle\" served in band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "sonnenlicht als energiequelle"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr energie aus jedem sonnenstrahl – effiziente energieumwandlung für photovolt\" served in band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr energie aus jedem sonnenstrahl – effiziente energieumwandlung für photovolt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"effizienzgewinne durch wide-bandgap halbleiter\" served in band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "effizienzgewinne durch wide-bandgap halbleiter"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"batterie-energiespeicher gleichen angebot und nachfrage aus\" served in band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "batterie-energiespeicher gleichen angebot und nachfrage aus"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×3 \"play or pause video\" served in band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\", no origin link or button",
+   "band": 1,
+   "n": 3,
+   "text": "play or pause video"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"erfahren sie mehr zu den lösungen für inverter\" served in band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "erfahren sie mehr zu den lösungen für inverter"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"lösungen für inverter im industriellen maßstab\" served in band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "lösungen für inverter im industriellen maßstab"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"wide-bandgap lösungen von infineon\" served in band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "wide-bandgap lösungen von infineon"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"erfahren sie mehr zum thema energiespeicher\" served in band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "erfahren sie mehr zum thema energiespeicher"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"jetzt anhören\" served in band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "jetzt anhören"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×3 \"mehr entdecken\" served in band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\", no origin link or button",
+   "band": 1,
+   "n": 3,
+   "text": "mehr entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×3 \"mehr erfahren\" served in band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\", no origin link or button",
+   "band": 1,
+   "n": 3,
+   "text": "mehr erfahren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"abonnieren\" served in band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "abonnieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\": 3 origin → 37 served visible",
+   "band": 1,
+   "origin": 3,
+   "eds": 37,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"wie aus einem sonnenstrahl eine tasse heißer kaffee entsteht\": 0 origin → 13 served visible",
+   "band": 1,
+   "origin": 0,
+   "eds": 13,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 9,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 20,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 25,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 166,
+    "y": 23,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 23,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 23,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 23,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 23,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 23,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 86,
+    "w": 360,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 848,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 535,
+    "w": 282,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 612,
+    "w": 953,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 636,
+    "w": 863,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 679,
+    "w": 118,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 719,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 719,
+    "w": 79,
+    "h": 20
+   },
+   {
+    "x": 252,
+    "y": 853,
+    "w": 328,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 887,
+    "w": 198,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 921,
+    "w": 684,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 955,
+    "w": 326,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 989,
+    "w": 412,
+    "h": 22
+   },
+   {
+    "x": 224,
+    "y": 820,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1099,
+    "w": 744,
+    "h": 51
+   },
+   {
+    "x": 200,
+    "y": 1173,
+    "w": 979,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1199,
+    "w": 985,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1225,
+    "w": 1023,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1251,
+    "w": 506,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1293,
+    "w": 977,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1319,
+    "w": 936,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1345,
+    "w": 654,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1387,
+    "w": 992,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2071,
+    "w": 1035,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2097,
+    "w": 999,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2123,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2179,
+    "w": 448,
+    "h": 51
+   },
+   {
+    "x": 200,
+    "y": 2253,
+    "w": 810,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 2938,
+    "w": 733,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 2996,
+    "w": 948,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3022,
+    "w": 264,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3080,
+    "w": 961,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3106,
+    "w": 232,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3164,
+    "w": 569,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3222,
+    "w": 985,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3248,
+    "w": 521,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 3334,
+    "w": 741,
+    "h": 51
+   },
+   {
+    "x": 200,
+    "y": 3382,
+    "w": 802,
+    "h": 51
+   },
+   {
+    "x": 200,
+    "y": 3456,
+    "w": 1039,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3482,
+    "w": 595,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3538,
+    "w": 757,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 3600,
+    "w": 997,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3626,
+    "w": 1010,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3652,
+    "w": 1023,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3678,
+    "w": 214,
+    "h": 25
+   },
+   {
+    "x": 414,
+    "y": 3678,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3736,
+    "w": 290,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 3736,
+    "w": 285,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 4128,
+    "w": 326,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 4189,
+    "w": 861,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 4251,
+    "w": 1017,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4277,
+    "w": 861,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4319,
+    "w": 960,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4345,
+    "w": 960,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5136,
+    "w": 325,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 5197,
+    "w": 738,
+    "h": 51
+   },
+   {
+    "x": 200,
+    "y": 5271,
+    "w": 960,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5297,
+    "w": 1033,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5323,
+    "w": 946,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5349,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5391,
+    "w": 998,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5417,
+    "w": 1013,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5443,
+    "w": 956,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5485,
+    "w": 931,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5511,
+    "w": 1025,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5537,
+    "w": 988,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5563,
+    "w": 678,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5622,
+    "w": 263,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 5683,
+    "w": 932,
+    "h": 51
+   },
+   {
+    "x": 200,
+    "y": 5757,
+    "w": 1025,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5783,
+    "w": 897,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5825,
+    "w": 972,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5851,
+    "w": 972,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5877,
+    "w": 856,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6750,
+    "w": 324,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 6835,
+    "w": 270,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 6897,
+    "w": 677,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 6925,
+    "w": 193,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 6961,
+    "w": 663,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6987,
+    "w": 704,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 7013,
+    "w": 643,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 7072,
+    "w": 99,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 7197,
+    "w": 206,
+    "h": 35
+   },
+   {
+    "x": 124,
+    "y": 7495,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 7563,
+    "w": 308,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 7591,
+    "w": 75,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 7642,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 7495,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 7563,
+    "w": 156,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 7591,
+    "w": 263,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 7642,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 7495,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 7563,
+    "w": 258,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 7642,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 7815,
+    "w": 234,
+    "h": 35
+   },
+   {
+    "x": 124,
+    "y": 8113,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 8181,
+    "w": 106,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 8260,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 8113,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 8181,
+    "w": 278,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 8260,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 8113,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 8181,
+    "w": 250,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 8260,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 8529,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 8577,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 8530,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 8560,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 772,
+    "y": 8628,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 8824,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 8879,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 8921,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 8963,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 9005,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 9047,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 8824,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 8879,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 8921,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 8963,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 9005,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 9047,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 9089,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 8824,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 8879,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 8921,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 8963,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 8824,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 8879,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 8921,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 8963,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 9005,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 9232,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 9232,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 9232,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 9232,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 9232,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 9232,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 9232,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 22,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 85,
+    "w": 360,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 848,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 535,
+    "w": 282,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 612,
+    "w": 953,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 636,
+    "w": 863,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 679,
+    "w": 118,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 719,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 719,
+    "w": 79,
+    "h": 20
+   },
+   {
+    "x": 224,
+    "y": 820,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 853,
+    "w": 328,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 887,
+    "w": 198,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 921,
+    "w": 684,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 955,
+    "w": 325,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 989,
+    "w": 412,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1099,
+    "w": 744,
+    "h": 51
+   },
+   {
+    "x": 200,
+    "y": 1173,
+    "w": 979,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1199,
+    "w": 985,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1225,
+    "w": 1023,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1251,
+    "w": 506,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1293,
+    "w": 977,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1319,
+    "w": 936,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1345,
+    "w": 654,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1387,
+    "w": 992,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2070,
+    "w": 1035,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2096,
+    "w": 999,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2122,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2178,
+    "w": 448,
+    "h": 51
+   },
+   {
+    "x": 200,
+    "y": 2252,
+    "w": 810,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 2949,
+    "w": 730,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3007,
+    "w": 948,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3033,
+    "w": 261,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3091,
+    "w": 961,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3117,
+    "w": 229,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3175,
+    "w": 566,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3233,
+    "w": 985,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3259,
+    "w": 521,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 3377,
+    "w": 741,
+    "h": 51
+   },
+   {
+    "x": 200,
+    "y": 3425,
+    "w": 802,
+    "h": 51
+   },
+   {
+    "x": 200,
+    "y": 3499,
+    "w": 1039,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3525,
+    "w": 595,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3581,
+    "w": 757,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 3643,
+    "w": 997,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3669,
+    "w": 1010,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3695,
+    "w": 1023,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3721,
+    "w": 214,
+    "h": 25
+   },
+   {
+    "x": 414,
+    "y": 3721,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3779,
+    "w": 290,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 3779,
+    "w": 285,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 4180,
+    "w": 323,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 4241,
+    "w": 861,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 4303,
+    "w": 1017,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4329,
+    "w": 854,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4371,
+    "w": 960,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4397,
+    "w": 960,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5187,
+    "w": 322,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 5248,
+    "w": 738,
+    "h": 51
+   },
+   {
+    "x": 200,
+    "y": 5322,
+    "w": 960,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5348,
+    "w": 1033,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5374,
+    "w": 946,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5400,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5442,
+    "w": 998,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5468,
+    "w": 1013,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5494,
+    "w": 952,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5536,
+    "w": 931,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5562,
+    "w": 1025,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5588,
+    "w": 988,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5614,
+    "w": 678,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5657,
+    "w": 260,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 5718,
+    "w": 932,
+    "h": 51
+   },
+   {
+    "x": 200,
+    "y": 5792,
+    "w": 1025,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5818,
+    "w": 897,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5860,
+    "w": 972,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5886,
+    "w": 972,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5912,
+    "w": 856,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6786,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 6871,
+    "w": 270,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 6933,
+    "w": 677,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 6961,
+    "w": 193,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 6997,
+    "w": 663,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 7023,
+    "w": 704,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 7049,
+    "w": 643,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 7108,
+    "w": 96,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 7265,
+    "w": 206,
+    "h": 35
+   },
+   {
+    "x": 124,
+    "y": 7563,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 7631,
+    "w": 308,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 7659,
+    "w": 75,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 7710,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 7563,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 7631,
+    "w": 156,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 7659,
+    "w": 263,
+    "h": 28
+   },
+   {
+    "x": 535,
+    "y": 7710,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 7563,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 7631,
+    "w": 258,
+    "h": 28
+   },
+   {
+    "x": 942,
+    "y": 7710,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 7883,
+    "w": 234,
+    "h": 35
+   },
+   {
+    "x": 124,
+    "y": 8181,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 8249,
+    "w": 106,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 8328,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 8181,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 8249,
+    "w": 278,
+    "h": 28
+   },
+   {
+    "x": 535,
+    "y": 8328,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 8181,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 8249,
+    "w": 250,
+    "h": 28
+   },
+   {
+    "x": 942,
+    "y": 8328,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 8597,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 8645,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 8598,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 8628,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 773,
+    "y": 8697,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 8894,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 8949,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 8991,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 9033,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 9075,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 9117,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 8894,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 8949,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 8991,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 9033,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 9075,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 9117,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 9159,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 8894,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 8949,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 8991,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 9033,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 8894,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 8949,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 8991,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 9033,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 9075,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 9302,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 9302,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 9302,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 9302,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 9302,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 9302,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 9302,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

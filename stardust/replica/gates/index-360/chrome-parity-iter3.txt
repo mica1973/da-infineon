@@ -1,0 +1,16 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://www.infineon.com/ (live side from cache stardust/replica/gates/index-360/chrome-live.json, probed 2026-11-18T04:23:33.248Z — delete the file to re-probe)
+  build: http://localhost:8791/index-proposed.html
+
+■ header: 7 delta(s) — 5 paired of 7/5 texts, 1/1 icons
+  PAIR         "Products"  Δx -126px (142→16); Δy -12px (50→38); Δh +24px (0→24)
+  PAIR         "Applications"  Δx -47px (131→84); Δy -20px (58→38); Δh +24px (0→24)
+  PAIR         "Design Resources"  Δx +61px (114→175); Δy -28px (66→38); Δh +24px (0→24)
+  PAIR         "Support & Training"  Δx +190px (109→299); Δy -36px (74→38); Δh +24px (0→24)
+  PAIR         "About"  Δx +280px (152→432); Δy -44px (82→38); Δh +24px (0→24)
+  MISSING      "English"  live <span> "English" has no build element with the same text
+  MISSING      "$ U. S. Dollar (USD)"  live <span> "$ U. S. Dollar (USD)" has no build element with the same text
+
+■ footer: ✓ parity — 28 paired of 28/28 texts, 2/2 icons
+
+✗ 7 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

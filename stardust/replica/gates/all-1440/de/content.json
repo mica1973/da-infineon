@@ -1,0 +1,8486 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:04:10.200Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de",
+  "at": "2026-11-18T23:03:49.115Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5658,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems0",
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems1",
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems2",
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems3",
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems4",
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 714,
+    "y": 16,
+    "w": 197,
+    "h": 36,
+    "label": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die suche zu aktivieren.",
+    "value": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die ",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "text": "navbardropdown"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "label": "navbardropdown",
+    "value": "navbardropdown",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-1",
+    "x": 1072,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.nav-item.desktopProfile > div.login-dropdown > button.login-button",
+    "x": 1132,
+    "y": 14,
+    "w": 248,
+    "h": 40,
+    "text": "anmeldung zu myinfineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.herobanner-content-wrapper.showing > div.herobanner-content > p.subheading.mb-0",
+    "x": 96,
+    "y": 164,
+    "w": 229,
+    "h": 24,
+    "text": "10. November 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.herobanner-content-wrapper.showing > div.herobanner-content > p.bannerHeading.mb-0",
+    "x": 96,
+    "y": 212,
+    "w": 612,
+    "h": 128,
+    "text": "Ergebnisse 4. Quartal und Geschäftsjahr 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.herobanner-content-wrapper.showing > div.herobanner-content > p.desc.mb-0",
+    "x": 96,
+    "y": 364,
+    "w": 612,
+    "h": 48,
+    "text": "Infineon präsentiert die Zahlen für das abgelaufene Geschäftsjahr und gibt einen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.herobanner-content > div.d-flex.gap > a.banner-link",
+    "x": 96,
+    "y": 436,
+    "w": 155,
+    "h": 26,
+    "text": "mehr informationen",
+    "href": "/de/press-release/2026/infpr202611-025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.herobanner-content > div.d-flex.gap > a.icon.icon-arrow-right",
+    "x": 259,
+    "y": 441,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "href": "/de/press-release/2026/infpr202611-025"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.imgContainer.showImg > picture.pic-container > img.currentTopic",
+    "x": 729,
+    "y": 67,
+    "w": 688,
+    "h": 492,
+    "text": "ergebnisse 4. quartal und geschäftsjahr 2026",
+    "file": "stage-banner-electronica-2024-768x432px-"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#button > div.btn-inner-wrapper.progress-cntroller > a#pauseCycle",
+    "x": 785,
+    "y": 590,
+    "w": 12,
+    "h": 24,
+    "text": "pause",
+    "href": "void(0);"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.btn-inner-wrapper.cntroller-btn > span.cursoricon > a#prevBtn",
+    "x": 1253,
+    "y": 583,
+    "w": 38,
+    "h": 38,
+    "text": "button previous",
+    "href": "void(0);"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.btn-inner-wrapper.cntroller-btn > span.cursoricon > a#nextBtn",
+    "x": 1307,
+    "y": 583,
+    "w": 38,
+    "h": 38,
+    "text": "button next",
+    "href": "void(0);"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.productcarousel > section.cmp-productcarousel.has-right-fade > h2.cmp-productcarousel__headline",
+    "x": 96,
+    "y": 749,
+    "w": 1248,
+    "h": 36,
+    "level": 2,
+    "text": "neue produkte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__image-wrapper > img.cmp-productcarousel__image",
+    "x": 112,
+    "y": 825,
+    "w": 343,
+    "h": 168,
+    "text": "f4-12mxtr23c2m1s8_h72",
+    "file": "lowres-coolsic-mosfet-easy-2c-.xt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__image-wrapper > span.cmp-productcarousel__badge.cmp-productcarousel__badge--new",
+    "x": 112,
+    "y": 825,
+    "w": 43,
+    "h": 23,
+    "text": "NEU"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > p.cmp-productcarousel__family",
+    "x": 112,
+    "y": 1025,
+    "w": 343,
+    "h": 20,
+    "text": "Silicon Carbide MOSFET modules"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > h3.cmp-productcarousel__title",
+    "x": 112,
+    "y": 1045,
+    "w": 343,
+    "h": 24,
+    "level": 3,
+    "text": "f4-12mxtr23c2m1s8_h72"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__body > h3.cmp-productcarousel__title > a",
+    "x": 112,
+    "y": 1046,
+    "w": 179,
+    "h": 22,
+    "text": "f4-12mxtr23c2m1s8_h72",
+    "href": "/part/F4-12MXTR23C2M1S8-H72"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > p.cmp-productcarousel__subheadline",
+    "x": 112,
+    "y": 1069,
+    "w": 343,
+    "h": 42,
+    "text": "CoolSiC™ MOSFET fourpack module 2300 V"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__body > div.cmp-productcarousel__links > a.cmp-productcarousel__link.cmp-productcarousel__link--product",
+    "x": 112,
+    "y": 1127,
+    "w": 100,
+    "h": 21,
+    "text": "produkt ansehen",
+    "href": "/part/F4-12MXTR23C2M1S8-H72"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__body > div.cmp-productcarousel__links > a.cmp-productcarousel__link.cmp-productcarousel__link--family",
+    "x": 228,
+    "y": 1127,
+    "w": 95,
+    "h": 21,
+    "text": "familie ansehen",
+    "href": "/products/power/mosfet/silicon-carbide/modules"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__image-wrapper > img.cmp-productcarousel__image",
+    "x": 511,
+    "y": 825,
+    "w": 216,
+    "h": 128,
+    "text": "f4-25mxtr33c2m1s8_h72",
+    "file": "lowres-coolsic-mosfet-easy-2c-.xt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__image-wrapper > span.cmp-productcarousel__badge.cmp-productcarousel__badge--new",
+    "x": 511,
+    "y": 825,
+    "w": 43,
+    "h": 23,
+    "text": "NEU"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > p.cmp-productcarousel__family",
+    "x": 511,
+    "y": 985,
+    "w": 216,
+    "h": 20,
+    "text": "Silicon Carbide MOSFET modules"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > h3.cmp-productcarousel__title",
+    "x": 511,
+    "y": 1005,
+    "w": 216,
+    "h": 24,
+    "level": 3,
+    "text": "f4-25mxtr33c2m1s8_h72"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__body > h3.cmp-productcarousel__title > a",
+    "x": 511,
+    "y": 1006,
+    "w": 179,
+    "h": 22,
+    "text": "f4-25mxtr33c2m1s8_h72",
+    "href": "/part/F4-25MXTR33C2M1S8-H72"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > p.cmp-productcarousel__subheadline",
+    "x": 511,
+    "y": 1029,
+    "w": 216,
+    "h": 42,
+    "text": "CoolSiC™ MOSFET fourpack module 3300 V"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__body > div.cmp-productcarousel__links > a.cmp-productcarousel__link.cmp-productcarousel__link--product",
+    "x": 511,
+    "y": 1087,
+    "w": 100,
+    "h": 21,
+    "text": "produkt ansehen",
+    "href": "/part/F4-25MXTR33C2M1S8-H72"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__body > div.cmp-productcarousel__links > a.cmp-productcarousel__link.cmp-productcarousel__link--family",
+    "x": 627,
+    "y": 1087,
+    "w": 95,
+    "h": 21,
+    "text": "familie ansehen",
+    "href": "/products/power/mosfet/silicon-carbide/modules"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__image-wrapper > img.cmp-productcarousel__image",
+    "x": 783,
+    "y": 825,
+    "w": 216,
+    "h": 128,
+    "text": "igc016k10s2",
+    "file": "infineon-igc016k10s2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__image-wrapper > span.cmp-productcarousel__badge.cmp-productcarousel__badge--new",
+    "x": 783,
+    "y": 825,
+    "w": 43,
+    "h": 23,
+    "text": "NEU"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > p.cmp-productcarousel__family",
+    "x": 783,
+    "y": 985,
+    "w": 216,
+    "h": 20,
+    "text": "Medium-voltage GaN transistors"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > h3.cmp-productcarousel__title",
+    "x": 783,
+    "y": 1005,
+    "w": 216,
+    "h": 24,
+    "level": 3,
+    "text": "igc016k10s2"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__body > h3.cmp-productcarousel__title > a",
+    "x": 783,
+    "y": 1006,
+    "w": 90,
+    "h": 22,
+    "text": "igc016k10s2",
+    "href": "/part/IGC016K10S2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > p.cmp-productcarousel__subheadline",
+    "x": 783,
+    "y": 1029,
+    "w": 216,
+    "h": 42,
+    "text": "CoolGaN™ Transistor 100 V G5 in PQFN 3x5, 1.3 mΩ | with integrated Schottky diod"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__body > div.cmp-productcarousel__links > a.cmp-productcarousel__link.cmp-productcarousel__link--product",
+    "x": 783,
+    "y": 1087,
+    "w": 100,
+    "h": 21,
+    "text": "produkt ansehen",
+    "href": "/part/IGC016K10S2"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__body > div.cmp-productcarousel__links > a.cmp-productcarousel__link.cmp-productcarousel__link--family",
+    "x": 899,
+    "y": 1087,
+    "w": 95,
+    "h": 21,
+    "text": "familie ansehen",
+    "href": "/products/power/gallium-nitride/gallium-nitride-transistor/medium-voltage-gan-transistors"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__image-wrapper > img.cmp-productcarousel__image",
+    "x": 1055,
+    "y": 825,
+    "w": 216,
+    "h": 128,
+    "text": "df300r07w2s5_b77",
+    "file": "df120r12w2h3-b27"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__image-wrapper > span.cmp-productcarousel__badge.cmp-productcarousel__badge--new",
+    "x": 1055,
+    "y": 825,
+    "w": 43,
+    "h": 23,
+    "text": "NEU"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > p.cmp-productcarousel__family",
+    "x": 1055,
+    "y": 985,
+    "w": 216,
+    "h": 20,
+    "text": "IGBT modules"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > h3.cmp-productcarousel__title",
+    "x": 1055,
+    "y": 1005,
+    "w": 216,
+    "h": 24,
+    "level": 3,
+    "text": "df300r07w2s5_b77"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__body > h3.cmp-productcarousel__title > a",
+    "x": 1055,
+    "y": 1006,
+    "w": 138,
+    "h": 22,
+    "text": "df300r07w2s5_b77",
+    "href": "/part/DF300R07W2S5-B77"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > p.cmp-productcarousel__subheadline",
+    "x": 1055,
+    "y": 1029,
+    "w": 216,
+    "h": 42,
+    "text": "650 V, 300 A booster IGBT module"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__body > div.cmp-productcarousel__links > a.cmp-productcarousel__link.cmp-productcarousel__link--product",
+    "x": 1055,
+    "y": 1087,
+    "w": 100,
+    "h": 21,
+    "text": "produkt ansehen",
+    "href": "/part/DF300R07W2S5-B77"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__body > div.cmp-productcarousel__links > a.cmp-productcarousel__link.cmp-productcarousel__link--family",
+    "x": 1171,
+    "y": 1087,
+    "w": 95,
+    "h": 21,
+    "text": "familie ansehen",
+    "href": "/products/power/igbt/igbt-modules"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__image-wrapper > img.cmp-productcarousel__image",
+    "x": 1327,
+    "y": 825,
+    "w": 216,
+    "h": 128,
+    "text": "irhnpc9a7110scv",
+    "file": "smd-0.1-solder-dipped-vb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__image-wrapper > span.cmp-productcarousel__badge.cmp-productcarousel__badge--new",
+    "x": 1327,
+    "y": 825,
+    "w": 43,
+    "h": 23,
+    "text": "NEU"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > p.cmp-productcarousel__family",
+    "x": 1327,
+    "y": 985,
+    "w": 216,
+    "h": 20,
+    "text": "N-channel rad hard power MOSFETs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > h3.cmp-productcarousel__title",
+    "x": 1327,
+    "y": 1005,
+    "w": 216,
+    "h": 24,
+    "level": 3,
+    "text": "irhnpc9a7110scv"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__body > h3.cmp-productcarousel__title > a",
+    "x": 1327,
+    "y": 1006,
+    "w": 128,
+    "h": 22,
+    "text": "irhnpc9a7110scv",
+    "href": "/part/IRHNPC9A7110SCV"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > p.cmp-productcarousel__subheadline",
+    "x": 1327,
+    "y": 1029,
+    "w": 216,
+    "h": 42,
+    "text": "Rad hard, 100 V, 9 A, R9 generation rad hard MOSFET in SMD-0.1 package – 100 kra"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__body > div.cmp-productcarousel__links > a.cmp-productcarousel__link.cmp-productcarousel__link--product",
+    "x": 1327,
+    "y": 1087,
+    "w": 100,
+    "h": 21,
+    "text": "produkt ansehen",
+    "href": "/part/IRHNPC9A7110SCV"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.productcarousel-container.cmp-productcarousel__container > div.cmp-productcarousel__button-wrapper > a.cmp-productcarousel__cta",
+    "x": 96,
+    "y": 1188,
+    "w": 210,
+    "h": 40,
+    "text": "alle produkte ansehen",
+    "href": "/content/ifx/en/search/product-finder.html"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__button-wrapper > div.cmp-productcarousel__nav-group > button.cmp-productcarousel__nav.cmp-productcarousel__nav--prev",
+    "x": 1328,
+    "y": 1188,
+    "w": 40,
+    "h": 40,
+    "text": "vorherige"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.cmp-productcarousel__button-wrapper > div.cmp-productcarousel__nav-group > button.cmp-productcarousel__nav.cmp-productcarousel__nav--next",
+    "x": 1380,
+    "y": 1188,
+    "w": 40,
+    "h": 40,
+    "text": "nächster"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#pzn-home-teaser-row-cards > h2.mainheading.dynamicAnchors",
+    "x": 100,
+    "y": 1356,
+    "w": 1320,
+    "h": 56,
+    "level": 2,
+    "text": "wir gestalten schlüsselmärkte mit fortschrittlichen halbleiterlösungen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > picture.img-container > span",
+    "x": 116,
+    "y": 1472,
+    "w": 75,
+    "h": 19,
+    "text": "Made with AI"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > picture.img-container > img.activeimg",
+    "x": 104,
+    "y": 1460,
+    "w": 414,
+    "h": 200,
+    "text": "energieinfrastruktur",
+    "file": "power-infrastructure-rz-5000px-label.jpg"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > div.card-body > p.card-title",
+    "x": 128,
+    "y": 1676,
+    "w": 366,
+    "h": 52,
+    "text": "Energieinfrastruktur"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > div.card-body > p.description",
+    "x": 128,
+    "y": 1744,
+    "w": 366,
+    "h": 72,
+    "text": "Mit unseren innovativen Halbleiterlösungen treiben wir das Zeitalter der Elektri"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 128,
+    "y": 1838,
+    "w": 235,
+    "h": 24,
+    "text": "alles über energieinfrastruktur",
+    "href": "/de/about/our-stories/power-infrastructure"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > picture.img-container > span",
+    "x": 566,
+    "y": 1472,
+    "w": 75,
+    "h": 19,
+    "text": "Made with AI"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > picture.img-container > img.activeimg",
+    "x": 554,
+    "y": 1460,
+    "w": 414,
+    "h": 200,
+    "text": "elektromobilität",
+    "file": "electromobility-rz-5000px-label.jpg:asse"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > div.card-body > p.card-title",
+    "x": 578,
+    "y": 1676,
+    "w": 366,
+    "h": 52,
+    "text": "Elektromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > div.card-body > p.description",
+    "x": 578,
+    "y": 1744,
+    "w": 366,
+    "h": 72,
+    "text": "Wir unterstützen den Wandel zur Elektromobilität mit Halbleiterinnovationen, die"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 578,
+    "y": 1838,
+    "w": 208,
+    "h": 24,
+    "text": "alles über elektromobilität",
+    "href": "/de/about/our-stories/electromobility"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > picture.img-container > span",
+    "x": 1017,
+    "y": 1472,
+    "w": 75,
+    "h": 19,
+    "text": "Made with AI"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > picture.img-container > img.activeimg",
+    "x": 1005,
+    "y": 1460,
+    "w": 414,
+    "h": 200,
+    "text": "robotics",
+    "file": "robotics-rz-5000px-label.jpg:asset-680-2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > div.card-body > p.card-title",
+    "x": 1029,
+    "y": 1676,
+    "w": 366,
+    "h": 52,
+    "text": "Robotics"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > div.card-body > p.description",
+    "x": 1029,
+    "y": 1744,
+    "w": 366,
+    "h": 72,
+    "text": "Wir statten Roboter mit Halbleiterlösungen aus, die es physischer KI ermöglichen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 1029,
+    "y": 1838,
+    "w": 155,
+    "h": 24,
+    "text": "alles über robotics",
+    "href": "/de/about/our-stories/robotics"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > picture.img-container > span",
+    "x": 116,
+    "y": 1922,
+    "w": 75,
+    "h": 19,
+    "text": "Made with AI"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > picture.img-container > img.activeimg",
+    "x": 104,
+    "y": 1910,
+    "w": 414,
+    "h": 200,
+    "text": "softwaredefinierte fahrzeuge (sdvs)",
+    "file": "software-defined-vehicles-rz-5000px-labe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > div.card-body > p.card-title",
+    "x": 128,
+    "y": 2126,
+    "w": 366,
+    "h": 52,
+    "text": "Softwaredefinierte Fahrzeuge (SDVs)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > div.card-body > p.description",
+    "x": 128,
+    "y": 2194,
+    "w": 366,
+    "h": 72,
+    "text": "Wir gestalten die Zukunft von SDVs mit Halbleiterinnovationen für High-Performan"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 128,
+    "y": 2288,
+    "w": 298,
+    "h": 24,
+    "text": "alles über softwaredefinierte fahrzeuge",
+    "href": "/de/about/our-stories/software-defined-vehicle"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > picture.img-container > span",
+    "x": 566,
+    "y": 1922,
+    "w": 75,
+    "h": 19,
+    "text": "Made with AI"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > picture.img-container > img.activeimg",
+    "x": 554,
+    "y": 1910,
+    "w": 414,
+    "h": 200,
+    "text": "edge ai",
+    "file": "edge-ai-rz-5000px-label.jpg:asset-680-2x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > div.card-body > p.card-title",
+    "x": 578,
+    "y": 2126,
+    "w": 366,
+    "h": 52,
+    "text": "Edge AI"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > div.card-body > p.description",
+    "x": 578,
+    "y": 2194,
+    "w": 366,
+    "h": 72,
+    "text": "Wir treiben intelligente Innovation am Edge voran. Entdecken Sie, wie unsere Edg"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 578,
+    "y": 2288,
+    "w": 145,
+    "h": 24,
+    "text": "alles über edge ai",
+    "href": "/de/our-stories/enable-provide-ai-customer-innovation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > picture.img-container > span",
+    "x": 1017,
+    "y": 1922,
+    "w": 75,
+    "h": 19,
+    "text": "Made with AI"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > picture.img-container > img.activeimg",
+    "x": 1005,
+    "y": 1910,
+    "w": 414,
+    "h": 200,
+    "text": "powering ai",
+    "file": "powering-ai-rz-5000px-label.jpg:asset-68"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > div.card-body > p.card-title",
+    "x": 1029,
+    "y": 2126,
+    "w": 366,
+    "h": 52,
+    "text": "Powering AI"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row-cards-type.image-item-large > div.card-body > p.description",
+    "x": 1029,
+    "y": 2194,
+    "w": 366,
+    "h": 72,
+    "text": "Wir versorgen KI mit Strom - vom Stromnetz bis zum Prozessor. Unsere hochmoderne"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 1029,
+    "y": 2288,
+    "w": 177,
+    "h": 24,
+    "text": "alles über powering ai",
+    "href": "/de/our-stories/we-power-ai"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-fluid.carousel-section-wrapper > div.d-flex > div.sub-heading",
+    "x": 160,
+    "y": 2424,
+    "w": 408,
+    "h": 40,
+    "text": "Neueste Presseinformationen und Events"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.overall-img-white > div.ifx-fluid.carousel-section-wrapper > h2.heading",
+    "x": 96,
+    "y": 2464,
+    "w": 1248,
+    "h": 56,
+    "level": 2,
+    "text": "entdecken sie technologien, die die welt verändern"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.overall-img-white > div.ifx-fluid.carousel-section-wrapper > p.body-03.main-desc",
+    "x": 96,
+    "y": 2536,
+    "w": 1248,
+    "h": 26,
+    "text": "Wo immer sich die Welt verändert - Technologie spielt eine entscheidende Rolle. "
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.js-tab-buttons.tab-buttons > div.nav-link-function.d-flex > button.tabs.btn-styles",
+    "x": 96,
+    "y": 2610,
+    "w": 82,
+    "h": 40,
+    "text": "events"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.nav-link-function.d-flex > button.tabs.btn-styles > h3#marketingeventscarou-tab-0",
+    "x": 116,
+    "y": 2618,
+    "w": 46,
+    "h": 24,
+    "level": 3,
+    "text": "events"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.js-tab-buttons.tab-buttons > div.nav-link-function.d-flex > button.tabs.btn-styles",
+    "x": 101,
+    "y": 2650,
+    "w": 172,
+    "h": 42,
+    "text": "presseinformationen"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.nav-link-function.d-flex > button.tabs.btn-styles > h3#marketingeventscarou-tab-1",
+    "x": 117,
+    "y": 2658,
+    "w": 140,
+    "h": 26,
+    "level": 3,
+    "text": "presseinformationen"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.js-tab-buttons.tab-buttons > div.nav-link-function.d-flex > button.tabs.btn-styles",
+    "x": 101,
+    "y": 2692,
+    "w": 149,
+    "h": 42,
+    "text": "technology news"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.nav-link-function.d-flex > button.tabs.btn-styles > h3#marketingeventscarou-tab-2",
+    "x": 117,
+    "y": 2700,
+    "w": 117,
+    "h": 26,
+    "level": 3,
+    "text": "technology news"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.link > div > a.link",
+    "x": 120,
+    "y": 2782,
+    "w": 108,
+    "h": 26,
+    "text": "alle events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.link > div > a.link",
+    "x": 120,
+    "y": 2824,
+    "w": 152,
+    "h": 26,
+    "text": "presse übersicht",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-slide-all.swiper-wrapper > div.swiper-slide.swiper-slide-active > a.card",
+    "x": 446,
+    "y": 2610,
+    "w": 472,
+    "h": 400,
+    "text": "nov 18th, 2026 singapore fintech festival 2026 face-to-f... messen & konferenzen",
+    "href": "/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container > picture > img.image.image-crop",
+    "x": 446,
+    "y": 2610,
+    "w": 472,
+    "h": 200,
+    "text": "",
+    "file": "payment-with-sportswatch.jpg:asset-680-2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-block.body-04 > h5.Article-title",
+    "x": 470,
+    "y": 2846,
+    "w": 424,
+    "h": 28,
+    "level": 5,
+    "text": "singapore fintech festival 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-slide-all.swiper-wrapper > div.swiper-slide.swiper-slide-next > a.card",
+    "x": 954,
+    "y": 2610,
+    "w": 301,
+    "h": 314,
+    "text": "nov 23rd, 2026 master automotive battery management online webinare live",
+    "href": "/content/ifx/en/event/webinar/2026/master-automotive-battery-management-designs.html"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container > picture > img.image.image-crop",
+    "x": 954,
+    "y": 2610,
+    "w": 301,
+    "h": 130,
+    "text": "",
+    "file": "lowres-gettyimages.png:asset-680-2x1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-block.body-04 > h5.Article-title",
+    "x": 978,
+    "y": 2776,
+    "w": 253,
+    "h": 56,
+    "level": 5,
+    "text": "master automotive battery management"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-slide-all.swiper-wrapper > div.swiper-slide > a.card",
+    "x": 1291,
+    "y": 2610,
+    "w": 301,
+    "h": 314,
+    "text": "the future of power distribution online webinare",
+    "href": "/content/ifx/en/event/webinar/2026/future-of-power-distribution-why-sscbs-matter.html"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container > picture > img.image.image-crop",
+    "x": 1291,
+    "y": 2610,
+    "w": 301,
+    "h": 130,
+    "text": "",
+    "file": "coolsic-jfet-visual-industrial.png:asset"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-block.body-04 > h5.Article-title",
+    "x": 1315,
+    "y": 2756,
+    "w": 253,
+    "h": 56,
+    "level": 5,
+    "text": "the future of power distribution"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul.nav.nav-pills > li.nav-item > div.nav-link.active",
+    "x": 96,
+    "y": 3218,
+    "w": 312,
+    "h": 142,
+    "label": "tab selected",
+    "value": "produkte und applikationen infineon entwirft, entwickelt, fe",
+    "via": "aria-selected"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "li.nav-item > div.nav-link.active > h3.tabheading.d-flex",
+    "x": 112,
+    "y": 3268,
+    "w": 280,
+    "h": 28,
+    "level": 3,
+    "text": "produkte und applikationen"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "li.nav-item > div.nav-link.selected-icon > h3.tabheading.d-flex",
+    "x": 112,
+    "y": 3450,
+    "w": 280,
+    "h": 28,
+    "level": 3,
+    "text": "developer support"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "li.nav-item > div.nav-link.selected-icon > h3.tabheading.d-flex",
+    "x": 112,
+    "y": 3632,
+    "w": 280,
+    "h": 28,
+    "level": 3,
+    "text": "weltweit führende lösung"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.iconcollection-component.add-gaps > div.iconcollection-container.full-width > h2.iconcollection-heading",
+    "x": 456,
+    "y": 3218,
+    "w": 888,
+    "h": 64,
+    "level": 2,
+    "text": "produkte und applikationen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.iconcollection-component.add-gaps > div.iconcollection-container.full-width > p",
+    "x": 456,
+    "y": 3290,
+    "w": 832,
+    "h": 88,
+    "text": "Erstklassige Produkte und unzählige Möglichkeiten, sie zu nutzen. Erfahren Sie m"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.iconcollection-row > div.column.colorized > a.d-flex.justify-content-center",
+    "x": 456,
+    "y": 3394,
+    "w": 296,
+    "h": 86,
+    "text": "automobilbranche",
+    "href": "/applications/automotive"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.iconcollection-row > div.column.colorized > a.d-flex.justify-content-center",
+    "x": 752,
+    "y": 3394,
+    "w": 296,
+    "h": 86,
+    "text": "industrial",
+    "href": "/applications/industrial"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.iconcollection-row > div.column.colorized > a.d-flex.justify-content-center",
+    "x": 1048,
+    "y": 3394,
+    "w": 296,
+    "h": 86,
+    "text": "ict",
+    "href": "/applications/ai-data-center"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.iconcollection-row > div.column.colorized > a.d-flex.justify-content-center",
+    "x": 456,
+    "y": 3520,
+    "w": 296,
+    "h": 86,
+    "text": "sicherheit",
+    "href": "/applications/security-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.iconcollection-row > div.column.colorized > a.d-flex.justify-content-center",
+    "x": 752,
+    "y": 3520,
+    "w": 296,
+    "h": 86,
+    "text": "consumer",
+    "href": "/applications/consumer-electronics"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.iconcollection-row > div.column.colorized > a.d-flex.justify-content-center",
+    "x": 1048,
+    "y": 3520,
+    "w": 296,
+    "h": 86,
+    "text": "lösungen",
+    "href": "/applications/solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.iconcollection-component.add-gaps > div.iconcollection-container.full-width > a.text-decoration-none",
+    "x": 456,
+    "y": 3686,
+    "w": 888,
+    "h": 40,
+    "text": "solution designer starten",
+    "href": "/application/en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.iconcollection-container.full-width > a.text-decoration-none > button#viewProductsButtonID",
+    "x": 456,
+    "y": 3686,
+    "w": 206,
+    "h": 40,
+    "text": "solution designer starten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.article-container > div.container-title-left > div.container-preheading",
+    "x": 96,
+    "y": 3886,
+    "w": 121,
+    "h": 24,
+    "text": "Our stories"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.article-container > div.container-title-left > h2.container-heading",
+    "x": 96,
+    "y": 3926,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "tauchen sie ein in unsere welt der energie, mobilität und iot"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.article-container > div.container-title-left > div.container-description",
+    "x": 96,
+    "y": 3998,
+    "w": 892,
+    "h": 52,
+    "text": "Sie werden erfahren, wie unsere Halbleiterlösungen Mobilität sauber, sicher und "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card.column > div.card-body > p.card-title",
+    "x": 124,
+    "y": 4282,
+    "w": 343,
+    "h": 56,
+    "text": "Künstliche Intelligenz in den Alltag bringen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.card-description-and-filter > p.card-description",
+    "x": 124,
+    "y": 4354,
+    "w": 343,
+    "h": 78,
+    "text": "Bei Smart Living geht es darum, künstliche Intelligenz weiter in den Alltag der "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 124,
+    "y": 4448,
+    "w": 91,
+    "h": 30,
+    "text": "Smart Living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-type",
+    "x": 124,
+    "y": 4492,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-publish-date",
+    "x": 176,
+    "y": 4492,
+    "w": 98,
+    "h": 20,
+    "text": "Nov 12th, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card.column > div.card-body > p.card-title",
+    "x": 551,
+    "y": 4282,
+    "w": 343,
+    "h": 56,
+    "text": "AURIX™ RC1: Echtzeit-Computing und -Steuerung neu definiert"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.card-description-and-filter > p.card-description",
+    "x": 551,
+    "y": 4354,
+    "w": 343,
+    "h": 78,
+    "text": "Wir definieren Echtzeit-Computing und -Steuerung für SDV-, SDX- und Physical-AI-"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 551,
+    "y": 4448,
+    "w": 125,
+    "h": 30,
+    "text": "Softwaredefinier..."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-type",
+    "x": 551,
+    "y": 4492,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-publish-date",
+    "x": 602,
+    "y": 4492,
+    "w": 92,
+    "h": 20,
+    "text": "Nov 3rd, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card.column > div.card-body > p.card-title",
+    "x": 977,
+    "y": 4282,
+    "w": 343,
+    "h": 56,
+    "text": "Wir versorgen KI mit Strom: vom Stromnetz bis zum Prozessor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.card-description-and-filter > p.card-description",
+    "x": 977,
+    "y": 4354,
+    "w": 343,
+    "h": 78,
+    "text": "Wir versorgen KI mit Strom und schaffen die Voraussetzungen für energieeffizient"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 977,
+    "y": 4448,
+    "w": 134,
+    "h": 30,
+    "text": "KI Stromversorgung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-type",
+    "x": 977,
+    "y": 4492,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-publish-date",
+    "x": 1029,
+    "y": 4492,
+    "w": 95,
+    "h": 20,
+    "text": "Oct 29th, 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx_articles_card > div.show-more-button > a#showmorearticlebutton",
+    "x": 649,
+    "y": 4632,
+    "w": 142,
+    "h": 40,
+    "text": "mehr entdecken",
+    "href": "/content/ifx/de/about/our-stories.html"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.wrapper.ifx-fixed > div.container > h2.mainhead",
+    "x": 96,
+    "y": 4832,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "sind sie bereit loszulegen?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row.butn-right > div.blk-right.col-sm-12 > h5.head",
+    "x": 346,
+    "y": 4928,
+    "w": 310,
+    "h": 40,
+    "level": 5,
+    "text": "wissen sie, was sie herstellen?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row.butn-right > div.blk-right.col-sm-12 > a.headlinedeco.btn-default",
+    "x": 346,
+    "y": 4976,
+    "w": 310,
+    "h": 48,
+    "text": "solution designer starten",
+    "href": "/application/en"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row.butn-right > div.vl.blk-left > h5.head",
+    "x": 785,
+    "y": 4928,
+    "w": 371,
+    "h": 40,
+    "level": 5,
+    "text": "möchten sie unserem team beitreten?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.row.butn-right > div.vl.blk-left > a.headlinedeco.btn-default",
+    "x": 785,
+    "y": 4976,
+    "w": 371,
+    "h": 48,
+    "text": "karriere erkunden",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 96,
+    "y": 5184,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 367,
+    "y": 5184,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 5240,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 5282,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 5324,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 5366,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 5408,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 619,
+    "y": 5184,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5240,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5282,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5324,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5366,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5408,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5450,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 926,
+    "y": 5184,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 5240,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 5282,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 5324,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 1193,
+    "y": 5184,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 5240,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 5282,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 5324,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 5366,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 96,
+    "y": 5588,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 272,
+    "y": 5588,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 380,
+    "y": 5588,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 647,
+    "y": 5593,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 1168,
+    "y": 5592,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 1208,
+    "y": 5592,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 1248,
+    "y": 5592,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 1288,
+    "y": 5589,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 1288,
+    "y": 5593,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 1328,
+    "y": 5592,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > div.sc-fFCZOx.jRYtdz > button#da-icon",
+    "x": 1293,
+    "y": 784,
+    "w": 137,
+    "h": 62,
+    "text": "ask ai"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > div.sc-fFCZOx.jRYtdz > button#da-icon",
+    "x": 1293,
+    "y": 784,
+    "w": 137,
+    "h": 62,
+    "label": "trigger",
+    "value": "ask ai",
+    "via": "trigger"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 3,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 8,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 6,
+    "offPage": 58,
+    "textNodes": 197,
+    "controls": 104,
+    "total": 3
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLIPPED",
+     "advisory": false,
+     "n": 2,
+     "clipper": "p.cmp-productcarousel__subheadline",
+     "path": "div.swiper-slide > article.cmp-productcarousel__card > div.cmp-productcarousel__body > p.cmp-productcarousel__subheadline",
+     "text": "coolgan™ transistor 100 v g5 in pqfn 3x5, 1.3 mω | with inte",
+     "cutMin": 18,
+     "cutMax": 18
+    },
+    {
+     "kind": "TEXT CLIPPED",
+     "advisory": false,
+     "n": 1,
+     "clipper": "p.bannerHeading.mb-0",
+     "path": "div.banner-left-side > div.herobanner-content-wrapper.showing > div.herobanner-content > p.bannerHeading.mb-0",
+     "text": "ergebnisse 4. quartal und geschäftsjahr 2026",
+     "cutMin": 8,
+     "cutMax": 8
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 5,
+     "clipper": "p.description",
+     "path": "div.image-container.teaserCard > div.row-cards-type.image-item-large > div.card-body > p.description",
+     "text": "mit unseren innovativen halbleiterlösungen treiben wir das z",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 3,
+     "clipper": "p.card-description",
+     "path": "div.card.column > div.card-body > div.card-description-and-filter > p.card-description",
+     "text": "bei smart living geht es darum, künstliche intelligenz weite",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p.cmp-productcarousel__family",
+     "path": "div.swiper-slide > article.cmp-productcarousel__card > div.cmp-productcarousel__body > p.cmp-productcarousel__family",
+     "text": "n-channel rad hard power mosfets",
+     "cutMin": 96,
+     "cutMax": 96
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "article.cmp-productcarousel__card",
+     "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > h3.cmp-productcarousel__title > a",
+     "text": "irhnpc9a7110scv",
+     "cutMin": 15,
+     "cutMax": 15
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "article.cmp-productcarousel__card",
+     "path": "article.cmp-productcarousel__card > div.cmp-productcarousel__body > h3.cmp-productcarousel__title > a",
+     "text": "irhnpc9a7110scv",
+     "cutMin": 15,
+     "cutMax": 15
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.marketingeventscarousel.add-gaps",
+     "path": "div.swiper.marketingEvent > div.swiper-slide-all.swiper-wrapper > div.swiper-slide > a.card",
+     "text": "the future of power distributiononlinewebinareon demandwebin",
+     "cutMin": 152,
+     "cutMax": 152
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "h5.Article-title",
+     "path": "a.card > div.card-body > div.article-block.body-04 > h5.Article-title",
+     "text": "the future of power distribution",
+     "cutMin": 44,
+     "cutMax": 44
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "li.meta-style",
+     "path": "div.Event-wrapper > div.article-block.location-block > ul > li.meta-style",
+     "text": "webinare",
+     "cutMin": 10,
+     "cutMax": 10
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de",
+  "at": "2026-11-18T23:04:10.077Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5658,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 166,
+    "y": 21,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/products"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 243,
+    "y": 21,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/applications"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 353,
+    "y": 21,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/design-resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 487,
+    "y": 21,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 629,
+    "y": 21,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/about"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "sprache"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "sprache",
+    "value": "sprache",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-login > p > a",
+    "x": 1132,
+    "y": 13,
+    "w": 207,
+    "h": 40,
+    "text": "anmeldung zu myinfineon",
+    "href": "/de/login.login.de.json"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-content > div.hero-eyebrow > p",
+    "x": 160,
+    "y": 164,
+    "w": 165,
+    "h": 24,
+    "text": "10. November 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-content > div.hero-title > p",
+    "x": 96,
+    "y": 212,
+    "w": 612,
+    "h": 128,
+    "text": "Ergebnisse 4. Quartal und Geschäftsjahr 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-content > div.hero-desc > p",
+    "x": 96,
+    "y": 364,
+    "w": 612,
+    "h": 48,
+    "text": "Infineon präsentiert die Zahlen für das abgelaufene Geschäftsjahr und gibt einen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-cta > p > a",
+    "x": 96,
+    "y": 436,
+    "w": 155,
+    "h": 26,
+    "text": "mehr informationen",
+    "href": "/de/press-release/2026/infpr202611-025"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.hero-img.show-img > picture > img",
+    "x": 730,
+    "y": 67,
+    "w": 688,
+    "h": 492,
+    "text": "ergebnisse 4. quartal und geschäftsjahr 2026",
+    "file": "media_103dbc2ae8fe514157fddde18945ea8b1b"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-ctrl > div.hero-progress > button.hero-pause",
+    "x": 785,
+    "y": 590,
+    "w": 12,
+    "h": 24,
+    "text": "pause"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-ctrl > div.hero-nav.hero-nav-desktop > button.hero-prev.icon-brand-500",
+    "x": 1253,
+    "y": 583,
+    "w": 38,
+    "h": 38,
+    "text": "button previous"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-ctrl > div.hero-nav.hero-nav-desktop > button.hero-next",
+    "x": 1307,
+    "y": 583,
+    "w": 38,
+    "h": 38,
+    "text": "button next"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-inner.ifx-fixed > div.np-title > h2#neue-produkte",
+    "x": 96,
+    "y": 749,
+    "w": 1248,
+    "h": 36,
+    "level": 2,
+    "text": "neue produkte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-media > picture > img",
+    "x": 112,
+    "y": 825,
+    "w": 343,
+    "h": 168,
+    "text": "igc016k10s2",
+    "file": "media_10737d97c288768674b74ad50a33ab90b9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-media > div.np-card-badge > p",
+    "x": 112,
+    "y": 825,
+    "w": 43,
+    "h": 23,
+    "text": "NEU"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-body > div.np-card-family > p",
+    "x": 112,
+    "y": 1025,
+    "w": 343,
+    "h": 20,
+    "text": "Medium-voltage GaN transistors"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-body > div.np-card-title > h3#igc016k10s2",
+    "x": 112,
+    "y": 1045,
+    "w": 343,
+    "h": 24,
+    "level": 3,
+    "text": "igc016k10s2"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-title > h3#igc016k10s2 > a",
+    "x": 112,
+    "y": 1046,
+    "w": 90,
+    "h": 22,
+    "text": "igc016k10s2",
+    "href": "/part/IGC016K10S2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-body > div.np-card-sub > p",
+    "x": 112,
+    "y": 1069,
+    "w": 343,
+    "h": 40,
+    "text": "CoolGaN™ Transistor 100 V G5 in PQFN 3x5, 1.3 mΩ | with integrated Schottky diod"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-links > p > a",
+    "x": 112,
+    "y": 1130,
+    "w": 100,
+    "h": 20,
+    "text": "produkt ansehen",
+    "href": "/part/IGC016K10S2"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-links > p > a",
+    "x": 228,
+    "y": 1130,
+    "w": 95,
+    "h": 20,
+    "text": "familie ansehen",
+    "href": "/products/power/gallium-nitride/gallium-nitride-transistor/medium-voltage-gan-transistors"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-media > picture > img",
+    "x": 511,
+    "y": 825,
+    "w": 216,
+    "h": 128,
+    "text": "df300r07w2s5_b77",
+    "file": "media_1e8664dc21cc6b6b24605cddb3795cefa8"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-media > div.np-card-badge > p",
+    "x": 511,
+    "y": 825,
+    "w": 43,
+    "h": 23,
+    "text": "NEU"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-body > div.np-card-family > p",
+    "x": 511,
+    "y": 985,
+    "w": 216,
+    "h": 20,
+    "text": "IGBT modules"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-body > div.np-card-title > h3#df300r07w2s5_b77",
+    "x": 511,
+    "y": 1005,
+    "w": 216,
+    "h": 24,
+    "level": 3,
+    "text": "df300r07w2s5_b77"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-title > h3#df300r07w2s5_b77 > a",
+    "x": 511,
+    "y": 1006,
+    "w": 138,
+    "h": 22,
+    "text": "df300r07w2s5_b77",
+    "href": "/part/DF300R07W2S5-B77"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-body > div.np-card-sub > p",
+    "x": 511,
+    "y": 1029,
+    "w": 216,
+    "h": 40,
+    "text": "650 V, 300 A booster IGBT module"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-links > p > a",
+    "x": 511,
+    "y": 1090,
+    "w": 100,
+    "h": 20,
+    "text": "produkt ansehen",
+    "href": "/part/DF300R07W2S5-B77"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-links > p > a",
+    "x": 627,
+    "y": 1090,
+    "w": 95,
+    "h": 20,
+    "text": "familie ansehen",
+    "href": "/products/power/igbt/igbt-modules"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-media > picture > img",
+    "x": 783,
+    "y": 825,
+    "w": 216,
+    "h": 128,
+    "text": "irhnpc9a7110scv",
+    "file": "media_143151a1f8e2d27f20ebae18af0aa7bfe9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-media > div.np-card-badge > p",
+    "x": 783,
+    "y": 825,
+    "w": 43,
+    "h": 23,
+    "text": "NEU"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-body > div.np-card-family > p",
+    "x": 783,
+    "y": 985,
+    "w": 216,
+    "h": 20,
+    "text": "N-channel rad hard power MOSFETs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-body > div.np-card-title > h3#irhnpc9a7110scv",
+    "x": 783,
+    "y": 1005,
+    "w": 216,
+    "h": 24,
+    "level": 3,
+    "text": "irhnpc9a7110scv"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-title > h3#irhnpc9a7110scv > a",
+    "x": 783,
+    "y": 1006,
+    "w": 128,
+    "h": 22,
+    "text": "irhnpc9a7110scv",
+    "href": "/part/IRHNPC9A7110SCV"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-body > div.np-card-sub > p",
+    "x": 783,
+    "y": 1029,
+    "w": 216,
+    "h": 40,
+    "text": "Rad hard, 100 V, 9 A, R9 generation rad hard MOSFET in SMD-0.1 package – 100 kra"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-links > p > a",
+    "x": 783,
+    "y": 1090,
+    "w": 100,
+    "h": 20,
+    "text": "produkt ansehen",
+    "href": "/part/IRHNPC9A7110SCV"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-links > p > a",
+    "x": 899,
+    "y": 1090,
+    "w": 95,
+    "h": 20,
+    "text": "familie ansehen",
+    "href": "/products/high-reliability/space/power/rad-hard-mosfets/n-channel-power-mosfets"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-media > picture > img",
+    "x": 1055,
+    "y": 825,
+    "w": 216,
+    "h": 128,
+    "text": "bxy44-10(es)",
+    "file": "media_156e947577b47e9eaaafb5c39727ce4cdb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-media > div.np-card-badge > p",
+    "x": 1055,
+    "y": 825,
+    "w": 43,
+    "h": 23,
+    "text": "NEU"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-body > div.np-card-title > h3#bxy44-10es",
+    "x": 1055,
+    "y": 1005,
+    "w": 216,
+    "h": 24,
+    "level": 3,
+    "text": "bxy44-10(es)"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-title > h3#bxy44-10es > a",
+    "x": 1055,
+    "y": 1006,
+    "w": 90,
+    "h": 22,
+    "text": "bxy44-10(es)",
+    "href": "/part/BXY44-10-ES"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-body > div.np-card-sub > p",
+    "x": 1055,
+    "y": 1029,
+    "w": 216,
+    "h": 40,
+    "text": "200V current controlled RF resistor for RF attenuators and switches"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-links > p > a",
+    "x": 1055,
+    "y": 1090,
+    "w": 100,
+    "h": 20,
+    "text": "produkt ansehen",
+    "href": "/part/BXY44-10-ES"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-links > p > a",
+    "x": 1171,
+    "y": 1090,
+    "w": 95,
+    "h": 20,
+    "text": "familie ansehen",
+    "href": "/products/rf/high-reliability-discrete/hirel-silicon-diodes"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-media > picture > img",
+    "x": 1327,
+    "y": 825,
+    "w": 216,
+    "h": 128,
+    "text": "bxy42-03(es)",
+    "file": "media_156e947577b47e9eaaafb5c39727ce4cdb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-media > div.np-card-badge > p",
+    "x": 1327,
+    "y": 825,
+    "w": 43,
+    "h": 23,
+    "text": "NEU"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-body > div.np-card-title > h3#bxy42-03es",
+    "x": 1327,
+    "y": 1005,
+    "w": 216,
+    "h": 24,
+    "level": 3,
+    "text": "bxy42-03(es)"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-title > h3#bxy42-03es > a",
+    "x": 1327,
+    "y": 1006,
+    "w": 90,
+    "h": 22,
+    "text": "bxy42-03(es)",
+    "href": "/part/BXY42-03-ES"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-body > div.np-card-sub > p",
+    "x": 1327,
+    "y": 1029,
+    "w": 216,
+    "h": 40,
+    "text": "50V HiRel Silicon PIN Diode for high speed switching of RF signals"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-card-links > p > a",
+    "x": 1327,
+    "y": 1090,
+    "w": 100,
+    "h": 20,
+    "text": "produkt ansehen",
+    "href": "/part/BXY42-03-ES"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-cta > p > a",
+    "x": 96,
+    "y": 1188,
+    "w": 210,
+    "h": 40,
+    "text": "alle produkte ansehen",
+    "href": "/content/ifx/en/search/product-finder"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-foot > div.np-arrows > button.np-arrow.is-disabled",
+    "x": 1328,
+    "y": 1188,
+    "w": 40,
+    "h": 40,
+    "text": "previous"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.np-foot > div.np-arrows > button.np-arrow",
+    "x": 1380,
+    "y": 1188,
+    "w": 40,
+    "h": 40,
+    "text": "next"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.markets-wrap.ifx-shell > div.markets-title > h2#wir-gestalten-schlüsselmärkte-mit-fortschrittlichen-halbleiterlösungen",
+    "x": 100,
+    "y": 1356,
+    "w": 1320,
+    "h": 56,
+    "level": 2,
+    "text": "wir gestalten schlüsselmärkte mit fortschrittlichen halbleiterlösungen"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-media > picture > img",
+    "x": 104,
+    "y": 1460,
+    "w": 414,
+    "h": 200,
+    "text": "energieinfrastruktur",
+    "file": "media_155139da6d8f5996a24f31a524ed375e4e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-media > div.mk-card-ai > p",
+    "x": 116,
+    "y": 1472,
+    "w": 75,
+    "h": 19,
+    "text": "Made with AI"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-body > div.mk-card-title > p",
+    "x": 128,
+    "y": 1676,
+    "w": 366,
+    "h": 52,
+    "text": "Energieinfrastruktur"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-body > div.mk-card-desc > p",
+    "x": 128,
+    "y": 1744,
+    "w": 366,
+    "h": 72,
+    "text": "Mit unseren innovativen Halbleiterlösungen treiben wir das Zeitalter der Elektri"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-link > p > a",
+    "x": 128,
+    "y": 1838,
+    "w": 235,
+    "h": 24,
+    "text": "alles über energieinfrastruktur",
+    "href": "/de/about/our-stories/power-infrastructure"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-media > picture > img",
+    "x": 554,
+    "y": 1460,
+    "w": 414,
+    "h": 200,
+    "text": "elektromobilität",
+    "file": "media_13b83218e3d67afe6895f17c64f7c78589"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-media > div.mk-card-ai > p",
+    "x": 566,
+    "y": 1472,
+    "w": 75,
+    "h": 19,
+    "text": "Made with AI"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-body > div.mk-card-title > p",
+    "x": 578,
+    "y": 1676,
+    "w": 366,
+    "h": 52,
+    "text": "Elektromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-body > div.mk-card-desc > p",
+    "x": 578,
+    "y": 1744,
+    "w": 366,
+    "h": 72,
+    "text": "Wir unterstützen den Wandel zur Elektromobilität mit Halbleiterinnovationen, die"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-link > p > a",
+    "x": 578,
+    "y": 1838,
+    "w": 208,
+    "h": 24,
+    "text": "alles über elektromobilität",
+    "href": "/de/about/our-stories/electromobility"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-media > picture > img",
+    "x": 1005,
+    "y": 1460,
+    "w": 414,
+    "h": 200,
+    "text": "robotics",
+    "file": "media_147fc9ec21285b4a23fe2ffb050a546c70"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-media > div.mk-card-ai > p",
+    "x": 1017,
+    "y": 1472,
+    "w": 75,
+    "h": 19,
+    "text": "Made with AI"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-body > div.mk-card-title > p",
+    "x": 1029,
+    "y": 1676,
+    "w": 366,
+    "h": 52,
+    "text": "Robotics"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-body > div.mk-card-desc > p",
+    "x": 1029,
+    "y": 1744,
+    "w": 366,
+    "h": 72,
+    "text": "Wir statten Roboter mit Halbleiterlösungen aus, die es physischer KI ermöglichen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-link > p > a",
+    "x": 1029,
+    "y": 1838,
+    "w": 155,
+    "h": 24,
+    "text": "alles über robotics",
+    "href": "/de/about/our-stories/robotics"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-media > picture > img",
+    "x": 104,
+    "y": 1910,
+    "w": 414,
+    "h": 200,
+    "text": "softwaredefinierte fahrzeuge (sdvs)",
+    "file": "media_18c74bf9a26affeb739b1656f13f37dd5f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-media > div.mk-card-ai > p",
+    "x": 116,
+    "y": 1922,
+    "w": 75,
+    "h": 19,
+    "text": "Made with AI"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-body > div.mk-card-title > p",
+    "x": 128,
+    "y": 2126,
+    "w": 366,
+    "h": 52,
+    "text": "Softwaredefinierte Fahrzeuge (SDVs)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-body > div.mk-card-desc > p",
+    "x": 128,
+    "y": 2194,
+    "w": 366,
+    "h": 72,
+    "text": "Wir gestalten die Zukunft von SDVs mit Halbleiterinnovationen für High-Performan"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-link > p > a",
+    "x": 128,
+    "y": 2288,
+    "w": 298,
+    "h": 24,
+    "text": "alles über softwaredefinierte fahrzeuge",
+    "href": "/de/about/our-stories/software-defined-vehicle"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-media > picture > img",
+    "x": 554,
+    "y": 1910,
+    "w": 414,
+    "h": 200,
+    "text": "edge ai",
+    "file": "media_18159b7122e16ecbb6e111e32aad9c1e47"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-media > div.mk-card-ai > p",
+    "x": 566,
+    "y": 1922,
+    "w": 75,
+    "h": 19,
+    "text": "Made with AI"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-body > div.mk-card-title > p",
+    "x": 578,
+    "y": 2126,
+    "w": 366,
+    "h": 52,
+    "text": "Edge AI"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-body > div.mk-card-desc > p",
+    "x": 578,
+    "y": 2194,
+    "w": 366,
+    "h": 72,
+    "text": "Wir treiben intelligente Innovation am Edge voran. Entdecken Sie, wie unsere Edg"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-link > p > a",
+    "x": 578,
+    "y": 2288,
+    "w": 145,
+    "h": 24,
+    "text": "alles über edge ai",
+    "href": "/de/our-stories/enable-provide-ai-customer-innovation"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-media > picture > img",
+    "x": 1005,
+    "y": 1910,
+    "w": 414,
+    "h": 200,
+    "text": "powering ai",
+    "file": "media_14395519aaccbeab071b9a34caf3a3d51d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-media > div.mk-card-ai > p",
+    "x": 1017,
+    "y": 1922,
+    "w": 75,
+    "h": 19,
+    "text": "Made with AI"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-body > div.mk-card-title > p",
+    "x": 1029,
+    "y": 2126,
+    "w": 366,
+    "h": 52,
+    "text": "Powering AI"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-body > div.mk-card-desc > p",
+    "x": 1029,
+    "y": 2194,
+    "w": 366,
+    "h": 72,
+    "text": "Wir versorgen KI mit Strom - vom Stromnetz bis zum Prozessor. Unsere hochmoderne"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mk-card-link > p > a",
+    "x": 1029,
+    "y": 2288,
+    "w": 177,
+    "h": 24,
+    "text": "alles über powering ai",
+    "href": "/de/our-stories/we-power-ai"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-inner.ifx-fixed > div.ev-eyebrow > p",
+    "x": 160,
+    "y": 2424,
+    "w": 408,
+    "h": 24,
+    "text": "Neueste Presseinformationen und Events"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-inner.ifx-fixed > div.ev-title > h2#entdecken-sie-technologien-die-die-welt-verändern",
+    "x": 96,
+    "y": 2464,
+    "w": 1248,
+    "h": 56,
+    "level": 2,
+    "text": "entdecken sie technologien, die die welt verändern"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-inner.ifx-fixed > div.ev-lead > p",
+    "x": 96,
+    "y": 2536,
+    "w": 1248,
+    "h": 26,
+    "text": "Wo immer sich die Welt verändert - Technologie spielt eine entscheidende Rolle. "
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-nav > div.ev-tablist > div.ev-tab.is-active",
+    "x": 96,
+    "y": 2610,
+    "w": 346,
+    "h": 40,
+    "label": "tab selected",
+    "value": "events",
+    "via": "aria-selected"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-tablist > div.ev-tab.is-active > h3#events",
+    "x": 120,
+    "y": 2618,
+    "w": 46,
+    "h": 24,
+    "level": 3,
+    "text": "events"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-tablist > div.ev-tab > h3#presseinformationen",
+    "x": 120,
+    "y": 2659,
+    "w": 140,
+    "h": 24,
+    "level": 3,
+    "text": "presseinformationen"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-tablist > div.ev-tab > h3#technology-news",
+    "x": 120,
+    "y": 2701,
+    "w": 117,
+    "h": 24,
+    "level": 3,
+    "text": "technology news"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-track > div.ev-slide.is-active > a.ev-card",
+    "x": 446,
+    "y": 2610,
+    "w": 472,
+    "h": 400,
+    "text": "nov 18th, 2026 singapore fintech festival 2026 face-to-f... messen & konferenzen",
+    "href": "/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-card-media > picture > img",
+    "x": 446,
+    "y": 2610,
+    "w": 472,
+    "h": 200,
+    "text": "",
+    "file": "media_1df7d04494c0d632445619fa9de24f2898"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-card-head > div.ev-card-title > h5#singapore-fintech-festival-2026",
+    "x": 470,
+    "y": 2846,
+    "w": 424,
+    "h": 28,
+    "level": 5,
+    "text": "singapore fintech festival 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-track > div.ev-slide > a.ev-card",
+    "x": 954,
+    "y": 2610,
+    "w": 301,
+    "h": 314,
+    "text": "nov 19th, 2026 pol regulation for compute and telecom online live",
+    "href": "/content/ifx/en/event/webinar/2026/point-of-load-regulation-for-high-performance-compute-and-telecom"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-card-media > picture > img",
+    "x": 954,
+    "y": 2610,
+    "w": 301,
+    "h": 130,
+    "text": "",
+    "file": "media_1531d1df63fc566d772ecbdd60ead8ebeb"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-card-head > div.ev-card-title > h5#pol-regulation-for-compute-and-telecom",
+    "x": 978,
+    "y": 2776,
+    "w": 253,
+    "h": 56,
+    "level": 5,
+    "text": "pol regulation for compute and telecom"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-track > div.ev-slide > a.ev-card",
+    "x": 1291,
+    "y": 2610,
+    "w": 301,
+    "h": 314,
+    "text": "nov 23rd, 2026 master automotive battery management online webinare",
+    "href": "/content/ifx/en/event/webinar/2026/master-automotive-battery-management-designs"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-card-media > picture > img",
+    "x": 1291,
+    "y": 2610,
+    "w": 301,
+    "h": 130,
+    "text": "",
+    "file": "media_1a35c030df40aeb21d2a2083607352f104"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-card-head > div.ev-card-title > h5#master-automotive-battery-management",
+    "x": 1315,
+    "y": 2776,
+    "w": 253,
+    "h": 56,
+    "level": 5,
+    "text": "master automotive battery management"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-carousel > div.ev-arrows > button.ev-arrow.icon",
+    "x": 1218,
+    "y": 3018,
+    "w": 40,
+    "h": 40,
+    "text": "previous"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-carousel > div.ev-arrows > button.ev-arrow.icon",
+    "x": 1274,
+    "y": 3018,
+    "w": 40,
+    "h": 40,
+    "text": "next"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-links > p > a",
+    "x": 120,
+    "y": 2782,
+    "w": 106,
+    "h": 26,
+    "text": "alle events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ev-links > p > a",
+    "x": 120,
+    "y": 2824,
+    "w": 150,
+    "h": 26,
+    "text": "presse übersicht",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pa-items > div.pa-item.is-active > div.pa-tab",
+    "x": 96,
+    "y": 3218,
+    "w": 312,
+    "h": 134,
+    "label": "tab selected",
+    "value": "produkte und applikationen infineon entwirft, entwickelt, fe",
+    "via": "aria-selected"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pa-tab > div.pa-tab-title > h3#produkte-und-applikationen",
+    "x": 112,
+    "y": 3260,
+    "w": 236,
+    "h": 28,
+    "level": 3,
+    "text": "produkte und applikationen"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pa-pane.pa-pane-apps > div.pa-heading > h2#produkte-und-applikationen-1",
+    "x": 456,
+    "y": 3218,
+    "w": 888,
+    "h": 64,
+    "level": 2,
+    "text": "produkte und applikationen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pa-pane.pa-pane-apps > div.pa-lead > p",
+    "x": 456,
+    "y": 3290,
+    "w": 832,
+    "h": 24,
+    "text": "Erstklassige Produkte und unzählige Möglichkeiten, sie zu nutzen. Erfahren Sie m"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 456,
+    "y": 3394,
+    "w": 296,
+    "h": 86,
+    "text": "automobilbranche",
+    "href": "/applications/automotive"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > span.icon.icon-app-car > img",
+    "x": 580,
+    "y": 3394,
+    "w": 48,
+    "h": 48,
+    "text": "",
+    "file": "app-car"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 752,
+    "y": 3394,
+    "w": 296,
+    "h": 86,
+    "text": "industrial",
+    "href": "/applications/industrial"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > span.icon.icon-app-industrial > img",
+    "x": 876,
+    "y": 3394,
+    "w": 48,
+    "h": 48,
+    "text": "",
+    "file": "app-industrial"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 1048,
+    "y": 3394,
+    "w": 296,
+    "h": 86,
+    "text": "ict",
+    "href": "/applications/ai-data-center"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > span.icon.icon-app-ai-communication > img",
+    "x": 1172,
+    "y": 3394,
+    "w": 48,
+    "h": 48,
+    "text": "",
+    "file": "app-ai-communication"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 456,
+    "y": 3520,
+    "w": 296,
+    "h": 86,
+    "text": "sicherheit",
+    "href": "/applications/security-solutions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > span.icon.icon-app-security > img",
+    "x": 580,
+    "y": 3520,
+    "w": 48,
+    "h": 48,
+    "text": "",
+    "file": "app-security"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 752,
+    "y": 3520,
+    "w": 296,
+    "h": 86,
+    "text": "consumer",
+    "href": "/applications/consumer-electronics"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > span.icon.icon-app-consumer > img",
+    "x": 876,
+    "y": 3520,
+    "w": 48,
+    "h": 48,
+    "text": "",
+    "file": "app-consumer"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 1048,
+    "y": 3520,
+    "w": 296,
+    "h": 86,
+    "text": "lösungen",
+    "href": "/applications/solutions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > span.icon.icon-app-solutions > img",
+    "x": 1172,
+    "y": 3520,
+    "w": 48,
+    "h": 48,
+    "text": "",
+    "file": "app-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pa-cta > p > a",
+    "x": 456,
+    "y": 3686,
+    "w": 206,
+    "h": 40,
+    "text": "solution designer starten",
+    "href": "/application/en"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pa-tab > div.pa-tab-title > h3#developer-support",
+    "x": 112,
+    "y": 3434,
+    "w": 159,
+    "h": 28,
+    "level": 3,
+    "text": "developer support"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pa-tab > div.pa-tab-title > h3#weltweit-führende-lösung",
+    "x": 112,
+    "y": 3608,
+    "w": 220,
+    "h": 28,
+    "level": 3,
+    "text": "weltweit führende lösung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-inner.ifx-fixed > div.st-eyebrow > p",
+    "x": 101,
+    "y": 3886,
+    "w": 116,
+    "h": 24,
+    "text": "Our stories"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-inner.ifx-fixed > div.st-title > h2#tauchen-sie-ein-in-unsere-welt-der-energie-mobilität-und-iot",
+    "x": 96,
+    "y": 3926,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "tauchen sie ein in unsere welt der energie, mobilität und iot"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-inner.ifx-fixed > div.st-lead > p",
+    "x": 96,
+    "y": 3998,
+    "w": 892,
+    "h": 52,
+    "text": "Sie werden erfahren, wie unsere Halbleiterlösungen Mobilität sauber, sicher und "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-body > div.st-card-title > p",
+    "x": 124,
+    "y": 4282,
+    "w": 343,
+    "h": 56,
+    "text": "Künstliche Intelligenz in den Alltag bringen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-body > div.st-card-desc > p",
+    "x": 124,
+    "y": 4354,
+    "w": 343,
+    "h": 78,
+    "text": "Bei Smart Living geht es darum, künstliche Intelligenz weiter in den Alltag der "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-topics > ul > li",
+    "x": 124,
+    "y": 4448,
+    "w": 91,
+    "h": 30,
+    "text": "Smart Living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-meta > div.st-card-type > p",
+    "x": 124,
+    "y": 4492,
+    "w": 64,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-meta > div.st-card-date > p",
+    "x": 200,
+    "y": 4492,
+    "w": 98,
+    "h": 20,
+    "text": "Nov 12th, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-body > div.st-card-title > p",
+    "x": 551,
+    "y": 4282,
+    "w": 343,
+    "h": 56,
+    "text": "AURIX™ RC1: Echtzeit-Computing und -Steuerung neu definiert"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-body > div.st-card-desc > p",
+    "x": 551,
+    "y": 4354,
+    "w": 343,
+    "h": 78,
+    "text": "Wir definieren Echtzeit-Computing und -Steuerung für SDV-, SDX- und Physical-AI-"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-topics > ul > li",
+    "x": 551,
+    "y": 4448,
+    "w": 125,
+    "h": 30,
+    "text": "Softwaredefinier..."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-meta > div.st-card-type > p",
+    "x": 551,
+    "y": 4492,
+    "w": 64,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-meta > div.st-card-date > p",
+    "x": 626,
+    "y": 4492,
+    "w": 92,
+    "h": 20,
+    "text": "Nov 3rd, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-body > div.st-card-title > p",
+    "x": 977,
+    "y": 4282,
+    "w": 343,
+    "h": 56,
+    "text": "Wir versorgen KI mit Strom: vom Stromnetz bis zum Prozessor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-body > div.st-card-desc > p",
+    "x": 977,
+    "y": 4354,
+    "w": 343,
+    "h": 78,
+    "text": "Wir versorgen KI mit Strom und schaffen die Voraussetzungen für energieeffizient"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-topics > ul > li",
+    "x": 977,
+    "y": 4448,
+    "w": 134,
+    "h": 30,
+    "text": "KI Stromversorgung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-meta > div.st-card-type > p",
+    "x": 977,
+    "y": 4492,
+    "w": 64,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-card-meta > div.st-card-date > p",
+    "x": 1053,
+    "y": 4492,
+    "w": 95,
+    "h": 20,
+    "text": "Oct 29th, 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.st-more > p > a",
+    "x": 649,
+    "y": 4632,
+    "w": 142,
+    "h": 40,
+    "text": "mehr entdecken",
+    "href": "/content/ifx/de/about/our-stories"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.orc-inner.ifx-fixed > div.orc-title > h2#sind-sie-bereit-loszulegen",
+    "x": 96,
+    "y": 4832,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "sind sie bereit loszulegen?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.orc-col > div.orc-head > h5#wissen-sie-was-sie-herstellen",
+    "x": 346,
+    "y": 4928,
+    "w": 310,
+    "h": 24,
+    "level": 5,
+    "text": "wissen sie, was sie herstellen?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.orc-btn > p > a",
+    "x": 346,
+    "y": 4976,
+    "w": 310,
+    "h": 48,
+    "text": "solution designer starten",
+    "href": "/application/en"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.orc-col > div.orc-head > h5#möchten-sie-unserem-team-beitreten",
+    "x": 785,
+    "y": 4928,
+    "w": 371,
+    "h": 24,
+    "level": 5,
+    "text": "möchten sie unserem team beitreten?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.orc-btn > p > a",
+    "x": 785,
+    "y": 4976,
+    "w": 371,
+    "h": 48,
+    "text": "karriere erkunden",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 96,
+    "y": 5222,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 96,
+    "y": 5184,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 367,
+    "y": 5184,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 5240,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 5282,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 5324,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 5366,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 5408,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 619,
+    "y": 5184,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5240,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5282,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5324,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5366,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5408,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5450,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 926,
+    "y": 5184,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 5240,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 5282,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 5324,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 1193,
+    "y": 5184,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 5240,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 5282,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 5324,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 5366,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 5588,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 272,
+    "y": 5588,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 380,
+    "y": 5588,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 5588,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 647,
+    "y": 5593,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 5592,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1208,
+    "y": 5592,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1248,
+    "y": 5592,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1288,
+    "y": 5589,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 1288,
+    "y": 5589,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1328,
+    "y": 5592,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 9,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 42,
+    "textNodes": 195,
+    "controls": 106,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 9,
+     "clipper": "p",
+     "path": "article.np-card > div.np-card-body > div.np-card-sub > p",
+     "text": "rad hard, 100 v, 9 a, r9 generation rad hard mosfet in smd-0",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p",
+     "path": "article.np-card > div.np-card-body > div.np-card-sub > p",
+     "text": "50v hirel silicon pin diode for high speed switching of rf s",
+     "cutMin": 92,
+     "cutMax": 92
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "h5#master-automotive-battery-management",
+     "path": "div.ev-card-body > div.ev-card-head > div.ev-card-title > h5#master-automotive-battery-management",
+     "text": "master automotive battery management",
+     "cutMin": 99,
+     "cutMax": 99
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "a.ev-card",
+     "path": "div.ev-card-foot > div.ev-card-loc > ul > li",
+     "text": "webinare",
+     "cutMin": 10,
+     "cutMax": 10
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 1,
+     "path": "article.np-card > div.np-card-body > div.np-card-sub > p",
+     "text": "rad hard, 100 v, 9 a, r9 generation rad hard mosfet in smd-0",
+     "clipper": "p",
+     "rect": {
+      "l": 783,
+      "t": 1029,
+      "r": 983,
+      "b": 1049,
+      "w": 200,
+      "h": 20
+     },
+     "clip": {
+      "l": 783,
+      "t": 1029,
+      "r": 999,
+      "b": 1069,
+      "w": 216,
+      "h": 40
+     },
+     "lines": 3
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 92,
+     "path": "article.np-card > div.np-card-body > div.np-card-sub > p",
+     "text": "50v hirel silicon pin diode for high speed switching of rf s",
+     "clipper": "p",
+     "rect": {
+      "l": 1327,
+      "t": 1029,
+      "r": 1532,
+      "b": 1049,
+      "w": 205,
+      "h": 20
+     },
+     "clip": {
+      "l": 1327,
+      "t": 1029,
+      "r": 1543,
+      "b": 1069,
+      "w": 216,
+      "h": 40
+     },
+     "lines": 2
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 2,
+     "path": "div.mk-card > div.mk-card-body > div.mk-card-desc > p",
+     "text": "mit unseren innovativen halbleiterlösungen treiben wir das z",
+     "clipper": "p",
+     "rect": {
+      "l": 128,
+      "t": 1745,
+      "r": 494,
+      "b": 1767,
+      "w": 366,
+      "h": 22
+     },
+     "clip": {
+      "l": 128,
+      "t": 1744,
+      "r": 494,
+      "b": 1816,
+      "w": 366,
+      "h": 72
+     },
+     "lines": 5
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 1,
+     "path": "div.mk-card > div.mk-card-body > div.mk-card-desc > p",
+     "text": "wir unterstützen den wandel zur elektromobilität mit halblei",
+     "clipper": "p",
+     "rect": {
+      "l": 578,
+      "t": 1745,
+      "r": 933,
+      "b": 1767,
+      "w": 354,
+      "h": 22
+     },
+     "clip": {
+      "l": 578,
+      "t": 1744,
+      "r": 944,
+      "b": 1816,
+      "w": 366,
+      "h": 72
+     },
+     "lines": 4
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 2,
+     "path": "div.mk-card > div.mk-card-body > div.mk-card-desc > p",
+     "text": "wir statten roboter mit halbleiterlösungen aus, die es physi",
+     "clipper": "p",
+     "rect": {
+      "l": 1029,
+      "t": 1745,
+      "r": 1386,
+      "b": 1767,
+      "w": 357,
+      "h": 22
+     },
+     "clip": {
+      "l": 1029,
+      "t": 1744,
+      "r": 1395,
+      "b": 1816,
+      "w": 366,
+      "h": 72
+     },
+     "lines": 5
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 2,
+     "path": "div.mk-card > div.mk-card-body > div.mk-card-desc > p",
+     "text": "wir gestalten die zukunft von sdvs mit halbleiterinnovatione",
+     "clipper": "p",
+     "rect": {
+      "l": 128,
+      "t": 2195,
+      "r": 383,
+      "b": 2217,
+      "w": 255,
+      "h": 22
+     },
+     "clip": {
+      "l": 128,
+      "t": 2194,
+      "r": 494,
+      "b": 2266,
+      "w": 366,
+      "h": 72
+     },
+     "lines": 5
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 1,
+     "path": "div.mk-card > div.mk-card-body > div.mk-card-desc > p",
+     "text": "wir versorgen ki mit strom - vom stromnetz bis zum prozessor",
+     "clipper": "p",
+     "rect": {
+      "l": 1029,
+      "t": 2195,
+      "r": 1375,
+      "b": 2217,
+      "w": 346,
+      "h": 22
+     },
+     "clip": {
+      "l": 1029,
+      "t": 2194,
+      "r": 1395,
+      "b": 2266,
+      "w": 366,
+      "h": 72
+     },
+     "lines": 4
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 99,
+     "path": "div.ev-card-body > div.ev-card-head > div.ev-card-title > h5#master-automotive-battery-management",
+     "text": "master automotive battery management",
+     "clipper": "h5#master-automotive-battery-management",
+     "rect": {
+      "l": 1315,
+      "t": 2776,
+      "r": 1539,
+      "b": 2804,
+      "w": 224,
+      "h": 28
+     },
+     "clip": {
+      "l": 1315,
+      "t": 2776,
+      "r": 1568,
+      "b": 2832,
+      "w": 253,
+      "h": 56
+     },
+     "lines": 2
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 10,
+     "path": "div.ev-card-foot > div.ev-card-loc > ul > li",
+     "text": "webinare",
+     "clipper": "a.ev-card",
+     "rect": {
+      "l": 1395,
+      "t": 2880,
+      "r": 1450,
+      "b": 2900,
+      "w": 56,
+      "h": 20
+     },
+     "clip": {
+      "l": 1291,
+      "t": 2610,
+      "r": 1592,
+      "b": 2924,
+      "w": 301,
+      "h": 314
+     },
+     "lines": 1
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 8,
+     "path": "div.st-card > div.st-card-body > div.st-card-desc > p",
+     "text": "bei smart living geht es darum, künstliche intelligenz weite",
+     "clipper": "p",
+     "rect": {
+      "l": 124,
+      "t": 4356,
+      "r": 407,
+      "b": 4378,
+      "w": 283,
+      "h": 22
+     },
+     "clip": {
+      "l": 124,
+      "t": 4354,
+      "r": 467,
+      "b": 4432,
+      "w": 343,
+      "h": 78
+     },
+     "lines": 12
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 10,
+     "path": "div.st-card > div.st-card-body > div.st-card-desc > p",
+     "text": "wir definieren echtzeit-computing und -steuerung für sdv-, s",
+     "clipper": "p",
+     "rect": {
+      "l": 551,
+      "t": 4356,
+      "r": 887,
+      "b": 4378,
+      "w": 336,
+      "h": 22
+     },
+     "clip": {
+      "l": 551,
+      "t": 4354,
+      "r": 894,
+      "b": 4432,
+      "w": 343,
+      "h": 78
+     },
+     "lines": 13
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 6,
+     "path": "div.st-card > div.st-card-body > div.st-card-desc > p",
+     "text": "wir versorgen ki mit strom und schaffen die voraussetzungen ",
+     "clipper": "p",
+     "rect": {
+      "l": 977,
+      "t": 4356,
+      "r": 1269,
+      "b": 4378,
+      "w": 291,
+      "h": 22
+     },
+     "clip": {
+      "l": 977,
+      "t": 4354,
+      "r": 1320,
+      "b": 4432,
+      "w": 343,
+      "h": 78
+     },
+     "lines": 9
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 5,
+    "button": 0,
+    "text": 3,
+    "image": 1
+   },
+   "eds": {
+    "link": 37,
+    "linkHidden": 0,
+    "button": 7,
+    "buttonHidden": 0,
+    "text": 54,
+    "textHidden": 0,
+    "image": 21,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"neue produkte\" (y 749) has no origin heading",
+   "text": "neue produkte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"df300r07w2s5_b77\" (y 1005) has no origin heading",
+   "text": "df300r07w2s5_b77"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"irhnpc9a7110scv\" (y 1005) has no origin heading",
+   "text": "irhnpc9a7110scv"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"bxy44-10(es)\" (y 1005) has no origin heading",
+   "text": "bxy44-10(es)"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"bxy42-03(es)\" (y 1005) has no origin heading",
+   "text": "bxy42-03(es)"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"igc016k10s2\" (y 1045) has no origin heading",
+   "text": "igc016k10s2"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wir gestalten schlüsselmärkte mit fortschrittlichen halbleiterlösungen\" (y 1356) has no origin heading",
+   "text": "wir gestalten schlüsselmärkte mit fortschrittlichen halbleiterlösungen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"entdecken sie technologien, die die welt verändern\" (y 2464) has no origin heading",
+   "text": "entdecken sie technologien, die die welt verändern"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"events\" (y 2618) has no origin heading",
+   "text": "events"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"presseinformationen\" (y 2659) has no origin heading",
+   "text": "presseinformationen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"technology news\" (y 2701) has no origin heading",
+   "text": "technology news"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"produkte und applikationen\" (y 3218) has no origin heading",
+   "text": "produkte und applikationen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"produkte und applikationen\" (y 3260) has no origin heading",
+   "text": "produkte und applikationen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"developer support\" (y 3434) has no origin heading",
+   "text": "developer support"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"weltweit führende lösung\" (y 3608) has no origin heading",
+   "text": "weltweit führende lösung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"tauchen sie ein in unsere welt der energie, mobilität und iot\" (y 3926) has no origin heading",
+   "text": "tauchen sie ein in unsere welt der energie, mobilität und iot"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"sind sie bereit loszulegen?\" (y 4832) has no origin heading",
+   "text": "sind sie bereit loszulegen?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"igc016k10s2\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "igc016k10s2"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×5 \"produkt ansehen\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 5,
+   "text": "produkt ansehen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×4 \"familie ansehen\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 4,
+   "text": "familie ansehen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"df300r07w2s5_b77\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "df300r07w2s5_b77"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"irhnpc9a7110scv\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "irhnpc9a7110scv"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"bxy44-10(es)\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "bxy44-10(es)"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"bxy42-03(es)\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "bxy42-03(es)"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"alle produkte ansehen\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "alle produkte ansehen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"previous\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 2,
+   "text": "previous"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"next\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 2,
+   "text": "next"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"alles über energieinfrastruktur\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "alles über energieinfrastruktur"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"alles über elektromobilität\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "alles über elektromobilität"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"alles über robotics\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "alles über robotics"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"alles über softwaredefinierte fahrzeuge\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "alles über softwaredefinierte fahrzeuge"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"alles über edge ai\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "alles über edge ai"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"alles über powering ai\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "alles über powering ai"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"nov 18th, 2026 singapore fintech festival 2026 face-to-f... messen & konferenzen\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "nov 18th, 2026 singapore fintech festival 2026 face-to-f... messen & konferenzen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"nov 19th, 2026 pol regulation for compute and telecom online live\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "nov 19th, 2026 pol regulation for compute and telecom online live"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"nov 23rd, 2026 master automotive battery management online webinare\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "nov 23rd, 2026 master automotive battery management online webinare"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"alle events\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "alle events"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"presse übersicht\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "presse übersicht"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"automobilbranche\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "automobilbranche"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"industrial\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "industrial"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"ict\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "ict"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"sicherheit\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "sicherheit"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"consumer\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "consumer"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"lösungen\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "lösungen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"solution designer starten\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 2,
+   "text": "solution designer starten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr entdecken\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "mehr entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"karriere erkunden\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "karriere erkunden"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"(top)\": 3 origin → 54 served visible",
+   "band": 0,
+   "origin": 3,
+   "eds": 54,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"(top)\": 1 origin → 21 served visible",
+   "band": 0,
+   "origin": 1,
+   "eds": 21,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 17,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 40,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 49,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 166,
+    "y": 23,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 23,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 23,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 23,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 23,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 23,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 160,
+    "y": 166,
+    "w": 165,
+    "h": 20
+   },
+   {
+    "x": 96,
+    "y": 204,
+    "w": 601,
+    "h": 79
+   },
+   {
+    "x": 96,
+    "y": 268,
+    "w": 447,
+    "h": 79
+   },
+   {
+    "x": 96,
+    "y": 365,
+    "w": 593,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 389,
+    "w": 82,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 436,
+    "w": 155,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 747,
+    "w": 175,
+    "h": 40
+   },
+   {
+    "x": 121,
+    "y": 829,
+    "w": 25,
+    "h": 14
+   },
+   {
+    "x": 112,
+    "y": 1025,
+    "w": 193,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 1046,
+    "w": 179,
+    "h": 22
+   },
+   {
+    "x": 112,
+    "y": 1069,
+    "w": 250,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 1127,
+    "w": 100,
+    "h": 20
+   },
+   {
+    "x": 228,
+    "y": 1127,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 520,
+    "y": 829,
+    "w": 25,
+    "h": 14
+   },
+   {
+    "x": 511,
+    "y": 985,
+    "w": 193,
+    "h": 20
+   },
+   {
+    "x": 511,
+    "y": 1006,
+    "w": 179,
+    "h": 22
+   },
+   {
+    "x": 511,
+    "y": 1029,
+    "w": 209,
+    "h": 20
+   },
+   {
+    "x": 511,
+    "y": 1049,
+    "w": 38,
+    "h": 20
+   },
+   {
+    "x": 511,
+    "y": 1087,
+    "w": 100,
+    "h": 20
+   },
+   {
+    "x": 627,
+    "y": 1087,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 792,
+    "y": 829,
+    "w": 25,
+    "h": 14
+   },
+   {
+    "x": 783,
+    "y": 985,
+    "w": 187,
+    "h": 20
+   },
+   {
+    "x": 783,
+    "y": 1006,
+    "w": 90,
+    "h": 22
+   },
+   {
+    "x": 783,
+    "y": 1029,
+    "w": 187,
+    "h": 20
+   },
+   {
+    "x": 783,
+    "y": 1049,
+    "w": 202,
+    "h": 20
+   },
+   {
+    "x": 783,
+    "y": 1069,
+    "w": 88,
+    "h": 20
+   },
+   {
+    "x": 783,
+    "y": 1087,
+    "w": 100,
+    "h": 20
+   },
+   {
+    "x": 899,
+    "y": 1087,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 1064,
+    "y": 829,
+    "w": 25,
+    "h": 14
+   },
+   {
+    "x": 1055,
+    "y": 985,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 1055,
+    "y": 1006,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 1055,
+    "y": 1029,
+    "w": 194,
+    "h": 20
+   },
+   {
+    "x": 1055,
+    "y": 1087,
+    "w": 100,
+    "h": 20
+   },
+   {
+    "x": 1171,
+    "y": 1087,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 1336,
+    "y": 829,
+    "w": 25,
+    "h": 14
+   },
+   {
+    "x": 1327,
+    "y": 985,
+    "w": 209,
+    "h": 20
+   },
+   {
+    "x": 1327,
+    "y": 1006,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 1327,
+    "y": 1029,
+    "w": 200,
+    "h": 20
+   },
+   {
+    "x": 1327,
+    "y": 1049,
+    "w": 166,
+    "h": 20
+   },
+   {
+    "x": 1327,
+    "y": 1069,
+    "w": 192,
+    "h": 20
+   },
+   {
+    "x": 1327,
+    "y": 1087,
+    "w": 100,
+    "h": 20
+   },
+   {
+    "x": 136,
+    "y": 1197,
+    "w": 154,
+    "h": 22
+   },
+   {
+    "x": 100,
+    "y": 1352,
+    "w": 1297,
+    "h": 63
+   },
+   {
+    "x": 123,
+    "y": 1474,
+    "w": 61,
+    "h": 15
+   },
+   {
+    "x": 128,
+    "y": 1676,
+    "w": 195,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 1745,
+    "w": 366,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 1769,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 1793,
+    "w": 335,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 1839,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1474,
+    "w": 61,
+    "h": 15
+   },
+   {
+    "x": 578,
+    "y": 1676,
+    "w": 157,
+    "h": 28
+   },
+   {
+    "x": 578,
+    "y": 1745,
+    "w": 354,
+    "h": 22
+   },
+   {
+    "x": 578,
+    "y": 1769,
+    "w": 299,
+    "h": 22
+   },
+   {
+    "x": 578,
+    "y": 1793,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 578,
+    "y": 1839,
+    "w": 184,
+    "h": 22
+   },
+   {
+    "x": 1024,
+    "y": 1474,
+    "w": 61,
+    "h": 15
+   },
+   {
+    "x": 1029,
+    "y": 1676,
+    "w": 83,
+    "h": 28
+   },
+   {
+    "x": 1029,
+    "y": 1745,
+    "w": 357,
+    "h": 22
+   },
+   {
+    "x": 1029,
+    "y": 1769,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 1029,
+    "y": 1793,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 1029,
+    "y": 1839,
+    "w": 131,
+    "h": 22
+   },
+   {
+    "x": 123,
+    "y": 1924,
+    "w": 61,
+    "h": 15
+   },
+   {
+    "x": 128,
+    "y": 2126,
+    "w": 348,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 2195,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 2219,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 2243,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 2289,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1924,
+    "w": 61,
+    "h": 15
+   },
+   {
+    "x": 578,
+    "y": 2126,
+    "w": 70,
+    "h": 28
+   },
+   {
+    "x": 578,
+    "y": 2195,
+    "w": 333,
+    "h": 22
+   },
+   {
+    "x": 578,
+    "y": 2219,
+    "w": 361,
+    "h": 22
+   },
+   {
+    "x": 578,
+    "y": 2243,
+    "w": 296,
+    "h": 22
+   },
+   {
+    "x": 578,
+    "y": 2289,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 1024,
+    "y": 1924,
+    "w": 61,
+    "h": 15
+   },
+   {
+    "x": 1029,
+    "y": 2126,
+    "w": 113,
+    "h": 28
+   },
+   {
+    "x": 1029,
+    "y": 2195,
+    "w": 346,
+    "h": 22
+   },
+   {
+    "x": 1029,
+    "y": 2219,
+    "w": 356,
+    "h": 22
+   },
+   {
+    "x": 1029,
+    "y": 2243,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 1029,
+    "y": 2289,
+    "w": 153,
+    "h": 22
+   },
+   {
+    "x": 160,
+    "y": 2426,
+    "w": 408,
+    "h": 20
+   },
+   {
+    "x": 96,
+    "y": 2460,
+    "w": 952,
+    "h": 63
+   },
+   {
+    "x": 96,
+    "y": 2538,
+    "w": 1227,
+    "h": 22
+   },
+   {
+    "x": 116,
+    "y": 2619,
+    "w": 46,
+    "h": 22
+   },
+   {
+    "x": 117,
+    "y": 2660,
+    "w": 140,
+    "h": 22
+   },
+   {
+    "x": 117,
+    "y": 2702,
+    "w": 117,
+    "h": 22
+   },
+   {
+    "x": 120,
+    "y": 2782,
+    "w": 82,
+    "h": 25
+   },
+   {
+    "x": 120,
+    "y": 2824,
+    "w": 127,
+    "h": 25
+   },
+   {
+    "x": 470,
+    "y": 2826,
+    "w": 86,
+    "h": 20
+   },
+   {
+    "x": 470,
+    "y": 2846,
+    "w": 266,
+    "h": 28
+   },
+   {
+    "x": 494,
+    "y": 2882,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 574,
+    "y": 2882,
+    "w": 131,
+    "h": 20
+   },
+   {
+    "x": 470,
+    "y": 2910,
+    "w": 397,
+    "h": 22
+   },
+   {
+    "x": 470,
+    "y": 2936,
+    "w": 376,
+    "h": 22
+   },
+   {
+    "x": 470,
+    "y": 2962,
+    "w": 84,
+    "h": 22
+   },
+   {
+    "x": 978,
+    "y": 2756,
+    "w": 86,
+    "h": 20
+   },
+   {
+    "x": 978,
+    "y": 2776,
+    "w": 224,
+    "h": 28
+   },
+   {
+    "x": 978,
+    "y": 2804,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 1002,
+    "y": 2880,
+    "w": 39,
+    "h": 20
+   },
+   {
+    "x": 1057,
+    "y": 2880,
+    "w": 56,
+    "h": 20
+   },
+   {
+    "x": 1130,
+    "y": 2880,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 1315,
+    "y": 2756,
+    "w": 169,
+    "h": 28
+   },
+   {
+    "x": 1315,
+    "y": 2784,
+    "w": 101,
+    "h": 28
+   },
+   {
+    "x": 1339,
+    "y": 2880,
+    "w": 39,
+    "h": 20
+   },
+   {
+    "x": 1394,
+    "y": 2880,
+    "w": 56,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 3268,
+    "w": 236,
+    "h": 28
+   },
+   {
+    "x": 112,
+    "y": 3304,
+    "w": 233,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 3324,
+    "w": 261,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 3450,
+    "w": 159,
+    "h": 28
+   },
+   {
+    "x": 112,
+    "y": 3486,
+    "w": 260,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 3506,
+    "w": 216,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 3632,
+    "w": 220,
+    "h": 28
+   },
+   {
+    "x": 112,
+    "y": 3668,
+    "w": 210,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 3688,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 456,
+    "y": 3216,
+    "w": 425,
+    "h": 51
+   },
+   {
+    "x": 456,
+    "y": 3291,
+    "w": 561,
+    "h": 22
+   },
+   {
+    "x": 503,
+    "y": 3457,
+    "w": 201,
+    "h": 22
+   },
+   {
+    "x": 842,
+    "y": 3457,
+    "w": 115,
+    "h": 22
+   },
+   {
+    "x": 1180,
+    "y": 3457,
+    "w": 32,
+    "h": 22
+   },
+   {
+    "x": 546,
+    "y": 3583,
+    "w": 116,
+    "h": 22
+   },
+   {
+    "x": 848,
+    "y": 3583,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 1145,
+    "y": 3583,
+    "w": 103,
+    "h": 22
+   },
+   {
+    "x": 472,
+    "y": 3695,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 101,
+    "y": 3888,
+    "w": 116,
+    "h": 20
+   },
+   {
+    "x": 96,
+    "y": 3924,
+    "w": 907,
+    "h": 51
+   },
+   {
+    "x": 96,
+    "y": 3998,
+    "w": 852,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 4024,
+    "w": 395,
+    "h": 25
+   },
+   {
+    "x": 124,
+    "y": 4282,
+    "w": 288,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4310,
+    "w": 65,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4356,
+    "w": 283,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 4382,
+    "w": 316,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 4408,
+    "w": 341,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 4408,
+    "w": 321,
+    "h": 22
+   },
+   {
+    "x": 133,
+    "y": 4453,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 124,
+    "y": 4492,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 188,
+    "y": 4492,
+    "w": 86,
+    "h": 20
+   },
+   {
+    "x": 551,
+    "y": 4282,
+    "w": 325,
+    "h": 28
+   },
+   {
+    "x": 551,
+    "y": 4310,
+    "w": 199,
+    "h": 28
+   },
+   {
+    "x": 551,
+    "y": 4356,
+    "w": 336,
+    "h": 22
+   },
+   {
+    "x": 551,
+    "y": 4382,
+    "w": 324,
+    "h": 22
+   },
+   {
+    "x": 551,
+    "y": 4408,
+    "w": 324,
+    "h": 22
+   },
+   {
+    "x": 560,
+    "y": 4453,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 551,
+    "y": 4492,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 614,
+    "y": 4492,
+    "w": 80,
+    "h": 20
+   },
+   {
+    "x": 977,
+    "y": 4282,
+    "w": 271,
+    "h": 28
+   },
+   {
+    "x": 977,
+    "y": 4310,
+    "w": 242,
+    "h": 28
+   },
+   {
+    "x": 977,
+    "y": 4356,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 977,
+    "y": 4382,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 977,
+    "y": 4408,
+    "w": 306,
+    "h": 22
+   },
+   {
+    "x": 986,
+    "y": 4453,
+    "w": 116,
+    "h": 20
+   },
+   {
+    "x": 977,
+    "y": 4492,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 1041,
+    "y": 4492,
+    "w": 83,
+    "h": 20
+   },
+   {
+    "x": 665,
+    "y": 4641,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 519,
+    "y": 4830,
+    "w": 401,
+    "h": 51
+   },
+   {
+    "x": 346,
+    "y": 4930,
+    "w": 310,
+    "h": 20
+   },
+   {
+    "x": 414,
+    "y": 4989,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 785,
+    "y": 4930,
+    "w": 371,
+    "h": 20
+   },
+   {
+    "x": 908,
+    "y": 4989,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 5185,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 5240,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5282,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5324,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5366,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5408,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5185,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 5240,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5282,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5324,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5366,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5408,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5450,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5185,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 5240,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5282,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5324,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5185,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 5240,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5282,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5324,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5366,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 5593,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 5593,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 5593,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 5593,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 5593,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 5593,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 5593,
+    "w": 156,
+    "h": 20
+   },
+   {
+    "x": 1353,
+    "y": 802,
+    "w": 46,
+    "h": 25
+   }
+  ],
+  "eds": [
+   {
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 22,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 160,
+    "y": 166,
+    "w": 165,
+    "h": 20
+   },
+   {
+    "x": 96,
+    "y": 204,
+    "w": 601,
+    "h": 79
+   },
+   {
+    "x": 96,
+    "y": 268,
+    "w": 447,
+    "h": 79
+   },
+   {
+    "x": 96,
+    "y": 365,
+    "w": 593,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 389,
+    "w": 82,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 436,
+    "w": 155,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 747,
+    "w": 175,
+    "h": 40
+   },
+   {
+    "x": 121,
+    "y": 829,
+    "w": 25,
+    "h": 14
+   },
+   {
+    "x": 112,
+    "y": 1025,
+    "w": 187,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 1046,
+    "w": 90,
+    "h": 22
+   },
+   {
+    "x": 112,
+    "y": 1069,
+    "w": 329,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 1089,
+    "w": 151,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 1130,
+    "w": 100,
+    "h": 20
+   },
+   {
+    "x": 228,
+    "y": 1130,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 520,
+    "y": 829,
+    "w": 25,
+    "h": 14
+   },
+   {
+    "x": 511,
+    "y": 985,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 511,
+    "y": 1006,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 511,
+    "y": 1029,
+    "w": 194,
+    "h": 20
+   },
+   {
+    "x": 511,
+    "y": 1090,
+    "w": 100,
+    "h": 20
+   },
+   {
+    "x": 627,
+    "y": 1090,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 792,
+    "y": 829,
+    "w": 25,
+    "h": 14
+   },
+   {
+    "x": 783,
+    "y": 985,
+    "w": 209,
+    "h": 20
+   },
+   {
+    "x": 783,
+    "y": 1006,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 783,
+    "y": 1029,
+    "w": 200,
+    "h": 20
+   },
+   {
+    "x": 783,
+    "y": 1049,
+    "w": 166,
+    "h": 20
+   },
+   {
+    "x": 783,
+    "y": 1090,
+    "w": 100,
+    "h": 20
+   },
+   {
+    "x": 899,
+    "y": 1090,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 1064,
+    "y": 829,
+    "w": 25,
+    "h": 14
+   },
+   {
+    "x": 1055,
+    "y": 1006,
+    "w": 90,
+    "h": 22
+   },
+   {
+    "x": 1055,
+    "y": 1029,
+    "w": 201,
+    "h": 20
+   },
+   {
+    "x": 1055,
+    "y": 1049,
+    "w": 183,
+    "h": 20
+   },
+   {
+    "x": 1055,
+    "y": 1090,
+    "w": 100,
+    "h": 20
+   },
+   {
+    "x": 1171,
+    "y": 1090,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 1336,
+    "y": 829,
+    "w": 25,
+    "h": 14
+   },
+   {
+    "x": 1327,
+    "y": 1006,
+    "w": 90,
+    "h": 22
+   },
+   {
+    "x": 1327,
+    "y": 1029,
+    "w": 205,
+    "h": 20
+   },
+   {
+    "x": 1327,
+    "y": 1049,
+    "w": 170,
+    "h": 20
+   },
+   {
+    "x": 1327,
+    "y": 1090,
+    "w": 100,
+    "h": 20
+   },
+   {
+    "x": 136,
+    "y": 1197,
+    "w": 154,
+    "h": 22
+   },
+   {
+    "x": 100,
+    "y": 1352,
+    "w": 1297,
+    "h": 63
+   },
+   {
+    "x": 123,
+    "y": 1474,
+    "w": 61,
+    "h": 15
+   },
+   {
+    "x": 128,
+    "y": 1676,
+    "w": 195,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 1745,
+    "w": 366,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 1769,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 1793,
+    "w": 335,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 1839,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1474,
+    "w": 61,
+    "h": 15
+   },
+   {
+    "x": 578,
+    "y": 1676,
+    "w": 157,
+    "h": 28
+   },
+   {
+    "x": 578,
+    "y": 1745,
+    "w": 354,
+    "h": 22
+   },
+   {
+    "x": 578,
+    "y": 1769,
+    "w": 299,
+    "h": 22
+   },
+   {
+    "x": 578,
+    "y": 1793,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 578,
+    "y": 1839,
+    "w": 184,
+    "h": 22
+   },
+   {
+    "x": 1024,
+    "y": 1474,
+    "w": 61,
+    "h": 15
+   },
+   {
+    "x": 1029,
+    "y": 1676,
+    "w": 83,
+    "h": 28
+   },
+   {
+    "x": 1029,
+    "y": 1745,
+    "w": 357,
+    "h": 22
+   },
+   {
+    "x": 1029,
+    "y": 1769,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 1029,
+    "y": 1793,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 1029,
+    "y": 1839,
+    "w": 131,
+    "h": 22
+   },
+   {
+    "x": 123,
+    "y": 1924,
+    "w": 61,
+    "h": 15
+   },
+   {
+    "x": 128,
+    "y": 2126,
+    "w": 348,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 2195,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 2219,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 2243,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 2289,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1924,
+    "w": 61,
+    "h": 15
+   },
+   {
+    "x": 578,
+    "y": 2126,
+    "w": 70,
+    "h": 28
+   },
+   {
+    "x": 578,
+    "y": 2195,
+    "w": 333,
+    "h": 22
+   },
+   {
+    "x": 578,
+    "y": 2219,
+    "w": 361,
+    "h": 22
+   },
+   {
+    "x": 578,
+    "y": 2243,
+    "w": 296,
+    "h": 22
+   },
+   {
+    "x": 578,
+    "y": 2289,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 1024,
+    "y": 1924,
+    "w": 61,
+    "h": 15
+   },
+   {
+    "x": 1029,
+    "y": 2126,
+    "w": 113,
+    "h": 28
+   },
+   {
+    "x": 1029,
+    "y": 2195,
+    "w": 346,
+    "h": 22
+   },
+   {
+    "x": 1029,
+    "y": 2219,
+    "w": 356,
+    "h": 22
+   },
+   {
+    "x": 1029,
+    "y": 2243,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 1029,
+    "y": 2289,
+    "w": 153,
+    "h": 22
+   },
+   {
+    "x": 160,
+    "y": 2426,
+    "w": 408,
+    "h": 20
+   },
+   {
+    "x": 96,
+    "y": 2460,
+    "w": 952,
+    "h": 63
+   },
+   {
+    "x": 96,
+    "y": 2538,
+    "w": 1227,
+    "h": 22
+   },
+   {
+    "x": 120,
+    "y": 2619,
+    "w": 46,
+    "h": 22
+   },
+   {
+    "x": 120,
+    "y": 2660,
+    "w": 140,
+    "h": 22
+   },
+   {
+    "x": 120,
+    "y": 2702,
+    "w": 117,
+    "h": 22
+   },
+   {
+    "x": 470,
+    "y": 2826,
+    "w": 86,
+    "h": 20
+   },
+   {
+    "x": 470,
+    "y": 2846,
+    "w": 266,
+    "h": 28
+   },
+   {
+    "x": 494,
+    "y": 2882,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 575,
+    "y": 2882,
+    "w": 131,
+    "h": 20
+   },
+   {
+    "x": 470,
+    "y": 2910,
+    "w": 397,
+    "h": 22
+   },
+   {
+    "x": 470,
+    "y": 2936,
+    "w": 376,
+    "h": 22
+   },
+   {
+    "x": 470,
+    "y": 2962,
+    "w": 84,
+    "h": 22
+   },
+   {
+    "x": 978,
+    "y": 2756,
+    "w": 86,
+    "h": 20
+   },
+   {
+    "x": 978,
+    "y": 2776,
+    "w": 231,
+    "h": 28
+   },
+   {
+    "x": 978,
+    "y": 2804,
+    "w": 104,
+    "h": 28
+   },
+   {
+    "x": 1002,
+    "y": 2880,
+    "w": 39,
+    "h": 20
+   },
+   {
+    "x": 1058,
+    "y": 2880,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 1315,
+    "y": 2756,
+    "w": 86,
+    "h": 20
+   },
+   {
+    "x": 1315,
+    "y": 2776,
+    "w": 224,
+    "h": 28
+   },
+   {
+    "x": 1315,
+    "y": 2804,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 1339,
+    "y": 2880,
+    "w": 39,
+    "h": 20
+   },
+   {
+    "x": 1395,
+    "y": 2880,
+    "w": 56,
+    "h": 20
+   },
+   {
+    "x": 120,
+    "y": 2782,
+    "w": 82,
+    "h": 25
+   },
+   {
+    "x": 120,
+    "y": 2824,
+    "w": 127,
+    "h": 25
+   },
+   {
+    "x": 112,
+    "y": 3260,
+    "w": 236,
+    "h": 28
+   },
+   {
+    "x": 112,
+    "y": 3296,
+    "w": 233,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 3316,
+    "w": 261,
+    "h": 20
+   },
+   {
+    "x": 456,
+    "y": 3216,
+    "w": 425,
+    "h": 51
+   },
+   {
+    "x": 456,
+    "y": 3291,
+    "w": 561,
+    "h": 22
+   },
+   {
+    "x": 503,
+    "y": 3457,
+    "w": 201,
+    "h": 22
+   },
+   {
+    "x": 842,
+    "y": 3457,
+    "w": 115,
+    "h": 22
+   },
+   {
+    "x": 1180,
+    "y": 3457,
+    "w": 32,
+    "h": 22
+   },
+   {
+    "x": 546,
+    "y": 3583,
+    "w": 116,
+    "h": 22
+   },
+   {
+    "x": 848,
+    "y": 3583,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 1145,
+    "y": 3583,
+    "w": 103,
+    "h": 22
+   },
+   {
+    "x": 472,
+    "y": 3695,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 112,
+    "y": 3434,
+    "w": 159,
+    "h": 28
+   },
+   {
+    "x": 112,
+    "y": 3470,
+    "w": 260,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 3490,
+    "w": 216,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 3608,
+    "w": 220,
+    "h": 28
+   },
+   {
+    "x": 112,
+    "y": 3644,
+    "w": 210,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 3664,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 101,
+    "y": 3888,
+    "w": 116,
+    "h": 20
+   },
+   {
+    "x": 96,
+    "y": 3924,
+    "w": 907,
+    "h": 51
+   },
+   {
+    "x": 96,
+    "y": 3998,
+    "w": 852,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 4024,
+    "w": 395,
+    "h": 25
+   },
+   {
+    "x": 124,
+    "y": 4282,
+    "w": 288,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4310,
+    "w": 65,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4356,
+    "w": 283,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 4382,
+    "w": 316,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 4408,
+    "w": 341,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 4408,
+    "w": 321,
+    "h": 22
+   },
+   {
+    "x": 133,
+    "y": 4453,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 148,
+    "y": 4492,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 212,
+    "y": 4492,
+    "w": 86,
+    "h": 20
+   },
+   {
+    "x": 551,
+    "y": 4282,
+    "w": 325,
+    "h": 28
+   },
+   {
+    "x": 551,
+    "y": 4310,
+    "w": 199,
+    "h": 28
+   },
+   {
+    "x": 551,
+    "y": 4356,
+    "w": 336,
+    "h": 22
+   },
+   {
+    "x": 551,
+    "y": 4382,
+    "w": 324,
+    "h": 22
+   },
+   {
+    "x": 551,
+    "y": 4408,
+    "w": 324,
+    "h": 22
+   },
+   {
+    "x": 560,
+    "y": 4453,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 575,
+    "y": 4492,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 638,
+    "y": 4492,
+    "w": 80,
+    "h": 20
+   },
+   {
+    "x": 977,
+    "y": 4282,
+    "w": 271,
+    "h": 28
+   },
+   {
+    "x": 977,
+    "y": 4310,
+    "w": 242,
+    "h": 28
+   },
+   {
+    "x": 977,
+    "y": 4356,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 977,
+    "y": 4382,
+    "w": 272,
+    "h": 22
+   },
+   {
+    "x": 977,
+    "y": 4408,
+    "w": 306,
+    "h": 22
+   },
+   {
+    "x": 986,
+    "y": 4453,
+    "w": 116,
+    "h": 20
+   },
+   {
+    "x": 1001,
+    "y": 4492,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 1065,
+    "y": 4492,
+    "w": 83,
+    "h": 20
+   },
+   {
+    "x": 665,
+    "y": 4641,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 519,
+    "y": 4830,
+    "w": 401,
+    "h": 51
+   },
+   {
+    "x": 346,
+    "y": 4930,
+    "w": 310,
+    "h": 20
+   },
+   {
+    "x": 414,
+    "y": 4989,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 785,
+    "y": 4930,
+    "w": 371,
+    "h": 20
+   },
+   {
+    "x": 908,
+    "y": 4989,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 5185,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 5240,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5282,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5324,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5366,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5408,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5185,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 5240,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5282,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5324,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5366,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5408,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5450,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5185,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 5240,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5282,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5324,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5185,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 5240,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5282,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5324,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5366,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 5593,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 5593,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 5593,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 5593,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 5593,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 5593,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 5593,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

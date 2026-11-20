@@ -1,0 +1,7547 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:39:02.057Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/public-transportation",
+  "at": "2026-11-18T23:38:34.189Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 11878,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button#searchicon-items",
+    "x": 164,
+    "y": 14,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-0",
+    "x": 220,
+    "y": 15,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.usericon-item.d-block",
+    "x": 260,
+    "y": 17,
+    "w": 40,
+    "h": 25,
+    "text": "user profile"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav > div.articleBreadcrumb-mobileview.breadcrumb-item > a.text-decoration-none",
+    "x": 46,
+    "y": 77,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 0,
+    "y": 116,
+    "w": 360,
+    "h": 203,
+    "text": "company",
+    "file": "banner-mobility-woman-phone-man-public-t"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 32,
+    "y": 287,
+    "w": 296,
+    "h": 264,
+    "level": 1,
+    "text": "öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 32,
+    "y": 567,
+    "w": 296,
+    "h": 144,
+    "text": "Wie kann die Nutzung verschiedenster Verkehrsmittel wie Züge, Busse und Robottax"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 32,
+    "y": 727,
+    "w": 111,
+    "h": 28,
+    "text": "Elektromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 56,
+    "y": 771,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 132,
+    "y": 771,
+    "w": 72,
+    "h": 20,
+    "level": 4,
+    "text": "juli 07, 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 881,
+    "w": 175,
+    "h": 22,
+    "text": "öffentliche verkehrsmittel",
+    "href": "/de/our-stories/public-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 915,
+    "w": 86,
+    "h": 22,
+    "text": "elektrobusse",
+    "href": "/de/our-stories/public-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 949,
+    "w": 167,
+    "h": 22,
+    "text": "bahnverkehr der zukunft",
+    "href": "/de/our-stories/public-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 983,
+    "w": 208,
+    "h": 48,
+    "text": "halbleiter als schlüssel für eine saubere traktion",
+    "href": "/de/our-stories/public-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 1043,
+    "w": 243,
+    "h": 48,
+    "text": "sic-technologie steigert die effizienz von straßenbahnen in münchen",
+    "href": "/de/our-stories/public-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 1103,
+    "w": 257,
+    "h": 48,
+    "text": "nachhaltiger schienenverkehr mit sic-hochleistungsmodulen",
+    "href": "/de/our-stories/public-transportation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > p",
+    "x": 40,
+    "y": 847,
+    "w": 177,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-034268de88 > h2#anch1",
+    "x": 16,
+    "y": 1201,
+    "w": 328,
+    "h": 30,
+    "level": 2,
+    "text": "öffentliche verkehrsmittel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-9012c9b31c > h5.dynamicAnchors.heading-05",
+    "x": 16,
+    "y": 1247,
+    "w": 328,
+    "h": 52,
+    "level": 5,
+    "text": "umweltfreundliche lösungen für straße und schiene"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 1315,
+    "w": 328,
+    "h": 184,
+    "text": "public transport",
+    "file": "safe-mobility.png:asset-680-16x9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-87ed805735 > p",
+    "x": 16,
+    "y": 1515,
+    "w": 328,
+    "h": 312,
+    "text": "Ein Transportnetz aus verschiedensten Verkehrsträgern, wie Züge, Busse und auton"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-87ed805735 > p",
+    "x": 16,
+    "y": 1843,
+    "w": 328,
+    "h": 208,
+    "text": "Die Verknüpfung des öffentlichen Verkehrs mit Mietangeboten (Bike sharing, car s"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 2067,
+    "w": 328,
+    "h": 184,
+    "text": "public transport",
+    "file": "mobility-bus-transport-system.jpg:asset-"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-c8cb06338b > p > b",
+    "x": 16,
+    "y": 2267,
+    "w": 223,
+    "h": 51,
+    "text": "Wie würde das in der Realität funktionieren"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-c8cb06338b > p",
+    "x": 16,
+    "y": 2335,
+    "w": 328,
+    "h": 364,
+    "text": "Stellen Sie sich einen Pendler vor, der seine Reise beginnt, indem er von seiner"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-c8cb06338b > p",
+    "x": 16,
+    "y": 2715,
+    "w": 328,
+    "h": 208,
+    "text": "Mobilitätsangebote wie Ride-Sharing-Dienste und Bike-Sharing-Programme haben ber"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-c8cb06338b > p > b",
+    "x": 16,
+    "y": 2981,
+    "w": 252,
+    "h": 77,
+    "text": "Die Rolle der Technologie bei der Modernisierung des öffentlichen Nahverkehrs"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-c8cb06338b > p",
+    "x": 16,
+    "y": 3075,
+    "w": 328,
+    "h": 416,
+    "text": "Technologie spielt schon jetzt eine entscheidende Rolle bei der Umgestaltung des"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-516695cd8e > h2#anch2",
+    "x": 16,
+    "y": 3507,
+    "w": 328,
+    "h": 30,
+    "level": 2,
+    "text": "elektrobusse"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-e6512d9050 > p > b",
+    "x": 16,
+    "y": 3553,
+    "w": 250,
+    "h": 25,
+    "text": "Impulse für mehr Nachhaltigkeit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-e6512d9050 > p",
+    "x": 16,
+    "y": 3595,
+    "w": 328,
+    "h": 520,
+    "text": "Elektrobusse sind ein Eckpfeiler der nachhaltigen städtischen Mobilität. Anders "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 4131,
+    "w": 328,
+    "h": 184,
+    "text": "woman waiting at busstop",
+    "file": "e-bus-charging.png:asset-680-16x9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-147d9109b2 > p > b",
+    "x": 16,
+    "y": 4331,
+    "w": 301,
+    "h": 51,
+    "text": "Halbleiter als Schlüssel für robuste und emissionsarme Busse"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-147d9109b2 > p",
+    "x": 16,
+    "y": 4399,
+    "w": 328,
+    "h": 468,
+    "text": "Busse legen jeden Tag weite Strecken zurück und haben während ihrer Lebensdauer "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-147d9109b2 > p",
+    "x": 16,
+    "y": 4883,
+    "w": 328,
+    "h": 156,
+    "text": "Infineon bietet effiziente Komponenten speziell für Brennstoffzellenbusse, die E"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-efeb5e4be1 > h2#anch3",
+    "x": 16,
+    "y": 5063,
+    "w": 328,
+    "h": 30,
+    "level": 2,
+    "text": "bahnverkehr der zukunft"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-2b76b2dd05 > p > b",
+    "x": 16,
+    "y": 5109,
+    "w": 310,
+    "h": 51,
+    "text": "Mehr Energieeffizienz und weniger Lärm auf den Schienen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-2b76b2dd05 > p",
+    "x": 16,
+    "y": 5177,
+    "w": 328,
+    "h": 364,
+    "text": "In vielen städtischen Gebieten sind U- und S-Bahnen sowie Straßenbahnen wichtig,"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 5557,
+    "w": 328,
+    "h": 184,
+    "text": "placeholder",
+    "file": "s-bahn-train-in-munich.png:asset-680-16x"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-585be58159 > h2#anch4",
+    "x": 16,
+    "y": 5758,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "halbleiter als schlüssel für eine saubere traktion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-bullet > div#text-954a2cd073 > p",
+    "x": 16,
+    "y": 5834,
+    "w": 328,
+    "h": 130,
+    "text": "Wir decken alle Segmente im Bereich der ab, von Straßenbahnen und U-Bahnen über "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-954a2cd073 > p > a",
+    "x": 16,
+    "y": 5860,
+    "w": 65,
+    "h": 25,
+    "text": "traktion",
+    "href": "/applications/industrial/traction"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-bullet > div#text-954a2cd073 > p",
+    "x": 16,
+    "y": 5980,
+    "w": 328,
+    "h": 208,
+    "text": "Basierend auf unserem tiefen Verständnis der Herausforderungen von heute und mor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-bullet > div#text-954a2cd073 > p",
+    "x": 16,
+    "y": 6204,
+    "w": 328,
+    "h": 182,
+    "text": "Unsere Komponenten zeichnen sich durch ihre lange Lebensdauer aus. Sie sind so k"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-bullet > div#text-954a2cd073 > p",
+    "x": 16,
+    "y": 6402,
+    "w": 328,
+    "h": 156,
+    "text": "Nehmen wir beispielsweise das CoolSiC™-3,3-kV-XHP™-Modul mit XT-Technologie. Die"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li.icon.icon-c-check > div.richtext-align",
+    "x": 48,
+    "y": 6574,
+    "w": 107,
+    "h": 26,
+    "text": "Hohe Effizienz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li.icon.icon-c-check > div.richtext-align",
+    "x": 48,
+    "y": 6632,
+    "w": 247,
+    "h": 26,
+    "text": "Motorschonende Konstruktionen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li.icon.icon-c-check > div.richtext-align",
+    "x": 48,
+    "y": 6690,
+    "w": 147,
+    "h": 26,
+    "text": "Lange Lebensdauer"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li.icon.icon-c-check > div.richtext-align",
+    "x": 48,
+    "y": 6748,
+    "w": 135,
+    "h": 26,
+    "text": "Wirtschaftlichkeit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-954a2cd073 > p > b",
+    "x": 16,
+    "y": 6832,
+    "w": 185,
+    "h": 25,
+    "text": "Das Ergebnis? Züge, die:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "li.icon.icon-c-check > div.richtext-align > b",
+    "x": 48,
+    "y": 6874,
+    "w": 177,
+    "h": 25,
+    "text": "weniger Lärm machen,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "li.icon.icon-c-check > div.richtext-align > b",
+    "x": 48,
+    "y": 6932,
+    "w": 249,
+    "h": 51,
+    "text": "mehr Komfort für die Passagiere bieten,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "li.icon.icon-c-check > div.richtext-align > b",
+    "x": 48,
+    "y": 7016,
+    "w": 246,
+    "h": 25,
+    "text": "robuster und zuverlässiger sind."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-ad76031975 > h2.dynamicAnchors.heading-05",
+    "x": 40,
+    "y": 7098,
+    "w": 280,
+    "h": 26,
+    "level": 2,
+    "text": "anwendungsfall"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-c5cd37ae25 > h2#usecase",
+    "x": 40,
+    "y": 7140,
+    "w": 280,
+    "h": 90,
+    "level": 2,
+    "text": "sic-technologie steigert die effizienz von straßenbahnen in münchen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-275a648ec0 > p > b",
+    "x": 40,
+    "y": 7246,
+    "w": 265,
+    "h": 77,
+    "text": "Gemeinsamer Feldtest beweist die Vorteile der SiC-Technologie im öffentlichen Ve"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-275a648ec0 > p",
+    "x": 40,
+    "y": 7340,
+    "w": 280,
+    "h": 650,
+    "text": "Wir sind ein Schlüsselakteur in der Entwicklung und Qualifizierung von Siliziumk"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-275a648ec0 > p",
+    "x": 40,
+    "y": 8006,
+    "w": 280,
+    "h": 286,
+    "text": "Gleichzeitig konnte auch der Lärm während des Betriebs deutlich reduziert werden"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-275a648ec0 > p > a",
+    "x": 40,
+    "y": 8308,
+    "w": 277,
+    "h": 51,
+    "text": "mehr informationen zu unseren sic-produkten",
+    "href": "/technology/silicon-carbide-sic"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-ef8a54f42f > h2#modules",
+    "x": 16,
+    "y": 8416,
+    "w": 328,
+    "h": 108,
+    "level": 2,
+    "text": "nachhaltiger schienenverkehr mit sic-hochleistungsmodulen"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 8540,
+    "w": 328,
+    "h": 184,
+    "text": "phone app lock house",
+    "file": "igbt-xhp2-cu.png:asset-680-16x9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-d6d1b7278c > h5.dynamicAnchors.heading-05",
+    "x": 16,
+    "y": 8748,
+    "w": 328,
+    "h": 52,
+    "level": 5,
+    "text": "xhp™ 2 coolsic™ mosfet 3,3 kv mit .xt-verbindungstechnologie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-2e42aa87e9 > p",
+    "x": 16,
+    "y": 8808,
+    "w": 328,
+    "h": 234,
+    "text": "Die Hauptmerkmale des XHP™ 2 CoolSiCTM MOSFET - geringere Verluste, höhere Schal"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-357859246c > h5.dynamicAnchors.heading-05",
+    "x": 16,
+    "y": 9074,
+    "w": 328,
+    "h": 130,
+    "level": 5,
+    "text": "erfahren sie mehr über nachhaltigen schienenverkehr in diesem interview mit dr. diana car, principal engineer für hochle"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#ext_video_0_container_inner > div#ext_video_0_videoPlayer > div#IconEffect_s7classic_1B",
+    "x": 140,
+    "y": 9272,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-a8182fb18b > h3.dynamicAnchors.heading-03",
+    "x": 40,
+    "y": 9484,
+    "w": 280,
+    "h": 30,
+    "level": 3,
+    "text": "weitere produkte"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9532,
+    "w": 239,
+    "h": 22,
+    "text": "silicon carbide coolsic tm mosfets",
+    "href": "/products/power/mosfet/silicon-carbide"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9574,
+    "w": 212,
+    "h": 22,
+    "text": "gate drivers + isolation devices",
+    "href": "/products/power/gate-driver-ics/galvanic-isolated-gate-driver"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9616,
+    "w": 62,
+    "h": 22,
+    "text": "inverters",
+    "href": "/applications/automotive/electric-drivetrain/ev-inverters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9658,
+    "w": 174,
+    "h": 22,
+    "text": "display with backlighting",
+    "href": "/products/power/led-driver-ics"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9700,
+    "w": 261,
+    "h": 22,
+    "text": "power supplies and voltage regulators",
+    "href": "/products/power/dc-dc-converters/integrated-pol-voltage-regulators"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9742,
+    "w": 113,
+    "h": 22,
+    "text": "microcontrollers",
+    "href": "/products/microcontroller"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9784,
+    "w": 201,
+    "h": 22,
+    "text": "dc and ac-dc power supplies",
+    "href": "/applications/solutions/power-conversion/ac-dc-power-conversion/auxiliary-power-supply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9826,
+    "w": 54,
+    "h": 22,
+    "text": "sensors",
+    "href": "/products/sensor"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_copy__ifxcontainer_798314621_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 16,
+    "y": 9954,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "weiterführende inhalte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 20,
+    "y": 10014,
+    "w": 316,
+    "h": 160,
+    "text": "applikation",
+    "file": "lowres-ifn-atv-green-mobility-highres.pn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 44,
+    "y": 10190,
+    "w": 268,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 44,
+    "y": 10234,
+    "w": 268,
+    "h": 26,
+    "text": "Electric vehicles (EV)"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 44,
+    "y": 10284,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/automotive/electric-drivetrain"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 356,
+    "y": 10014,
+    "w": 316,
+    "h": 160,
+    "text": "applikation",
+    "file": "welding-robot.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 16,
+    "y": 10434,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 16,
+    "y": 10522,
+    "w": 328,
+    "h": 120,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 16,
+    "y": 10674,
+    "w": 328,
+    "h": 48,
+    "text": "abonnieren",
+    "href": "/de/our-stories/public-transportation"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 16,
+    "y": 10842,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 10936,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 10976,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 11018,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 11060,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 11102,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 11144,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 196,
+    "y": 10936,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 10976,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 11018,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 11060,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 11128,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 11170,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 11212,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 11278,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 11318,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 11360,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 11402,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 32,
+    "y": 11468,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 11508,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 11550,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 11592,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 11634,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 11700,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 192,
+    "y": 11700,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 11730,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 21,
+    "y": 11765,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 16,
+    "y": 11818,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 56,
+    "y": 11818,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 96,
+    "y": 11818,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 136,
+    "y": 11815,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 136,
+    "y": 11819,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 176,
+    "y": 11818,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 3,
+    "textNodes": 116,
+    "controls": 53,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/public-transportation",
+  "at": "2026-11-18T23:39:01.963Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 11966,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "label": "search",
+    "value": "search",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.article-hero-crumbs > div.article-hero-back > a",
+    "x": 36,
+    "y": 77,
+    "w": 63,
+    "h": 20,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 0,
+    "y": 116,
+    "w": 360,
+    "h": 203,
+    "text": "company",
+    "file": "media_1d64cbc69c5dce9f33c8d14f5425335bf9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#öffentlicher-stadtverkehr-neu-gedacht-transportlösungen-für-vielfältige-bedürfnisse",
+    "x": 32,
+    "y": 287,
+    "w": 296,
+    "h": 264,
+    "level": 1,
+    "text": "öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 32,
+    "y": 567,
+    "w": 296,
+    "h": 144,
+    "text": "Wie kann die Nutzung verschiedenster Verkehrsmittel wie Züge, Busse und Robottax"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 32,
+    "y": 727,
+    "w": 111,
+    "h": 28,
+    "text": "Elektromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 56,
+    "y": 771,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#juli-07-2025",
+    "x": 132,
+    "y": 771,
+    "w": 72,
+    "h": 20,
+    "level": 4,
+    "text": "juli 07, 2025"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-toc.block > div.article-toc-label > p",
+    "x": 40,
+    "y": 847,
+    "w": 280,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 881,
+    "w": 174,
+    "h": 22,
+    "text": "öffentliche verkehrsmittel",
+    "href": "/de/our-stories/public-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 915,
+    "w": 86,
+    "h": 22,
+    "text": "elektrobusse",
+    "href": "/de/our-stories/public-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 949,
+    "w": 166,
+    "h": 22,
+    "text": "bahnverkehr der zukunft",
+    "href": "/de/our-stories/public-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 983,
+    "w": 208,
+    "h": 48,
+    "text": "halbleiter als schlüssel für eine saubere traktion",
+    "href": "/de/our-stories/public-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 1043,
+    "w": 243,
+    "h": 48,
+    "text": "sic-technologie steigert die effizienz von straßenbahnen in münchen",
+    "href": "/de/our-stories/public-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 1103,
+    "w": 257,
+    "h": 48,
+    "text": "nachhaltiger schienenverkehr mit sic-hochleistungsmodulen",
+    "href": "/de/our-stories/public-transportation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > h2#öffentliche-verkehrsmittel",
+    "x": 16,
+    "y": 1201,
+    "w": 328,
+    "h": 30,
+    "level": 2,
+    "text": "öffentliche verkehrsmittel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > h5#umweltfreundliche-lösungen-für-straße-und-schiene",
+    "x": 16,
+    "y": 1247,
+    "w": 328,
+    "h": 52,
+    "level": 5,
+    "text": "umweltfreundliche lösungen für straße und schiene"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-32 > picture > img",
+    "x": 16,
+    "y": 1315,
+    "w": 328,
+    "h": 185,
+    "text": "public transport",
+    "file": "media_176d0c38546c392a59075d3dfd5e799f8e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 1515,
+    "w": 328,
+    "h": 312,
+    "text": "Ein Transportnetz aus verschiedensten Verkehrsträgern, wie Züge, Busse und auton"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 1843,
+    "w": 328,
+    "h": 208,
+    "text": "Die Verknüpfung des öffentlichen Verkehrs mit Mietangeboten (Bike sharing, car s"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-32 > picture > img",
+    "x": 16,
+    "y": 2067,
+    "w": 328,
+    "h": 185,
+    "text": "public transport",
+    "file": "media_1d7ead15424f2a6d30516a52cababc490d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 16,
+    "y": 2268,
+    "w": 223,
+    "h": 51,
+    "text": "Wie würde das in der Realität funktionieren"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 2336,
+    "w": 328,
+    "h": 364,
+    "text": "Stellen Sie sich einen Pendler vor, der seine Reise beginnt, indem er von seiner"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 2716,
+    "w": 328,
+    "h": 208,
+    "text": "Mobilitätsangebote wie Ride-Sharing-Dienste und Bike-Sharing-Programme haben ber"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 16,
+    "y": 2982,
+    "w": 252,
+    "h": 77,
+    "text": "Die Rolle der Technologie bei der Modernisierung des öffentlichen Nahverkehrs"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 3076,
+    "w": 328,
+    "h": 416,
+    "text": "Technologie spielt schon jetzt eine entscheidende Rolle bei der Umgestaltung des"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > h2#elektrobusse",
+    "x": 16,
+    "y": 3508,
+    "w": 328,
+    "h": 30,
+    "level": 2,
+    "text": "elektrobusse"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 16,
+    "y": 3554,
+    "w": 250,
+    "h": 25,
+    "text": "Impulse für mehr Nachhaltigkeit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 3596,
+    "w": 328,
+    "h": 520,
+    "text": "Elektrobusse sind ein Eckpfeiler der nachhaltigen städtischen Mobilität. Anders "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-32 > picture > img",
+    "x": 16,
+    "y": 4132,
+    "w": 328,
+    "h": 185,
+    "text": "woman waiting at busstop",
+    "file": "media_1171ad24ae06b80556c1e3c9f202c81a0d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 16,
+    "y": 4332,
+    "w": 301,
+    "h": 51,
+    "text": "Halbleiter als Schlüssel für robuste und emissionsarme Busse"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 4400,
+    "w": 328,
+    "h": 468,
+    "text": "Busse legen jeden Tag weite Strecken zurück und haben während ihrer Lebensdauer "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 4884,
+    "w": 328,
+    "h": 156,
+    "text": "Infineon bietet effiziente Komponenten speziell für Brennstoffzellenbusse, die E"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > h2#bahnverkehr-der-zukunft",
+    "x": 16,
+    "y": 5064,
+    "w": 328,
+    "h": 30,
+    "level": 2,
+    "text": "bahnverkehr der zukunft"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 16,
+    "y": 5110,
+    "w": 310,
+    "h": 51,
+    "text": "Mehr Energieeffizienz und weniger Lärm auf den Schienen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 5178,
+    "w": 328,
+    "h": 364,
+    "text": "In vielen städtischen Gebieten sind U- und S-Bahnen sowie Straßenbahnen wichtig,"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-32 > picture > img",
+    "x": 16,
+    "y": 5558,
+    "w": 328,
+    "h": 185,
+    "text": "placeholder",
+    "file": "media_1a736fe54abc5b7f4e6dbcb303729476bf"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > h2#halbleiter-als-schlüssel-für-eine-saubere-traktion",
+    "x": 16,
+    "y": 5759,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "halbleiter als schlüssel für eine saubere traktion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 5835,
+    "w": 328,
+    "h": 130,
+    "text": "Wir decken alle Segmente im Bereich der ab, von Straßenbahnen und U-Bahnen über "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 16,
+    "y": 5861,
+    "w": 65,
+    "h": 25,
+    "text": "traktion",
+    "href": "/applications/industrial/traction"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 5981,
+    "w": 328,
+    "h": 208,
+    "text": "Basierend auf unserem tiefen Verständnis der Herausforderungen von heute und mor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 6205,
+    "w": 328,
+    "h": 182,
+    "text": "Unsere Komponenten zeichnen sich durch ihre lange Lebensdauer aus. Sie sind so k"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 6403,
+    "w": 328,
+    "h": 156,
+    "text": "Nehmen wir beispielsweise das CoolSiC™-3,3-kV-XHP™-Modul mit XT-Technologie. Die"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 32,
+    "y": 6583,
+    "w": 312,
+    "h": 42,
+    "text": "Hohe Effizienz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 32,
+    "y": 6657,
+    "w": 312,
+    "h": 42,
+    "text": "Motorschonende Konstruktionen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 32,
+    "y": 6731,
+    "w": 312,
+    "h": 42,
+    "text": "Lange Lebensdauer"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 32,
+    "y": 6805,
+    "w": 312,
+    "h": 42,
+    "text": "Wirtschaftlichkeit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p > strong",
+    "x": 16,
+    "y": 6905,
+    "w": 185,
+    "h": 25,
+    "text": "Das Ergebnis? Züge, die:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > strong",
+    "x": 64,
+    "y": 6949,
+    "w": 157,
+    "h": 22,
+    "text": "weniger Lärm machen,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > strong",
+    "x": 64,
+    "y": 7023,
+    "w": 273,
+    "h": 22,
+    "text": "mehr Komfort für die Passagiere bieten,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > strong",
+    "x": 64,
+    "y": 7097,
+    "w": 219,
+    "h": 22,
+    "text": "robuster und zuverlässiger sind."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 40,
+    "y": 7177,
+    "w": 280,
+    "h": 26,
+    "text": "Anwendungsfall"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head > h2#sic-technologie-steigert-die-effizienz-von-straßenbahnen-in-münchen",
+    "x": 40,
+    "y": 7227,
+    "w": 280,
+    "h": 90,
+    "level": 2,
+    "text": "sic-technologie steigert die effizienz von straßenbahnen in münchen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p > strong",
+    "x": 40,
+    "y": 7333,
+    "w": 265,
+    "h": 77,
+    "text": "Gemeinsamer Feldtest beweist die Vorteile der SiC-Technologie im öffentlichen Ve"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 40,
+    "y": 7427,
+    "w": 280,
+    "h": 650,
+    "text": "Wir sind ein Schlüsselakteur in der Entwicklung und Qualifizierung von Siliziumk"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 40,
+    "y": 8093,
+    "w": 280,
+    "h": 286,
+    "text": "Gleichzeitig konnte auch der Lärm während des Betriebs deutlich reduziert werden"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p > a",
+    "x": 40,
+    "y": 8395,
+    "w": 277,
+    "h": 51,
+    "text": "mehr informationen zu unseren sic-produkten",
+    "href": "/technology/silicon-carbide-sic"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > h2#nachhaltiger-schienenverkehr-mit-sic-hochleistungsmodulen",
+    "x": 16,
+    "y": 8511,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "nachhaltiger schienenverkehr mit sic-hochleistungsmodulen"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-pic.is-end > picture > img",
+    "x": 16,
+    "y": 8587,
+    "w": 328,
+    "h": 185,
+    "text": "phone app lock house",
+    "file": "media_10cc337b9979e418270dfb3b9031d3197e"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#xhp-2-coolsic-mosfet-33-kv-mit-xt-verbindungstechnologie",
+    "x": 16,
+    "y": 8787,
+    "w": 328,
+    "h": 52,
+    "level": 5,
+    "text": "xhp™ 2 coolsic™ mosfet 3,3 kv mit .xt-verbindungstechnologie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 16,
+    "y": 8847,
+    "w": 328,
+    "h": 234,
+    "text": "Die Hauptmerkmale des XHP™ 2 CoolSiCTM MOSFET - geringere Verluste, höhere Schal"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-x-32-x-32 > div.default-content-wrapper > h5#erfahren-sie-mehr-über-nachhaltigen-schienenverkehr-in-diesem-interview-mit-dr-diana-car-principal-engineer-für-hochleistungsmodule-bei-infineon-technologies-ag",
+    "x": 16,
+    "y": 9121,
+    "w": 328,
+    "h": 130,
+    "level": 5,
+    "text": "erfahren sie mehr über nachhaltigen schienenverkehr in diesem interview mit dr. diana car, principal engineer für hochle"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 9267,
+    "w": 328,
+    "h": 185,
+    "text": "",
+    "file": "media_140a60e8381d0b167f4a1ab53674bd4d77"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-wrapper > div.story-hub.video > button.story-hub-video-play",
+    "x": 140,
+    "y": 9319,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head > h3#weitere-produkte",
+    "x": 40,
+    "y": 9543,
+    "w": 280,
+    "h": 30,
+    "level": 3,
+    "text": "weitere produkte"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9591,
+    "w": 239,
+    "h": 22,
+    "text": "silicon carbide coolsic tm mosfets",
+    "href": "/products/power/mosfet/silicon-carbide"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9633,
+    "w": 212,
+    "h": 22,
+    "text": "gate drivers + isolation devices",
+    "href": "/products/power/gate-driver-ics/galvanic-isolated-gate-driver"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9675,
+    "w": 62,
+    "h": 22,
+    "text": "inverters",
+    "href": "/applications/automotive/electric-drivetrain/ev-inverters"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9717,
+    "w": 174,
+    "h": 22,
+    "text": "display with backlighting",
+    "href": "/products/power/led-driver-ics"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9759,
+    "w": 261,
+    "h": 22,
+    "text": "power supplies and voltage regulators",
+    "href": "/products/power/dc-dc-converters/integrated-pol-voltage-regulators"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9801,
+    "w": 113,
+    "h": 22,
+    "text": "microcontrollers",
+    "href": "/products/microcontroller"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9843,
+    "w": 201,
+    "h": 22,
+    "text": "dc and ac-dc power supplies",
+    "href": "/applications/solutions/power-conversion/ac-dc-power-conversion/auxiliary-power-supply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 9885,
+    "w": 54,
+    "h": 22,
+    "text": "sensors",
+    "href": "/products/sensor"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#weiterführende-inhalte",
+    "x": 16,
+    "y": 10005,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "weiterführende inhalte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 20,
+    "y": 10065,
+    "w": 316,
+    "h": 160,
+    "text": "applikation",
+    "file": "media_1f622c41af61df044d504d17a8917715d6"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 44,
+    "y": 10241,
+    "w": 268,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 44,
+    "y": 10285,
+    "w": 268,
+    "h": 28,
+    "text": "Electric vehicles (EV)"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 44,
+    "y": 10363,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/automotive/electric-drivetrain"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 356,
+    "y": 10065,
+    "w": 316,
+    "h": 160,
+    "text": "applikation",
+    "file": "media_1673eea1f3cc909d8a095aa797cea14f7f"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#abonnieren-sie-die-marketingkommunikation",
+    "x": 16,
+    "y": 10512,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 16,
+    "y": 10600,
+    "w": 328,
+    "h": 120,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 10752,
+    "w": 328,
+    "h": 50,
+    "text": "abonnieren",
+    "href": "/de/our-stories/public-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 16,
+    "y": 10961,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 16,
+    "y": 10922,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 11024,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 11064,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 11106,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 11148,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 11190,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 11232,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 196,
+    "y": 11024,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 11064,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 11106,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 11148,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 11216,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 11258,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 11300,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 11366,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 11406,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 11448,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 11490,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 32,
+    "y": 11556,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 11596,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 11638,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 11680,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 11722,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 11788,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 192,
+    "y": 11788,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 11818,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 188,
+    "y": 11818,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 21,
+    "y": 11853,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 11906,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 11906,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 11906,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 136,
+    "y": 11903,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 136,
+    "y": 11903,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 176,
+    "y": 11906,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 4,
+    "textNodes": 117,
+    "controls": 58,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 18,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 38,
+    "textHidden": 0,
+    "image": 7,
+    "imageHidden": 1
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"öffentliche verkehrsmittel\" (y 1201) has no origin heading",
+   "text": "öffentliche verkehrsmittel"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"elektrobusse\" (y 3508) has no origin heading",
+   "text": "elektrobusse"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"bahnverkehr der zukunft\" (y 5064) has no origin heading",
+   "text": "bahnverkehr der zukunft"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"halbleiter als schlüssel für eine saubere traktion\" (y 5759) has no origin heading",
+   "text": "halbleiter als schlüssel für eine saubere traktion"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"sic-technologie steigert die effizienz von straßenbahnen in münchen\" (y 7227) has no origin heading",
+   "text": "sic-technologie steigert die effizienz von straßenbahnen in münchen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"nachhaltiger schienenverkehr mit sic-hochleistungsmodulen\" (y 8511) has no origin heading",
+   "text": "nachhaltiger schienenverkehr mit sic-hochleistungsmodulen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"weitere produkte\" (y 9543) has no origin heading",
+   "text": "weitere produkte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"weiterführende inhalte\" (y 10005) has no origin heading",
+   "text": "weiterführende inhalte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"abonnieren sie die marketingkommunikation!\" (y 10512) has no origin heading",
+   "text": "abonnieren sie die marketingkommunikation!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"öffentliche verkehrsmittel\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "öffentliche verkehrsmittel"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"elektrobusse\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "elektrobusse"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"bahnverkehr der zukunft\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "bahnverkehr der zukunft"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"halbleiter als schlüssel für eine saubere traktion\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "halbleiter als schlüssel für eine saubere traktion"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"sic-technologie steigert die effizienz von straßenbahnen in münchen\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "sic-technologie steigert die effizienz von straßenbahnen in münchen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"nachhaltiger schienenverkehr mit sic-hochleistungsmodulen\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "nachhaltiger schienenverkehr mit sic-hochleistungsmodulen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"traktion\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "traktion"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr informationen zu unseren sic-produkten\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr informationen zu unseren sic-produkten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"play or pause video\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "play or pause video"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"silicon carbide coolsic tm mosfets\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "silicon carbide coolsic tm mosfets"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"gate drivers + isolation devices\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "gate drivers + isolation devices"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"inverters\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "inverters"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"display with backlighting\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "display with backlighting"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"power supplies and voltage regulators\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "power supplies and voltage regulators"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"microcontrollers\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "microcontrollers"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"dc and ac-dc power supplies\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "dc and ac-dc power supplies"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"sensors\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "sensors"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr erfahren\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr erfahren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"abonnieren\" served in band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "abonnieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\": 3 origin → 38 served visible",
+   "band": 1,
+   "origin": 3,
+   "eds": 38,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"öffentlicher stadtverkehr neu gedacht. transportlösungen für vielfältige bedürfnisse\": 0 origin → 7 served visible (+1 clipped away)",
+   "band": 1,
+   "origin": 0,
+   "eds": 7,
+   "hidden": 1
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 9,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 19,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 30,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 46,
+    "y": 77,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 286,
+    "w": 161,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 330,
+    "w": 233,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 374,
+    "w": 117,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 418,
+    "w": 255,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 462,
+    "w": 178,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 506,
+    "w": 160,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 568,
+    "w": 254,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 592,
+    "w": 236,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 616,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 640,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 664,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 688,
+    "w": 282,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 731,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 771,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 132,
+    "y": 771,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 60,
+    "y": 881,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 915,
+    "w": 86,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 949,
+    "w": 167,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 983,
+    "w": 208,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1009,
+    "w": 112,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1043,
+    "w": 243,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1069,
+    "w": 212,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1103,
+    "w": 257,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1129,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 848,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1200,
+    "w": 243,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1247,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1273,
+    "w": 93,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1515,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1541,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1567,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1593,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1619,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1645,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1671,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1697,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1723,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1749,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1775,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1801,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1843,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1869,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1895,
+    "w": 245,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1921,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1947,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1973,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1999,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2025,
+    "w": 234,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2267,
+    "w": 223,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2293,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 121,
+    "y": 2293,
+    "w": 8,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2335,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2361,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2387,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2413,
+    "w": 222,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2439,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2465,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2491,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2517,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2543,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2569,
+    "w": 282,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2595,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2621,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2647,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2673,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2715,
+    "w": 281,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2741,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2767,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2793,
+    "w": 306,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2819,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2845,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2871,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2897,
+    "w": 115,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2981,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3007,
+    "w": 250,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3033,
+    "w": 98,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3075,
+    "w": 258,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3101,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3127,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3153,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3179,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3205,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3231,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3257,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3283,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3309,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3335,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3361,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3387,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3413,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3439,
+    "w": 277,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3465,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3506,
+    "w": 120,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3553,
+    "w": 250,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3595,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3621,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3647,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3673,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3699,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3725,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3751,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3777,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3803,
+    "w": 258,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3829,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3855,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3881,
+    "w": 203,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3907,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3933,
+    "w": 208,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3959,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3985,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4011,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4037,
+    "w": 262,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4063,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4089,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4331,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4357,
+    "w": 166,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4399,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4425,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4451,
+    "w": 220,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4477,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4503,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4529,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4555,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4581,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4607,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4633,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4659,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4685,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4711,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4737,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4763,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4789,
+    "w": 221,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4815,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4841,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4883,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4909,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4935,
+    "w": 287,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4961,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4987,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5013,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5062,
+    "w": 232,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 5109,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5135,
+    "w": 133,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5177,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5203,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5229,
+    "w": 287,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5255,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5281,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5307,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5333,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5359,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5385,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5411,
+    "w": 154,
+    "h": 25
+   },
+   {
+    "x": 170,
+    "y": 5419,
+    "w": 7,
+    "h": 19
+   },
+   {
+    "x": 177,
+    "y": 5411,
+    "w": 131,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5437,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5463,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5489,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5515,
+    "w": 23,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5757,
+    "w": 288,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 5787,
+    "w": 156,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 5834,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5860,
+    "w": 65,
+    "h": 25
+   },
+   {
+    "x": 81,
+    "y": 5860,
+    "w": 233,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5886,
+    "w": 205,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5912,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5938,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5980,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6006,
+    "w": 287,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6032,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6058,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6084,
+    "w": 238,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6110,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6136,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6162,
+    "w": 119,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6204,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6230,
+    "w": 293,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6256,
+    "w": 286,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6282,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6308,
+    "w": 201,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6334,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6360,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6402,
+    "w": 234,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6428,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6454,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6480,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6506,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6532,
+    "w": 218,
+    "h": 25
+   },
+   {
+    "x": 48,
+    "y": 6574,
+    "w": 107,
+    "h": 25
+   },
+   {
+    "x": 48,
+    "y": 6632,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 48,
+    "y": 6690,
+    "w": 147,
+    "h": 25
+   },
+   {
+    "x": 48,
+    "y": 6748,
+    "w": 135,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6832,
+    "w": 185,
+    "h": 25
+   },
+   {
+    "x": 48,
+    "y": 6874,
+    "w": 177,
+    "h": 25
+   },
+   {
+    "x": 48,
+    "y": 6932,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 48,
+    "y": 6958,
+    "w": 54,
+    "h": 25
+   },
+   {
+    "x": 48,
+    "y": 7016,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7098,
+    "w": 122,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7139,
+    "w": 254,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 7169,
+    "w": 265,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 7199,
+    "w": 107,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 7246,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7272,
+    "w": 240,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7298,
+    "w": 161,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7340,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7366,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7392,
+    "w": 271,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7418,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7444,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7470,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7496,
+    "w": 178,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7522,
+    "w": 261,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7548,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7574,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7600,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7626,
+    "w": 245,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7652,
+    "w": 179,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7678,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7704,
+    "w": 141,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7730,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7756,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7782,
+    "w": 227,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7808,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7834,
+    "w": 255,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7860,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7886,
+    "w": 161,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7912,
+    "w": 169,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7938,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7964,
+    "w": 95,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8006,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8032,
+    "w": 228,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8058,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8084,
+    "w": 221,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8110,
+    "w": 140,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8136,
+    "w": 196,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8162,
+    "w": 226,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8188,
+    "w": 258,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8214,
+    "w": 263,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8240,
+    "w": 226,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8266,
+    "w": 215,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8308,
+    "w": 277,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8334,
+    "w": 81,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8415,
+    "w": 141,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 8451,
+    "w": 275,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 8487,
+    "w": 254,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 8748,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8774,
+    "w": 185,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8808,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8834,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8860,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8886,
+    "w": 223,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8912,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8938,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8964,
+    "w": 260,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8990,
+    "w": 197,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9016,
+    "w": 167,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9074,
+    "w": 277,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9100,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9126,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9152,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9178,
+    "w": 129,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 9483,
+    "w": 160,
+    "h": 32
+   },
+   {
+    "x": 56,
+    "y": 9532,
+    "w": 158,
+    "h": 22
+   },
+   {
+    "x": 214,
+    "y": 9530,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 229,
+    "y": 9532,
+    "w": 66,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 9574,
+    "w": 212,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 9616,
+    "w": 62,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 9658,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 9700,
+    "w": 261,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 9742,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 9784,
+    "w": 201,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 9826,
+    "w": 54,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 9953,
+    "w": 253,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 10191,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 44,
+    "y": 10234,
+    "w": 172,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 10285,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 10433,
+    "w": 204,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 10469,
+    "w": 293,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 10521,
+    "w": 228,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 10551,
+    "w": 275,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 10581,
+    "w": 312,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 10611,
+    "w": 106,
+    "h": 32
+   },
+   {
+    "x": 152,
+    "y": 10687,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 10937,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 10976,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 11018,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 11060,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 11102,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 11144,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 10937,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 10976,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 11018,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 11060,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 11086,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 11128,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 11170,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 11212,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 11279,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 11318,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 11360,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 11402,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 11469,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 11508,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 11550,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 11592,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 11634,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 11705,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 11705,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 11735,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 11735,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 11765,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 11765,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 11765,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 36,
+    "y": 77,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 286,
+    "w": 161,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 330,
+    "w": 233,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 374,
+    "w": 117,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 418,
+    "w": 255,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 462,
+    "w": 178,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 506,
+    "w": 160,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 568,
+    "w": 254,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 592,
+    "w": 236,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 616,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 640,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 664,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 688,
+    "w": 282,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 731,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 771,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 132,
+    "y": 771,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 40,
+    "y": 848,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 881,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 915,
+    "w": 86,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 949,
+    "w": 166,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 983,
+    "w": 208,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1009,
+    "w": 112,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1043,
+    "w": 243,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1069,
+    "w": 212,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1103,
+    "w": 257,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1129,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1200,
+    "w": 243,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1247,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1273,
+    "w": 93,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1515,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1541,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1567,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1593,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1619,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1645,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1671,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1697,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1723,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1749,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1775,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1801,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1843,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1869,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1895,
+    "w": 245,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1921,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1947,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1973,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1999,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2025,
+    "w": 234,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2268,
+    "w": 223,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2294,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 121,
+    "y": 2294,
+    "w": 8,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2336,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2362,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2388,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2414,
+    "w": 222,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2440,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2466,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2492,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2518,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2544,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2570,
+    "w": 282,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2596,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2622,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2648,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2674,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2716,
+    "w": 281,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2742,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2768,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2794,
+    "w": 306,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2820,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2846,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2872,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2898,
+    "w": 115,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2982,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3008,
+    "w": 250,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3034,
+    "w": 98,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3076,
+    "w": 258,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3102,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3128,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3154,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3180,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3206,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3232,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3258,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3284,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3310,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3336,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3362,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3388,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3414,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3440,
+    "w": 277,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3466,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3507,
+    "w": 120,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3554,
+    "w": 250,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3596,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3622,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3648,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3674,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3700,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3726,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3752,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3778,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3804,
+    "w": 258,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3830,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3856,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3882,
+    "w": 203,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3908,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3934,
+    "w": 208,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3960,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3986,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4012,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4038,
+    "w": 262,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4064,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4090,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4332,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4358,
+    "w": 166,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4400,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4426,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4452,
+    "w": 220,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4478,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4504,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4530,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4556,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4582,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4608,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4634,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4660,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4686,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4712,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4738,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4764,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4790,
+    "w": 221,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4816,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4842,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4884,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4910,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4936,
+    "w": 287,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4962,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4988,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5014,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5063,
+    "w": 232,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 5110,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5136,
+    "w": 133,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5178,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5204,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5230,
+    "w": 287,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5256,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5282,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5308,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5334,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5360,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5386,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5412,
+    "w": 154,
+    "h": 25
+   },
+   {
+    "x": 170,
+    "y": 5420,
+    "w": 7,
+    "h": 19
+   },
+   {
+    "x": 177,
+    "y": 5412,
+    "w": 131,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5438,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5464,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5490,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5516,
+    "w": 23,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5758,
+    "w": 288,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 5788,
+    "w": 156,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 5835,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5861,
+    "w": 65,
+    "h": 25
+   },
+   {
+    "x": 81,
+    "y": 5861,
+    "w": 233,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5887,
+    "w": 205,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5913,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5939,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5981,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6007,
+    "w": 287,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6033,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6059,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6085,
+    "w": 238,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6111,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6137,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6163,
+    "w": 119,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6205,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6231,
+    "w": 293,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6257,
+    "w": 286,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6283,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6309,
+    "w": 201,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6335,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6361,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6403,
+    "w": 234,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6429,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6455,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6481,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6507,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6533,
+    "w": 218,
+    "h": 25
+   },
+   {
+    "x": 64,
+    "y": 6585,
+    "w": 95,
+    "h": 22
+   },
+   {
+    "x": 64,
+    "y": 6659,
+    "w": 220,
+    "h": 22
+   },
+   {
+    "x": 64,
+    "y": 6733,
+    "w": 130,
+    "h": 22
+   },
+   {
+    "x": 64,
+    "y": 6807,
+    "w": 117,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6905,
+    "w": 185,
+    "h": 25
+   },
+   {
+    "x": 64,
+    "y": 6949,
+    "w": 157,
+    "h": 22
+   },
+   {
+    "x": 64,
+    "y": 7023,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 64,
+    "y": 7097,
+    "w": 219,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 7177,
+    "w": 121,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7226,
+    "w": 254,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 7256,
+    "w": 265,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 7286,
+    "w": 107,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 7333,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7359,
+    "w": 240,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7385,
+    "w": 157,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7427,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7453,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7479,
+    "w": 271,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7505,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7531,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7557,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7583,
+    "w": 178,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7609,
+    "w": 261,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7635,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7661,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7687,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7713,
+    "w": 245,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7739,
+    "w": 179,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7765,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7791,
+    "w": 141,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7817,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7843,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7869,
+    "w": 227,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7895,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7921,
+    "w": 255,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7947,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7973,
+    "w": 161,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 7999,
+    "w": 169,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8025,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8051,
+    "w": 95,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8093,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8119,
+    "w": 228,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8145,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8171,
+    "w": 221,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8197,
+    "w": 140,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8223,
+    "w": 196,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8249,
+    "w": 226,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8275,
+    "w": 258,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8301,
+    "w": 263,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8327,
+    "w": 226,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8353,
+    "w": 215,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8395,
+    "w": 277,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 8421,
+    "w": 81,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8510,
+    "w": 316,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 8540,
+    "w": 251,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 8787,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8813,
+    "w": 185,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8847,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8873,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8899,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8925,
+    "w": 223,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8951,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8977,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9003,
+    "w": 260,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9029,
+    "w": 197,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9055,
+    "w": 167,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9121,
+    "w": 277,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9147,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9173,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9199,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 9225,
+    "w": 129,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 9542,
+    "w": 160,
+    "h": 32
+   },
+   {
+    "x": 56,
+    "y": 9591,
+    "w": 158,
+    "h": 22
+   },
+   {
+    "x": 214,
+    "y": 9589,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 229,
+    "y": 9591,
+    "w": 66,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 9633,
+    "w": 212,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 9675,
+    "w": 62,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 9717,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 9759,
+    "w": 261,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 9801,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 9843,
+    "w": 201,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 9885,
+    "w": 54,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 10004,
+    "w": 253,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 10241,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 10285,
+    "w": 172,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 10364,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 10511,
+    "w": 204,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 10547,
+    "w": 293,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 10599,
+    "w": 228,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 10629,
+    "w": 275,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 10659,
+    "w": 312,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 10689,
+    "w": 106,
+    "h": 32
+   },
+   {
+    "x": 152,
+    "y": 10766,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 11025,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 11064,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 11106,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 11148,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 11190,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 11232,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 11025,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 11064,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 11106,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 11148,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 11174,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 11216,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 11258,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 11300,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 11367,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 11406,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 11448,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 11490,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 11557,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 11596,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 11638,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 11680,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 11722,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 11793,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 11793,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 11823,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 11823,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 11853,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 11853,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 11853,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

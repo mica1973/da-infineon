@@ -1,0 +1,32 @@
+{
+  "a": "stardust/replica/gates/all-1440/de-logout/origin.png",
+  "b": "stardust/replica/gates/all-1440/de-logout/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 900,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 169,
+  "pct": 0.01,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/de-logout/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 0,
+  "textBoxes": 3,
+  "textPixels": 33173,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0
+    },
+    {
+      "y0": 500,
+      "y1": 900,
+      "pct": 0
+    }
+  ]
+}

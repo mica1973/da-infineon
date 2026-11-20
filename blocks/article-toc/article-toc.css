@@ -1,0 +1,50 @@
+/* article-toc — in-page navigation box of an article column (mobile-first). */
+.article-toc {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 24px;
+  padding: 24px;
+  background: var(--ifx-surface-band);
+}
+
+.article-toc .article-toc-label :is(p, h2, h3, h4, h5, h6) {
+  margin: 0;
+  color: var(--ifx-ink);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0;
+}
+
+.article-toc .article-toc-list :is(ul, ol) {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  margin: 0;
+  padding: 0 0 0 16px;
+  border-left: 4px solid var(--ifx-border);
+  list-style: none;
+}
+
+.article-toc .article-toc-list a:any-link {
+  color: var(--ifx-ink);
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.article-toc .article-toc-list a:any-link:hover {
+  color: var(--ifx-teal);
+}
+
+@media (width >= 576px) {
+  .article-toc {
+    margin-bottom: 64px;
+  }
+}
+
+@media (width >= 768px) {
+  .article-toc .article-toc-list :is(ul, ol) {
+    padding-left: 24px;
+  }
+}

@@ -1,0 +1,17 @@
+cap-probe  base 1440 → probe 2560 (from DESIGN.json)
+live   https://www.infineon.com/de/thank-you
+  shell     1400px  max-width #container-f0f0c05cb9 > div.ifxcontainer.responsivegrid  (tier 0, holds 100% of the text)
+  content    624px  fixed     div.error.aem-GridColumn > div.error-component.button-comp > div.row > div.col-md-6.d-flex  (tier 7, holds 100% of the text)
+  modules  2 sections: capped 624 ×1 · full-bleed ×1
+  contentMaxWidth 624px (content) · shellMaxWidth 1400px · root #container-f0f0c05cb9 > div.ifxcontainer.responsivegrid
+build  http://localhost:8791/de-thank-you-proposed.html
+  shell     1400px  max-width body > main.root > div.cmp-container > div.ifxcontainer.ifx-fixed  (tier 2, holds 100% of the text)
+  content    624px  fixed     div.ifxcontainer.ifx-fixed > section.ty > div.ty__row > div.ty__body  (tier 5, holds 100% of the text)
+  modules  2 sections: capped 624 ×1 · full-bleed ×1
+  contentMaxWidth 624px (content) · shellMaxWidth 1400px · root body > main.root
+rows
+  ✓ wrapper cap: live 624px = build 624px (±20)
+  ⚠ outer shell: live 1400px (#container-f0f0c05cb9 > div.ifxcontainer.responsivegrid) encloses the 624px wrapper cap — informational, no content bound of its own
+  ✓ module 1/2: 624px = 624px
+  ✓ module 2/2: full-bleed on both
+cap-probe: PASS at 2560 — 0 of 4 rows failed (evidence stardust/replica/gates/de-thank-you-2560/cap-iter.json)

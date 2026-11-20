@@ -1,0 +1,4460 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:15:33.648Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/micromobility",
+  "at": "2026-11-18T23:15:11.677Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7045,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems0",
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems1",
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems2",
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems3",
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems4",
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 714,
+    "y": 16,
+    "w": 197,
+    "h": 36,
+    "label": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die suche zu aktivieren.",
+    "value": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die ",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "text": "navbardropdown"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "label": "navbardropdown",
+    "value": "navbardropdown",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-1",
+    "x": 1072,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.nav-item.desktopProfile > div.login-dropdown > button.login-button",
+    "x": 1132,
+    "y": 14,
+    "w": 248,
+    "h": 40,
+    "text": "anmeldung zu myinfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 254,
+    "y": 86,
+    "w": 195,
+    "h": 20,
+    "text": "mikromobilität für grünere städte",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "company-01",
+    "file": "mobilty-banner-micromobility.jpg:asset-2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 56,
+    "level": 1,
+    "text": "mikromobilität für grünere städte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 242,
+    "y": 555,
+    "w": 956,
+    "h": 72,
+    "text": "Städte auf der ganzen Welt erkennen zunehmend die Bedeutung der Mikromobilität f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 242,
+    "y": 643,
+    "w": 111,
+    "h": 28,
+    "text": "Elektromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 266,
+    "y": 687,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 342,
+    "y": 687,
+    "w": 72,
+    "h": 20,
+    "level": 4,
+    "text": "juli 07, 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 821,
+    "w": 289,
+    "h": 22,
+    "text": "optimierung des verkehrsflusses in städten",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 855,
+    "w": 775,
+    "h": 22,
+    "text": "die entscheidende rolle von halbleitern bei der weiterentwicklung von mikromobil",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > p",
+    "x": 224,
+    "y": 787,
+    "w": 177,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-1d29a6a39a > h2#anch1",
+    "x": 200,
+    "y": 975,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "optimierung des verkehrsflusses in städten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-1be567742e > p > b",
+    "x": 200,
+    "y": 1027,
+    "w": 269,
+    "h": 25,
+    "text": "Mikromobilität bringt Veränderung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-1be567742e > p",
+    "x": 200,
+    "y": 1069,
+    "w": 1040,
+    "h": 130,
+    "text": "Städte betonen immer stärker die Bedeutung dessen, was als \"Mikromobilität\" beze"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 1231,
+    "w": 1040,
+    "h": 585,
+    "text": "electric light vehicles",
+    "file": "light-electric-vehicles-in-the-city.png:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-77be9df9c8 > p",
+    "x": 200,
+    "y": 1848,
+    "w": 1040,
+    "h": 78,
+    "text": "Diese Verkehrsmittel bieten Einwohnern und Besuchern ein gut vernetztes, nahtlos"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-77be9df9c8 > p",
+    "x": 200,
+    "y": 1942,
+    "w": 1040,
+    "h": 104,
+    "text": "Eine Voraussetzung für den Erfolg von Mikromobilitätskonzepten ist, dass Städte "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-77be9df9c8 > p > a",
+    "x": 324,
+    "y": 2020,
+    "w": 236,
+    "h": 25,
+    "text": "leichte elektrofahrzeuge (lev),",
+    "href": "/language-masters/en/applications/automotive/light-electric-vehicles"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 2078,
+    "w": 1040,
+    "h": 585,
+    "text": "infographic what is micromobility",
+    "file": "infographic-what-is-micromobility-en.jpg"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-6afd795dfa > h2.dynamicAnchors.cmp-title__text",
+    "x": 200,
+    "y": 2695,
+    "w": 1040,
+    "h": 48,
+    "level": 2,
+    "text": "mikromobilität für grünere städte"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-e65c1996c7 > h5#anch3",
+    "x": 200,
+    "y": 2807,
+    "w": 1040,
+    "h": 28,
+    "level": 5,
+    "text": "die entscheidende rolle von halbleitern bei der weiterentwicklung von mikromobilitätslösungen für moderne städte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-21b7c0479c > p",
+    "x": 200,
+    "y": 2851,
+    "w": 1040,
+    "h": 52,
+    "text": "Laut einem Bericht , ist der globale Mikromobilitätsmarkt heute etwa 180 Milliar"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-21b7c0479c > p > a",
+    "x": 292,
+    "y": 2851,
+    "w": 73,
+    "h": 25,
+    "text": "mckinsey",
+    "href": "/industries/automotive-and-assembly/our-insights/the-future-of-mobility-mobility-evolves"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-21b7c0479c > p",
+    "x": 200,
+    "y": 2919,
+    "w": 1040,
+    "h": 130,
+    "text": "Im Mittelpunkt moderner Mikromobilitätslösungen stehen fortschrittliche Halbleit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-21b7c0479c > p",
+    "x": 200,
+    "y": 3065,
+    "w": 1040,
+    "h": 104,
+    "text": "Zweitens verlassen sich Smart Cities auf den Austausch von Daten zwischen versch"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-21b7c0479c > p",
+    "x": 200,
+    "y": 3185,
+    "w": 1040,
+    "h": 78,
+    "text": "Autonome und halbautonome Mikromobilitätslösungen sind in Sicht und versprechen "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-21b7c0479c > p",
+    "x": 200,
+    "y": 3279,
+    "w": 1040,
+    "h": 78,
+    "text": "Halbleiter tragen zur gesamten Benutzererfahrung bei, indem sie intuitive Touchs"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 3421,
+    "w": 1040,
+    "h": 585,
+    "text": "mobility-scooter",
+    "file": "mobility-scooter.jpg:asset-2000-16x9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-8ed3784474 > h2.dynamicAnchors.heading-05",
+    "x": 224,
+    "y": 4062,
+    "w": 992,
+    "h": 28,
+    "level": 2,
+    "text": "anwendungsfall"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-eec4ab5fa3 > h2#robots",
+    "x": 224,
+    "y": 4098,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "lieferroboter erweitern und ergänzen bereits fortschrittliche mobilitätsformen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-178e75252f > p",
+    "x": 224,
+    "y": 4150,
+    "w": 992,
+    "h": 78,
+    "text": "Autonome Lieferroboter sind ein vielversprechendes Feld für Logistikunternehmen,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-178e75252f > p",
+    "x": 224,
+    "y": 4244,
+    "w": 992,
+    "h": 78,
+    "text": "Spezialisierte Unternehmen, viele davon in Asien, gehen mit gutem Beispiel voran"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-178e75252f > p",
+    "x": 224,
+    "y": 4338,
+    "w": 992,
+    "h": 104,
+    "text": "Je nach Anwendungsbereich gibt es verschiedene Robottypen. Langsame, unbemannte "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-178e75252f > p",
+    "x": 224,
+    "y": 4458,
+    "w": 992,
+    "h": 52,
+    "text": "Infineon liefert die gesamte Elektronik für diese Arten von Servicerobotern und "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 4582,
+    "w": 1040,
+    "h": 585,
+    "text": "delivery robots",
+    "file": "self-driving-delivery-robot.png:asset-20"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-85a85765e9 > h2.dynamicAnchors.heading-03",
+    "x": 224,
+    "y": 5223,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "wir revolutionieren den urbanen verkehr durch mikromobilitätslösungen:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5277,
+    "w": 171,
+    "h": 22,
+    "text": "optimos™ strongirfet™",
+    "href": "/products/power/mosfet/n-channel/optimos-strongirfet"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5319,
+    "w": 63,
+    "h": 22,
+    "text": "mosfets",
+    "href": "/products/power/mosfet"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5361,
+    "w": 173,
+    "h": 22,
+    "text": "eicedriver™ gate drivers",
+    "href": "/products/power/gate-driver-ics"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5403,
+    "w": 186,
+    "h": 22,
+    "text": "traveo ™ microcontrollers",
+    "href": "/products/microcontroller/32-bit-traveo-t2g-arm-cortex"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5445,
+    "w": 328,
+    "h": 22,
+    "text": "xensiv™ magnetic current and position sensors",
+    "href": "/products/sensor/magnetic-position-sensors"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_ifxcontainer_643550017_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 5621,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 5717,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "woman-charging-bike-battery.png:asset-68"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 5933,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 124,
+    "y": 6001,
+    "w": 323,
+    "h": 56,
+    "text": "Batteriewechsel: Die Zukunft der urbanen Mikromobilität"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 6079,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/micromobility-battery-swapping"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 203,
+    "y": 6279,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 732,
+    "y": 6279,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 732,
+    "y": 6363,
+    "w": 136,
+    "h": 48,
+    "text": "abonnieren",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 96,
+    "y": 6571,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 367,
+    "y": 6571,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6627,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6669,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6711,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6753,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6795,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 619,
+    "y": 6571,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6627,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6669,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6711,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6753,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6795,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6837,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 926,
+    "y": 6571,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 6627,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 6669,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 6711,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 1193,
+    "y": 6571,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6627,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6669,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6711,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6753,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 96,
+    "y": 6975,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 272,
+    "y": 6975,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 380,
+    "y": 6975,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 647,
+    "y": 6980,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 1168,
+    "y": 6979,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 1208,
+    "y": 6979,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 1248,
+    "y": 6979,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 1288,
+    "y": 6976,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 1288,
+    "y": 6980,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 1328,
+    "y": 6979,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 82,
+    "controls": 51,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/micromobility",
+  "at": "2026-11-18T23:15:33.538Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7107,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 166,
+    "y": 21,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/products"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 243,
+    "y": 21,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/applications"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 353,
+    "y": 21,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/design-resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 487,
+    "y": 21,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 629,
+    "y": 21,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/about"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "sprache"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "sprache",
+    "value": "sprache",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-login > p > a",
+    "x": 1132,
+    "y": 13,
+    "w": 207,
+    "h": 40,
+    "text": "anmeldung zu myinfineon",
+    "href": "/de/login.login.de.json"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 254,
+    "y": 85,
+    "w": 195,
+    "h": 20,
+    "text": "mikromobilität für grünere städte",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "company-01",
+    "file": "media_1b0430d552695512ff4ce6670d74992419"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#mikromobilität-für-grünere-städte",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 56,
+    "level": 1,
+    "text": "mikromobilität für grünere städte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 242,
+    "y": 555,
+    "w": 956,
+    "h": 72,
+    "text": "Städte auf der ganzen Welt erkennen zunehmend die Bedeutung der Mikromobilität f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 242,
+    "y": 643,
+    "w": 111,
+    "h": 28,
+    "text": "Elektromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 266,
+    "y": 687,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#juli-07-2025",
+    "x": 342,
+    "y": 687,
+    "w": 72,
+    "h": 20,
+    "level": 4,
+    "text": "juli 07, 2025"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-toc.block > div.article-toc-label > p",
+    "x": 224,
+    "y": 787,
+    "w": 992,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 821,
+    "w": 289,
+    "h": 22,
+    "text": "optimierung des verkehrsflusses in städten",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 855,
+    "w": 775,
+    "h": 22,
+    "text": "die entscheidende rolle von halbleitern bei der weiterentwicklung von mikromobil",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > h2#optimierung-des-verkehrsflusses-in-städten",
+    "x": 200,
+    "y": 967,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "optimierung des verkehrsflusses in städten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 200,
+    "y": 1019,
+    "w": 269,
+    "h": 25,
+    "text": "Mikromobilität bringt Veränderung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1061,
+    "w": 1040,
+    "h": 130,
+    "text": "Städte betonen immer stärker die Bedeutung dessen, was als \"Mikromobilität\" beze"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-32 > picture > img",
+    "x": 200,
+    "y": 1223,
+    "w": 1040,
+    "h": 585,
+    "text": "electric light vehicles",
+    "file": "media_156bbabd950915a130e45ec3fce492f1a4"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1840,
+    "w": 1040,
+    "h": 78,
+    "text": "Diese Verkehrsmittel bieten Einwohnern und Besuchern ein gut vernetztes, nahtlos"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1934,
+    "w": 1040,
+    "h": 104,
+    "text": "Eine Voraussetzung für den Erfolg von Mikromobilitätskonzepten ist, dass Städte "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 324,
+    "y": 2012,
+    "w": 236,
+    "h": 25,
+    "text": "leichte elektrofahrzeuge (lev),",
+    "href": "/language-masters/en/applications/automotive/light-electric-vehicles"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-32 > picture > img",
+    "x": 200,
+    "y": 2070,
+    "w": 1040,
+    "h": 585,
+    "text": "infographic what is micromobility",
+    "file": "media_11cc5525b8c0a20a991899dc0d41c284f6"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > h2#mikromobilität-für-grünere-städte-1",
+    "x": 200,
+    "y": 2687,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "mikromobilität für grünere städte"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > h5#die-entscheidende-rolle-von-halbleitern-bei-der-weiterentwicklung-von-mikromobilitätslösungen-für-moderne-städte",
+    "x": 200,
+    "y": 2755,
+    "w": 1040,
+    "h": 28,
+    "level": 5,
+    "text": "die entscheidende rolle von halbleitern bei der weiterentwicklung von mikromobilitätslösungen für moderne städte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2799,
+    "w": 1040,
+    "h": 52,
+    "text": "Laut einem Bericht , ist der globale Mikromobilitätsmarkt heute etwa 180 Milliar"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 292,
+    "y": 2799,
+    "w": 73,
+    "h": 25,
+    "text": "mckinsey",
+    "href": "/industries/automotive-and-assembly/our-insights/the-future-of-mobility-mobility-evolves"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2867,
+    "w": 1040,
+    "h": 130,
+    "text": "Im Mittelpunkt moderner Mikromobilitätslösungen stehen fortschrittliche Halbleit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3013,
+    "w": 1040,
+    "h": 104,
+    "text": "Zweitens verlassen sich Smart Cities auf den Austausch von Daten zwischen versch"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3133,
+    "w": 1040,
+    "h": 78,
+    "text": "Autonome und halbautonome Mikromobilitätslösungen sind in Sicht und versprechen "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3227,
+    "w": 1040,
+    "h": 78,
+    "text": "Halbleiter tragen zur gesamten Benutzererfahrung bei, indem sie intuitive Touchs"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-32 > picture > img",
+    "x": 200,
+    "y": 3337,
+    "w": 1040,
+    "h": 585,
+    "text": "mobility-scooter",
+    "file": "media_162595f2f00a8adfc2e897206ca463cad8"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head > h5#anwendungsfall",
+    "x": 224,
+    "y": 4010,
+    "w": 992,
+    "h": 36,
+    "level": 5,
+    "text": "anwendungsfall"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head > h2#lieferroboter-erweitern-und-ergänzen-bereits-fortschrittliche-mobilitätsformen",
+    "x": 224,
+    "y": 4062,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "lieferroboter erweitern und ergänzen bereits fortschrittliche mobilitätsformen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 4114,
+    "w": 992,
+    "h": 78,
+    "text": "Autonome Lieferroboter sind ein vielversprechendes Feld für Logistikunternehmen,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 4208,
+    "w": 992,
+    "h": 78,
+    "text": "Spezialisierte Unternehmen, viele davon in Asien, gehen mit gutem Beispiel voran"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 4302,
+    "w": 992,
+    "h": 104,
+    "text": "Je nach Anwendungsbereich gibt es verschiedene Robottypen. Langsame, unbemannte "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 4422,
+    "w": 992,
+    "h": 52,
+    "text": "Infineon liefert die gesamte Elektronik für diese Arten von Servicerobotern und "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-32 > picture > img",
+    "x": 200,
+    "y": 4578,
+    "w": 1040,
+    "h": 585,
+    "text": "delivery robots",
+    "file": "media_19b3a67b5a6537948102060b7da902472c"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head > h2#wir-revolutionieren-den-urbanen-verkehr-durch-mikromobilitätslösungen",
+    "x": 224,
+    "y": 5251,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "wir revolutionieren den urbanen verkehr durch mikromobilitätslösungen:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5305,
+    "w": 171,
+    "h": 22,
+    "text": "optimos™ strongirfet™",
+    "href": "/products/power/mosfet/n-channel/optimos-strongirfet"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5347,
+    "w": 63,
+    "h": 22,
+    "text": "mosfets",
+    "href": "/products/power/mosfet"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5389,
+    "w": 173,
+    "h": 22,
+    "text": "eicedriver™ gate drivers",
+    "href": "/products/power/gate-driver-ics"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5431,
+    "w": 186,
+    "h": 22,
+    "text": "traveo ™ microcontrollers",
+    "href": "/products/microcontroller/32-bit-traveo-t2g-arm-cortex"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 240,
+    "y": 5473,
+    "w": 328,
+    "h": 22,
+    "text": "xensiv™ magnetic current and position sensors",
+    "href": "/products/sensor/magnetic-position-sensors"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#weitere-geschichten",
+    "x": 96,
+    "y": 5681,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 5777,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_17cc179c1beb67673c89c69a6a95807ccd"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 5993,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 6061,
+    "w": 323,
+    "h": 56,
+    "text": "Batteriewechsel: Die Zukunft der urbanen Mikromobilität"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 128,
+    "y": 6139,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/micromobility-battery-swapping"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#abonnieren-sie-die-marketingkommunikation",
+    "x": 203,
+    "y": 6339,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 732,
+    "y": 6339,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 732,
+    "y": 6423,
+    "w": 138,
+    "h": 50,
+    "text": "abonnieren",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 96,
+    "y": 6672,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 96,
+    "y": 6633,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 367,
+    "y": 6633,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6689,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6731,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6773,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6815,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6857,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 619,
+    "y": 6633,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6689,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6731,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6773,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6815,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6857,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6899,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 926,
+    "y": 6633,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 6689,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 6731,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 6773,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 1193,
+    "y": 6633,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6689,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6731,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6773,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6815,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 7037,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 272,
+    "y": 7037,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 380,
+    "y": 7037,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 7037,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 647,
+    "y": 7042,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 7041,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1208,
+    "y": 7041,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1248,
+    "y": 7041,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1288,
+    "y": 7038,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 1288,
+    "y": 7038,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1328,
+    "y": 7041,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 82,
+    "controls": 54,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "mikromobilität für grünere städte",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 11,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 20,
+    "textHidden": 0,
+    "image": 5,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"optimierung des verkehrsflusses in städten\" (y 967) has no origin heading",
+   "text": "optimierung des verkehrsflusses in städten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"mikromobilität für grünere städte\" (y 2687) has no origin heading",
+   "text": "mikromobilität für grünere städte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"lieferroboter erweitern und ergänzen bereits fortschrittliche mobilitätsformen\" (y 4062) has no origin heading",
+   "text": "lieferroboter erweitern und ergänzen bereits fortschrittliche mobilitätsformen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wir revolutionieren den urbanen verkehr durch mikromobilitätslösungen:\" (y 5251) has no origin heading",
+   "text": "wir revolutionieren den urbanen verkehr durch mikromobilitätslösungen:"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"weitere geschichten\" (y 5681) has no origin heading",
+   "text": "weitere geschichten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"abonnieren sie die marketingkommunikation!\" (y 6339) has no origin heading",
+   "text": "abonnieren sie die marketingkommunikation!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"optimierung des verkehrsflusses in städten\" served in band \"mikromobilität für grünere städte\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "optimierung des verkehrsflusses in städten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"die entscheidende rolle von halbleitern bei der weiterentwicklung von mikromobil\" served in band \"mikromobilität für grünere städte\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "die entscheidende rolle von halbleitern bei der weiterentwicklung von mikromobil"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"leichte elektrofahrzeuge (lev),\" served in band \"mikromobilität für grünere städte\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "leichte elektrofahrzeuge (lev),"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mckinsey\" served in band \"mikromobilität für grünere städte\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mckinsey"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"optimos™ strongirfet™\" served in band \"mikromobilität für grünere städte\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "optimos™ strongirfet™"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mosfets\" served in band \"mikromobilität für grünere städte\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mosfets"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"eicedriver™ gate drivers\" served in band \"mikromobilität für grünere städte\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "eicedriver™ gate drivers"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"traveo ™ microcontrollers\" served in band \"mikromobilität für grünere städte\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "traveo ™ microcontrollers"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"xensiv™ magnetic current and position sensors\" served in band \"mikromobilität für grünere städte\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "xensiv™ magnetic current and position sensors"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr entdecken\" served in band \"mikromobilität für grünere städte\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"abonnieren\" served in band \"mikromobilität für grünere städte\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "abonnieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"mikromobilität für grünere städte\": 3 origin → 20 served visible",
+   "band": 1,
+   "origin": 3,
+   "eds": 20,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"mikromobilität für grünere städte\": 0 origin → 5 served visible",
+   "band": 1,
+   "origin": 0,
+   "eds": 5,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 6,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 11,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 19,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 166,
+    "y": 23,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 23,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 23,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 23,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 23,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 23,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 86,
+    "w": 195,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 620,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 556,
+    "w": 924,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 580,
+    "w": 956,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 604,
+    "w": 64,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 647,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 687,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 687,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 252,
+    "y": 821,
+    "w": 289,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 855,
+    "w": 775,
+    "h": 22
+   },
+   {
+    "x": 224,
+    "y": 788,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 973,
+    "w": 510,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1027,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1069,
+    "w": 940,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1095,
+    "w": 1012,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1121,
+    "w": 959,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1147,
+    "w": 1030,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1173,
+    "w": 194,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1848,
+    "w": 1026,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1874,
+    "w": 1006,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1900,
+    "w": 574,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1942,
+    "w": 1018,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1968,
+    "w": 968,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1994,
+    "w": 984,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2020,
+    "w": 124,
+    "h": 25
+   },
+   {
+    "x": 324,
+    "y": 2020,
+    "w": 236,
+    "h": 25
+   },
+   {
+    "x": 561,
+    "y": 2020,
+    "w": 590,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2693,
+    "w": 507,
+    "h": 51
+   },
+   {
+    "x": 200,
+    "y": 2807,
+    "w": 976,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 2851,
+    "w": 92,
+    "h": 25
+   },
+   {
+    "x": 292,
+    "y": 2851,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 365,
+    "y": 2851,
+    "w": 865,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2877,
+    "w": 778,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2919,
+    "w": 1010,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2945,
+    "w": 999,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2971,
+    "w": 1032,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2997,
+    "w": 884,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3023,
+    "w": 658,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3065,
+    "w": 1017,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3091,
+    "w": 1036,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3117,
+    "w": 1036,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3143,
+    "w": 165,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3185,
+    "w": 937,
+    "h": 25
+   },
+   {
+    "x": 1137,
+    "y": 3185,
+    "w": 81,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3211,
+    "w": 990,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3237,
+    "w": 639,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3279,
+    "w": 1024,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3305,
+    "w": 1021,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3331,
+    "w": 418,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4062,
+    "w": 135,
+    "h": 28
+   },
+   {
+    "x": 224,
+    "y": 4096,
+    "w": 917,
+    "h": 40
+   },
+   {
+    "x": 224,
+    "y": 4150,
+    "w": 945,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4176,
+    "w": 986,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4202,
+    "w": 52,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4244,
+    "w": 960,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4270,
+    "w": 953,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4296,
+    "w": 414,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4338,
+    "w": 957,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4364,
+    "w": 959,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4390,
+    "w": 967,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4416,
+    "w": 373,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4458,
+    "w": 933,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4484,
+    "w": 705,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 5221,
+    "w": 860,
+    "h": 40
+   },
+   {
+    "x": 240,
+    "y": 5277,
+    "w": 171,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5319,
+    "w": 63,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5361,
+    "w": 173,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5403,
+    "w": 186,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5445,
+    "w": 328,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 5619,
+    "w": 309,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 5933,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6001,
+    "w": 274,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6029,
+    "w": 200,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6080,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 6277,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 6325,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 6278,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 6308,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 772,
+    "y": 6376,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6572,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6627,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6669,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6711,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6753,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6795,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6572,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 6627,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6669,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6711,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6753,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6795,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6837,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6572,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 6627,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6669,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6711,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6572,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 6627,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6669,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6711,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6753,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 6980,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 6980,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 6980,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 6980,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 6980,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 6980,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 6980,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 22,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 85,
+    "w": 195,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 620,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 556,
+    "w": 924,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 580,
+    "w": 956,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 604,
+    "w": 64,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 647,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 687,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 687,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 224,
+    "y": 788,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 821,
+    "w": 289,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 855,
+    "w": 775,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 965,
+    "w": 510,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1019,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1061,
+    "w": 940,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1087,
+    "w": 1012,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1113,
+    "w": 959,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1139,
+    "w": 1030,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1165,
+    "w": 194,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1840,
+    "w": 1026,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1866,
+    "w": 1006,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1892,
+    "w": 574,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1934,
+    "w": 1018,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1960,
+    "w": 968,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1986,
+    "w": 984,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2012,
+    "w": 124,
+    "h": 25
+   },
+   {
+    "x": 324,
+    "y": 2012,
+    "w": 236,
+    "h": 25
+   },
+   {
+    "x": 561,
+    "y": 2012,
+    "w": 590,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2685,
+    "w": 394,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2755,
+    "w": 976,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 2799,
+    "w": 92,
+    "h": 25
+   },
+   {
+    "x": 292,
+    "y": 2799,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 365,
+    "y": 2799,
+    "w": 865,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2825,
+    "w": 778,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2867,
+    "w": 1010,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2893,
+    "w": 999,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2919,
+    "w": 1032,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2945,
+    "w": 884,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2971,
+    "w": 658,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3013,
+    "w": 1017,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3039,
+    "w": 1036,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3065,
+    "w": 1036,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3091,
+    "w": 165,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3133,
+    "w": 940,
+    "h": 25
+   },
+   {
+    "x": 1140,
+    "y": 3133,
+    "w": 77,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3159,
+    "w": 990,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3185,
+    "w": 639,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3227,
+    "w": 1024,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3253,
+    "w": 1021,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3279,
+    "w": 418,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4008,
+    "w": 190,
+    "h": 40
+   },
+   {
+    "x": 224,
+    "y": 4060,
+    "w": 917,
+    "h": 40
+   },
+   {
+    "x": 224,
+    "y": 4114,
+    "w": 945,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4140,
+    "w": 986,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4166,
+    "w": 52,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4208,
+    "w": 960,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4234,
+    "w": 953,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4260,
+    "w": 414,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4302,
+    "w": 957,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4328,
+    "w": 959,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4354,
+    "w": 967,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4380,
+    "w": 373,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4422,
+    "w": 933,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 4448,
+    "w": 705,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 5249,
+    "w": 860,
+    "h": 40
+   },
+   {
+    "x": 240,
+    "y": 5305,
+    "w": 171,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5347,
+    "w": 63,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5389,
+    "w": 173,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5431,
+    "w": 186,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 5473,
+    "w": 328,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 5679,
+    "w": 309,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 5993,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6061,
+    "w": 274,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6089,
+    "w": 200,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 6140,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 6337,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 6385,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 6338,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 6368,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 773,
+    "y": 6437,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6634,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6689,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6731,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6773,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6815,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6857,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6634,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 6689,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6731,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6773,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6815,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6857,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6899,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6634,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 6689,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6731,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6773,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6634,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 6689,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6731,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6773,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6815,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 7042,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 7042,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 7042,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 7042,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 7042,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 7042,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 7042,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

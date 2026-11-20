@@ -1,0 +1,407 @@
+{
+  "units": {
+    "foundation": {
+      "status": "done",
+      "kind": "foundation",
+      "templates": [
+        "landing",
+        "pillar",
+        "article",
+        "static",
+        "listing",
+        "reference",
+        "utility"
+      ],
+      "startedAt": "2026-11-18T05:54:41.902Z",
+      "endedAt": "2026-11-18T06:44:42.648Z",
+      "blocks": 2,
+      "pages": 0,
+      "gates": {
+        "360": {
+          "chromeParity": "33 deltas, 30 y-offset only (shell page height); Deutsch label reads English off /de",
+          "footerCrop": "0.55%"
+        },
+        "1440": {
+          "chromeParity": "3 deltas (login span→a, copyright tag, logo file name)",
+          "footerCrop": "0.27%"
+        },
+        "chrome": "measured on aem.page/drafts/shell; aem.live CDN cache lagging"
+      },
+      "verdict": "foundation: files 23, lint ok, nav/footer live yes, chrome-parity 1440 3 / 360 33 (30 offset-only); footer crop 0.27% / 0.55%"
+    },
+    "archetype-landing": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "landing"
+      ],
+      "archetype": "index",
+      "pages": 1,
+      "startedAt": "2026-11-18T06:46:51.000Z",
+      "endedAt": "2026-11-18T07:32:12.000Z",
+      "verdict": "archetype-landing: index live yes, blocks 7, gate 1440 4.28% Δh 0 / 360 8.64% Δh −230 px (2.1%), clipped 0, missing 0, requests 3, rounds 3",
+      "gates": {
+        "360": {
+          "archetype": "8.64%",
+          "dh": -230
+        },
+        "1440": {
+          "archetype": "4.28%",
+          "dh": 0
+        },
+        "note": "units criterion FAIL from units.json footer selector (queued to C-final); English root shows German nav/footer (queued)"
+      }
+    },
+    "cluster-landing": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "landing"
+      ],
+      "startedAt": "2026-11-18T07:32:28.000Z",
+      "endedAt": "2026-11-18T08:11:24.000Z",
+      "verdict": "cluster-landing: pages 1/1 live, blocks 7, gate 1440 4.84% / 360 8.45%, requests 0",
+      "gates": {
+        "360": {
+          "de": "8.45%"
+        },
+        "1440": {
+          "de": "4.84%"
+        },
+        "note": "360 passes via documented override (hero rotation hides slide-1 link)"
+      }
+    },
+    "archetype-pillar": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "pillar"
+      ],
+      "archetype": "de-our-stories-electromobility-greener-future",
+      "pages": 1,
+      "startedAt": "2026-11-18T07:20:21.000Z",
+      "endedAt": "2026-11-18T07:45:45.000Z",
+      "verdict": "archetype-pillar: de-our-stories-electromobility-greener-future live yes, blocks 3, gate 1440 0.3% Δh -2px / 360 0.66% Δh -9px, clipped 0, missing 0, requests 1, rounds 0",
+      "gates": {
+        "360": {
+          "archetype": "0.66%",
+          "dh": -9
+        },
+        "1440": {
+          "archetype": "0.3%",
+          "dh": -2
+        }
+      }
+    },
+    "cluster-pillar": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "pillar"
+      ],
+      "startedAt": "2026-11-18T08:43:26.875Z",
+      "endedAt": "2026-11-18T09:56:51.391Z",
+      "verdict": "cluster-pillar: pages 4/4 live, blocks 3, gate 1440 9.24% / 360 12.63%, requests 0",
+      "gates": {
+        "360": {
+          "de-our-stories-we-power-ai": "10.54%",
+          "de-our-stories-software-defined-vehicles": "12.1%",
+          "de-our-stories-power-infrastructure-renewables": "12.9%",
+          "de-our-stories-artificial-intelligence-in-everyday-life": "14.98%"
+        },
+        "1440": {
+          "de-our-stories-we-power-ai": "8.13%",
+          "de-our-stories-power-infrastructure-renewables": "8.45%",
+          "de-our-stories-artificial-intelligence-in-everyday-life": "9.73%",
+          "de-our-stories-software-defined-vehicles": "10.64%"
+        },
+        "failing": [
+          "de-our-stories-software-defined-vehicles@1440",
+          "all four @360"
+        ],
+        "note": "3 rounds spent; round 3 gated on local code via proxy, preview re-gate after push pending (C-final/gate-all); known fix: rail described letter-spacing -0.2px revert"
+      }
+    },
+    "archetype-article": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "article"
+      ],
+      "archetype": "de-our-stories-semiconductors-driving-decarbonization",
+      "pages": 1,
+      "startedAt": "2026-11-18T08:43:26.777Z",
+      "endedAt": "2026-11-18T09:14:23.874Z",
+      "verdict": "archetype-article: de-our-stories-semiconductors-driving-decarbonization live yes, blocks 4, gate 1440 0.22% Δh -2 / 360 4.92% Δh -13, clipped 0, missing 0, requests 0, rounds 2",
+      "gates": {
+        "360": {
+          "archetype": "4.92%",
+          "dh": -13
+        },
+        "1440": {
+          "archetype": "0.22%",
+          "dh": -2
+        }
+      },
+      "note": "1440 on preview; 360 via local code proxy — teaser-row fix ships with this checkpoint, preview re-gate at 360 is the first step of cluster-article"
+    },
+    "cluster-article": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "article"
+      ],
+      "startedAt": "2026-11-18T09:14:35.515Z",
+      "pages": 38,
+      "blocks": 4,
+      "endedAt": "2026-11-18T14:05:52.543Z",
+      "verdict": "cluster-article: pages 38/38 live, blocks 4, gate 1440 21.58% / 360 21.65% (worst), requests 0",
+      "gates": {
+        "360": {
+          "pass": 20,
+          "of": 38,
+          "worst": "21.65%"
+        },
+        "1440": {
+          "pass": 20,
+          "of": 38,
+          "worst": "21.58%"
+        },
+        "bothWidths": "14/38 (was 8)"
+      },
+      "note": "close round: template-wide heading gaps + end-of-article gap carried as section tokens, article-4 requests applied (gap-0 measured and dropped); all failing rows fail on pixel only (clipped 0, missing 0, |dh| <= 4.13%); residuals per page in stardust/.work/rollout/cluster-article/residuals.md; next measured fix: rail-to-newsletter gap for rails with <= 2 cards"
+    },
+    "archetype-static": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "static"
+      ],
+      "archetype": "de-about",
+      "pages": 1,
+      "startedAt": "2026-11-18T06:46:51.000Z",
+      "endedAt": "2026-11-18T07:09:53.000Z",
+      "verdict": "archetype-static: de-about live yes, blocks 2, gate 1440 0.16% Δh 0 / 360 0.90% Δh -7, clipped 0, missing 0, requests 2, rounds 1",
+      "gates": {
+        "360": {
+          "archetype": "0.90%",
+          "dh": -7
+        },
+        "1440": {
+          "archetype": "0.16%",
+          "dh": 0
+        },
+        "crop": "header 3.53% (request queued), footer 0.09%",
+        "chrome": "see foundation-requests"
+      }
+    },
+    "cluster-static": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "static"
+      ],
+      "startedAt": "2026-11-18T07:10:22.000Z",
+      "endedAt": "2026-11-18T08:13:31.000Z",
+      "verdict": "cluster-static: pages 5/5 live, blocks 12 (11 new + hub-band extended), gate 1440 10.38% / 360 20.16% (worst), requests 2",
+      "gates": {
+        "360": {
+          "de-partners": "11.14%",
+          "de-support": "9.54%",
+          "de-training": "7.35%",
+          "de-careers": "20.16%",
+          "de-event-techfor": "15.99%"
+        },
+        "1440": {
+          "de-partners": "6.18%",
+          "de-support": "3.28%",
+          "de-training": "2.82%",
+          "de-careers": "10.35%",
+          "de-event-techfor": "10.38%"
+        },
+        "failing": [
+          "de-careers",
+          "de-event-techfor",
+          "de-partners@360"
+        ],
+        "note": "3 fix rounds spent; live renders a wider fallback face, extra wraps offset the page; revisit at C-final"
+      }
+    },
+    "archetype-listing": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "listing"
+      ],
+      "archetype": "de-package-overview",
+      "pages": 1,
+      "startedAt": "2026-11-18T08:43:26.810Z",
+      "endedAt": "2026-11-18T09:32:46.921Z",
+      "verdict": "archetype-listing: de-package-overview live yes, blocks 8, gate 1440 7.65% Δh -4 / 360 10.14% Δh -7, clipped 0, missing 0, requests 0, rounds 3",
+      "gates": {
+        "360": {
+          "archetype": "10.14%",
+          "dh": -7
+        },
+        "1440": {
+          "archetype": "7.65%",
+          "dh": -4
+        },
+        "failing": [
+          "de-package-overview@360 (pixel, +0.14pt: live fixed sub-nav covers stitched seam, same capture-state residual as prototype approval 10.27%)"
+        ]
+      },
+      "note": "gated on local code over published content; preview re-gate after this push is the first step of cluster-listing"
+    },
+    "cluster-listing": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "listing"
+      ],
+      "startedAt": "2026-11-18T10:02:51.031Z",
+      "endedAt": "2026-11-18T10:24:33Z",
+      "verdict": "cluster-listing: pages 2/2 live, blocks 7, gate 1440 5.9% / 360 6.41%, requests 0",
+      "gates": {
+        "360": {
+          "de-contact-us": 6.41,
+          "de-support-faqs": 4.84,
+          "de-package-overview": 10.14
+        },
+        "1440": {
+          "de-contact-us": 5.9,
+          "de-support-faqs": 3.47,
+          "de-package-overview": 7.65
+        },
+        "failing": [],
+        "note": "preview host; de-package-overview 360 10.14% is the archetype-listing source-side residual (live sticky sub-nav over a stitch seam)"
+      }
+    },
+    "archetype-reference": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "reference"
+      ],
+      "archetype": "de-glossary",
+      "pages": 1,
+      "startedAt": "2026-11-18T08:43:26.846Z",
+      "endedAt": "2026-11-18T09:04:16.877Z",
+      "verdict": "archetype-reference: de-glossary live yes, blocks 3, gate 1440 0.14% Δh 0 / 360 0.68% Δh -7, clipped 0, missing 0, requests 0, rounds 0",
+      "gates": {
+        "360": {
+          "archetype": "0.68%",
+          "dh": -7
+        },
+        "1440": {
+          "archetype": "0.14%",
+          "dh": 0
+        }
+      },
+      "note": "gated with --eds-host localhost:3000 (local code + published content); block code ships with this checkpoint push, preview re-gate is the first step of cluster-reference"
+    },
+    "cluster-reference": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "reference"
+      ],
+      "startedAt": "2026-11-18T09:05:00.136Z",
+      "endedAt": "2026-11-18T09:45:13.771Z",
+      "verdict": "cluster-reference: pages 2/2 live, blocks 2, gate 1440 0.46% / 360 8% (worst), requests 0",
+      "gates": {
+        "360": {
+          "de-opn": "8%",
+          "de-support-service-center": "1.98%"
+        },
+        "1440": {
+          "de-opn": "0.34%",
+          "de-support-service-center": "0.46%"
+        },
+        "failing": [],
+        "note": "font row overridden (live Arial Metrics Override capture artifact); de-glossary preview re-gate 0.14%/0.68%"
+      }
+    },
+    "archetype-utility": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "utility"
+      ],
+      "archetype": "de-thank-you",
+      "pages": 1,
+      "startedAt": "2026-11-18T07:10:22.000Z",
+      "endedAt": "2026-11-18T07:20:12.000Z",
+      "verdict": "archetype-utility: de-thank-you live yes, blocks 1, gate 1440 0.2% Δh 0 / 360 4.54% Δh -7px (0.3%), clipped 0, missing 0, requests 0, rounds 0",
+      "gates": {
+        "360": {
+          "archetype": "4.54%",
+          "dh": -7
+        },
+        "1440": {
+          "archetype": "0.2%",
+          "dh": 0
+        },
+        "note": "360 residual: live mobile image 403, larger rendition used"
+      }
+    },
+    "cluster-utility": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "utility"
+      ],
+      "startedAt": "2026-11-18T07:32:28.000Z",
+      "endedAt": "2026-11-18T08:11:24.000Z",
+      "verdict": "cluster-utility: pages 2/2 live, blocks 2, gate 1440 4.86% / 360 8.16% (worst), requests 0",
+      "gates": {
+        "360": {
+          "de-logout": "0.02%",
+          "de-config": "8.16%"
+        },
+        "1440": {
+          "de-logout": "0.01%",
+          "de-config": "4.86%"
+        }
+      }
+    },
+    "gate-all": {
+      "status": "done",
+      "kind": "final",
+      "startedAt": "2026-11-18T14:38:10.182Z",
+      "endedAt": "2026-11-18T15:40:46.176Z",
+      "verdict": "gate-all: 60/60 rows at both widths on main--938eead7--aemcoder.aem.live; delivered 1440 38/60, 360 33/60, both 27/60; failing on pixel 21 (1440) / 26 (360), units 1 (index, stale footer selector, fixed in units.json), clipped 0, height 0; fonts row = live origin metric-fallback face (overrides)",
+      "gates": {
+        "360": {
+          "delivered": 33,
+          "of": 60,
+          "pixelPass": 34
+        },
+        "1440": {
+          "delivered": 38,
+          "of": 60,
+          "pixelPass": 39
+        },
+        "bothWidths": "27/60",
+        "state": "stardust/.work/rollout/gate-all/state.json"
+      }
+    },
+    "final": {
+      "status": "done",
+      "kind": "final",
+      "startedAt": "2026-11-18T15:41:50.714Z",
+      "endedAt": "2026-11-18T16:53:40.996Z",
+      "verdict": "final: freeze check clean before requests; requests applied once — glyphs (23 codepoints → styles.css + GLYPH_ICONS), EN chrome for / (/en/nav, /en/footer live, / 1440 4.78% / 360 9.01% Δh -14), units.json footer selector; declined with reason — body overflow (already scoped in block CSS), breadcrumb-as-chrome (delivered as gated content block); open residual — header contract 23 errors (hover-open, mega-menu teaser images/links, language control); story fix round 1/28 newly under the bar (rail nav gap, phone reverse/stack, heading tokens), archetypes unchanged; foundation re-frozen",
+      "gates": {
+        "bothWidthsBefore": "27/60",
+        "storyRound": "1/28",
+        "headerParity": {
+          "errors": 23,
+          "warnings": 14,
+          "file": "stardust/chrome/header-parity-final.json"
+        },
+        "regateAfterPush": "E-full-site"
+      }
+    }
+  }
+}

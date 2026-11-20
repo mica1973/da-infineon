@@ -1,0 +1,5027 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:44:20.011Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/support/service-center",
+  "at": "2026-11-18T23:43:59.864Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5388,
+  "root": "div.genericbreadcrumb.aem-GridColumn",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button#searchicon-items",
+    "x": 164,
+    "y": 14,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-0",
+    "x": 220,
+    "y": 15,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.usericon-item.d-block",
+    "x": 260,
+    "y": 17,
+    "w": 40,
+    "h": 25,
+    "text": "user profile"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.genericBreadcrumb-mobileview > div.lastBreadcrumb > a.text-decoration-none",
+    "x": 36,
+    "y": 82,
+    "w": 48,
+    "h": 21,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 290,
+    "y": 77,
+    "w": 22,
+    "h": 26,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 290,
+    "y": 77,
+    "w": 22,
+    "h": 26,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.dropdown.d-flex > div.selected-icon.page-data-js > button.icon-wrapper.px-0",
+    "x": 328,
+    "y": 77,
+    "w": 16,
+    "h": 26,
+    "text": "bookmaarkclick"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-5019cc018e > h1.dynamicAnchors.heading-01",
+    "x": 16,
+    "y": 148,
+    "w": 328,
+    "h": 88,
+    "level": 1,
+    "text": "infineon hotline - bei anruf: service!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-84b18198e5 > p",
+    "x": 16,
+    "y": 252,
+    "w": 328,
+    "h": 78,
+    "text": "Wir bieten kompetenten Service in Englisch, Deutsch und Mandarin, verfügbar 24/7"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-d5c407fe19 > h1.dynamicAnchors.heading-05",
+    "x": 16,
+    "y": 354,
+    "w": 328,
+    "h": 26,
+    "level": 1,
+    "text": "main countries"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tr.even > th.header > div",
+    "x": 33,
+    "y": 415,
+    "w": 131,
+    "h": 20,
+    "text": "Germany (Toll-Free)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tr.even > th > div",
+    "x": 197,
+    "y": 405,
+    "w": 131,
+    "h": 40,
+    "text": "0800 951 951 951 (German/English)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tr.odd > td.header > div.d-flex.justify-content-start",
+    "x": 33,
+    "y": 470,
+    "w": 131,
+    "h": 40,
+    "text": "China, Mainland (Toll-Free)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tr.odd > td > div.d-flex.justify-content-start",
+    "x": 197,
+    "y": 470,
+    "w": 131,
+    "h": 40,
+    "text": "4001 200 951 (Mandarin/English)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tr.even > td.header > div.d-flex.justify-content-start",
+    "x": 33,
+    "y": 553,
+    "w": 131,
+    "h": 20,
+    "text": "USA (Toll-Free)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tr.even > td > div.d-flex.justify-content-start",
+    "x": 197,
+    "y": 543,
+    "w": 131,
+    "h": 40,
+    "text": "1 866 951 9519 (English/German)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tr.odd > td.header > div.d-flex.justify-content-start",
+    "x": 33,
+    "y": 626,
+    "w": 131,
+    "h": 20,
+    "text": "India (Toll-Free)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tr.odd > td > div.d-flex.justify-content-start",
+    "x": 197,
+    "y": 616,
+    "w": 131,
+    "h": 40,
+    "text": "1 800 572 4924 NEW (English)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tr.even > td.header > div.d-flex.justify-content-start",
+    "x": 33,
+    "y": 699,
+    "w": 131,
+    "h": 20,
+    "text": "Direct Access"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "td > div.d-flex.justify-content-start > a",
+    "x": 197,
+    "y": 689,
+    "w": 131,
+    "h": 40,
+    "text": "+49 89 234 65555 * (german/english)",
+    "href": "/cms/en/about-infineon/company/contacts/service-center/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tr.odd > td.header > div.d-flex.justify-content-start",
+    "x": 33,
+    "y": 782,
+    "w": 131,
+    "h": 20,
+    "text": "Other countries"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tr.odd > td > div.d-flex.justify-content-start",
+    "x": 197,
+    "y": 762,
+    "w": 131,
+    "h": 60,
+    "text": "+ (country code without \"0\") 800 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-d211c61a0f > p",
+    "x": 16,
+    "y": 839,
+    "w": 328,
+    "h": 26,
+    "text": "* Nachfolgende Länder sind abgedeckt."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-3624c62763 > h1.dynamicAnchors.heading-02",
+    "x": 16,
+    "y": 889,
+    "w": 328,
+    "h": 72,
+    "level": 1,
+    "text": "internationale 0800 nummern (gebührenfrei)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-d5d231a241 > p",
+    "x": 16,
+    "y": 977,
+    "w": 328,
+    "h": 26,
+    "text": "** Bitte beachten Sie:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-d5d231a241 > p",
+    "x": 16,
+    "y": 1019,
+    "w": 328,
+    "h": 130,
+    "text": "In einigen Ländern müssen Sie eventuell einen anderen Code als \"00\" wählen, um d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item.accordion-item-open > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 1197,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "europa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 1253,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 1321,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 1389,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 1457,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 1525,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 1593,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 1661,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 1729,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 1797,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 1865,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 1933,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2001,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2069,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2137,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2205,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2273,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2341,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2409,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2477,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2545,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2613,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2681,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2749,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2817,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2885,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 2953,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 3021,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 3089,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 3157,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 3225,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 3293,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 3361,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fffd7eef8f > p",
+    "x": 16,
+    "y": 3429,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 3546,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "amerika"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 3639,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "asien"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 3732,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "japan"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 3825,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "afrika"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.text-container.selected-icon > div.text-box > div.heading",
+    "x": 32,
+    "y": 3950,
+    "w": 94,
+    "h": 24,
+    "text": "Support Seite"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.sidebox-container.sidebox-container-grey > span.button-comp.selected-icon > a.subscribe-btn.subscribe-btn-txt",
+    "x": 32,
+    "y": 3994,
+    "w": 296,
+    "h": 42,
+    "text": "support anfordern",
+    "href": "/de/support"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.text-container.selected-icon > div.text-box > div.heading",
+    "x": 32,
+    "y": 4100,
+    "w": 253,
+    "h": 24,
+    "text": "Bezugsquellen für Infineon-Produkte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.text-container.selected-icon > div.text-box > p.description",
+    "x": 32,
+    "y": 4128,
+    "w": 296,
+    "h": 78,
+    "text": "Bitte verwenden Sie unseren Location Finder, um einen Infineon Distributor oder "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.sidebox-container.sidebox-container-grey > span.button-comp.selected-icon > a.subscribe-btn.subscribe-btn-txt",
+    "x": 32,
+    "y": 4222,
+    "w": 296,
+    "h": 42,
+    "text": "location finder",
+    "href": "/de/contact-us/where-to-buy"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 16,
+    "y": 4352,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 4446,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 4486,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 4528,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 4570,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 4612,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 4654,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 196,
+    "y": 4446,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 4486,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 4528,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 4570,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 4638,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 4680,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 4722,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 4788,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 4828,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 4870,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 4912,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 32,
+    "y": 4978,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 5018,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 5060,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 5102,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 5144,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 5210,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 192,
+    "y": 5210,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 5240,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 21,
+    "y": 5275,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 16,
+    "y": 5328,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 56,
+    "y": 5328,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 96,
+    "y": 5328,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 136,
+    "y": 5325,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 136,
+    "y": 5330,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 176,
+    "y": 5328,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > div.sc-fFCZOx.jRYtdz > button#da-icon",
+    "x": 213,
+    "y": 784,
+    "w": 137,
+    "h": 62,
+    "text": "ask ai"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > div.sc-fFCZOx.jRYtdz > button#da-icon",
+    "x": 213,
+    "y": 784,
+    "w": 137,
+    "h": 62,
+    "label": "trigger",
+    "value": "ask ai",
+    "via": "trigger"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 133,
+    "controls": 38,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/support/service-center",
+  "at": "2026-11-18T23:44:19.888Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5395,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "label": "search",
+    "value": "search",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 38,
+    "y": 82,
+    "w": 48,
+    "h": 21,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.ifx-fixed.breadcrumb-inner > div.breadcrumb-tools > button.breadcrumb-tool.breadcrumb-tool-share",
+    "x": 290,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.ifx-fixed.breadcrumb-inner > div.breadcrumb-tools > button.breadcrumb-tool.breadcrumb-tool-share",
+    "x": 290,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-title-group > h1#infineon-hotline---bei-anruf-service",
+    "x": 16,
+    "y": 148,
+    "w": 328,
+    "h": 88,
+    "level": 1,
+    "text": "infineon hotline - bei anruf: service!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 252,
+    "w": 328,
+    "h": 78,
+    "text": "Wir bieten kompetenten Service in Englisch, Deutsch und Mandarin, verfügbar 24/7"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > h5#main-countries",
+    "x": 16,
+    "y": 354,
+    "w": 328,
+    "h": 26,
+    "level": 5,
+    "text": "main countries"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 33,
+    "y": 405,
+    "w": 131,
+    "h": 20,
+    "text": "Germany (Toll-Free)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 197,
+    "y": 405,
+    "w": 131,
+    "h": 40,
+    "text": "0800 951 951 951 (German/English)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 33,
+    "y": 470,
+    "w": 131,
+    "h": 40,
+    "text": "China, Mainland (Toll-Free)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 197,
+    "y": 470,
+    "w": 131,
+    "h": 40,
+    "text": "4001 200 951 (Mandarin/English)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 33,
+    "y": 543,
+    "w": 131,
+    "h": 20,
+    "text": "USA (Toll-Free)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 197,
+    "y": 543,
+    "w": 131,
+    "h": 40,
+    "text": "1 866 951 9519 (English/German)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 33,
+    "y": 616,
+    "w": 131,
+    "h": 20,
+    "text": "India (Toll-Free)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 197,
+    "y": 616,
+    "w": 131,
+    "h": 40,
+    "text": "1 800 572 4924 NEW (English)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 33,
+    "y": 689,
+    "w": 131,
+    "h": 20,
+    "text": "Direct Access"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > a",
+    "x": 197,
+    "y": 689,
+    "w": 108,
+    "h": 40,
+    "text": "+49 89 234 65555 * (german/english)",
+    "href": "/cms/en/about-infineon/company/contacts/service-center/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 33,
+    "y": 762,
+    "w": 131,
+    "h": 20,
+    "text": "Other countries"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 197,
+    "y": 762,
+    "w": 131,
+    "h": 60,
+    "text": "+ (country code without \"0\") 800 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 839,
+    "w": 328,
+    "h": 26,
+    "text": "* Nachfolgende Länder sind abgedeckt."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > h3#internationale-0800-nummern-gebührenfrei",
+    "x": 16,
+    "y": 889,
+    "w": 328,
+    "h": 72,
+    "level": 3,
+    "text": "internationale 0800 nummern (gebührenfrei)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 969,
+    "w": 328,
+    "h": 26,
+    "text": "** Bitte beachten Sie:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 1011,
+    "w": 328,
+    "h": 130,
+    "text": "In einigen Ländern müssen Sie eventuell einen anderen Code als \"00\" wählen, um d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#europa",
+    "x": 16,
+    "y": 1197,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "europa"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 1197,
+    "w": 32,
+    "h": 32,
+    "text": "europa"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 1197,
+    "w": 32,
+    "h": 32,
+    "label": "europa",
+    "value": "europa",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 1253,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 1321,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 1389,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 1457,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 1525,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 1593,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 1661,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 1729,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 1797,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 1865,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 1933,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2001,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2069,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2137,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2205,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2273,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2341,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2409,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2477,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2545,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2613,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2681,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2749,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2817,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2885,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 2953,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 3021,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 3089,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 3157,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 3225,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 3293,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 3361,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item.open > div#accordion-body-1 > p",
+    "x": 16,
+    "y": 3429,
+    "w": 328,
+    "h": 52,
+    "text": "00 800 - 951 951 951"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#amerika",
+    "x": 16,
+    "y": 3546,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "amerika"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3546,
+    "w": 32,
+    "h": 32,
+    "text": "amerika"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3546,
+    "w": 32,
+    "h": 32,
+    "label": "amerika",
+    "value": "amerika",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#asien",
+    "x": 16,
+    "y": 3639,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "asien"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3639,
+    "w": 32,
+    "h": 32,
+    "text": "asien"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3639,
+    "w": 32,
+    "h": 32,
+    "label": "asien",
+    "value": "asien",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#japan",
+    "x": 16,
+    "y": 3732,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "japan"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3732,
+    "w": 32,
+    "h": 32,
+    "text": "japan"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3732,
+    "w": 32,
+    "h": 32,
+    "label": "japan",
+    "value": "japan",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#afrika",
+    "x": 16,
+    "y": 3825,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "afrika"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3825,
+    "w": 32,
+    "h": 32,
+    "text": "afrika"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3825,
+    "w": 32,
+    "h": 32,
+    "label": "afrika",
+    "value": "afrika",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-box > p > strong",
+    "x": 32,
+    "y": 3951,
+    "w": 94,
+    "h": 22,
+    "text": "Support Seite"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-box > p > a",
+    "x": 32,
+    "y": 3994,
+    "w": 296,
+    "h": 42,
+    "text": "support anfordern",
+    "href": "/de/support"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-box > p > strong",
+    "x": 32,
+    "y": 4101,
+    "w": 253,
+    "h": 22,
+    "text": "Bezugsquellen für Infineon-Produkte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-aside > div.accordion-box > p",
+    "x": 32,
+    "y": 4128,
+    "w": 296,
+    "h": 78,
+    "text": "Bitte verwenden Sie unseren Location Finder, um einen Infineon Distributor oder "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-box > p > a",
+    "x": 32,
+    "y": 4222,
+    "w": 296,
+    "h": 42,
+    "text": "location finder",
+    "href": "/de/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 16,
+    "y": 4390,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 16,
+    "y": 4352,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 4453,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 4493,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 4535,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 4577,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 4619,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 4661,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 196,
+    "y": 4453,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 4493,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 4535,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 4577,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 4645,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 4687,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 4729,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 4795,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 4835,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 4877,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 4919,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 32,
+    "y": 4985,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 5025,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 5067,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 5109,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 5151,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5217,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 192,
+    "y": 5217,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5247,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 188,
+    "y": 5247,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 21,
+    "y": 5282,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5335,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 5335,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 5335,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 136,
+    "y": 5332,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 136,
+    "y": 5332,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 176,
+    "y": 5335,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 132,
+    "controls": 45,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 2,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 6,
+    "buttonHidden": 0,
+    "text": 51,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "MISSING BUTTON",
+    "COUNT TEXT"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"bookmaarkclick\" in band \"(top)\" (origin y 77) not on the served page",
+   "band": 0,
+   "n": 1,
+   "text": "bookmaarkclick"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"infineon hotline - bei anruf: service!\" (y 148) has no origin heading",
+   "text": "infineon hotline - bei anruf: service!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"internationale 0800 nummern (gebührenfrei)\" (y 889) has no origin heading",
+   "text": "internationale 0800 nummern (gebührenfrei)"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"+49 89 234 65555 * (german/english)\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "+49 89 234 65555 * (german/english)"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"europa\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "europa"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"amerika\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "amerika"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"asien\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "asien"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"japan\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "japan"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"afrika\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "afrika"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"support anfordern\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "support anfordern"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"location finder\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "location finder"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"(top)\": 0 origin → 51 served visible",
+   "band": 0,
+   "origin": 0,
+   "eds": 51,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 2,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 8,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 1,
+  "findings": 12,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 36,
+    "y": 82,
+    "w": 48,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 147,
+    "w": 282,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 191,
+    "w": 197,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 252,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 278,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 304,
+    "w": 33,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 354,
+    "w": 111,
+    "h": 25
+   },
+   {
+    "x": 33,
+    "y": 415,
+    "w": 119,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 405,
+    "w": 99,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 425,
+    "w": 103,
+    "h": 20
+   },
+   {
+    "x": 33,
+    "y": 470,
+    "w": 38,
+    "h": 20
+   },
+   {
+    "x": 33,
+    "y": 490,
+    "w": 120,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 470,
+    "w": 75,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 490,
+    "w": 112,
+    "h": 20
+   },
+   {
+    "x": 33,
+    "y": 553,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 543,
+    "w": 85,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 563,
+    "w": 103,
+    "h": 20
+   },
+   {
+    "x": 33,
+    "y": 626,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 616,
+    "w": 54,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 636,
+    "w": 112,
+    "h": 20
+   },
+   {
+    "x": 33,
+    "y": 699,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 689,
+    "w": 111,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 709,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 33,
+    "y": 782,
+    "w": 94,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 762,
+    "w": 91,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 782,
+    "w": 119,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 802,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 839,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 888,
+    "w": 214,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 924,
+    "w": 274,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 977,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1019,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1045,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1071,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1097,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1123,
+    "w": 115,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1196,
+    "w": 48,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1253,
+    "w": 79,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1279,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1321,
+    "w": 57,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1347,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1389,
+    "w": 74,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1415,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1457,
+    "w": 66,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1483,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1525,
+    "w": 54,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1551,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1593,
+    "w": 121,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1619,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1661,
+    "w": 79,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1687,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1729,
+    "w": 57,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1755,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1797,
+    "w": 68,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1823,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1865,
+    "w": 82,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1891,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1933,
+    "w": 69,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1959,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2001,
+    "w": 103,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2027,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2069,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2095,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2137,
+    "w": 47,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2163,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2205,
+    "w": 46,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2231,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2273,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2299,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2341,
+    "w": 64,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2367,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2409,
+    "w": 103,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2435,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2477,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2503,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2545,
+    "w": 86,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2571,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2613,
+    "w": 43,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2639,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2681,
+    "w": 129,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2707,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2749,
+    "w": 94,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2775,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2817,
+    "w": 78,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2843,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2885,
+    "w": 44,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2911,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2953,
+    "w": 66,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2979,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3021,
+    "w": 78,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3047,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3089,
+    "w": 69,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3115,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3157,
+    "w": 80,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3183,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3225,
+    "w": 62,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3251,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3293,
+    "w": 79,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3319,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3361,
+    "w": 63,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3387,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3429,
+    "w": 171,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3455,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3545,
+    "w": 55,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3638,
+    "w": 36,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3731,
+    "w": 41,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3824,
+    "w": 39,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3951,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 116,
+    "y": 4004,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4101,
+    "w": 253,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4130,
+    "w": 252,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4156,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4182,
+    "w": 229,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 4232,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4447,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4486,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4528,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4570,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4612,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4654,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4447,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 4486,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4528,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4570,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4596,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4638,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4680,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4722,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4789,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4828,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4870,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4912,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 4979,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 5018,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 5060,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 5102,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 5144,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 5215,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 5215,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 5245,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 5245,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 5275,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 5275,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 5275,
+    "w": 156,
+    "h": 20
+   },
+   {
+    "x": 273,
+    "y": 802,
+    "w": 46,
+    "h": 25
+   }
+  ],
+  "eds": [
+   {
+    "x": 38,
+    "y": 82,
+    "w": 48,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 147,
+    "w": 282,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 191,
+    "w": 197,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 252,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 278,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 304,
+    "w": 33,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 354,
+    "w": 111,
+    "h": 25
+   },
+   {
+    "x": 33,
+    "y": 405,
+    "w": 119,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 405,
+    "w": 99,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 425,
+    "w": 103,
+    "h": 20
+   },
+   {
+    "x": 33,
+    "y": 470,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 33,
+    "y": 490,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 470,
+    "w": 75,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 490,
+    "w": 112,
+    "h": 20
+   },
+   {
+    "x": 33,
+    "y": 543,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 543,
+    "w": 85,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 563,
+    "w": 103,
+    "h": 20
+   },
+   {
+    "x": 33,
+    "y": 616,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 616,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 636,
+    "w": 51,
+    "h": 20
+   },
+   {
+    "x": 33,
+    "y": 689,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 689,
+    "w": 108,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 709,
+    "w": 103,
+    "h": 20
+   },
+   {
+    "x": 33,
+    "y": 762,
+    "w": 94,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 762,
+    "w": 91,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 782,
+    "w": 119,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 802,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 839,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 888,
+    "w": 214,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 924,
+    "w": 274,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 969,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1011,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1037,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1063,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1089,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1115,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1196,
+    "w": 48,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1253,
+    "w": 85,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1279,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1321,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1347,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1389,
+    "w": 79,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1415,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1457,
+    "w": 70,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1483,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1525,
+    "w": 57,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1551,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1593,
+    "w": 127,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1619,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1661,
+    "w": 84,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1687,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1729,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1755,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1797,
+    "w": 72,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1823,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1865,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1891,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1933,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1959,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2001,
+    "w": 109,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2027,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2069,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2095,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2137,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2163,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2205,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2231,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2273,
+    "w": 53,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2299,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2341,
+    "w": 69,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2367,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2409,
+    "w": 110,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2435,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2477,
+    "w": 62,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2503,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2545,
+    "w": 92,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2571,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2613,
+    "w": 45,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2639,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2681,
+    "w": 136,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2707,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2749,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2775,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2817,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2843,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2885,
+    "w": 46,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2911,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2953,
+    "w": 70,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2979,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3021,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3047,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3089,
+    "w": 74,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3115,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3157,
+    "w": 85,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3183,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3225,
+    "w": 66,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3251,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3293,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3319,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3361,
+    "w": 67,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3387,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3429,
+    "w": 182,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3455,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3545,
+    "w": 56,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3638,
+    "w": 37,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3731,
+    "w": 41,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3824,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3951,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 116,
+    "y": 4004,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4101,
+    "w": 253,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4130,
+    "w": 252,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4156,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4182,
+    "w": 229,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 4232,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4454,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4493,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4535,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4577,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4619,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4661,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4454,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 4493,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4535,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4577,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4603,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4645,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4687,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4729,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4796,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4835,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4877,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4919,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 4986,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 5025,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 5067,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 5109,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 5151,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 5222,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 5222,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 5252,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 5252,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 5282,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 5282,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 5282,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

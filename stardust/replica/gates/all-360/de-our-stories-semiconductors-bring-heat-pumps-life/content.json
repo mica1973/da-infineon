@@ -1,0 +1,5293 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:29:55.372Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/semiconductors-bring-heat-pumps-life",
+  "at": "2026-11-18T23:29:32.585Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7774,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button#searchicon-items",
+    "x": 164,
+    "y": 14,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-0",
+    "x": 220,
+    "y": 15,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.usericon-item.d-block",
+    "x": 260,
+    "y": 17,
+    "w": 40,
+    "h": 25,
+    "text": "user profile"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav > div.articleBreadcrumb-mobileview.breadcrumb-item > a.text-decoration-none",
+    "x": 46,
+    "y": 77,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 0,
+    "y": 116,
+    "w": 360,
+    "h": 203,
+    "text": "heat pump",
+    "file": "heat-pump.png:asset-680-3x2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 32,
+    "y": 287,
+    "w": 296,
+    "h": 132,
+    "level": 1,
+    "text": "halbleiter erwecken wärmepumpen zum leben"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 32,
+    "y": 435,
+    "w": 296,
+    "h": 192,
+    "text": "Für uns alle ist Wärme auf Abruf eine Selbstverständlichkeit. Hier können Wärmep"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 32,
+    "y": 643,
+    "w": 134,
+    "h": 28,
+    "text": "Energieinfrastruktur"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 56,
+    "y": 687,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 132,
+    "y": 687,
+    "w": 76,
+    "h": 20,
+    "level": 4,
+    "text": "juni 10, 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 797,
+    "w": 255,
+    "h": 48,
+    "text": "beschleunigen sie die energiewende – mit wärmepumpen für wohngebäude",
+    "href": "/de/our-stories/semiconductors-bring-heat-pumps-life"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 857,
+    "w": 226,
+    "h": 48,
+    "text": "wärmepumpen punkten mit einer hohen effizienz",
+    "href": "/de/our-stories/semiconductors-bring-heat-pumps-life"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 917,
+    "w": 215,
+    "h": 22,
+    "text": "wie es funktioniert – kurz erklärt",
+    "href": "/de/our-stories/semiconductors-bring-heat-pumps-life"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 951,
+    "w": 236,
+    "h": 22,
+    "text": "wärmepumpen auf dem vormarsch",
+    "href": "/de/our-stories/semiconductors-bring-heat-pumps-life"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 985,
+    "w": 255,
+    "h": 22,
+    "text": "entdecken sie unser produkt-portfolio",
+    "href": "/de/our-stories/semiconductors-bring-heat-pumps-life"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > p",
+    "x": 40,
+    "y": 763,
+    "w": 177,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-866621c5e3 > h2#anch1",
+    "x": 16,
+    "y": 1057,
+    "w": 328,
+    "h": 90,
+    "level": 2,
+    "text": "beschleunigen sie die energiewende – mit wärmepumpen für wohngebäude"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-0a68d05386 > p",
+    "x": 16,
+    "y": 1163,
+    "w": 328,
+    "h": 546,
+    "text": "Die Umstellung auf erneuerbare Energien ist in vollem Gange, und Wärmepumpen ent"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 1725,
+    "w": 328,
+    "h": 184,
+    "text": "heat pump i nfront of a building",
+    "file": "modern-house.png:asset-680-16x9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-51259eddf3 > h2#anch2",
+    "x": 16,
+    "y": 1933,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "wärmepumpen punkten mit einer hohen effizienz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-bce4d9d495 > p",
+    "x": 16,
+    "y": 2009,
+    "w": 328,
+    "h": 676,
+    "text": "Schauen wir uns genauer an, warum Wärmepumpen so energieeffizient und nachhaltig"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-bce4d9d495 > p",
+    "x": 16,
+    "y": 2701,
+    "w": 328,
+    "h": 260,
+    "text": "Unsere Halbleiterlösungen unterstützen die gesamte Bandbreite der Wärmepumpenfun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 2977,
+    "w": 188,
+    "h": 24,
+    "text": "mehr zu wärmepumpen",
+    "href": "/applications/smart-home-building/heating-ventilation-and-air-conditioning-hvac/residential-heat-pumps"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 3025,
+    "w": 328,
+    "h": 184,
+    "text": "graphic heat pump",
+    "file": "web-grafiken-energy-efficiency-16-9-heat"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-f1ea0138b8 > h2#anch3",
+    "x": 16,
+    "y": 3233,
+    "w": 328,
+    "h": 30,
+    "level": 2,
+    "text": "wie es funktioniert – kurz erklärt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-bacb702584 > p",
+    "x": 16,
+    "y": 3279,
+    "w": 328,
+    "h": 546,
+    "text": "Wärmepumpen übertragen gespeicherte Wärmeenergie aus der Umwelt, z. B. aus der L"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 3841,
+    "w": 328,
+    "h": 184,
+    "text": "graphic gip heat pump",
+    "file": "graphic-gip-heat-pump-v02-00.png:asset-6"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-1114d441f2 > h2#anch4",
+    "x": 16,
+    "y": 4049,
+    "w": 328,
+    "h": 30,
+    "level": 2,
+    "text": "wärmepumpen auf dem vormarsch"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-71ae038a22 > p",
+    "x": 16,
+    "y": 4095,
+    "w": 328,
+    "h": 416,
+    "text": "Der IEA zufolge werden Wärmepumpen zum wichtigsten Mittel, um die Raumheizung un"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 4527,
+    "w": 328,
+    "h": 184,
+    "text": "graphic gip heat pump",
+    "file": "graphic-gip-heat-pump-v03-00.png:asset-6"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-41d1572904 > p",
+    "x": 16,
+    "y": 4728,
+    "w": 328,
+    "h": 312,
+    "text": "Wärmepumpen werden auf unserem Weg zur Dekarbonisierung eine wichtige Rolle spie"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-e6bbc43c32 > h2#anch5",
+    "x": 16,
+    "y": 5064,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "entdecken sie unser produkt-portfolio"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 5166,
+    "w": 196,
+    "h": 22,
+    "text": "1200 v trenchstop™ igbt7",
+    "href": "/technology/power/igbt/trenchstop-igbt7"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 5208,
+    "w": 89,
+    "h": 22,
+    "text": "cipos™ ipms",
+    "href": "/products/power/intelligent-power-modules-ipm"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 5250,
+    "w": 177,
+    "h": 22,
+    "text": "easy igbt power modules",
+    "href": "/product-information/power/igbt/igbt-modules/easy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 5292,
+    "w": 240,
+    "h": 22,
+    "text": "airoc™ wi-fi & bluetooth® combos",
+    "href": "/products/wireless-connectivity/airoc-wi-fi-plus-bluetooth-combos"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 5334,
+    "w": 212,
+    "h": 22,
+    "text": "eicedriver™ gate driver family",
+    "href": "/products/power/gate-driver-ics"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_17517_ifxcontainer_202731639_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 16,
+    "y": 5430,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 20,
+    "y": 5490,
+    "w": 316,
+    "h": 160,
+    "text": "artikel",
+    "file": "infineon-ee-storage-high-res.jpg:asset-6"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 44,
+    "y": 5666,
+    "w": 268,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 44,
+    "y": 5710,
+    "w": 268,
+    "h": 52,
+    "text": "Effiziente Energiespeichersysteme für die Energiewende"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 44,
+    "y": 5786,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/efficient-energy-storage-systems-energy-transition"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 356,
+    "y": 5490,
+    "w": 316,
+    "h": 160,
+    "text": "artikel",
+    "file": "cliffs-and-wind-turbines.png:asset-680-2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_ifxcontainer_202731639_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 16,
+    "y": 5824,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "weiterführende inhalte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 20,
+    "y": 5884,
+    "w": 316,
+    "h": 160,
+    "text": "applikation",
+    "file": "smart-house.png:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 44,
+    "y": 6060,
+    "w": 268,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 44,
+    "y": 6104,
+    "w": 268,
+    "h": 52,
+    "text": "Residential heat pumps"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 44,
+    "y": 6180,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/smart-home-building/heating-ventilation-and-air-conditioning-hvac/residential-heat-pumps"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 356,
+    "y": 5884,
+    "w": 316,
+    "h": 160,
+    "text": "applikation",
+    "file": "green-urban-building.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 16,
+    "y": 6330,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 16,
+    "y": 6418,
+    "w": 328,
+    "h": 120,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 16,
+    "y": 6570,
+    "w": 328,
+    "h": 48,
+    "text": "abonnieren",
+    "href": "/de/our-stories/semiconductors-bring-heat-pumps-life"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 16,
+    "y": 6738,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 6832,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6872,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6914,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6956,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6998,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7040,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 196,
+    "y": 6832,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6872,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6914,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6956,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 7024,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 7066,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 7108,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 7174,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7214,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7256,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7298,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 32,
+    "y": 7364,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7404,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7446,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7488,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7530,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 7596,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 192,
+    "y": 7596,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 7626,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 21,
+    "y": 7661,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 16,
+    "y": 7714,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 56,
+    "y": 7714,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 96,
+    "y": 7714,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 136,
+    "y": 7711,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 136,
+    "y": 7715,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 176,
+    "y": 7714,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 1,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 9,
+    "textNodes": 89,
+    "controls": 50,
+    "total": 1
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLIPPED",
+     "advisory": false,
+     "n": 1,
+     "clipper": "p.preheadline",
+     "path": "div.card > div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+     "text": "effiziente energiespeichersysteme für die energiewende",
+     "cutMin": 4,
+     "cutMax": 4
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/semiconductors-bring-heat-pumps-life",
+  "at": "2026-11-18T23:29:55.275Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7778,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "label": "search",
+    "value": "search",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.article-hero-crumbs > div.article-hero-back > a",
+    "x": 36,
+    "y": 77,
+    "w": 63,
+    "h": 20,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 0,
+    "y": 116,
+    "w": 360,
+    "h": 203,
+    "text": "heat pump",
+    "file": "media_1a3c941a33fa16a949764e689d8fd82226"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#halbleiter-erwecken-wärmepumpen-zum-leben",
+    "x": 32,
+    "y": 287,
+    "w": 296,
+    "h": 132,
+    "level": 1,
+    "text": "halbleiter erwecken wärmepumpen zum leben"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 32,
+    "y": 435,
+    "w": 296,
+    "h": 192,
+    "text": "Für uns alle ist Wärme auf Abruf eine Selbstverständlichkeit. Hier können Wärmep"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 32,
+    "y": 643,
+    "w": 134,
+    "h": 28,
+    "text": "Energieinfrastruktur"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 56,
+    "y": 687,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#juni-10-2025",
+    "x": 132,
+    "y": 687,
+    "w": 76,
+    "h": 20,
+    "level": 4,
+    "text": "juni 10, 2025"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-toc.block > div.article-toc-label > p",
+    "x": 40,
+    "y": 763,
+    "w": 280,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 797,
+    "w": 255,
+    "h": 48,
+    "text": "beschleunigen sie die energiewende – mit wärmepumpen für wohngebäude",
+    "href": "/de/our-stories/semiconductors-bring-heat-pumps-life"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 857,
+    "w": 226,
+    "h": 48,
+    "text": "wärmepumpen punkten mit einer hohen effizienz",
+    "href": "/de/our-stories/semiconductors-bring-heat-pumps-life"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 917,
+    "w": 215,
+    "h": 22,
+    "text": "wie es funktioniert – kurz erklärt",
+    "href": "/de/our-stories/semiconductors-bring-heat-pumps-life"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 951,
+    "w": 236,
+    "h": 22,
+    "text": "wärmepumpen auf dem vormarsch",
+    "href": "/de/our-stories/semiconductors-bring-heat-pumps-life"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 985,
+    "w": 255,
+    "h": 22,
+    "text": "entdecken sie unser produkt-portfolio",
+    "href": "/de/our-stories/semiconductors-bring-heat-pumps-life"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > h2#beschleunigen-sie-die-energiewende--mit-wärmepumpen-für-wohngebäude",
+    "x": 16,
+    "y": 1057,
+    "w": 328,
+    "h": 90,
+    "level": 2,
+    "text": "beschleunigen sie die energiewende – mit wärmepumpen für wohngebäude"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 1163,
+    "w": 328,
+    "h": 546,
+    "text": "Die Umstellung auf erneuerbare Energien ist in vollem Gange, und Wärmepumpen ent"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 1725,
+    "w": 328,
+    "h": 185,
+    "text": "heat pump i nfront of a building",
+    "file": "media_1adbb2147c52da205e6a5daa6e063bf9a0"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > h2#wärmepumpen-punkten-mit-einer-hohen-effizienz",
+    "x": 16,
+    "y": 1933,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "wärmepumpen punkten mit einer hohen effizienz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 2009,
+    "w": 328,
+    "h": 676,
+    "text": "Schauen wir uns genauer an, warum Wärmepumpen so energieeffizient und nachhaltig"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 2701,
+    "w": 328,
+    "h": 260,
+    "text": "Unsere Halbleiterlösungen unterstützen die gesamte Bandbreite der Wärmepumpenfun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.is-tl > a",
+    "x": 16,
+    "y": 2978,
+    "w": 163,
+    "h": 22,
+    "text": "mehr zu wärmepumpen",
+    "href": "/applications/smart-home-building/heating-ventilation-and-air-conditioning-hvac/residential-heat-pumps"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 3017,
+    "w": 328,
+    "h": 185,
+    "text": "graphic heat pump",
+    "file": "media_1a298224bcf14677e29e9198723f04b30b"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > h2#wie-es-funktioniert--kurz-erklärt",
+    "x": 16,
+    "y": 3226,
+    "w": 328,
+    "h": 30,
+    "level": 2,
+    "text": "wie es funktioniert – kurz erklärt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 3272,
+    "w": 328,
+    "h": 546,
+    "text": "Wärmepumpen übertragen gespeicherte Wärmeenergie aus der Umwelt, z. B. aus der L"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 3834,
+    "w": 328,
+    "h": 185,
+    "text": "graphic gip heat pump",
+    "file": "media_16cae9545fcac61798b97d3d52e5cdf9a7"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > h2#wärmepumpen-auf-dem-vormarsch",
+    "x": 16,
+    "y": 4042,
+    "w": 328,
+    "h": 30,
+    "level": 2,
+    "text": "wärmepumpen auf dem vormarsch"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 4088,
+    "w": 328,
+    "h": 416,
+    "text": "Der IEA zufolge werden Wärmepumpen zum wichtigsten Mittel, um die Raumheizung un"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-32 > picture > img",
+    "x": 16,
+    "y": 4520,
+    "w": 328,
+    "h": 185,
+    "text": "graphic gip heat pump",
+    "file": "media_15c27a57d592c9aecd26db8a65640ff8e5"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 4721,
+    "w": 328,
+    "h": 312,
+    "text": "Wärmepumpen werden auf unserem Weg zur Dekarbonisierung eine wichtige Rolle spie"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-80 > div.default-content-wrapper > h2#entdecken-sie-unser-produkt-portfolio",
+    "x": 16,
+    "y": 5057,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "entdecken sie unser produkt-portfolio"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 5159,
+    "w": 196,
+    "h": 22,
+    "text": "1200 v trenchstop™ igbt7",
+    "href": "/technology/power/igbt/trenchstop-igbt7"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 5201,
+    "w": 89,
+    "h": 22,
+    "text": "cipos™ ipms",
+    "href": "/products/power/intelligent-power-modules-ipm"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 5243,
+    "w": 177,
+    "h": 22,
+    "text": "easy igbt power modules",
+    "href": "/product-information/power/igbt/igbt-modules/easy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 5285,
+    "w": 240,
+    "h": 22,
+    "text": "airoc™ wi-fi & bluetooth® combos",
+    "href": "/products/wireless-connectivity/airoc-wi-fi-plus-bluetooth-combos"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 5327,
+    "w": 212,
+    "h": 22,
+    "text": "eicedriver™ gate driver family",
+    "href": "/products/power/gate-driver-ics"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#weitere-geschichten",
+    "x": 16,
+    "y": 5423,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 20,
+    "y": 5483,
+    "w": 316,
+    "h": 160,
+    "text": "artikel",
+    "file": "media_1ae6a17777ad262c09ad458e355258a8e9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 44,
+    "y": 5659,
+    "w": 268,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 44,
+    "y": 5703,
+    "w": 268,
+    "h": 56,
+    "text": "Effiziente Energiespeichersysteme für die Energiewende"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 44,
+    "y": 5781,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/efficient-energy-storage-systems-energy-transition"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 356,
+    "y": 5483,
+    "w": 316,
+    "h": 160,
+    "text": "artikel",
+    "file": "media_14e197e58df3badd03052112480da7393e"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#weiterführende-inhalte",
+    "x": 16,
+    "y": 5818,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "weiterführende inhalte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 20,
+    "y": 5878,
+    "w": 316,
+    "h": 160,
+    "text": "applikation",
+    "file": "media_195e12db03a59a069afe2d180259e33c4a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 44,
+    "y": 6054,
+    "w": 268,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 44,
+    "y": 6098,
+    "w": 268,
+    "h": 28,
+    "text": "Residential heat pumps"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 44,
+    "y": 6176,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/smart-home-building/heating-ventilation-and-air-conditioning-hvac/residential-heat-pumps"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 356,
+    "y": 5878,
+    "w": 316,
+    "h": 160,
+    "text": "applikation",
+    "file": "media_1db9b8a02db6cc691363bd387e88e010c6"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#abonnieren-sie-die-marketingkommunikation",
+    "x": 16,
+    "y": 6325,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 16,
+    "y": 6413,
+    "w": 328,
+    "h": 120,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 6565,
+    "w": 328,
+    "h": 50,
+    "text": "abonnieren",
+    "href": "/de/our-stories/semiconductors-bring-heat-pumps-life"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 16,
+    "y": 6773,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 16,
+    "y": 6735,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 6836,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6876,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6918,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6960,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7002,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7044,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 196,
+    "y": 6836,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6876,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6918,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6960,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 7028,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 7070,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 7112,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 7178,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7218,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7260,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7302,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 32,
+    "y": 7368,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7408,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7450,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7492,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7534,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7600,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 192,
+    "y": 7600,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7630,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 188,
+    "y": 7630,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 21,
+    "y": 7665,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7718,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 7718,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 7718,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 136,
+    "y": 7715,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 136,
+    "y": 7715,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 176,
+    "y": 7718,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 12,
+    "textNodes": 89,
+    "controls": 54,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.story-hub-card-title",
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "effiziente energiespeichersysteme für die energiewende",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 1,
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "effiziente energiespeichersysteme für die energiewende",
+     "clipper": "div.story-hub-card-title",
+     "rect": {
+      "l": 44,
+      "t": 5703,
+      "r": 123,
+      "b": 5731,
+      "w": 79,
+      "h": 28
+     },
+     "clip": {
+      "l": 44,
+      "t": 5703,
+      "r": 312,
+      "b": 5759,
+      "w": 268,
+      "h": 56
+     },
+     "lines": 4
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "halbleiter erwecken wärmepumpen zum leben",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 14,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 15,
+    "textHidden": 0,
+    "image": 6,
+    "imageHidden": 2
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"beschleunigen sie die energiewende – mit wärmepumpen für wohngebäude\" (y 1057) has no origin heading",
+   "text": "beschleunigen sie die energiewende – mit wärmepumpen für wohngebäude"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wärmepumpen punkten mit einer hohen effizienz\" (y 1933) has no origin heading",
+   "text": "wärmepumpen punkten mit einer hohen effizienz"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie es funktioniert – kurz erklärt\" (y 3226) has no origin heading",
+   "text": "wie es funktioniert – kurz erklärt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wärmepumpen auf dem vormarsch\" (y 4042) has no origin heading",
+   "text": "wärmepumpen auf dem vormarsch"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"entdecken sie unser produkt-portfolio\" (y 5057) has no origin heading",
+   "text": "entdecken sie unser produkt-portfolio"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"weitere geschichten\" (y 5423) has no origin heading",
+   "text": "weitere geschichten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"weiterführende inhalte\" (y 5818) has no origin heading",
+   "text": "weiterführende inhalte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"abonnieren sie die marketingkommunikation!\" (y 6325) has no origin heading",
+   "text": "abonnieren sie die marketingkommunikation!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"beschleunigen sie die energiewende – mit wärmepumpen für wohngebäude\" served in band \"halbleiter erwecken wärmepumpen zum leben\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "beschleunigen sie die energiewende – mit wärmepumpen für wohngebäude"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"wärmepumpen punkten mit einer hohen effizienz\" served in band \"halbleiter erwecken wärmepumpen zum leben\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "wärmepumpen punkten mit einer hohen effizienz"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"wie es funktioniert – kurz erklärt\" served in band \"halbleiter erwecken wärmepumpen zum leben\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "wie es funktioniert – kurz erklärt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"wärmepumpen auf dem vormarsch\" served in band \"halbleiter erwecken wärmepumpen zum leben\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "wärmepumpen auf dem vormarsch"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"entdecken sie unser produkt-portfolio\" served in band \"halbleiter erwecken wärmepumpen zum leben\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "entdecken sie unser produkt-portfolio"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr zu wärmepumpen\" served in band \"halbleiter erwecken wärmepumpen zum leben\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr zu wärmepumpen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"1200 v trenchstop™ igbt7\" served in band \"halbleiter erwecken wärmepumpen zum leben\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "1200 v trenchstop™ igbt7"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"cipos™ ipms\" served in band \"halbleiter erwecken wärmepumpen zum leben\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "cipos™ ipms"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"easy igbt power modules\" served in band \"halbleiter erwecken wärmepumpen zum leben\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "easy igbt power modules"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"airoc™ wi-fi & bluetooth® combos\" served in band \"halbleiter erwecken wärmepumpen zum leben\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "airoc™ wi-fi & bluetooth® combos"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"eicedriver™ gate driver family\" served in band \"halbleiter erwecken wärmepumpen zum leben\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "eicedriver™ gate driver family"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr entdecken\" served in band \"halbleiter erwecken wärmepumpen zum leben\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr erfahren\" served in band \"halbleiter erwecken wärmepumpen zum leben\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr erfahren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"abonnieren\" served in band \"halbleiter erwecken wärmepumpen zum leben\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "abonnieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"halbleiter erwecken wärmepumpen zum leben\": 3 origin → 15 served visible",
+   "band": 1,
+   "origin": 3,
+   "eds": 15,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"halbleiter erwecken wärmepumpen zum leben\": 0 origin → 6 served visible (+2 clipped away)",
+   "band": 1,
+   "origin": 0,
+   "eds": 6,
+   "hidden": 2
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 8,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 14,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 24,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 46,
+    "y": 77,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 286,
+    "w": 271,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 330,
+    "w": 272,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 374,
+    "w": 82,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 436,
+    "w": 242,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 460,
+    "w": 237,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 484,
+    "w": 288,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 508,
+    "w": 262,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 532,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 556,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 580,
+    "w": 268,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 604,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 647,
+    "w": 118,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 687,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 132,
+    "y": 687,
+    "w": 76,
+    "h": 20
+   },
+   {
+    "x": 60,
+    "y": 797,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 823,
+    "w": 251,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 857,
+    "w": 226,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 883,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 917,
+    "w": 215,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 951,
+    "w": 236,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 985,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 764,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1056,
+    "w": 201,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1086,
+    "w": 183,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1116,
+    "w": 312,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1163,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1189,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1215,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1241,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1267,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1293,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1319,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1345,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1371,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1397,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1423,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1449,
+    "w": 233,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1475,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1501,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1527,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1553,
+    "w": 287,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1579,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1605,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1631,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1657,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1683,
+    "w": 233,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1932,
+    "w": 312,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1962,
+    "w": 141,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 2009,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2035,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2061,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2087,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2113,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2139,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2165,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2191,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2217,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2243,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2269,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2295,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2321,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2347,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2373,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2399,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2425,
+    "w": 262,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2451,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2477,
+    "w": 282,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2503,
+    "w": 261,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2529,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2555,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2581,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2607,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2633,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2659,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2701,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2727,
+    "w": 180,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2753,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2779,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2805,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2831,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2857,
+    "w": 284,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2883,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2909,
+    "w": 169,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2935,
+    "w": 164,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2978,
+    "w": 166,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3232,
+    "w": 299,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3279,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3305,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3331,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3357,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3383,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3409,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3435,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3461,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3487,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3513,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3539,
+    "w": 282,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3565,
+    "w": 263,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3591,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3617,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3643,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3669,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3695,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3721,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3747,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3773,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3799,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4048,
+    "w": 327,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 4095,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4121,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4147,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4173,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4199,
+    "w": 287,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4225,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4251,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4277,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4303,
+    "w": 199,
+    "h": 25
+   },
+   {
+    "x": 215,
+    "y": 4311,
+    "w": 7,
+    "h": 19
+   },
+   {
+    "x": 222,
+    "y": 4303,
+    "w": 98,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4329,
+    "w": 284,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4355,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4381,
+    "w": 101,
+    "h": 25
+   },
+   {
+    "x": 117,
+    "y": 4389,
+    "w": 7,
+    "h": 19
+   },
+   {
+    "x": 123,
+    "y": 4381,
+    "w": 167,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4407,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4433,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4459,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4485,
+    "w": 287,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4728,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4754,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4780,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4806,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4832,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4858,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4884,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4910,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4936,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4962,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4988,
+    "w": 271,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5014,
+    "w": 243,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5063,
+    "w": 272,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 5093,
+    "w": 81,
+    "h": 32
+   },
+   {
+    "x": 56,
+    "y": 5166,
+    "w": 196,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 5208,
+    "w": 89,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 5250,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 5292,
+    "w": 240,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 5334,
+    "w": 212,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5429,
+    "w": 223,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 5667,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 44,
+    "y": 5710,
+    "w": 79,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 5738,
+    "w": 263,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 5738,
+    "w": 248,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 5787,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5823,
+    "w": 253,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 6061,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 44,
+    "y": 6104,
+    "w": 197,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 6181,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6329,
+    "w": 204,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 6365,
+    "w": 293,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 6417,
+    "w": 228,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 6447,
+    "w": 275,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 6477,
+    "w": 312,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 6507,
+    "w": 106,
+    "h": 32
+   },
+   {
+    "x": 152,
+    "y": 6583,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6833,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6872,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6914,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6956,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6998,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7040,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6833,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 6872,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6914,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6956,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6982,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7024,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7066,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7108,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7175,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7214,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7256,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7298,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7365,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 7404,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7446,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7488,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7530,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 7601,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 7601,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7631,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 7631,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7661,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 7661,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 7661,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 36,
+    "y": 77,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 286,
+    "w": 271,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 330,
+    "w": 272,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 374,
+    "w": 82,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 436,
+    "w": 242,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 460,
+    "w": 237,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 484,
+    "w": 288,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 508,
+    "w": 262,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 532,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 556,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 580,
+    "w": 268,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 604,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 647,
+    "w": 118,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 687,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 132,
+    "y": 687,
+    "w": 76,
+    "h": 20
+   },
+   {
+    "x": 40,
+    "y": 764,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 797,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 823,
+    "w": 251,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 857,
+    "w": 226,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 883,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 917,
+    "w": 215,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 951,
+    "w": 236,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 985,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1056,
+    "w": 201,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1086,
+    "w": 183,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1116,
+    "w": 312,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1163,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1189,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1215,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1241,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1267,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1293,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1319,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1345,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1371,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1397,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1423,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1449,
+    "w": 233,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1475,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1501,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1527,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1553,
+    "w": 287,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1579,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1605,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1631,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1657,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1683,
+    "w": 230,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1932,
+    "w": 312,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1962,
+    "w": 141,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 2009,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2035,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2061,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2087,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2113,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2139,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2165,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2191,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2217,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2243,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2269,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2295,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2321,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2347,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2373,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2399,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2425,
+    "w": 262,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2451,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2477,
+    "w": 282,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2503,
+    "w": 261,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2529,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2555,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2581,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2607,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2633,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2659,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2701,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2727,
+    "w": 180,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2753,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2779,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2805,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2831,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2857,
+    "w": 284,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2883,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2909,
+    "w": 169,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2935,
+    "w": 164,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2978,
+    "w": 163,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3225,
+    "w": 299,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3272,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3298,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3324,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3350,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3376,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3402,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3428,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3454,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3480,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3506,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3532,
+    "w": 282,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3558,
+    "w": 263,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3584,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3610,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3636,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3662,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3688,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3714,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3740,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3766,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3792,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4041,
+    "w": 327,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 4088,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4114,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4140,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4166,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4192,
+    "w": 287,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4218,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4244,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4270,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4296,
+    "w": 199,
+    "h": 25
+   },
+   {
+    "x": 215,
+    "y": 4304,
+    "w": 7,
+    "h": 19
+   },
+   {
+    "x": 222,
+    "y": 4296,
+    "w": 98,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4322,
+    "w": 284,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4348,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4374,
+    "w": 101,
+    "h": 25
+   },
+   {
+    "x": 117,
+    "y": 4382,
+    "w": 7,
+    "h": 19
+   },
+   {
+    "x": 123,
+    "y": 4374,
+    "w": 167,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4400,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4426,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4452,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4478,
+    "w": 287,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4721,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4747,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4773,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4799,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4825,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4851,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4877,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4903,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4929,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4955,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4981,
+    "w": 271,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5007,
+    "w": 239,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5056,
+    "w": 272,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 5086,
+    "w": 81,
+    "h": 32
+   },
+   {
+    "x": 56,
+    "y": 5159,
+    "w": 196,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 5201,
+    "w": 89,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 5243,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 5285,
+    "w": 240,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 5327,
+    "w": 212,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5422,
+    "w": 223,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 5659,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 5703,
+    "w": 79,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 5731,
+    "w": 263,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 5731,
+    "w": 248,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 5782,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5817,
+    "w": 253,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 6054,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 6098,
+    "w": 197,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 6177,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6324,
+    "w": 204,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 6360,
+    "w": 293,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 6412,
+    "w": 228,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 6442,
+    "w": 275,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 6472,
+    "w": 312,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 6502,
+    "w": 106,
+    "h": 32
+   },
+   {
+    "x": 152,
+    "y": 6579,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6837,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6876,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6918,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6960,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7002,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7044,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6837,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 6876,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6918,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6960,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6986,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7028,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7070,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7112,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7179,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7218,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7260,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7302,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7369,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 7408,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7450,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7492,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7534,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 7605,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 7605,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7635,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 7635,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7665,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 7665,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 7665,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

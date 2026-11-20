@@ -1,0 +1,138 @@
+/* support-offramp: closing grey support band (live .supportOffRamps) */
+.support-offramp {
+  max-width: var(--ifx-shell);
+  margin: 24px auto 0;
+  background: var(--ifx-surface-band);
+
+  /* live: the band paints edge to edge while the layout stays in the 1400px shell */
+  box-shadow: 0 0 0 100vmax var(--ifx-surface-band);
+  clip-path: inset(0 -100vmax);
+}
+
+.support-offramp .support-offramp-inner {
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+.support-offramp .support-offramp-head :is(h2, h3) {
+  margin: 0 0 24px;
+  color: var(--ifx-ink);
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 36px;
+  letter-spacing: -0.26px;
+}
+
+.support-offramp .support-offramp-sub p {
+  margin: 0 0 8px;
+  color: var(--ifx-ink);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 26px;
+}
+
+.support-offramp .support-offramp-desc p {
+  margin: 0;
+  color: var(--ifx-stone-text);
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.support-offramp .support-offramp-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 24px;
+  margin-top: 24px;
+}
+
+.support-offramp .support-offramp-cta p {
+  margin: 0;
+}
+
+.support-offramp .support-offramp-cta a:any-link {
+  display: block;
+  padding: 12px 16px;
+  border: 0;
+  border-radius: 1px;
+  background: var(--ifx-teal);
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: center;
+}
+
+.support-offramp .support-offramp-links ul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.support-offramp .support-offramp-links li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.support-offramp .support-offramp-links a:any-link {
+  border-bottom: 1px solid var(--ifx-ink);
+  color: var(--ifx-ink);
+}
+
+.support-offramp .support-offramp-cta a:any-link:hover {
+  background: var(--ifx-teal-deep);
+}
+
+.support-offramp .support-offramp-links .icon {
+  color: var(--ifx-teal);
+  font-size: 14px;
+}
+
+.support-offramp .icon-ico-headset-16::before {
+  content: '\e9bd';
+}
+
+.support-offramp .icon-ico-c-question-16::before {
+  content: '\e939';
+}
+
+.support-offramp .icon-ico-feedback-support {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  background: url('feedback-support.svg') 50% / contain no-repeat;
+}
+
+@media (width >= 992px) {
+  .support-offramp {
+    margin-top: 48px;
+  }
+
+  .support-offramp .support-offramp-inner {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .support-offramp .support-offramp-head :is(h2, h3) {
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.36px;
+  }
+
+  .support-offramp .support-offramp-actions {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .support-offramp .support-offramp-links ul {
+    flex-direction: row;
+    align-items: center;
+  }
+}

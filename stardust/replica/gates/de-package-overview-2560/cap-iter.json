@@ -1,0 +1,1329 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-18T05:43:35.016Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://www.infineon.com/de/package-overview",
+      "http://localhost:8791/de-package-overview-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from stardust/current/DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://www.infineon.com/de/package-overview",
+    "http://localhost:8791/de-package-overview-proposed.html"
+  ],
+  "probeNote": "from stardust/current/DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "div.ifxcontainer.responsivegrid > div > div.cmp-container.tablet-margin0 > div.genericbreadcrumb",
+      "isBody": false,
+      "leaves": 2,
+      "w2": 1248
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "div.ifxcontainer.responsivegrid > div > div.cmp-container.tablet-margin0 > div.ifxcontainer.responsivegrid",
+        "tier": -3,
+        "share": 1,
+        "section": -1,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "other",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "div.ifxcontainer.responsivegrid > div > div.cmp-container.tablet-margin0 > div.ifxcontainer.responsivegrid",
+        "tier": 10,
+        "share": 0,
+        "section": -1,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "other",
+        "px": 638,
+        "via": "fixed",
+        "selector": "section > div.producthero-component.add-gaps > div.product-hero-container.product-hero-banner > picture",
+        "tier": 17,
+        "share": 0,
+        "section": -1,
+        "w1": 638,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "other",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "#PackageCategory > div.packageCat-container.add-gaps",
+        "tier": 11,
+        "share": 0,
+        "section": -1,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "other",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "div.ifxcontainer.responsivegrid > div > div.cmp-container.tablet-margin0 > div.ifxcontainer.responsivegrid",
+        "tier": 8,
+        "share": 0,
+        "section": -1,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "other",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "div.ifxcontainer.responsivegrid > div > div.cmp-container.tablet-margin0 > div.ifxcontainer.responsivegrid",
+        "tier": 8,
+        "share": 0,
+        "section": -1,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "other",
+        "px": 1324,
+        "via": "fixed",
+        "selector": "div.cmp-container.tablet-margin0 > div.ifxcontainer.responsivegrid > div > div.ifx-container.marginLeft80",
+        "tier": 10,
+        "share": 0,
+        "section": -1,
+        "w1": 1324,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "other",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards-component.teaserrowcards-carousel > div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide.swiper-slide-active",
+        "tier": 18,
+        "share": 0,
+        "section": -1,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "other",
+        "px": 371,
+        "via": "fixed",
+        "selector": "div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide.swiper-slide-active > div.card",
+        "tier": 19,
+        "share": 0,
+        "section": -1,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "other",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards-component.teaserrowcards-carousel > div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide.swiper-slide-next",
+        "tier": 18,
+        "share": 0,
+        "section": -1,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "other",
+        "px": 371,
+        "via": "fixed",
+        "selector": "div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide.swiper-slide-next > div.card",
+        "tier": 19,
+        "share": 0,
+        "section": -1,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "other",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards-component.teaserrowcards-carousel > div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide",
+        "tier": 18,
+        "share": 0,
+        "section": -1,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "other",
+        "px": 371,
+        "via": "fixed",
+        "selector": "div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide > div.card",
+        "tier": 19,
+        "share": 0,
+        "section": -1,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "other",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards-component.teaserrowcards-carousel > div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide",
+        "tier": 18,
+        "share": 0,
+        "section": -1,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "other",
+        "px": 371,
+        "via": "fixed",
+        "selector": "div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide > div.card",
+        "tier": 19,
+        "share": 0,
+        "section": -1,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "other",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards-component.teaserrowcards-carousel > div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide",
+        "tier": 18,
+        "share": 0,
+        "section": -1,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "other",
+        "px": 371,
+        "via": "fixed",
+        "selector": "div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide > div.card",
+        "tier": 19,
+        "share": 0,
+        "section": -1,
+        "w1": 371,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "div.cmp-container.tablet-margin0 > div.genericbreadcrumb > nav.genericBreadcrumb-component.add-gaps > div.genericBreadcrumb-links",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "div.cmp-container.tablet-margin0 > div.genericbreadcrumb > nav.genericBreadcrumb-component.add-gaps > div.breadcrumb-icons",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": 1400,
+    "contentMaxWidth": 1400,
+    "contentFrom": "shell",
+    "maxCap": 1400,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 382
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body > main.root",
+      "isBody": false,
+      "leaves": 272,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "body > main.root > div.cmp-container",
+        "tier": 1,
+        "share": 1,
+        "section": -1,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 662,
+        "via": "fixed",
+        "selector": "div.ifxcontainer.ifx-fluid > section.phero > div.phero__row > div.phero__info",
+        "tier": 5,
+        "share": 0.01,
+        "section": 1,
+        "w1": 662,
+        "maxWidth": "50%"
+      },
+      {
+        "kind": "module",
+        "px": 638,
+        "via": "fixed",
+        "selector": "div.ifxcontainer.ifx-fluid > section.phero > div.phero__row > picture.phero__media",
+        "tier": 5,
+        "share": 0,
+        "section": 1,
+        "w1": 638,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.02,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.02,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.03,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.03,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.03,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.03,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.03,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.03,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.03,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.03,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.03,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.03,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.03,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.03,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.02,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.02,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.02,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.02,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.03,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.03,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.02,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.02,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.03,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.03,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.02,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.02,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.03,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.03,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 384,
+        "via": "fixed",
+        "selector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg",
+        "tier": 6,
+        "share": 0.01,
+        "section": 2,
+        "w1": 384,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.pcat__in > ul.pcat__grid > li.pkg > div.pkg__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 2,
+        "w1": 256,
+        "maxWidth": "66.6667%"
+      },
+      {
+        "kind": "module",
+        "px": 534,
+        "via": "fixed",
+        "selector": "div.ifxcontainer.ifx-fixed > section.sdoc > div.sdoc__row > div.sdoc__body",
+        "tier": 5,
+        "share": 0.03,
+        "section": 3,
+        "w1": 534,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 454,
+        "via": "fixed",
+        "selector": "section.sdoc > div.sdoc__row > div.sdoc__body > div.sdoc__head",
+        "tier": 6,
+        "share": 0,
+        "section": 3,
+        "w1": 454,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 460,
+        "via": "fixed",
+        "selector": "section.sdoc > div.sdoc__row > div.sdoc__body > p.sdoc__desc",
+        "tier": 6,
+        "share": 0,
+        "section": 3,
+        "w1": 460,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 278,
+        "via": "fixed",
+        "selector": "div.ifxcontainer.ifx-fixed > section.docs > div.docs__tools > div.docs__filters",
+        "tier": 5,
+        "share": 0.01,
+        "section": 3,
+        "w1": 278,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 320,
+        "via": "fixed",
+        "selector": "table.docs__table > thead > tr > th",
+        "tier": 7,
+        "share": 0,
+        "section": 3,
+        "w1": 320,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 320,
+        "via": "fixed",
+        "selector": "table.docs__table > tbody > tr > td",
+        "tier": 7,
+        "share": 0,
+        "section": 3,
+        "w1": 320,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 320,
+        "via": "fixed",
+        "selector": "table.docs__table > tbody > tr > td",
+        "tier": 7,
+        "share": 0,
+        "section": 3,
+        "w1": 320,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 264,
+        "via": "fixed",
+        "selector": "tr > td > div.docs__name > a",
+        "tier": 9,
+        "share": 0,
+        "section": 3,
+        "w1": 264,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 320,
+        "via": "fixed",
+        "selector": "table.docs__table > tbody > tr > td",
+        "tier": 7,
+        "share": 0,
+        "section": 3,
+        "w1": 320,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 264,
+        "via": "fixed",
+        "selector": "tr > td > div.docs__name > a",
+        "tier": 9,
+        "share": 0,
+        "section": 3,
+        "w1": 264,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 320,
+        "via": "fixed",
+        "selector": "table.docs__table > tbody > tr > td",
+        "tier": 7,
+        "share": 0,
+        "section": 3,
+        "w1": 320,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 264,
+        "via": "fixed",
+        "selector": "tr > td > div.docs__name > a",
+        "tier": 9,
+        "share": 0,
+        "section": 3,
+        "w1": 264,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 320,
+        "via": "fixed",
+        "selector": "table.docs__table > tbody > tr > td",
+        "tier": 7,
+        "share": 0,
+        "section": 3,
+        "w1": 320,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 264,
+        "via": "fixed",
+        "selector": "tr > td > div.docs__name > a",
+        "tier": 9,
+        "share": 0,
+        "section": 3,
+        "w1": 264,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 320,
+        "via": "fixed",
+        "selector": "table.docs__table > tbody > tr > td",
+        "tier": 7,
+        "share": 0,
+        "section": 3,
+        "w1": 320,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 264,
+        "via": "fixed",
+        "selector": "tr > td > div.docs__name > a",
+        "tier": 9,
+        "share": 0,
+        "section": 3,
+        "w1": 264,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 320,
+        "via": "fixed",
+        "selector": "table.docs__table > tbody > tr > td",
+        "tier": 7,
+        "share": 0,
+        "section": 3,
+        "w1": 320,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 264,
+        "via": "fixed",
+        "selector": "tr > td > div.docs__name > a",
+        "tier": 9,
+        "share": 0,
+        "section": 3,
+        "w1": 264,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 320,
+        "via": "fixed",
+        "selector": "table.docs__table > tbody > tr > td",
+        "tier": 7,
+        "share": 0,
+        "section": 3,
+        "w1": 320,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 264,
+        "via": "fixed",
+        "selector": "tr > td > div.docs__name > a",
+        "tier": 9,
+        "share": 0,
+        "section": 3,
+        "w1": 264,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards > section.tcards > div.tcards__track > article.tcard",
+        "tier": 6,
+        "share": 0.01,
+        "section": 4,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "section.tcards > div.tcards__track > article.tcard > div.tcard__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 4,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards > section.tcards > div.tcards__track > article.tcard",
+        "tier": 6,
+        "share": 0.01,
+        "section": 4,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "section.tcards > div.tcards__track > article.tcard > div.tcard__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 4,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards > section.tcards > div.tcards__track > article.tcard",
+        "tier": 6,
+        "share": 0.01,
+        "section": 4,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "section.tcards > div.tcards__track > article.tcard > div.tcard__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 4,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards > section.tcards > div.tcards__track > article.tcard",
+        "tier": 6,
+        "share": 0.01,
+        "section": 4,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "section.tcards > div.tcards__track > article.tcard > div.tcard__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 4,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards > section.tcards > div.tcards__track > article.tcard",
+        "tier": 6,
+        "share": 0.01,
+        "section": 4,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "section.tcards > div.tcards__track > article.tcard > div.tcard__body",
+        "tier": 7,
+        "share": 0.01,
+        "section": 4,
+        "w1": 371,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-fixed",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-fluid",
+        "px": 662,
+        "capSelector": "div.ifxcontainer.ifx-fluid > section.phero > div.phero__row > div.phero__info"
+      },
+      {
+        "index": 2,
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-extra-fluid",
+        "px": 384,
+        "capSelector": "#PackageCategory > div.pcat__in > ul.pcat__grid > li.pkg"
+      },
+      {
+        "index": 3,
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-fixed",
+        "px": 534,
+        "capSelector": "div.ifxcontainer.ifx-fixed > section.sdoc > div.sdoc__row > div.sdoc__body"
+      },
+      {
+        "index": 4,
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-fluid",
+        "px": 375,
+        "capSelector": "div.teaserrowcards > section.tcards > div.tcards__track > article.tcard"
+      },
+      {
+        "index": 5,
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-fluid",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": 1400,
+    "contentMaxWidth": 1400,
+    "contentFrom": "shell",
+    "maxCap": 1400,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 251
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "wrapper cap",
+        "detail": "live 1400px = build 1400px (±20)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "sections",
+        "detail": "live 2 vs build 6 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 1/2",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/2",
+        "detail": "live full-bleed (div.cmp-container.tablet-margin0 > div.genericbreadcrumb > nav.genericBreadcrumb-component.add-gaps > div.breadcrumb-icons) → build 662px (div.ifxcontainer.ifx-fluid > section.phero > div.phero__row > div.phero__info)",
+        "advisory": true
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/de-package-overview-2560/cap-iter.json"
+}

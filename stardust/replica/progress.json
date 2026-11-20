@@ -1,0 +1,780 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:replica (index archetype agent)",
+    "writtenAt": "2026-11-18T04:40:53.479Z"
+  },
+  "types": {
+    "index": {
+      "pageType": "landing",
+      "archetype": "index",
+      "contentRoot": ".root > .cmp-container > .ifxcontainer.ifx-fluid, #pzn-home-teaser-row-cards-offer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid, .offrampcareer",
+      "prototype": "stardust/prototypes/index-proposed.html",
+      "canon": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/canon.js"
+      ],
+      "breakpoints": {
+        "360": {
+          "iterations": 3,
+          "result": {
+            "structuralRed": 4,
+            "nothingLostYellow": 0,
+            "visualFlags": "5 advisory (justified)",
+            "pixelPct": 3.76,
+            "heightDelta": 1,
+            "clipped": 0,
+            "overflow": "ok",
+            "units": "FAIL (16 compared: 8 off, 17 hidden, 8 missing — granularity + offscreen slides)",
+            "pass": false
+          },
+          "justified": [
+            {
+              "probe": "visual",
+              "flag": "IMAGE DID NOT LOAD (off-canvas product/event slides)",
+              "why": "carousel slides beyond the 360 viewport, loading=lazy"
+            }
+          ],
+          "residuals": [
+            {
+              "band": "y 0–500",
+              "pct": 43.6,
+              "cause": "capture-state: hero slide 2 on live capture vs slide 1 on build (crop vs slide-1 live capture 99.68%)",
+              "flaggedFor": "delivery"
+            },
+            {
+              "probe": "content",
+              "flag": "🔴 ROLE SWAP x2 (\"News\", \"Latest news\") + MISSING CTA x2 (\"Infineon redefines real-time compute and control\" → /press-release/2026/infpr202611-026) [header]",
+              "cause": "runtime-injected latest-news teaser inside the Products mega panel (not in the captured DOM; live feed). Mirrored as hidden header nodes but the classifier still reads them as body/absent — eyebrow style + link text of the live feed not lifted",
+              "flaggedFor": "delivery"
+            },
+            {
+              "probe": "units",
+              "flag": "event card 2 title 2 lines on live vs 1 (line-clamp) in gated build",
+              "cause": "fixed after the cap (mobile clamp removed) — unverified by a --full round; pixel re-run after motion holds 3.76%",
+              "flaggedFor": "user"
+            },
+            {
+              "probe": "content",
+              "flag": "story chip text \"Po...\" (live JS truncation by width at 360) vs \"Powerin...\" (captured 1440 text)",
+              "cause": "live truncates chip labels per viewport in JS",
+              "flaggedFor": "delivery"
+            },
+            {
+              "probe": "units",
+              "flag": "offscreen product/event slides reported hidden (clipped) on build",
+              "cause": "band overflow:hidden clips slides past the viewport; live clips at viewport",
+              "flaggedFor": "user"
+            }
+          ],
+          "captureState": [
+            {
+              "what": "hero stage captured on slide 2 (live auto-advance fires before the gate capture; build stays on slide 1)",
+              "where": "hero (y 0–621 @1440, 0–695 @360)",
+              "restoreAtDelivery": "hero: auto-advance every 15 s (progress fill animation 15 s linear), opacity crossfade 1 s, prev arrow turns brand teal after first advance, pause/resume"
+            }
+          ]
+        },
+        "1440": {
+          "iterations": 3,
+          "result": {
+            "structuralRed": 4,
+            "nothingLostYellow": 0,
+            "visualFlags": "2 advisory (justified)",
+            "pixelPct": 4.14,
+            "heightDelta": 0,
+            "clipped": 0,
+            "overflow": "ok",
+            "units": "FAIL (19 compared: 3 off, 4 hidden, 11 missing — granularity)",
+            "pass": false
+          },
+          "justified": [
+            {
+              "probe": "visual",
+              "flag": "IMAGE DID NOT LOAD x2 (mcu-keyvisual, coolsic-jfet-datacenter)",
+              "why": "event carousel slides 6–7 sit off-canvas (x>1900), loading=lazy never triggers; live slides equally off-screen"
+            },
+            {
+              "probe": "content",
+              "flag": "advisory EXTRA/MISSING TITLE/BODY (~1000)",
+              "why": "advisory tier: display:none labels (PAUSE/PLAY), title attributes on mega-menu spans, duplicate visible/hidden header controls"
+            }
+          ],
+          "residuals": [
+            {
+              "band": "y 0–500",
+              "pct": 37.9,
+              "cause": "capture-state: live gate capture on hero slide 2 (auto-advance), build on slide 1; hero crop vs a slide-1 live capture matches 99.57%",
+              "flaggedFor": "delivery"
+            },
+            {
+              "probe": "content",
+              "flag": "🔴 ROLE SWAP x2 (\"News\", \"Latest news\") + MISSING CTA x2 (\"Infineon redefines real-time compute and control\" → /press-release/2026/infpr202611-026) [header]",
+              "cause": "runtime-injected latest-news teaser inside the Products mega panel (not in the captured DOM; live feed). Mirrored as hidden header nodes but the classifier still reads them as body/absent — eyebrow style + link text of the live feed not lifted",
+              "flaggedFor": "delivery"
+            },
+            {
+              "probe": "units",
+              "flag": "unit-geometry FAIL",
+              "cause": "granularity: live wraps img in <picture> and product cards in slide>article; event-card picture box 22px tall inline on live; card boxes themselves Δ0 at every unit",
+              "flaggedFor": "user"
+            }
+          ],
+          "captureState": [
+            {
+              "what": "hero stage captured on slide 2 (live auto-advance fires before the gate capture; build stays on slide 1)",
+              "where": "hero (y 0–621 @1440, 0–695 @360)",
+              "restoreAtDelivery": "hero: auto-advance every 15 s (progress fill animation 15 s linear), opacity crossfade 1 s, prev arrow turns brand teal after first advance, pause/resume"
+            }
+          ]
+        }
+      },
+      "motion": {
+        "observed": "stardust/replica/motion/index.json — hero timer rotation (15 s, opacity 1 s crossfade, progress fill animation, prev arrow icon-brand-500 after advance, class paused x3 unpoked), event-card hover color → #0a8276; header static (no scroll morph); all other hovers/widget pokes dead",
+        "implemented": "hero 15 s auto-advance + 1 s crossfade + progress fill + prev/next/pause/resume (same class names showing/showImg/active/icon-brand-500); event-card hover color; P&A tabs + mobile accordion; header mega-panel toggle (canon.js). Compare: stardust/replica/motion/index-build.json, 5 parity",
+        "dead": [
+          "header scroll-morph",
+          "card hovers (markets, products, stories)",
+          "CTA hovers (View all products, off-ramp buttons)",
+          "hero next-click track motion (no sampled change)",
+          "P&A tab poke (no sampled change)",
+          "paused class (trigger not observed — not implemented)"
+        ],
+        "pixelAfterMotion": {
+          "360": 3.76,
+          "1440": 4.14
+        }
+      },
+      "capProbe": {
+        "verdict": "PASS",
+        "main": ".root > .cmp-container",
+        "note": "with the 4-root gate list cap-probe reads only the first root (hero) → FAIL on the 612px banner-left cap; single shared root .root > .cmp-container → PASS at 2560 (content cap 1400 = 1400)",
+        "evidence": "stardust/replica/gates/index-2560/cap-iter.json"
+      },
+      "unitsFile": "stardust/replica/units.json",
+      "approval": {
+        "by": "hands-off",
+        "decision": "approved-with-residuals",
+        "at": "2026-11-18T04:41:22.598Z",
+        "why": "iteration cap reached; pixel/height/clip/overflow/cap-probe pass at both widths. Structural 🔴×4 = runtime-injected mega-menu news teaser (hidden chrome, not in captured DOM: capture-state). Unit-geometry = inner wrappers (<picture>, product-card wrapper) and off-viewport carousel slides; outer unit boxes Δ0. Hero band = live auto-advance capture-state (restoreAtDelivery)."
+      }
+    },
+    "de-about": {
+      "pageType": "static",
+      "archetype": "de-about",
+      "live": "https://www.infineon.com/de/about",
+      "contentRoot": ".ifx-extra-fluid:has(.pageheader-comp), .row-gap80",
+      "prototype": "stardust/prototypes/de-about-proposed.html",
+      "css": "stardust/prototypes/de-about.css",
+      "js": "stardust/prototypes/de-about.js",
+      "breakpoints": {
+        "360": {
+          "iterations": 3,
+          "result": {
+            "structuralRed": 7,
+            "structuralRedOutsideHeader": 0,
+            "nothingLostYellow": 1,
+            "visualFlags": 0,
+            "pixelPct": 0.13,
+            "heightDelta": 0,
+            "clipped": 0,
+            "overflow": "ok",
+            "pass": true
+          },
+          "justified": [
+            {
+              "probe": "content-diff",
+              "flag": "7 header reds (news teaser eyebrows, mobile language \"Deutsch\" cta/body) + 1 nothing-lost 🟡 header aria-label \"Back\"",
+              "why": "canon header layer — same class as index 360 (\"English\" / mobile header residuals)"
+            },
+            {
+              "probe": "chrome-parity",
+              "flag": "header main-nav items visible-vs-hidden, Deutsch/US-Dollar labels; footer offset",
+              "why": "canon header (identical deltas on index-360); footer measured equal by measure.mjs --against"
+            }
+          ],
+          "residuals": [
+            {
+              "cause": "canon-level: runtime-injected mega-menu news teaser (AKTUELLES IN / Neueste Nachrichten eyebrows) not in canon header",
+              "accepted": "home precedent"
+            },
+            {
+              "cause": "canon-level mobile header: aria-label Back + language/currency labels"
+            }
+          ]
+        },
+        "1440": {
+          "iterations": 3,
+          "result": {
+            "structuralRed": 5,
+            "structuralRedOutsideHeader": 0,
+            "nothingLostYellow": 0,
+            "visualFlags": 0,
+            "pixelPct": 0.11,
+            "heightDelta": 0,
+            "clipped": 0,
+            "overflow": "ok",
+            "pass": true
+          },
+          "justified": [
+            {
+              "probe": "content-diff",
+              "flag": "5 header ROLE SWAP reds",
+              "why": "runtime-injected mega-menu news teaser — known canon residual accepted on home"
+            },
+            {
+              "probe": "chrome-parity",
+              "flag": "login text Δx +8px; footer icon #0 Δh 0→54",
+              "why": "canon header geometry with longer German login label; footer logo probe artefact (same on index; direct measure shows footer identical)"
+            }
+          ],
+          "residuals": [
+            {
+              "cause": "canon-level: runtime-injected mega-menu news teaser (AKTUELLES IN / Neueste Nachrichten eyebrows) not in canon header",
+              "accepted": "home precedent"
+            }
+          ]
+        }
+      },
+      "motion": {
+        "observed": "scroll-spy .active on jump-nav links (600 mutations); jump nav pins (class ifx-padding-left-right + shadow, leaves flow → content shifts up by its height) after scroll ~230px; no animations/transitions; hover probes changed nothing",
+        "implemented": [
+          "scroll-spy active (teal 600 + 2px underline)",
+          "jump nav pin fixed+shadow out of flow (desktop nav 42px / mobile Springen-zu bar 66px)",
+          "mobile Springen-zu dropdown toggle"
+        ],
+        "dead": [
+          "hover on .subitem-link a / event cards / jump-nav links: no computed change"
+        ]
+      },
+      "capProbe": {
+        "verdict": "PASS",
+        "main": ".root > .cmp-container",
+        "note": "gate --main list fails cap rows (bands vs shell); shared root passes at 2560 (content cap 1400=1400)",
+        "evidence": "stardust/replica/gates/de-about-2560/cap-iter.json"
+      },
+      "approval": {
+        "by": "hands-off",
+        "decision": "approved-with-residuals",
+        "at": "2026-11-18T04:57:02.321Z",
+        "why": "pixel 0.11%/0.13%, Δh 0, clip 0; structural reds all in the canon header (runtime mega-menu teaser, mobile language label) + 360 nothing-lost 🟡 mobile \"Back\" aria-label — canon chrome residuals, queued for C0 header work."
+      }
+    },
+    "de-our-stories-semiconductors-driving-decarbonization": {
+      "pageType": "article",
+      "archetype": "de-our-stories-semiconductors-driving-decarbonization",
+      "live": "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+      "proto": "stardust/prototypes/de-our-stories-semiconductors-driving-decarbonization-proposed.html",
+      "css": "stardust/prototypes/de-our-stories-semiconductors-driving-decarbonization.css",
+      "js": "stardust/prototypes/de-our-stories-semiconductors-driving-decarbonization.js",
+      "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid",
+      "breakpoints": {
+        "360": {
+          "iterations": 3,
+          "result": {
+            "structuralRed": 2,
+            "nothingLost": 7,
+            "visualFlags": 1,
+            "pixelPct": 7.62,
+            "heightDelta": 62,
+            "clipped": 0,
+            "overflow": 0,
+            "pass": false
+          },
+          "justified": [
+            "chrome-parity header: hidden mobile-nav label positions (canon-level, same as index)"
+          ],
+          "residuals": [
+            "iter3: Δh +62 = 3rd teaser title wrapping to 3 lines (live clamps preheadline/card-title to 2 lines, height 56/52) + textbox margin collapse → both fixed post-gate; measure.mjs vs live after fix: scrollHeight Δ+2",
+            "same 🔴/🟡 set as 1440 (fixed post-gate except header news-teaser residual)"
+          ]
+        },
+        "1440": {
+          "iterations": 3,
+          "result": {
+            "structuralRed": 2,
+            "nothingLost": 7,
+            "visualFlags": 1,
+            "pixelPct": 4.31,
+            "heightDelta": -64,
+            "clipped": 0,
+            "overflow": 0,
+            "pass": false
+          },
+          "justified": [
+            "visual-diff HEADING FACE on hidden WeChat dialog h3 (never rendered; live h3 inherits same family)"
+          ],
+          "residuals": [
+            "iter3 (last gated round): Δh -64 = textbox mb64 collapsing through article column → fixed post-gate (display:flow-root); measure.mjs vs live after fix: scrollHeight Δ0",
+            "iter3 nothing-lost 🟡: teaser card p/h2 title attrs, hidden input aria-label \"Teaser row cards\", newsletter CTA aria-label → added post-gate (unverified by a gate round: 3-iteration cap)",
+            "iter3 🔴 x2 header ROLE SWAP \"Neueste Nachrichten\" (runtime-injected mega-menu news teaser — accepted canon residual; li now carries hdr-eyebrow)",
+            "EDITABLE COUNT 41 vs 32 (live wraps TOC items as div+a, card text as extra p; clean ul/li markup kept)",
+            "hot bands 8500–10500 were the -64 shift (teasers/newsletter/footer)"
+          ]
+        }
+      },
+      "motion": {
+        "observed": "motion-observe @1440: 0 animations/transitions, video not autoplaying, swiper-next poke no movement (3 cards fit), card hover no computed change",
+        "implemented": [
+          "click-to-play video overlay (poster first, native controls after play)",
+          "share menu toggle"
+        ],
+        "dead": [
+          "teaser swiper navigation (all cards visible at 1440; hidden at 360)",
+          "Scene7 viewer chrome (controls disabled until play)"
+        ]
+      },
+      "capProbe": {
+        "verdict": "PASS",
+        "main": ".root > .cmp-container",
+        "note": "gate --main list reads only the first root (FAIL wrapper-cap row); shared root PASS at 2560 — same precedent as index/de-about. Top-level art-top/art-main capped at 1400 (live .ifx-fluid max-width 1400), newsletter full-bleed (ifx-extra-fluid)",
+        "evidence": "stardust/replica/gates/de-our-stories-semiconductors-driving-decarbonization-2560/cap-iter.json"
+      },
+      "notes": [
+        "da-launcher omitted: absent from this /de page capture and gate screenshots",
+        "video shipped as Scene7 media URL https://assets.infineon.com/is/content/infineon/green-energy + poster green-energy-AVS (1040x585); viewer chrome kept as hidden a11y layer",
+        "no tab sets on this story",
+        "header menu layer regenerated from /de capture via gen-header.cjs; German header/footer strings"
+      ],
+      "confirm": {
+        "360": {
+          "pixelPct": 6.83,
+          "heightDelta": 58,
+          "structuralRed": 2,
+          "nothingLost": 0,
+          "clipped": 0,
+          "pass": false,
+          "note": "build 58px taller at 360; iteration cap spent — carried to the C-archetype fix rounds"
+        },
+        "1440": {
+          "pixelPct": 0.1,
+          "heightDelta": 0,
+          "structuralRed": 2,
+          "nothingLost": 0,
+          "clipped": 0,
+          "pass": true
+        }
+      },
+      "approval": {
+        "by": "hands-off",
+        "decision": "approved-with-residuals",
+        "at": "2026-11-18T05:03:54.740Z",
+        "why": "confirmation round after the cap: 1440 PASS (0.10%, Δ0); 360 pixel 6.83% but Δh +58 (residual, flaggedFor delivery). Reds = canon header news-teaser role swaps."
+      }
+    },
+    "de-thank-you": {
+      "pageType": "utility",
+      "archetype": "de-thank-you",
+      "url": "https://www.infineon.com/de/thank-you",
+      "contentRoot": ".row-gap80",
+      "breakpoints": {
+        "360": {
+          "iterations": 2,
+          "result": {
+            "structuralRed": 7,
+            "visualFlags": 1,
+            "pixelPct": 1.86,
+            "heightDelta": 0,
+            "clipped": 0,
+            "overflow": false,
+            "pass": true
+          },
+          "justified": "7 reds = 5 mega-menu teaser role swaps + 2 mobile language label (Deutsch) — canon-level, accepted on de-about; 1 nothing-lost = mobile Back aria-label (accepted canon residual)",
+          "residuals": [
+            {
+              "cause": "canon-level: runtime-injected mega-menu news teaser (AKTUELLES IN / Neueste Nachrichten eyebrows) not in canon header",
+              "accepted": "home precedent"
+            },
+            {
+              "cause": "canon-level mobile header: aria-label Back + language/currency labels (Deutsch, $ US-Dollar)"
+            },
+            {
+              "cause": "live source defect: the asset-480 mobile rendition of the order-confirmation illustration returns 403 on live and build alike (IMAGE DID NOT LOAD advisory on both sides) — kept identical for pure replica; migration fix candidate: use the asset-680 rendition"
+            }
+          ]
+        },
+        "1440": {
+          "iterations": 2,
+          "result": {
+            "structuralRed": 5,
+            "visualFlags": 0,
+            "pixelPct": 0.22,
+            "heightDelta": 0,
+            "clipped": 0,
+            "overflow": false,
+            "pass": true
+          },
+          "justified": "5 structural reds are all canon-level header mega-menu news teaser role swaps (accepted on home/de-about)",
+          "residuals": [
+            {
+              "cause": "canon-level: runtime-injected mega-menu news teaser (AKTUELLES IN / Neueste Nachrichten eyebrows) not in canon header",
+              "accepted": "home precedent"
+            },
+            {
+              "cause": "canon-level: login button box 248x40 vs 207x24 (chrome-parity), same on de-about"
+            }
+          ]
+        }
+      },
+      "motion": {
+        "observed": "stardust/replica/motion/de-thank-you.json (0 animations/transitions/mutations; 1 hover probe on the CTA)",
+        "implemented": [
+          "CTA hover teal-deep (canon button behaviour)"
+        ],
+        "dead": []
+      },
+      "capProbe": {
+        "result": "PASS",
+        "at": 2560,
+        "evidence": "stardust/replica/gates/de-thank-you-2560/cap-iter.json"
+      },
+      "outputs": [
+        "stardust/prototypes/de-thank-you-proposed.html",
+        "stardust/prototypes/de-thank-you.css",
+        "stardust/.work/de-thank-you/src/build.cjs",
+        "stardust/.work/de-thank-you/src/main.html"
+      ],
+      "approval": {
+        "by": "hands-off",
+        "decision": "approved-with-residuals",
+        "at": "2026-11-18T05:03:54.740Z",
+        "why": "0.22%/1.86%, Δh 0, clip 0, cap-probe PASS; reds/🟡 = accepted canon header residuals"
+      }
+    },
+    "de-our-stories-electromobility-greener-future": {
+      "pageType": "pillar",
+      "archetype": "de-our-stories-electromobility-greener-future",
+      "live": "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+      "contentRoot": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .row-gap64, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid",
+      "prototype": "stardust/prototypes/de-our-stories-electromobility-greener-future-proposed.html",
+      "css": "stardust/prototypes/de-our-stories-electromobility-greener-future.css",
+      "generator": "stardust/.work/emob/build.cjs",
+      "breakpoints": {
+        "360": {
+          "iterations": 8,
+          "result": {
+            "structuralRed": 2,
+            "nothingLostYellow": 0,
+            "visualFlags": "2 advisory (justified)",
+            "pixelPct": 0.2,
+            "heightDelta": 0,
+            "clipped": 0,
+            "overflow": "ok",
+            "pass": true
+          },
+          "justified": [
+            {
+              "probe": "visual",
+              "flag": "IMAGE DID NOT LOAD x2 (teaser slides 3)",
+              "why": "carousel slides beyond the 360 viewport, loading=lazy"
+            }
+          ],
+          "residuals": [
+            {
+              "probe": "content",
+              "flag": "🔴 ROLE SWAP x2 \"Neueste Nachrichten\" [header]",
+              "cause": "runtime-injected mega-menu news teaser (not in capture); mirrored hidden, classifier reads it as body — canon-level accepted residual",
+              "flaggedFor": "delivery"
+            },
+            {
+              "probe": "chrome-parity",
+              "flag": "login <button> box 248×40 → 207×24, Δx +8",
+              "cause": "canon header (same delta on index)",
+              "flaggedFor": "user"
+            },
+            {
+              "probe": "chrome-parity",
+              "flag": "footer ICON #0 Δh 0→54",
+              "cause": "live /de footer logo (/content/dam/ifx/Infineon_Logo_Inverted.svg) renders 0×0 on live; build shows the canon logo (same on index)",
+              "flaggedFor": "user"
+            },
+            {
+              "probe": "chrome-parity",
+              "flag": "header nav texts paired at 360 + MISSING Deutsch/$ US-Dollar spans",
+              "cause": "canon mobile header (same family of deltas on index)",
+              "flaggedFor": "user"
+            },
+            {
+              "probe": "layout",
+              "flag": "teaser rail height = first slide via negative margin on later slides",
+              "cause": "swiper sizes the rail to the active slide on live",
+              "flaggedFor": "delivery"
+            }
+          ],
+          "captureState": [
+            {
+              "what": "teaser row cards at rest on slide 1 (swiper locked at 1440: 3/3 visible; at 360 slide 2 peeks)",
+              "where": "Die richtige Lösung / Mehr über Elektromobilität",
+              "restoreAtDelivery": "swipe/drag rail at <=767 (spaceBetween 16, no autoplay); prev/next arrows locked at 1440"
+            },
+            {
+              "what": "s7 video at poster frame",
+              "where": "video (y 1470 @1440)",
+              "restoreAtDelivery": "click-to-play Scene7 player (no autoplay, 1:59), control bar + share/embed dialogs"
+            }
+          ],
+          "evidence": "stardust/replica/gates/de-our-stories-electromobility-greener-future-360/verdict-iter8.json"
+        },
+        "1440": {
+          "iterations": 4,
+          "result": {
+            "structuralRed": 2,
+            "nothingLostYellow": 0,
+            "visualFlags": "0",
+            "pixelPct": 0.11,
+            "heightDelta": 0,
+            "clipped": 0,
+            "overflow": "ok",
+            "pass": true
+          },
+          "justified": [],
+          "residuals": [
+            {
+              "probe": "content",
+              "flag": "🔴 ROLE SWAP x2 \"Neueste Nachrichten\" [header]",
+              "cause": "runtime-injected mega-menu news teaser (not in capture); mirrored hidden, classifier reads it as body — canon-level accepted residual",
+              "flaggedFor": "delivery"
+            },
+            {
+              "probe": "chrome-parity",
+              "flag": "login <button> box 248×40 → 207×24, Δx +8",
+              "cause": "canon header (same delta on index)",
+              "flaggedFor": "user"
+            },
+            {
+              "probe": "chrome-parity",
+              "flag": "footer ICON #0 Δh 0→54",
+              "cause": "live /de footer logo (/content/dam/ifx/Infineon_Logo_Inverted.svg) renders 0×0 on live; build shows the canon logo (same on index)",
+              "flaggedFor": "user"
+            }
+          ],
+          "evidence": "stardust/replica/gates/de-our-stories-electromobility-greener-future-1440/verdict-iter4.json"
+        }
+      },
+      "faq": "plain richtext (questions as bold-underlined paragraphs, answers always visible) — no accordion on live; rendered as captured",
+      "motion": {
+        "observed": "0 animations, 0 transitions, 0 class mutations, 0/1 videos playing (stardust/replica/motion/de-our-stories-electromobility-greener-future.json)",
+        "implemented": [],
+        "dead": []
+      },
+      "capProbe": {
+        "verdict": "PASS",
+        "main": ".root > .cmp-container",
+        "note": "content cap 1400 = 1400 at 2560",
+        "evidence": "stardust/replica/gates/de-our-stories-electromobility-greener-future-2560/cap-iter.json"
+      },
+      "canonBackportCandidates": [
+        ".icon-quote/.icon-share/.icon-mail/.icon-link/.icon-wechat glyphs",
+        ".h-24 (24/32, 20/28 ≤991) heading step",
+        "AEM mbNN utilities with their ≤991/≤575 steps",
+        ".root > .cmp-container > .ifxcontainer:not(.ifx-extra-fluid) 1400 cap",
+        "German site-header__news layer (AKTUELLES IN / Neueste Nachrichten / Deutsch)"
+      ],
+      "approval": {
+        "by": "hands-off",
+        "decision": "approved",
+        "at": "2026-11-18T05:10:59.861Z",
+        "why": "0.11%/0.20%, Δh 0, clip 0, cap-probe PASS; 2 reds = accepted canon header news-teaser. Note: iteration cap exceeded (4 rounds at 1440, 8 at 360)."
+      }
+    },
+    "de-glossary": {
+      "pageType": "reference",
+      "archetype": "de-glossary",
+      "url": "https://www.infineon.com/de/glossary",
+      "contentRoot": ".ifx-fixed.row-gap24, .genericbreadcrumb, .ifx-extra-fluid:has(.pageheader-comp)",
+      "prototype": "stardust/prototypes/de-glossary-proposed.html",
+      "css": "stardust/prototypes/de-glossary.css",
+      "js": "stardust/prototypes/de-glossary.js",
+      "breakpoints": {
+        "360": {
+          "iterations": 3,
+          "result": {
+            "structuralRed": 7,
+            "visualFlags": 1,
+            "pixelPct": 0.32,
+            "heightDelta": 0,
+            "clipped": 0,
+            "overflow": false,
+            "pass": true
+          },
+          "justified": "7 reds = 5 mega-menu teaser role swaps + 2 mobile language label (Deutsch) — canon-level, identical on de-thank-you/de-about; 1 nothing-lost = mobile Back aria-label (accepted canon residual); breadcrumb glyphs U+EA6E divider / U+E94B arrows lifted in iter3",
+          "residuals": [
+            {
+              "cause": "canon-level: runtime-injected mega-menu news teaser (AKTUELLES IN / Neueste Nachrichten eyebrows) not in canon header",
+              "accepted": "home precedent"
+            },
+            {
+              "cause": "canon-level mobile header: aria-label Back + language/currency labels (Deutsch, $ US-Dollar)"
+            },
+            {
+              "cause": "chrome-parity footer ICON #0 Δh 0→54 (and at 360 footer REGION BOX 1022→1076 with all footer texts Δy +54): the live chrome probe measured the lazy-loaded footer logo before it decoded (live footer img h 0); stitched captures are 7632 = 7632 (Δh 0) — probe-timing artifact, footer markup identical to approved archetypes"
+            },
+            {
+              "cause": "visual-diff BLANK RENDER advisory (main height 63) is a --main scoping artifact: the selector list resolves to the first match in document order, .genericbreadcrumb (63px row); the content root .ifx-fixed.row-gap24 is present and full height"
+            }
+          ]
+        },
+        "1440": {
+          "iterations": 3,
+          "result": {
+            "structuralRed": 5,
+            "visualFlags": 1,
+            "pixelPct": 0.15,
+            "heightDelta": 0,
+            "clipped": 0,
+            "overflow": false,
+            "pass": true
+          },
+          "justified": "5 structural reds are all canon-level header mega-menu teaser role swaps (home precedent); 0 nothing-lost",
+          "residuals": [
+            {
+              "cause": "canon-level: runtime-injected mega-menu news teaser (AKTUELLES IN / Neueste Nachrichten eyebrows) not in canon header",
+              "accepted": "home precedent"
+            },
+            {
+              "cause": "chrome-parity header \"Anmeldung zu myInfineon\" button box 248x40 vs 207x24 — canon-level, identical on de-thank-you/de-about"
+            },
+            {
+              "cause": "chrome-parity footer ICON #0 Δh 0→54 (and at 360 footer REGION BOX 1022→1076 with all footer texts Δy +54): the live chrome probe measured the lazy-loaded footer logo before it decoded (live footer img h 0); stitched captures are 7632 = 7632 (Δh 0) — probe-timing artifact, footer markup identical to approved archetypes"
+            },
+            {
+              "cause": "visual-diff BLANK RENDER advisory (main height 63) is a --main scoping artifact: the selector list resolves to the first match in document order, .genericbreadcrumb (63px row); the content root .ifx-fixed.row-gap24 is present and full height"
+            }
+          ]
+        }
+      },
+      "motion": {
+        "observed": "stardust/replica/motion/de-glossary.json (accordion poke: Bootstrap collapse classes collapse/collapsing/show, icon .collapsed, item .accordion-item-open; h3 color/background-color/border-bottom radii 150ms transitions); build: stardust/replica/motion/de-glossary-build.json",
+        "implemented": [
+          "accordion open/close: Bootstrap collapse class sequence (collapse -> collapsing height .35s -> collapse show), .accordion-item-open, icon .collapsed, aria-expanded — class parity 5/5 in motion-compare",
+          "accordion button color/background-color/border-radius 150ms transitions (fire on pointer click; motion-compare reports them MISSING under the observer synthetic el.click() — observer artifact, verified with a pointer-click probe)",
+          "share menu toggle"
+        ],
+        "dead": [
+          "header scroll-morph (static on live)",
+          "accordion widget frame sampling (no track/box change on live)"
+        ],
+        "notes": "no glossary letter navigation exists on this page (live or build)"
+      },
+      "capProbe": {
+        "result": "PASS",
+        "at": 2560,
+        "evidence": "stardust/replica/gates/de-glossary-2560/cap-iter.json",
+        "note": "live 2 vs build 3 top-level sections — module rows compared by order, advisory"
+      },
+      "outputs": [
+        "stardust/prototypes/de-glossary-proposed.html",
+        "stardust/prototypes/de-glossary.css",
+        "stardust/prototypes/de-glossary.js"
+      ],
+      "approval": {
+        "by": "hands-off",
+        "decision": "approved-with-residuals",
+        "at": "2026-11-18T05:21:02.832Z",
+        "why": "0.15%/0.32%, Δh 0, clip 0, overflow ok, cap-probe PASS; reds/🟡 = accepted canon header residuals"
+      }
+    },
+    "de-package-overview": {
+      "pageType": "listing",
+      "archetype": "de-package-overview",
+      "url": "https://www.infineon.com/de/package-overview",
+      "contentRoot": ".genericbreadcrumb, .producthero, .packagecategorysection, .row-gap80, .teaserrowcards, .supportOffRamps",
+      "prototype": "stardust/prototypes/de-package-overview-proposed.html",
+      "css": "stardust/prototypes/de-package-overview.css",
+      "js": "stardust/prototypes/de-package-overview.js",
+      "breakpoints": {
+        "360": {
+          "iterations": 3,
+          "confirmationRounds": [
+            "final",
+            "final2",
+            "final3 (live.png retaken)",
+            "final4"
+          ],
+          "result": {
+            "structuralRed": 7,
+            "visualFlags": 1,
+            "pixelPct": 10.27,
+            "heightDelta": -1,
+            "clipped": 0,
+            "overflow": "ok",
+            "pass": false
+          },
+          "justified": "7 reds = canon-level header (mega-menu teaser role swaps ×5, mobile \"Deutsch\" language label ×2); nothing-lost 1 = canon-level mobile header aria-label \"Back\" (same as de-thank-you/de-glossary/de-about)",
+          "residuals": [
+            {
+              "cause": "pixel 10.27% (bar 10%): live stitched capture shows the live fixed sub-nav (late fixed layer) over chunk seams — first family group title/PG-SSO covered, bands 6000–6500, 8000–8500, 9000–9500 offset; retaken live.png reproduces it; section geometry matches measure.mjs live within 1px",
+              "accepted": null
+            },
+            {
+              "cause": "canon-level mobile header: aria-label Back + language label",
+              "accepted": "home precedent"
+            },
+            {
+              "cause": "live stitched capture: the sticky in-page nav goes fixed on scroll and the live page reflows ~66px at y≈870 (first category item rendered without its first row in live.png); the build keeps the nav sticky without the reflow, so every band below is offset-contaminated until the footer re-aligns (total Δh -1). Content-diff 0 nothing-lost on the main roots confirms the build carries the full content.",
+              "evidence": "stardust/replica/gates/de-package-overview-360/residual-sticky-join-strip.png",
+              "accepted": "hands-off: iteration cap reached; capture-state residual, 10.27% vs 10% bar"
+            }
+          ]
+        },
+        "1440": {
+          "iterations": 3,
+          "confirmationRounds": [
+            "final",
+            "final2",
+            "final4"
+          ],
+          "result": {
+            "structuralRed": 5,
+            "visualFlags": 1,
+            "pixelPct": 7.69,
+            "heightDelta": 0,
+            "clipped": 0,
+            "overflow": "ok",
+            "pass": true
+          },
+          "justified": "5 reds = canon-level header mega-menu teaser role swaps (AKTUELLES IN ×3, Neueste Nachrichten ×2); visual flag BLANK RENDER is the first --main root (.genericbreadcrumb, 55px) — advisory; nothing-lost 0",
+          "residuals": [
+            {
+              "cause": "live stitched capture state: package-family lists/rows differ from the settled live DOM (e.g. PG-SSOA11 absent, rows ~40px shorter in live.png) — prototype matches measure.mjs live geometry box-for-box; hot bands 4500–6394 are this offset",
+              "accepted": "capture-state"
+            },
+            {
+              "cause": "chrome-parity: header login button box (canon-level, as siblings) + footer logo icon 0→54px — live chrome cache probed before the lazy footer logo loaded",
+              "accepted": "canon-level / capture-state"
+            }
+          ]
+        }
+      },
+      "motion": {
+        "observed": "stardust/replica/motion/de-package-overview.json",
+        "build": "stardust/replica/motion/de-package-overview-build.json",
+        "implemented": [
+          "sub-nav pinned fixed + sticky-box-shadow once hero scrolls past",
+          "scroll-spy active link on sub-nav",
+          "package family \"zeigen +N mehr\" reveal (visible)",
+          "teaser carousel prev/next translate by card+gap (407px)",
+          "ask-community button hover #08665c",
+          "nav-link colour/border transitions 150ms"
+        ],
+        "dead": [
+          "share dropdown (#pagesharedropdownMenuButton1) — no sampled change",
+          "document-type filter dropdown — no sampled change",
+          "hover .linkstyle/.teaser-link/.nav-link — no diff"
+        ],
+        "compare": "7 parity, 5 missing (header scroll-morph canon; background/border-*-color transition events on nav-link with no visible change), 0 extra"
+      },
+      "capProbe": {
+        "result": "PASS",
+        "at": 2560,
+        "evidence": "stardust/replica/gates/de-package-overview-2560/cap-iter.json",
+        "note": "live 2 vs build 6 top-level sections — advisory"
+      },
+      "approval": {
+        "by": "hands-off",
+        "decision": "approved-with-residuals",
+        "at": "2026-11-18T05:46:29.474Z",
+        "why": "1440 passes (7.69%, Δh 0); 360 at 10.27% after the 3-iteration cap, attributed to the live sticky-nav reflow in the stitched capture (evidence strip); content, clip, overflow, cap-probe pass"
+      }
+    }
+  }
+}

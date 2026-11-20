@@ -1,0 +1,481 @@
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/de-our-stories-electromobility-greener-future-360/vdiff-iter7/
+
+build red flags (advisory): 
+  • HEADING FACE: <h3> "Share in WeChat" is 28px Source Sans 3 in build vs 22px Source Sans 3 in source. A matched heading at another size or family — match the source; a deliberate font substitution is one ×N line, justify it once.
+  • IMAGE DID NOT LOAD: battery-management-systems.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0 rendered 316x160 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: infineon-25-years-valeo-promopage-01-2x.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0 rendered 316x160 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 658,
+  "textLen": 409,
+  "images": [
+   {
+    "src": "spinner-48.svg",
+    "natural": "48x48",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo.svg",
+    "natural": "91x40",
+    "rendered": "82x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "1x1",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "electromobility.jpg:asset-680-3x2?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x454",
+    "rendered": "360x203",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon-small-chip.svg",
+    "natural": "48x48",
+    "rendered": "272x272",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon-passenger-car.svg",
+    "natural": "150x150",
+    "rendered": "272x272",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lowres-man-driving-a-car.png:asset-680-16x9?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x382",
+    "rendered": "328x184",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "man-parked-at-a-charging-station-to-charge-the-car.jpg:asset-680-16x9?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x382",
+    "rendered": "328x184",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "smart-car-1.png:asset-680-16x9?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x382",
+    "rendered": "328x184",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dc-ev-charging-bi-directional-charging.png:asset-680-16x9?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x382",
+    "rendered": "328x184",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "hybridpack-drive-key-visual-2.png:asset-680-16x9?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x382",
+    "rendered": "328x184",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "electromobility-charging.png:asset-680-16x9?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x382",
+    "rendered": "328x184",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ev-3d-main-inverter-focus-v01.00.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "316x160",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lowres-on-board-charger.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "316x160",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "battery-management-systems.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "316x160",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "man-parked-at-a-charging-station-to-charge-the-car.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "316x160",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "video-story-header.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "316x160",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "infineon-25-years-valeo-promopage-01-2x.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "316x160",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Infineon_Logo_Inverted.svg",
+    "natural": "182x80",
+    "rendered": "124x54",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "tiktok.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "0?ti=12013328&tm=gtm002&Ver=2&mid=f288b5ee-b1b8-480c-b3d3-3c185e0f1ab0&bo=3&sid=a18713a0e30111f1ac0bcfe0e4b4e6c7&vid=a1874ef0e30111f18ffe158064f1848b&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=360&sh=1000&sc=24&tl=Die%20Zukunft%20der%20Mobilit%C3%A4t%20gestalten%20%7C%20Infineon%20Technologies&kw=Micromobility&p=https%3A%2F%2Fwww.infineon.com%2Fde%2Four-stories%2Felectromobility-greener-future&r=&lt=1219&evt=pageLoad&sv=2&asc=G&cdb=AQET&rn=683075",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h3",
+    "text": "Share in WeChat",
+    "color": "rgb(29, 29, 29)",
+    "fontSize": "22px",
+    "family": "Source Sans 3",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "Die Zukunft der Mobilität gestal",
+    "color": "rgb(29, 29, 29)",
+    "fontSize": "32px",
+    "family": "Source Sans 3",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "Über uns",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Quicklinks",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "myInfineon",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Karriere",
+    "color": "rgb(255, 255, 255)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "articleBreadcrumb-component",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "article-box",
+    "width": 328,
+    "left": 16
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 642,
+  "textLen": 409,
+  "images": [
+   {
+    "src": "logo.svg",
+    "natural": "91x40",
+    "rendered": "82x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "electromobility.jpg:asset-680-3x2?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x454",
+    "rendered": "360x203",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "electromobility-explainer-de-AVS?fit=constrain,1&wid=1040&hei=585",
+    "natural": "1040x585",
+    "rendered": "328x185",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon-small-chip.svg",
+    "natural": "48x48",
+    "rendered": "272x272",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon-passenger-car.svg",
+    "natural": "150x150",
+    "rendered": "272x272",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lowres-man-driving-a-car.png:asset-680-16x9?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x382",
+    "rendered": "328x184",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "man-parked-at-a-charging-station-to-charge-the-car.jpg:asset-680-16x9?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x382",
+    "rendered": "328x184",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "smart-car-1.png:asset-680-16x9?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x382",
+    "rendered": "328x184",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dc-ev-charging-bi-directional-charging.png:asset-680-16x9?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x382",
+    "rendered": "328x184",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "hybridpack-drive-key-visual-2.png:asset-680-16x9?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x382",
+    "rendered": "328x184",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "electromobility-charging.png:asset-680-16x9?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x382",
+    "rendered": "328x184",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ev-3d-main-inverter-focus-v01.00.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "316x160",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lowres-on-board-charger.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "316x160",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "battery-management-systems.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "0x0",
+    "rendered": "316x160",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "man-parked-at-a-charging-station-to-charge-the-car.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "316x160",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "video-story-header.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "316x160",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "infineon-25-years-valeo-promopage-01-2x.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "0x0",
+    "rendered": "316x160",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "Infineon_Logo_Inverted.svg",
+    "natural": "182x80",
+    "rendered": "124x54",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "tiktok.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h3",
+    "text": "Share in WeChat",
+    "color": "rgb(29, 29, 29)",
+    "fontSize": "28px",
+    "family": "Source Sans 3",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "Die Zukunft der Mobilität gestal",
+    "color": "rgb(29, 29, 29)",
+    "fontSize": "32px",
+    "family": "Source Sans 3",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "AKTUELLES IN",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "AKTUELLES IN",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "AKTUELLES IN",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "Über uns",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Quicklinks",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "myInfineon",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Karriere",
+    "color": "rgb(255, 255, 255)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "ifx-fixed",
+    "width": 360,
+    "left": 0
+   },
+   {
+    "sel": "ahero__box",
+    "width": 328,
+    "left": 16
+   }
+  ]
+ }
+}

@@ -1,0 +1,2395 @@
+{
+  "discovery": {
+    "fetchTechnique": "chrome",
+    "count": 61,
+    "concurrency": 3
+  },
+  "consent": {
+    "method": "auto"
+  },
+  "favicon": null,
+  "crawl": {
+    "failures": [
+      {
+        "url": "https://www.infineon.com/de/gated",
+        "slug": "de-gated",
+        "errorClass": "BotChallenge",
+        "message": "bot-management interstitial served as HTTP 200: denial page — 544 B of text under one error heading \"Sorry, we have landed on an empty space\"",
+        "at": "2026-11-18T01:44:56.864Z"
+      }
+    ],
+    "degraded": [],
+    "pageTimeoutMs": 60000
+  },
+  "captureGaps": {
+    "roots": [
+      {
+        "root": "/de",
+        "slug": "de",
+        "linked": 50,
+        "uncaptured": [
+          "/de/about/company",
+          "/de/about/company/leadership-team",
+          "/de/about/company/our-divisions",
+          "/de/about/company/sustainability",
+          "/de/about/events",
+          "/de/about/investor",
+          "/de/about/investor/annual-general-meeting",
+          "/de/about/investor/contact",
+          "/de/about/investor/corporate-governance",
+          "/de/about/investor/fixed-income/rating",
+          "/de/about/investor/infineon-at-a-glance",
+          "/de/about/investor/infineon-share",
+          "/de/about/investor/news",
+          "/de/about/investor/reports-presentations/financial-results",
+          "/de/about/our-stories",
+          "/de/about/our-stories/ai",
+          "/de/about/our-stories/electromobility",
+          "/de/about/our-stories/power-infrastructure",
+          "/de/about/our-stories/robotics",
+          "/de/about/our-stories/smart-living",
+          "/de/about/our-stories/software-defined-vehicle",
+          "/de/about/press",
+          "/de/about/press/contacts",
+          "/de/about/press/media-pool",
+          "/de/about/press/press-kits",
+          "/de/about/press/press-releases",
+          "/de/about/press/technology-news",
+          "/de/benefits",
+          "/de/careers/diversity-inclusion",
+          "/de/careers/how-to-apply",
+          "/de/careers/hr-contacts",
+          "/de/careers/our-locations",
+          "/de/careers/students-graduates",
+          "/de/careers/teams",
+          "/de/legal/imprint",
+          "/de/legal/privacy-policy",
+          "/de/legal/usage-terms",
+          "/de/login/dashboard/profile",
+          "/de/press-release/2026/infpr202611-025",
+          "/de/press-release/2026/infpr202611-026",
+          "/de/press-release/2026/infpr202611-028",
+          "/de/press-release/2026/infpr202611-029",
+          "/de/quality"
+        ]
+      },
+      {
+        "root": "/de/opn",
+        "slug": "de-opn",
+        "linked": 0,
+        "uncaptured": []
+      }
+    ],
+    "detail": "uncaptured first-level targets: de 43, de/opn 0"
+  },
+  "dynamicSurface": {
+    "pages": 60,
+    "pagesWithSameSiteData": 60,
+    "pagesWithSearchForm": 0,
+    "pagesHydrated": 60,
+    "truncatedPages": 0,
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/etc/clientlibs/onetrustrow/oneTrust-production/consent/{uuid}/{uuid}.json",
+        "query": [],
+        "resourceType": "other",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/etc/clientlibs/onetrustrow/oneTrust-production/consent/85f8227d-e015-4c62-ab96-ee1a08760fb3/85f8227d-e015-4c62-ab96-ee1a08760fb3.json",
+        "pages": 60,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/etc/clientlibs/onetrustrow/oneTrust-production/scripttemplates/202610.1.0/assets/otCenterRounded.json",
+        "query": [],
+        "resourceType": "other",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/etc/clientlibs/onetrustrow/oneTrust-production/scripttemplates/202610.1.0/assets/otCenterRounded.json",
+        "pages": 60,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/etc/clientlibs/onetrustrow/oneTrust-production/consent/{uuid}/{uuid}/en.json",
+        "query": [],
+        "resourceType": "other",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/etc/clientlibs/onetrustrow/oneTrust-production/consent/85f8227d-e015-4c62-ab96-ee1a08760fb3/019802f5-23e3-77e4-99f7-1671c3c7a75a/en.json",
+        "pages": 60,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/content/ifx/en.geolocation.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/content/ifx/en.geolocation.json",
+        "pages": 60,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/content/ifx.coveoSearch.txt",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "sameSite": true,
+        "example": "https://www.infineon.com/content/ifx.coveoSearch.txt",
+        "pages": 60,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "ssgtm.infineon.com",
+        "path": "/btnt",
+        "query": [
+          "cms_id",
+          "consent_id",
+          "consent_status",
+          "country",
+          "device_category",
+          "event_id",
+          "event_name",
+          "event_timestamp",
+          "language",
+          "opn",
+          "page_hostname",
+          "page_load_id",
+          "page_location",
+          "page_path",
+          "page_title",
+          "page_type",
+          "ping_id",
+          "product_family",
+          "product_line",
+          "sales_name",
+          "sami_product_id",
+          "traffic_type",
+          "z"
+        ],
+        "resourceType": "xhr",
+        "contentType": "image/gif",
+        "sameSite": true,
+        "example": "https://ssgtm.infineon.com/btnt",
+        "pages": 60,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "siteintercept.qualtrics.com",
+        "path": "/WRSiteInterceptEngine/Targeting.php",
+        "query": [
+          "Q_CLIENTTYPE",
+          "Q_CLIENTVERSION",
+          "Q_ZoneID"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+        "pages": 60,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/ccm/collect",
+        "query": [
+          "_tu",
+          "ae",
+          "apvc",
+          "auid",
+          "dl",
+          "dma",
+          "dma_cps",
+          "dt",
+          "en",
+          "ep.ads_data_redaction",
+          "fmt",
+          "frm",
+          "gap.gtb",
+          "gcd",
+          "gcs",
+          "gdid",
+          "gtb",
+          "gtm",
+          "navt",
+          "npa",
+          "rcb",
+          "rnd",
+          "scrsrc",
+          "tag_exp",
+          "tfd",
+          "tft"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://www.google.com/ccm/collect",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "pixels.spotify.com",
+        "path": "/v1/config/{hash}",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://pixels.spotify.com/v1/config/6c14dd3d56cc498f953f64e9690ec32a",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "pixels.spotify.com",
+        "path": "/v1/ingest",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://pixels.spotify.com/v1/ingest",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "h04tg9dcg03wg9jqg0ztsmzxgy.c360a.salesforce.com",
+        "path": "/web/v2/authentication",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://h04tg9dcg03wg9jqg0ztsmzxgy.c360a.salesforce.com/web/v2/authentication",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "ssgtm.infineon.com",
+        "path": "/g/collect",
+        "query": [
+          "_et",
+          "_eu",
+          "_fplc",
+          "_p",
+          "_s",
+          "_tu",
+          "cid",
+          "dl",
+          "dma",
+          "dma_cps",
+          "dr",
+          "dt",
+          "ecid",
+          "en",
+          "ep.active_currency",
+          "ep.cms_id",
+          "ep.creative_slot",
+          "ep.page_type",
+          "ep.page_url_raw",
+          "ep.promotion_name",
+          "ep.time_stamp",
+          "ep.unique_event_id",
+          "frm",
+          "gaf",
+          "gap.gtb",
+          "gap.sstd",
+          "gcd",
+          "gcs",
+          "gdid",
+          "gtb",
+          "gtm",
+          "ir",
+          "npa",
+          "pscdl",
+          "rcb",
+          "richsstsse",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "sst.gch",
+          "sst.lpc",
+          "sst.navt",
+          "sst.rnd",
+          "sst.sw_exp",
+          "sst.tft",
+          "sst.ude",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "ur",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "sameSite": true,
+        "example": "https://ssgtm.infineon.com/g/collect",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "static.cloud.coveo.com",
+        "path": "/atomic/v2.79.1/lang/en.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://static.cloud.coveo.com/atomic/v2.79.1/lang/en.json",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "pixel-config.reddit.com",
+        "path": "/pixels/a2_e6kuao36q4qq/config",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://pixel-config.reddit.com/pixels/a2_e6kuao36q4qq/config",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "alb.reddit.com",
+        "path": "/rp",
+        "query": [
+          "event",
+          "id"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "sameSite": false,
+        "example": "https://alb.reddit.com/rp",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "pages": 58,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/etc.clientlibs/ifx/clientlibs/clientlib-base/resources/dictionary/de.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/etc.clientlibs/ifx/clientlibs/clientlib-base/resources/dictionary/de.json",
+        "pages": 58,
+        "examples": [
+          "de",
+          "de-config",
+          "de-support"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "static.cloud.coveo.com",
+        "path": "/atomic/v2.79.1/lang/de.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://static.cloud.coveo.com/atomic/v2.79.1/lang/de.json",
+        "pages": 58,
+        "examples": [
+          "de",
+          "de-config",
+          "de-support"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "mboxedge35.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://mboxedge35.tt.omtrdc.net/rest/v1/delivery",
+        "pages": 55,
+        "examples": [
+          "de-config",
+          "de-support",
+          "de-opn"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/Scene7SharedAssets/Universal_HTML5_Video",
+        "query": [
+          "handler",
+          "id",
+          "locale",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/Scene7SharedAssets/Universal_HTML5_Video",
+        "pages": 27,
+        "examples": [
+          "de-training",
+          "de-careers",
+          "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "bat.bing.com",
+        "path": "/p/insights/c/o",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://bat.bing.com/p/insights/c/o",
+        "pages": 20,
+        "examples": [
+          "index",
+          "de-config",
+          "de-opn"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "bat.bing.com",
+        "path": "/p/insights/c/n",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://bat.bing.com/p/insights/c/n",
+        "pages": 20,
+        "examples": [
+          "de",
+          "de-support",
+          "de-package-overview"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "bat.bing.com",
+        "path": "/p/insights/c/h",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://bat.bing.com/p/insights/c/h",
+        "pages": 19,
+        "examples": [
+          "de-partners",
+          "de-contact-us",
+          "de-about"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "ad.doubleclick.net",
+        "path": "/ccm/s/collect",
+        "query": [
+          "auid",
+          "fmt",
+          "gtm"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://ad.doubleclick.net/ccm/s/collect",
+        "pages": 9,
+        "examples": [
+          "index",
+          "de",
+          "de-partners"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/dataApi/en.myBookmarkPage/list",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": true,
+        "example": "https://www.infineon.com/dataApi/en.myBookmarkPage/list",
+        "pages": 9,
+        "examples": [
+          "de-support",
+          "de-partners",
+          "de-opn"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "geolocation.onetrust.com",
+        "path": "/cookieconsentpub/v1/geo/location",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+        "pages": 7,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "privacyportal-eu.onetrust.com",
+        "path": "/request/v1/consentreceipts/anonymous",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://privacyportal-eu.onetrust.com/request/v1/consentreceipts/anonymous",
+        "pages": 3,
+        "examples": [
+          "index",
+          "de",
+          "de-partners"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "dpm.demdex.net",
+        "path": "/id",
+        "query": [
+          "d_fieldgroup",
+          "d_nsid",
+          "d_orgid",
+          "d_rtbd",
+          "d_ver",
+          "d_visid_ver",
+          "ts"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://dpm.demdex.net/id",
+        "pages": 3,
+        "examples": [
+          "index",
+          "de",
+          "de-partners"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "h04tg9dcg03wg9jqg0ztsmzxgy.c360a.salesforce.com",
+        "path": "/web/events/{uuid}",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://h04tg9dcg03wg9jqg0ztsmzxgy.c360a.salesforce.com/web/events/d33b3d3c-7d19-415f-9709-2ed499f999f0",
+        "pages": 3,
+        "examples": [
+          "index",
+          "de",
+          "de-partners"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "infineontechnologies.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://infineontechnologies.tt.omtrdc.net/rest/v1/delivery",
+        "pages": 3,
+        "examples": [
+          "index",
+          "de",
+          "de-partners"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/content/dam/infineon/row/public/brand-icons/thick/car-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://www.infineon.com/content/dam/infineon/row/public/brand-icons/thick/car-48.svg",
+        "pages": 2,
+        "examples": [
+          "index",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/content/dam/infineon/row/public/brand-icons/thick/gear-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://www.infineon.com/content/dam/infineon/row/public/brand-icons/thick/gear-48.svg",
+        "pages": 2,
+        "examples": [
+          "index",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/content/dam/infineon/row/public/brand-icons/thick/signal-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://www.infineon.com/content/dam/infineon/row/public/brand-icons/thick/signal-48.svg",
+        "pages": 2,
+        "examples": [
+          "index",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/content/dam/infineon/row/public/brand-icons/thick/consumer-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://www.infineon.com/content/dam/infineon/row/public/brand-icons/thick/consumer-48.svg",
+        "pages": 2,
+        "examples": [
+          "index",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/content/dam/infineon/row/public/brand-icons/thick/security-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://www.infineon.com/content/dam/infineon/row/public/brand-icons/thick/security-48.svg",
+        "pages": 2,
+        "examples": [
+          "index",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/content/dam/infineon/row/public/brand-icons/thick/solutions-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://www.infineon.com/content/dam/infineon/row/public/brand-icons/thick/solutions-48.svg",
+        "pages": 2,
+        "examples": [
+          "index",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/row/public/brand-icons/thick/car-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "image/svg+xml",
+        "sameSite": true,
+        "example": "https://www.infineon.com/row/public/brand-icons/thick/car-48.svg",
+        "pages": 2,
+        "examples": [
+          "index",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/row/public/brand-icons/thick/gear-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "image/svg+xml",
+        "sameSite": true,
+        "example": "https://www.infineon.com/row/public/brand-icons/thick/gear-48.svg",
+        "pages": 2,
+        "examples": [
+          "index",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/row/public/brand-icons/thick/consumer-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "image/svg+xml",
+        "sameSite": true,
+        "example": "https://www.infineon.com/row/public/brand-icons/thick/consumer-48.svg",
+        "pages": 2,
+        "examples": [
+          "index",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/row/public/brand-icons/thick/signal-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "image/svg+xml",
+        "sameSite": true,
+        "example": "https://www.infineon.com/row/public/brand-icons/thick/signal-48.svg",
+        "pages": 2,
+        "examples": [
+          "index",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/row/public/brand-icons/thick/security-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "image/svg+xml",
+        "sameSite": true,
+        "example": "https://www.infineon.com/row/public/brand-icons/thick/security-48.svg",
+        "pages": 2,
+        "examples": [
+          "index",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/row/public/brand-icons/thick/solutions-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "image/svg+xml",
+        "sameSite": true,
+        "example": "https://www.infineon.com/row/public/brand-icons/thick/solutions-48.svg",
+        "pages": 2,
+        "examples": [
+          "index",
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/libs/cq/i18n/dict.de.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/libs/cq/i18n/dict.de.json",
+        "pages": 2,
+        "examples": [
+          "de-package-overview",
+          "de-support-faqs"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "infineontechnologiesproduction6kx2o63f.org.coveo.com",
+        "path": "/rest/search/v2",
+        "query": [
+          "organizationId"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://infineontechnologiesproduction6kx2o63f.org.coveo.com/rest/search/v2",
+        "pages": 2,
+        "examples": [
+          "de-careers",
+          "de-support-faqs"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "infineontechnologiesproduction6kx2o63f.analytics.org.coveo.com",
+        "path": "/rest/v15/analytics/search",
+        "query": [
+          "visitor"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://infineontechnologiesproduction6kx2o63f.analytics.org.coveo.com/rest/v15/analytics/search",
+        "pages": 2,
+        "examples": [
+          "de-careers",
+          "de-support-faqs"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/psocedge-usecase1-hires-1-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/psocedge-usecase1-hires-1-AVS",
+        "pages": 2,
+        "examples": [
+          "de-our-stories-smart-things-consumer-devices",
+          "de-our-stories-artificial-intelligence-in-everyday-life"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/we-make-iot-work-smart-things-infineon-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/we-make-iot-work-smart-things-infineon-AVS",
+        "pages": 2,
+        "examples": [
+          "de-our-stories-smart-things-consumer-devices",
+          "de-our-stories-smart-home-building-technologies"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/etc.clientlibs/ifx/clientlibs/clientlib-base/resources/dictionary/en.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/etc.clientlibs/ifx/clientlibs/clientlib-base/resources/dictionary/en.json",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/dataApi/en.marketingcarousel.json",
+        "query": [
+          "path"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/dataApi/en.marketingcarousel.json",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/dataApi/en.ifxarticles.json",
+        "query": [
+          "path"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/dataApi/en.ifxarticles.json",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/dataApi/de.marketingcarousel.json",
+        "query": [
+          "path"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/dataApi/de.marketingcarousel.json",
+        "pages": 1,
+        "examples": [
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/dataApi/de.ifxarticles.json",
+        "query": [
+          "path"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/dataApi/de.ifxarticles.json",
+        "pages": 1,
+        "examples": [
+          "de"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "maps.googleapis.com",
+        "path": "/maps/api/mapsjs/gen_204",
+        "query": [
+          "csp_test"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://maps.googleapis.com/maps/api/mapsjs/gen_204",
+        "pages": 1,
+        "examples": [
+          "de-contact-us"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "maps.googleapis.com",
+        "path": "/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json+protobuf",
+        "sameSite": false,
+        "example": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+        "pages": 1,
+        "examples": [
+          "de-contact-us"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/dataApi/de/package-overview.product-document.de.json",
+        "query": [
+          "limit",
+          "offset",
+          "packageId",
+          "path"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/dataApi/de/package-overview.product-document.de.json",
+        "pages": 1,
+        "examples": [
+          "de-package-overview"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/2024-10-infineon-academy-au-lt-v05-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/2024-10-infineon-academy-au-lt-v05-AVS",
+        "pages": 1,
+        "examples": [
+          "de-training"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/libs/granite/csrf/token.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/libs/granite/csrf/token.json",
+        "pages": 1,
+        "examples": [
+          "de-thank-you"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/dataApi/de/about.ifxeventscard.json",
+        "query": [
+          "path"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/dataApi/de/about.ifxeventscard.json",
+        "pages": 1,
+        "examples": [
+          "de-about"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/content/ifx/de/careers.coveoSearch.txt",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "sameSite": true,
+        "example": "https://www.infineon.com/content/ifx/de/careers.coveoSearch.txt",
+        "pages": 1,
+        "examples": [
+          "de-careers"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/wearein-areyouin-global-evp-campaign-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/wearein-areyouin-global-evp-campaign-AVS",
+        "pages": 1,
+        "examples": [
+          "de-careers"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/260625-centralinverterconcept-01-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/260625-centralinverterconcept-01-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/260625-microinverterconcept-01-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/260625-microinverterconcept-01-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/grafik-energy-efficiency-wind-und-solar-solar-v02",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/grafik-energy-efficiency-wind-und-solar-solar-v02",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/podcast4engineers-pcs-for-bess-part-1-full",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/podcast4engineers-pcs-for-bess-part-1-full",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-efficient-energy-storage-systems-energy-transition"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/energy-savings-with-60-ghz-radar-sensor-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/energy-savings-with-60-ghz-radar-sensor-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-sensors-energy-efficient-smart-buildings"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/green-energy-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/green-energy-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-semiconductors-driving-decarbonization"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/psocedge-usecase2-hires-1-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/psocedge-usecase2-hires-1-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-smart-things-consumer-devices"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/psocedge-usecase3-hires-1-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/psocedge-usecase3-hires-1-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-smart-things-consumer-devices"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/technologys-golden-age-smart-health-appliances-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/technologys-golden-age-smart-health-appliances-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-smart-health-appliances"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/key-kpis-for-smart-factories-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/key-kpis-for-smart-factories-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-smart-factory-technologies"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/we-power-ai-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/we-power-ai-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-we-power-ai"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/deepcraft-v011",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/deepcraft-v011",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-enable-provide-ai-customer-innovation"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/visual-partner-communications-bmw-v14-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/visual-partner-communications-bmw-v14-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-software-defined-vehicles"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/sdv-marvell-ethernet-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/sdv-marvell-ethernet-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-software-defined-vehicles"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/techtalk-freight-transport-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/techtalk-freight-transport-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-emission-saving-potential-freight-transportation"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/mobility-talks-with-peter-schiefer-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/mobility-talks-with-peter-schiefer-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-shaping-the-future-of-mobility"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/mobility-talks-with-gunjot-kaur-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/mobility-talks-with-gunjot-kaur-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-shaping-the-future-of-mobility"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/shaping-future-of-mobility-teaser-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/shaping-future-of-mobility-teaser-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-shaping-the-future-of-mobility"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/mobility-talks-with-anna-dcker-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/mobility-talks-with-anna-dcker-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-shaping-the-future-of-mobility"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/shaping-future-of-mobility-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/shaping-future-of-mobility-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-shaping-the-future-of-mobility"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/mobility-tech-talk-railway-diana-car-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/mobility-tech-talk-railway-diana-car-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-public-transportation"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/electromobility-explainer-de-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/electromobility-explainer-de-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-electromobility-greener-future"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/260414-infineon-final-subtitles-de-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/260414-infineon-final-subtitles-de-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-power-infrastructure-renewables"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/risc-v-animation-ecosystem-of-partners-sound-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/risc-v-animation-ecosystem-of-partners-sound-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-how-microcontroller-enable-risc-v"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/250228-embeded-world-risc-v-ia-02-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/250228-embeded-world-risc-v-ia-02-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-how-microcontroller-enable-risc-v"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/hv-einspieler-sdv-d-livestream-v2-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/hv-einspieler-sdv-d-livestream-v2-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-semiconductors-key-technology-software-defined-vehicles"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/bmw-story-hv-sdv-with-subtitles-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/bmw-story-hv-sdv-with-subtitles-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-software-defined-vehicle-agm"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/new-riscv-ecosummit26-v2-cc-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/new-riscv-ecosummit26-v2-cc-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-ecosystem-summit"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/pi-animation-4k-d-subtitles-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/pi-animation-4k-d-subtitles-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-semiconductors-key-technology-sst-sscb"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/mobility-tech-talk-software-defined-vehicle-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/mobility-tech-talk-software-defined-vehicle-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-mobility-tech-talk-software-defined-vehicles"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/aurix-rc1-redefining-real-time-compute-and-control-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/aurix-rc1-redefining-real-time-compute-and-control-AVS",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-rc1-for-sdv-sdx-and-physical-ai"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/dataApi/de/our-stories/artificial-intelligence-in-everyday-life.ifxarticles.json",
+        "query": [
+          "path"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/dataApi/de/our-stories/artificial-intelligence-in-everyday-life.ifxarticles.json",
+        "pages": 1,
+        "examples": [
+          "de-our-stories-artificial-intelligence-in-everyday-life"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/content/dam/infineon/row/public/brand-icons/thick/partner-offering-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://www.infineon.com/content/dam/infineon/row/public/brand-icons/thick/partner-offering-48.svg",
+        "pages": 1,
+        "examples": [
+          "de-event-techfor"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/row/public/brand-icons/thick/partner-offering-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "image/svg+xml",
+        "sameSite": true,
+        "example": "https://www.infineon.com/row/public/brand-icons/thick/partner-offering-48.svg",
+        "pages": 1,
+        "examples": [
+          "de-event-techfor"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/content/dam/infineon/row/public/brand-icons/thick/university-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://www.infineon.com/content/dam/infineon/row/public/brand-icons/thick/university-48.svg",
+        "pages": 1,
+        "examples": [
+          "de-event-techfor"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/row/public/brand-icons/thick/university-48.svg",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "image/svg+xml",
+        "sameSite": true,
+        "example": "https://www.infineon.com/row/public/brand-icons/thick/university-48.svg",
+        "pages": 1,
+        "examples": [
+          "de-event-techfor"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "assets.infineon.com",
+        "path": "/is/image/infineon/infineon-techfor-intro-2023-v3-AVS",
+        "query": [
+          "handler",
+          "id",
+          "labelkey",
+          "req"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/javascript",
+        "sameSite": true,
+        "example": "https://assets.infineon.com/is/image/infineon/infineon-techfor-intro-2023-v3-AVS",
+        "pages": 1,
+        "examples": [
+          "de-event-techfor"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/dataApi/de/support/service-center.generic-table.de.json",
+        "query": [
+          "path"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.infineon.com/dataApi/de/support/service-center.generic-table.de.json",
+        "pages": 1,
+        "examples": [
+          "de-support-service-center"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.infineon.com",
+        "path": "/content/ifx/de/support/faqs.coveoSearch.txt",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "sameSite": true,
+        "example": "https://www.infineon.com/content/ifx/de/support/faqs.coveoSearch.txt",
+        "pages": 1,
+        "examples": [
+          "de-support-faqs"
+        ]
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "siteintercept.qualtrics.com",
+        "pages": 60,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "pages": 60,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      },
+      {
+        "host": "rum.hlx.page",
+        "pages": 60,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      },
+      {
+        "host": "patches.ahrefs.com",
+        "pages": 60,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      },
+      {
+        "host": "zn4mbdaokn6kcahtg-cypress.siteintercept.qualtrics.com",
+        "pages": 60,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      },
+      {
+        "host": "static.cloud.coveo.com",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "host": "bat.bing.com",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "host": "analytics.tiktok.com",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "host": "connect.facebook.net",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "host": "cdn.c360a.salesforce.com",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "host": "img.en25.com",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "host": "snap.licdn.com",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "host": "pixel.byspotify.com",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "host": "static.hotjar.com",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "host": "www.redditstatic.com",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "host": "script.hotjar.com",
+        "pages": 59,
+        "examples": [
+          "index",
+          "de",
+          "de-config"
+        ]
+      },
+      {
+        "host": "maps.googleapis.com",
+        "pages": 1,
+        "examples": [
+          "de-contact-us"
+        ]
+      },
+      {
+        "host": "unpkg.com",
+        "pages": 1,
+        "examples": [
+          "de-support-faqs"
+        ]
+      }
+    ],
+    "frameworkHints": [
+      {
+        "hint": "aem-sites",
+        "pages": 60,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      }
+    ],
+    "globalState": [
+      {
+        "name": "dataLayer",
+        "pages": 60,
+        "examples": [
+          "index",
+          "de-logout",
+          "de"
+        ]
+      }
+    ],
+    "formTargets": []
+  },
+  "visionCheck": [
+    {
+      "slug": "index",
+      "verdict": "ok",
+      "notes": "EN home; h1 matches; carousel hero \"PSOC Developer Journey\"; news grid 9 cards; wide (2647px) capture"
+    },
+    {
+      "slug": "de",
+      "verdict": "ok",
+      "notes": "DE home; h1 matches; same template as index, news grid shows 3 cards; wide (2647px) capture"
+    },
+    {
+      "slug": "de-about",
+      "verdict": "ok",
+      "notes": "h1 Über uns matches; 5 diagonal-cut image sections + events cards; imgs 12 plausible"
+    },
+    {
+      "slug": "de-careers",
+      "verdict": "ok",
+      "notes": "h1 matches; hero photo + collage, teal job-search band; wide (2099px) capture; 1 css bg recorded"
+    },
+    {
+      "slug": "de-config",
+      "verdict": "suspect",
+      "notes": "Internal AEM config dump (paths, currency table), not an author content page; exclude from migration"
+    },
+    {
+      "slug": "de-contact-us",
+      "verdict": "ok",
+      "notes": "h1 Kontakt; Google map with ~150 markers explains 158 imgs; location accordion + sidebar"
+    },
+    {
+      "slug": "de-event-techfor",
+      "verdict": "ok",
+      "notes": "h1 matches; intro text + video; event cards grid (6); further-links"
+    },
+    {
+      "slug": "de-glossary",
+      "verdict": "ok",
+      "notes": "h1 Glossar; A-Z index + term accordions; no imagery expected"
+    },
+    {
+      "slug": "de-logout",
+      "verdict": "ok",
+      "notes": "h1 matches; standalone page without site header/footer, astronaut illustration"
+    },
+    {
+      "slug": "de-opn",
+      "verdict": "ok",
+      "notes": "h1 matches; long doc with diagrams, tables and FAQ accordion"
+    },
+    {
+      "slug": "de-package-overview",
+      "verdict": "ok",
+      "notes": "h1 Packages; hero image, 40 package thumbs, documents table, cards carousel; wide (2099px) capture"
+    },
+    {
+      "slug": "de-partners",
+      "verdict": "ok",
+      "notes": "h1 matches; split hero photo, diagonal image sections, CTA band"
+    },
+    {
+      "slug": "de-support-faqs",
+      "verdict": "ok",
+      "notes": "h1 matches; faceted FAQ list, Ask-AI widget overlay visible"
+    },
+    {
+      "slug": "de-support-service-center",
+      "verdict": "ok",
+      "notes": "h1 matches; hotline table + country accordions, sidebar"
+    },
+    {
+      "slug": "de-support",
+      "verdict": "ok",
+      "notes": "h1 Support Hub; icon cards grids, link columns, contact band"
+    },
+    {
+      "slug": "de-thank-you",
+      "verdict": "ok",
+      "notes": "h1 matches; illustration + text + CTA"
+    },
+    {
+      "slug": "de-training",
+      "verdict": "ok",
+      "notes": "h1 Training; banner photo, text+image sections, video teaser, accordion"
+    },
+    {
+      "slug": "de-our-stories-artificial-intelligence-in-everyday-life",
+      "verdict": "ok",
+      "notes": "h1 matches; pillar layout with stats, 2-col cards, FAQ; EN newsletter band"
+    },
+    {
+      "slug": "de-our-stories-artificial-intelligence-semiconductors",
+      "verdict": "ok",
+      "notes": "h1 matches; teal graphic hero (no photo); 2099px capture, bottom slice narrower than canvas"
+    },
+    {
+      "slug": "de-our-stories-bi-directional-charging",
+      "verdict": "ok",
+      "notes": "h1 matches; infographics + case study box"
+    },
+    {
+      "slug": "de-our-stories-charging-infrastructure",
+      "verdict": "ok",
+      "notes": "h1 matches; map/infographic charts"
+    },
+    {
+      "slug": "de-our-stories-ecosystem-summit",
+      "verdict": "ok",
+      "notes": "h1 matches; event recap with quote, image gallery and video"
+    },
+    {
+      "slug": "de-our-stories-efficient-energy-storage-systems-energy-transition",
+      "verdict": "ok",
+      "notes": "h1 matches; diagrams, 2-col text, customer video"
+    },
+    {
+      "slug": "de-our-stories-electric-cordless-power-tools",
+      "verdict": "ok",
+      "notes": "h1 matches; teal stat infographic"
+    },
+    {
+      "slug": "de-our-stories-electromobility-greener-future",
+      "verdict": "ok",
+      "notes": "h1 matches; pillar layout with stats, cards, FAQ"
+    },
+    {
+      "slug": "de-our-stories-emission-saving-potential-freight-transportation",
+      "verdict": "ok",
+      "notes": "h1 matches; inline video + product list"
+    },
+    {
+      "slug": "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors",
+      "verdict": "ok",
+      "notes": "h1 matches; long article, infographics; 2099px capture"
+    },
+    {
+      "slug": "de-our-stories-enable-provide-ai-customer-innovation",
+      "verdict": "ok",
+      "notes": "h1 matches; teal graphic hero \"We enable and provide AI\"; 1692px capture"
+    },
+    {
+      "slug": "de-our-stories-enabling-ethernet",
+      "verdict": "ok",
+      "notes": "h1 matches; no hero image (starts with title block), diagrams"
+    },
+    {
+      "slug": "de-our-stories-essential-role-cybersecurity",
+      "verdict": "ok",
+      "notes": "h1 matches; 2-col text+image grid"
+    },
+    {
+      "slug": "de-our-stories-european-cyber-resilience-act",
+      "verdict": "ok",
+      "notes": "h1 matches; boxed callout, EN newsletter band"
+    },
+    {
+      "slug": "de-our-stories-fast-charging-solutions",
+      "verdict": "ok",
+      "notes": "h1 matches; case-study box"
+    },
+    {
+      "slug": "de-our-stories-green-buildings-rise",
+      "verdict": "ok",
+      "notes": "h1 matches; hero photo without overlap card; 1692px capture"
+    },
+    {
+      "slug": "de-our-stories-green-chargers-adapters",
+      "verdict": "ok",
+      "notes": "h1 matches; teal infographics; \"Related content\" heading in EN"
+    },
+    {
+      "slug": "de-our-stories-green-hydrogen-fuel-future",
+      "verdict": "ok",
+      "notes": "h1 matches; large inline images + product portfolio box"
+    },
+    {
+      "slug": "de-our-stories-green-iot",
+      "verdict": "ok",
+      "notes": "h1 matches; 2-col image+text card grid"
+    },
+    {
+      "slug": "de-our-stories-green-potential-data-centers",
+      "verdict": "ok",
+      "notes": "h1 matches; quote, teal savings infographic, sources box"
+    },
+    {
+      "slug": "de-our-stories-how-microcontroller-enable-risc-v",
+      "verdict": "ok",
+      "notes": "h1 matches; quote, video, ecosystem diagram"
+    },
+    {
+      "slug": "de-our-stories-microelectronics-connecting-real-digital-world",
+      "verdict": "ok",
+      "notes": "h1 matches; quote callouts + grey 4-col application-example card grids"
+    },
+    {
+      "slug": "de-our-stories-micromobility-battery-swapping",
+      "verdict": "ok",
+      "notes": "h1 matches; boxed lists, inline images"
+    },
+    {
+      "slug": "de-our-stories-micromobility",
+      "verdict": "ok",
+      "notes": "h1 matches; infographic, case-study box"
+    },
+    {
+      "slug": "de-our-stories-mobility-tech-talk-software-defined-vehicles",
+      "verdict": "ok",
+      "notes": "h1 matches; short video story"
+    },
+    {
+      "slug": "de-our-stories-power-infrastructure-renewables",
+      "verdict": "ok",
+      "notes": "h1 matches; pillar layout, stats, diagrams, FAQ"
+    },
+    {
+      "slug": "de-our-stories-public-transportation",
+      "verdict": "ok",
+      "notes": "h1 matches; many inline images, case box, interview video"
+    },
+    {
+      "slug": "de-our-stories-rc1-for-sdv-sdx-and-physical-ai",
+      "verdict": "ok",
+      "notes": "h1 matches; teal product-render hero (no photo); 2099px capture"
+    },
+    {
+      "slug": "de-our-stories-semiconductors-bring-heat-pumps-life",
+      "verdict": "ok",
+      "notes": "h1 matches; teal infographics"
+    },
+    {
+      "slug": "de-our-stories-semiconductors-driving-decarbonization",
+      "verdict": "ok",
+      "notes": "h1 matches; inline video, many images, teal infographic"
+    },
+    {
+      "slug": "de-our-stories-semiconductors-key-technology-software-defined-vehicles",
+      "verdict": "ok",
+      "notes": "h1 matches; contained illustrated hero, title below; video story"
+    },
+    {
+      "slug": "de-our-stories-semiconductors-key-technology-sst-sscb",
+      "verdict": "ok",
+      "notes": "h1 matches; video story with related + further content"
+    },
+    {
+      "slug": "de-our-stories-sensors-energy-efficient-smart-buildings",
+      "verdict": "ok",
+      "notes": "h1 matches; teal infographics, video"
+    },
+    {
+      "slug": "de-our-stories-shaping-the-future-of-mobility",
+      "verdict": "ok",
+      "notes": "h1 matches; video-series grid (4 videos); 2099px capture"
+    },
+    {
+      "slug": "de-our-stories-smart-factory-semiconductor-solutions",
+      "verdict": "ok",
+      "notes": "h1 matches; quote, image/text callouts"
+    },
+    {
+      "slug": "de-our-stories-smart-factory-technologies",
+      "verdict": "ok",
+      "notes": "h1 matches; animated text graphic, 2-col lists"
+    },
+    {
+      "slug": "de-our-stories-smart-health-appliances",
+      "verdict": "ok",
+      "notes": "h1 matches; embedded video, logos"
+    },
+    {
+      "slug": "de-our-stories-smart-home-building-technologies",
+      "verdict": "ok",
+      "notes": "h1 matches visible title (differs from <title>); video"
+    },
+    {
+      "slug": "de-our-stories-smart-things-consumer-devices",
+      "verdict": "ok",
+      "notes": "h1 matches; 3 inline videos"
+    },
+    {
+      "slug": "de-our-stories-software-defined-vehicle-agm",
+      "verdict": "ok",
+      "notes": "h1 matches visible title (differs from <title>); short video story"
+    },
+    {
+      "slug": "de-our-stories-software-defined-vehicles",
+      "verdict": "suspect",
+      "notes": "h1 matches; pillar; bottom related-tech cards render with blank images (lazy); 2099px capture"
+    },
+    {
+      "slug": "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee",
+      "verdict": "ok",
+      "notes": "h1 matches; infographics, video, podcast teaser"
+    },
+    {
+      "slug": "de-our-stories-we-power-ai",
+      "verdict": "ok",
+      "notes": "h1 matches; teal graphic hero; pillar layout; 2099px capture"
+    }
+  ]
+}

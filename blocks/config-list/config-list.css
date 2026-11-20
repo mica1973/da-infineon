@@ -1,0 +1,65 @@
+/* config-list: plain configuration listing (live /de/config — unstyled lines, flush left) */
+.config-list {
+  color: var(--ifx-ink);
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.config-list .config-list-body p {
+  margin: 0;
+}
+
+.config-list .config-list-body :is(ul, ol) {
+  margin: 0 0 16px;
+  padding: 0 0 0 32px;
+}
+
+.config-list .config-list-body h1 {
+  margin: 0 0 8px;
+  font-size: 32px;
+  line-height: 44px;
+  letter-spacing: -0.32px;
+}
+
+.config-list .config-list-body :is(h2, h3) {
+  margin: 0 0 8px;
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: -0.22px;
+}
+
+.config-list .config-list-table table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+}
+
+.config-list .config-list-table :is(th, td) {
+  padding: 4px 8px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.config-list .config-list-table th {
+  font-weight: 700;
+}
+
+.config-list .config-list-table code {
+  color: #d63384;
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+@media (width >= 992px) {
+  .config-list .config-list-body h1 {
+    font-size: 44px;
+    line-height: 56px;
+    letter-spacing: -0.44px;
+  }
+
+  .config-list .config-list-body :is(h2, h3) {
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.28px;
+  }
+}

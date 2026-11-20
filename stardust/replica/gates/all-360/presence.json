@@ -1,0 +1,238 @@
+{
+  "de-about": {
+    "main": ".ifx-extra-fluid:has(.pageheader-comp), .row-gap80=main",
+    "reason": "live renders header/footer inside <main>; origin root = replica contentRoot (progress.json types.de-about), chrome gated by crop-compare"
+  },
+  "index": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, #pzn-home-teaser-row-cards-offer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid, .offrampcareer=main",
+    "reason": "live renders header/footer inside <main>; origin root = replica contentRoot (progress.json types.index), chrome gated by crop-compare"
+  },
+  "de-thank-you": {
+    "main": ".row-gap80=main",
+    "reason": "live renders header/footer inside <main>; scope the live side to the page contentRoot (.row-gap80, replica progress.json types.de-thank-you)"
+  },
+  "de-partners": {
+    "main": ".root > .cmp-container > .ifxcontainer=main",
+    "reason": "live renders header/footer inside <main>; origin root = the page's top-level ifxcontainers (breadcrumb + content, no chrome XFs), chrome gated by crop-compare"
+  },
+  "de-support": {
+    "main": ".root > .cmp-container > .ifxcontainer=main",
+    "reason": "live renders header/footer inside <main>; origin root = the page's top-level ifxcontainers (breadcrumb + content, no chrome XFs), chrome gated by crop-compare"
+  },
+  "de-training": {
+    "main": ".root > .cmp-container > .ifxcontainer=main",
+    "reason": "live renders header/footer inside <main>; origin root = the page's top-level ifxcontainers (breadcrumb + content, no chrome XFs), chrome gated by crop-compare"
+  },
+  "de-careers": {
+    "main": ".root > .cmp-container > .ifxcontainer=main",
+    "reason": "live renders header/footer inside <main>; origin root = the page's top-level ifxcontainers (breadcrumb + content, no chrome XFs), chrome gated by crop-compare"
+  },
+  "de-event-techfor": {
+    "main": ".root > .cmp-container > .ifxcontainer=main",
+    "reason": "live renders header/footer inside <main>; origin root = the page's top-level ifxcontainers (breadcrumb + content, no chrome XFs), chrome gated by crop-compare"
+  },
+  "de-our-stories-electromobility-greener-future": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .row-gap64, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = replica contentRoot (progress.json types.de-our-stories-electromobility-greener-future), chrome gated by crop-compare"
+  },
+  "de-config": {
+    "main": ".shareplatformlist, .socialmediachannels, .dateformats, .pageconfigurations, .sitemapurl, .assetlocations, .articlerootpath, .eventrootpath, .contact-sales-config, .currencysymbols=main",
+    "reason": "live renders header/footer inside <main>; scope the live side to the config components (cluster-utility)"
+  },
+  "de": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, #pzn-home-teaser-row-cards-offer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid, .offrampcareer=main",
+    "reason": "live renders header/footer inside <main>; scope the live side to the landing contentRoot (replica progress.json types.index), as for index (cluster-landing)"
+  },
+  "de-our-stories-semiconductors-driving-decarbonization": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = replica main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main), chrome gated by crop-compare"
+  },
+  "de-glossary": {
+    "main": ".genericbreadcrumb, .ifx-extra-fluid:has(.pageheader-comp), .ifx-fixed.row-gap24=main",
+    "reason": "live renders header/footer inside <main>; origin root = replica contentRoot (progress.json types.de-glossary), chrome gated by crop-compare"
+  },
+  "de-package-overview": {
+    "main": ".genericbreadcrumb, .producthero, .packagecategorysection, .row-gap80, .teaserrowcards, .supportOffRamps=main",
+    "reason": "live renders header/footer inside <main>; origin root = replica contentRoot (progress.json types.de-package-overview), chrome gated by crop-compare"
+  },
+  "de-our-stories-we-power-ai": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .row-gap64, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = pillar archetype contentRoot (progress.json types.de-our-stories-electromobility-greener-future), sibling tier"
+  },
+  "de-our-stories-software-defined-vehicles": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .row-gap64, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = pillar archetype contentRoot (progress.json types.de-our-stories-electromobility-greener-future), sibling tier"
+  },
+  "de-our-stories-power-infrastructure-renewables": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .row-gap64, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = pillar archetype contentRoot (progress.json types.de-our-stories-electromobility-greener-future), sibling tier"
+  },
+  "de-our-stories-artificial-intelligence-in-everyday-life": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .row-gap64, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = pillar archetype contentRoot (progress.json types.de-our-stories-electromobility-greener-future), sibling tier"
+  },
+  "de-our-stories-microelectronics-connecting-real-digital-world": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-green-hydrogen-fuel-future": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-efficient-energy-storage-systems-energy-transition": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-semiconductors-bring-heat-pumps-life": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-electric-cordless-power-tools": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-green-chargers-adapters": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-green-potential-data-centers": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-opn": {
+    "main": ".genericbreadcrumb, .ifx-fixed.row-gap24=main",
+    "reason": "live renders header/footer inside <main>; origin root = the sibling's content root (breadcrumb + body container, template reference / archetype de-glossary), chrome gated by crop-compare"
+  },
+  "de-support-service-center": {
+    "main": ".genericbreadcrumb, .ifx-fixed.row-gap80=main",
+    "reason": "live renders header/footer inside <main>; origin root = the sibling's content root (breadcrumb + body container, template reference / archetype de-glossary), chrome gated by crop-compare"
+  },
+  "de-contact-us": {
+    "main": ".secondary-navigation, .pageheader-comp, .contactlocationmap, .secondaryinfobox=main",
+    "reason": "live renders header/footer inside <main>; origin root = the page content components (capture outline, cluster-listing), chrome gated by crop-compare"
+  },
+  "de-support-faqs": {
+    "main": ".genericbreadcrumb, .pageheader-comp, .faq, .supportpage-offramp=main",
+    "reason": "live renders header/footer inside <main>; origin root = the page content components (capture outline, cluster-listing), chrome gated by crop-compare"
+  },
+  "de-our-stories-artificial-intelligence-semiconductors": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-enable-provide-ai-customer-innovation": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-micromobility": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-micromobility-battery-swapping": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-charging-infrastructure": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-fast-charging-solutions": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-bi-directional-charging": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-emission-saving-potential-freight-transportation": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-sensors-energy-efficient-smart-buildings": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-smart-things-consumer-devices": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-smart-health-appliances": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-smart-factory-technologies": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-smart-home-building-technologies": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-green-iot": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-smart-factory-semiconductor-solutions": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-shaping-the-future-of-mobility": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-public-transportation": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-green-buildings-rise": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-essential-role-cybersecurity": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-how-microcontroller-enable-risc-v": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-semiconductors-key-technology-software-defined-vehicles": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-software-defined-vehicle-agm": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-ecosystem-summit": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-enabling-ethernet": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-european-cyber-resilience-act": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-semiconductors-key-technology-sst-sscb": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-mobility-tech-talk-software-defined-vehicles": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  },
+  "de-our-stories-rc1-for-sdv-sdx-and-physical-ai": {
+    "main": ".root > .cmp-container > .ifxcontainer.ifx-fluid, .root > .cmp-container > .ifxcontainer.ifx-fluid + .ifxcontainer, .root > .cmp-container > .ifxcontainer.ifx-extra-fluid=main",
+    "reason": "live renders header/footer inside <main>; origin root = the article archetype main root (progress.json types.de-our-stories-semiconductors-driving-decarbonization.main); sibling tier"
+  }
+}

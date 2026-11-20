@@ -1,0 +1,297 @@
+/* location-finder: locations map + list (live .contactlocationmap); its section also holds
+   info-boxes and becomes a two-column grid from 992px */
+main .section.location-finder-container {
+  box-sizing: border-box;
+  max-width: var(--ifx-shell);
+  margin: 0 auto;
+  padding: 48px var(--ifx-gutter) 0;
+}
+
+.location-finder .location-finder-title :is(h2, h3) {
+  margin: 0 0 16px;
+  color: var(--ifx-ink);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: -0.2px;
+}
+
+.location-finder .location-finder-map {
+  display: none;
+}
+
+.location-finder .location-finder-map iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.location-finder .location-finder-tools {
+  display: grid;
+  grid-template-columns: max-content max-content;
+  align-items: center;
+  gap: 12px 8px;
+  margin-bottom: 24px;
+  overflow: hidden;
+}
+
+.location-finder .location-finder-dd-btn span:first-child {
+  white-space: nowrap;
+}
+
+.location-finder .location-finder-dd {
+  position: relative;
+}
+
+.location-finder .location-finder-dd-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  height: 36px;
+  padding: 0 12px 0 16px;
+  border: 1px solid var(--ifx-border);
+  border-radius: 100px;
+  background: #fff;
+  color: var(--ifx-ink);
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.location-finder .location-finder-chev::before {
+  content: '\e94b';
+  font-family: var(--ifx-icon-font);
+  font-size: 16px;
+}
+
+.location-finder .location-finder-dd-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 5;
+  min-width: 220px;
+  max-height: 320px;
+  margin: 4px 0 0;
+  padding: 8px 0;
+  overflow: auto;
+  list-style: none;
+  background: #fff;
+  box-shadow: 0 2px 8px rgb(29 29 29 / 16%);
+}
+
+.location-finder .location-finder-dd-menu[hidden] {
+  display: none;
+}
+
+.location-finder .location-finder-opt {
+  display: block;
+  width: 100%;
+  padding: 6px 16px;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: left;
+}
+
+.location-finder .location-finder-opt.is-picked {
+  color: var(--ifx-teal);
+  font-weight: 600;
+}
+
+.location-finder .location-finder-count {
+  grid-column: 1 / -1;
+  padding: 0 8px;
+  background: var(--ifx-surface-band);
+  font-size: 14px;
+  line-height: 32px;
+}
+
+.location-finder .location-finder-item[hidden] {
+  display: none;
+}
+
+.location-finder .location-finder-item + .location-finder-item {
+  margin-top: 16px;
+}
+
+.location-finder .location-finder-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  min-height: 40px;
+  cursor: pointer;
+}
+
+.location-finder .location-finder-label p {
+  margin: 0;
+  color: var(--ifx-ink);
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.location-finder .location-finder-toggle {
+  flex: 0 0 32px;
+  width: 32px;
+  height: 32px;
+  color: var(--ifx-teal);
+  font-family: var(--ifx-icon-font);
+  font-size: 32px;
+  line-height: 32px;
+}
+
+.location-finder .location-finder-toggle::before {
+  content: '\e933';
+}
+
+.location-finder .location-finder-item.open .location-finder-toggle::before {
+  content: '\e936';
+}
+
+.location-finder .location-finder-detail {
+  display: none;
+  padding: 8px 48px 8px 0;
+  color: var(--ifx-stone-text);
+  font-size: 14px;
+  line-height: 22px;
+}
+
+.location-finder .location-finder-item.open .location-finder-detail {
+  display: block;
+}
+
+.location-finder .location-finder-detail p {
+  margin: 0;
+}
+
+.location-finder .location-finder-detail a:any-link {
+  color: var(--ifx-teal);
+}
+
+.location-finder .location-finder-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 24px 0;
+}
+
+.location-finder .location-finder-size {
+  display: none;
+  align-items: center;
+  gap: 16px;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 16px;
+}
+
+.location-finder .location-finder-size-select {
+  width: 88px;
+  height: 32px;
+  padding: 0 8px;
+  border: 1px solid var(--ifx-border);
+  border-radius: 0;
+  background: #fff;
+  font-size: 14px;
+}
+
+.location-finder .location-finder-pager {
+  display: flex;
+  flex: 1 1 auto;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.location-finder .location-finder-pager button {
+  width: 40px;
+  height: 40px;
+  color: var(--ifx-teal);
+  font-family: var(--ifx-icon-font);
+  font-size: 40px;
+  line-height: 40px;
+}
+
+.location-finder .location-finder-pager button:disabled {
+  color: var(--ifx-border);
+  cursor: default;
+}
+
+.location-finder .location-finder-prev::before {
+  content: '\ea99';
+}
+
+.location-finder .location-finder-next::before {
+  content: '\ea9f';
+}
+
+.location-finder .location-finder-pages {
+  display: flex;
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.location-finder .location-finder-pages li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.location-finder .location-finder-pages li.is-active {
+  border-radius: 50%;
+  background: var(--ifx-teal);
+  color: #fff;
+}
+
+@media (width >= 992px) {
+  main .section.location-finder-container {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 392px;
+    align-items: start;
+    gap: 48px;
+  }
+
+  .location-finder .location-finder-title :is(h2, h3) {
+    margin-bottom: 24px;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -0.24px;
+  }
+
+  .location-finder .location-finder-map {
+    display: block;
+    height: 432px;
+    margin-bottom: 22px;
+  }
+
+  .location-finder .location-finder-tools {
+    display: flex;
+    gap: 8px 16px;
+    overflow: visible;
+  }
+
+  .location-finder .location-finder-count {
+    flex: none;
+    padding: 0;
+    background: none;
+    line-height: 40px;
+  }
+
+  .location-finder .location-finder-foot {
+    justify-content: flex-end;
+    padding: 24px 0 40px;
+  }
+
+  .location-finder .location-finder-size {
+    display: flex;
+  }
+
+  .location-finder .location-finder-pager {
+    flex: none;
+  }
+}

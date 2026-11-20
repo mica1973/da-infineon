@@ -1,0 +1,5658 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:22:08.594Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/rc1-for-sdv-sdx-and-physical-ai",
+  "at": "2026-11-18T23:21:47.124Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6486,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems0",
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/de/our-stories/rc1-for-sdv-sdx-and-physical-ai"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems1",
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/de/our-stories/rc1-for-sdv-sdx-and-physical-ai"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems2",
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/de/our-stories/rc1-for-sdv-sdx-and-physical-ai"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems3",
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/our-stories/rc1-for-sdv-sdx-and-physical-ai"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems4",
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/our-stories/rc1-for-sdv-sdx-and-physical-ai"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 714,
+    "y": 16,
+    "w": 197,
+    "h": 36,
+    "label": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die suche zu aktivieren.",
+    "value": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die ",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "text": "navbardropdown"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "label": "navbardropdown",
+    "value": "navbardropdown",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-1",
+    "x": 1072,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.nav-item.desktopProfile > div.login-dropdown > button.login-button",
+    "x": 1132,
+    "y": 14,
+    "w": 248,
+    "h": 40,
+    "text": "anmeldung zu myinfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 254,
+    "y": 86,
+    "w": 364,
+    "h": 20,
+    "text": "aurix™ rc1: echtzeit-computing und -steuerung neu definiert",
+    "href": "/de/our-stories/rc1-for-sdv-sdx-and-physical-ai"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "aurix™ rc1",
+    "file": "aurix-rc1-visual-hi-res.jpg:asset-2000-2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 112,
+    "level": 1,
+    "text": "aurix™ rc1: echtzeit-computing und -steuerung neu definiert"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 242,
+    "y": 611,
+    "w": 956,
+    "h": 120,
+    "text": "Wir definieren Echtzeit-Computing und -Steuerung für SDV-, SDX- und Physical-AI-"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 242,
+    "y": 747,
+    "w": 187,
+    "h": 28,
+    "text": "Softwaredefiniertes Fahrzeug"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 266,
+    "y": 791,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 342,
+    "y": 791,
+    "w": 77,
+    "h": 20,
+    "level": 4,
+    "text": "nov. 03, 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-04c2b7ed17 > h2#usecase",
+    "x": 200,
+    "y": 867,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "entwickelt für das softwaredefinierte zeitalter"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#ext_video_0_container_inner > div#ext_video_0_videoPlayer > div#IconEffect_s7classic_1B",
+    "x": 680,
+    "y": 1172,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-8440a8b774 > p > i",
+    "x": 200,
+    "y": 1520,
+    "w": 917,
+    "h": 51,
+    "text": "AURIX™ RC1, unsere neue Mikrocontroller-Familie, baut auf der Offenheit von RISC"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-8440a8b774 > p > i",
+    "x": 200,
+    "y": 1546,
+    "w": 1035,
+    "h": 51,
+    "text": "AURIX™ RC1 ergänzt das bestehende Portfolio von Infineon aus AURIX™ TC3x, AURIX™"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-acf36f369d > h2.dynamicAnchors.heading-03",
+    "x": 200,
+    "y": 1662,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "ein neues kapitel für automotive-mikrocontroller beginnt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-4b76447ae8 > p",
+    "x": 200,
+    "y": 1714,
+    "w": 1040,
+    "h": 78,
+    "text": "Der Wandel hin zu softwaredefinierten Fahrzeugen (SDVs) verändert die Fahrzeugar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.quote-right-side > div.quote-right-description > p.mb-0.heading-04",
+    "x": 200,
+    "y": 1849,
+    "w": 924,
+    "h": 64,
+    "text": "Die Zukunft der Mobilität wird von Software bestimmt. Um sie sicher und zuverläs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.quote-right-side > div.quote-right-name > h4.mb-0.body-03",
+    "x": 200,
+    "y": 1921,
+    "w": 593,
+    "h": 24,
+    "level": 4,
+    "text": "thomas böhm, senior vice president automotive microcontrollers, infineon technologies"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-44a6f88fc0 > h2.dynamicAnchors.heading-03",
+    "x": 200,
+    "y": 2009,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "bereit für die nächste fahrzeuggeneration"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-16747ce857 > p",
+    "x": 200,
+    "y": 2061,
+    "w": 1040,
+    "h": 52,
+    "text": "Fahrzeuge werden intelligenter, stärker vernetzt und zunehmend durch Software be"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-16747ce857 > p",
+    "x": 200,
+    "y": 2129,
+    "w": 1040,
+    "h": 78,
+    "text": "Dieser Wandel erhöht die Anforderungen an skalierbare Rechenleistung, wiederverw"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-16747ce857 > p",
+    "x": 200,
+    "y": 2223,
+    "w": 1040,
+    "h": 78,
+    "text": "Mit AURIX™ RC1 verbinden wir die Flexibilität der offenen RISC-V-Architektur mit"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-3222526a3e > h2.dynamicAnchors.heading-03",
+    "x": 200,
+    "y": 2365,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "neue maßstäbe für automotive-mikrocontroller"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-bullet > div#text-56dc433c45 > p",
+    "x": 200,
+    "y": 2417,
+    "w": 1040,
+    "h": 52,
+    "text": "AURIX™ RC1 wurde entwickelt, um Hersteller dabei zu unterstützen, Innovationen s"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-bullet > div#text-56dc433c45 > p",
+    "x": 200,
+    "y": 2485,
+    "w": 1040,
+    "h": 52,
+    "text": "Die nächste Stufe bei Performance, Skalierbarkeit, Safety und Security, Energiee"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-56dc433c45 > p > b",
+    "x": 200,
+    "y": 2553,
+    "w": 98,
+    "h": 25,
+    "text": "AURIX™ RC1:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li.icon.icon-c-check > div.richtext-align",
+    "x": 232,
+    "y": 2595,
+    "w": 472,
+    "h": 52,
+    "text": "Vereinfachte Entwicklung und Wiederverwendung von Software"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li.icon.icon-c-check > div.richtext-align",
+    "x": 752,
+    "y": 2595,
+    "w": 189,
+    "h": 52,
+    "text": "Reduzierte Systemkosten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li.icon.icon-c-check > div.richtext-align",
+    "x": 232,
+    "y": 2663,
+    "w": 222,
+    "h": 26,
+    "text": "Verbesserte Fahrzeugeffizienz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li.icon.icon-c-check > div.richtext-align",
+    "x": 752,
+    "y": 2663,
+    "w": 220,
+    "h": 26,
+    "text": "Zukunftssichere Performance"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 2721,
+    "w": 181,
+    "h": 24,
+    "text": "mehr über aurix™ rc1",
+    "href": "/products/microcontroller/32-bit-rc1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-a9668867c2 > h2.dynamicAnchors.heading-03",
+    "x": 200,
+    "y": 2809,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "eine plattform. viele anwendungsbereiche."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-042148abaf > p",
+    "x": 200,
+    "y": 2877,
+    "w": 1040,
+    "h": 52,
+    "text": "AURIX™ RC1 ist eine skalierbare, RISC-V-basierte Mikrocontroller-Familie, die un"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-042148abaf > p",
+    "x": 200,
+    "y": 2945,
+    "w": 1040,
+    "h": 78,
+    "text": "Anwendungsspezifische Varianten adressieren Body-, Gateway- und Zonensteuerung, "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-042148abaf > p",
+    "x": 200,
+    "y": 3039,
+    "w": 1040,
+    "h": 52,
+    "text": "Die zugrunde liegenden Prinzipien reichen jedoch über das Fahrzeug hinaus. SDX u"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 330,
+    "y": 3123,
+    "w": 780,
+    "h": 439,
+    "text": "software defined vehicles",
+    "file": "aurix-rc1-key-visual.png:asset-2000-16x9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-7edc15d2f9 > p",
+    "x": 200,
+    "y": 3594,
+    "w": 1040,
+    "h": 78,
+    "text": "Eine gemeinsame RISC-V-Basis in Verbindung mit einem durchgängigen Software-Stac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-7edc15d2f9 > p",
+    "x": 200,
+    "y": 3688,
+    "w": 1040,
+    "h": 78,
+    "text": "Gemeinsam mit dem etablierten AURIX™ Ökosystem aus Designhäusern, Softwarepartne"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-657f1e13e4 > h2.dynamicAnchors.heading-03",
+    "x": 200,
+    "y": 3830,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "softwareentwicklung schon vor der verfügbarkeit des siliziums starten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-8ec1b84548 > p",
+    "x": 200,
+    "y": 3898,
+    "w": 1040,
+    "h": 52,
+    "text": "Der AURIX™ RC1 Virtual Prototype ist verfügbar und ermöglicht die Softwareentwic"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.btn-col > div.selected-icon.gaparound > a.reusebtn.large",
+    "x": 200,
+    "y": 3966,
+    "w": 190,
+    "h": 40,
+    "text": "aurix™ rc1 entdecken",
+    "href": "/products/microcontroller/32-bit-rc1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-f0512be6ad > p > b",
+    "x": 736,
+    "y": 3966,
+    "w": 302,
+    "h": 25,
+    "text": "Treffen Sie uns auf der electronica 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-f0512be6ad > p > b",
+    "x": 736,
+    "y": 4008,
+    "w": 206,
+    "h": 25,
+    "text": "Entdecken Sie AURIX™ RC1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-f0512be6ad > p > b",
+    "x": 736,
+    "y": 4034,
+    "w": 151,
+    "h": 25,
+    "text": "Halle C3 | Stand 502"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-b5aaadf36a > h2#anch1",
+    "x": 96,
+    "y": 4172,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "mit risc-v die zukunft softwaredefinierter fahrzeuge gestalten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-50c642d379 > p",
+    "x": 96,
+    "y": 4252,
+    "w": 1248,
+    "h": 104,
+    "text": "Da Software im Fahrzeug eine immer wichtigere Rolle spielt, müssen Mikrocontroll"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_ifxcontainer_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 4420,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "die richtige lösung für ihre herausforderung"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 4516,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "atv-ethernet-03-transparent.png:asset-68"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 4732,
+    "w": 323,
+    "h": 52,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 124,
+    "y": 4800,
+    "w": 323,
+    "h": 56,
+    "text": "Zone Control Unit (ZCU)"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 4878,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/automotive/zonal-architecture/zonal-controller"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 507,
+    "y": 4516,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "power-distribution-gray-v01.00.png:asset"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 531,
+    "y": 4732,
+    "w": 323,
+    "h": 52,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 531,
+    "y": 4800,
+    "w": 323,
+    "h": 56,
+    "text": "Automotive Power Distribution Unit (PDU)"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 531,
+    "y": 4878,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/automotive/zonal-architecture/automotive-power-distribution"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 914,
+    "y": 4516,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "lowres-radar-atv-sys-smd-ncap.png:asset-"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 938,
+    "y": 4732,
+    "w": 323,
+    "h": 52,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 938,
+    "y": 4800,
+    "w": 323,
+    "h": 56,
+    "text": "Domain controller for ADAS & autonomous driving"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 938,
+    "y": 4878,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/automotive/adas-autonomous-driving/domain-controller"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 1321,
+    "y": 4516,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "radar-sensor-application.png:asset-680-2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 1345,
+    "y": 4732,
+    "w": 323,
+    "h": 52,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 1345,
+    "y": 4800,
+    "w": 323,
+    "h": 56,
+    "text": "Radar solutions for SDV"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 1345,
+    "y": 4878,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/automotive/adas-autonomous-driving/77-ghz-radar"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_copy__ifxcontainer_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 4990,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "mehr zu den technologien hinter sdv"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 5086,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "software-defined-vehicles-3.jpg:asset-68"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 5302,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 124,
+    "y": 5370,
+    "w": 323,
+    "h": 56,
+    "text": "Das innovative Potenzial softwaredefinierter Fahrzeuge"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 5448,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/software-defined-vehicles"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 507,
+    "y": 5086,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "header-risc-v-2000x720px.jpg:asset-680-2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 531,
+    "y": 5302,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 531,
+    "y": 5370,
+    "w": 323,
+    "h": 56,
+    "text": "Get ready for RISC-V"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 531,
+    "y": 5448,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/how-microcontroller-enable-RISC-V"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 914,
+    "y": 5086,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "key-visual-automotive-ethernet-complete."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 938,
+    "y": 5302,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 938,
+    "y": 5370,
+    "w": 323,
+    "h": 56,
+    "text": "Inside the Mind of Tomorrow’s Car - wie das Auto von morgen denkt"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 938,
+    "y": 5448,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/enabling-ethernet"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 203,
+    "y": 5720,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "subscribe to marketing communications!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 732,
+    "y": 5720,
+    "w": 505,
+    "h": 60,
+    "text": "You will receive interesting information and articles. You may withdraw consent "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 732,
+    "y": 5804,
+    "w": 124,
+    "h": 48,
+    "text": "subscribe",
+    "href": "/de/our-stories/rc1-for-sdv-sdx-and-physical-ai"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 96,
+    "y": 6012,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 367,
+    "y": 6012,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6068,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6110,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6152,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6194,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6236,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 619,
+    "y": 6012,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6068,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6110,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6152,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6194,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6236,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6278,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 926,
+    "y": 6012,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 6068,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 6110,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 6152,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 1193,
+    "y": 6012,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6068,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6110,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6152,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6194,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 96,
+    "y": 6416,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 272,
+    "y": 6416,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 380,
+    "y": 6416,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 647,
+    "y": 6421,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 1168,
+    "y": 6420,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 1208,
+    "y": 6420,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 1248,
+    "y": 6420,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 1288,
+    "y": 6417,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 1288,
+    "y": 6421,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 1328,
+    "y": 6420,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 3,
+    "textNodes": 107,
+    "controls": 52,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p.card-title",
+     "path": "div.card > div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+     "text": "applikation",
+     "cutMin": 15,
+     "cutMax": 15
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p.preheadline",
+     "path": "div.card > div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+     "text": "radar solutions for sdv",
+     "cutMin": 101,
+     "cutMax": 101
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "a.atag.d-flex",
+     "path": "div.image-container-swiper.row-link-container > div.card-body > div.row-link > a.atag.d-flex",
+     "text": "mehr erfahren",
+     "cutMin": 2,
+     "cutMax": 2
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/rc1-for-sdv-sdx-and-physical-ai",
+  "at": "2026-11-18T23:22:08.485Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6618,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 166,
+    "y": 21,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/products"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 243,
+    "y": 21,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/applications"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 353,
+    "y": 21,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/design-resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 487,
+    "y": 21,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 629,
+    "y": 21,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/about"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "sprache"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "sprache",
+    "value": "sprache",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-login > p > a",
+    "x": 1132,
+    "y": 13,
+    "w": 207,
+    "h": 40,
+    "text": "anmeldung zu myinfineon",
+    "href": "/de/login.login.de.json"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 254,
+    "y": 85,
+    "w": 364,
+    "h": 20,
+    "text": "aurix™ rc1: echtzeit-computing und -steuerung neu definiert",
+    "href": "/de/our-stories/rc1-for-sdv-sdx-and-physical-ai"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "aurix™ rc1",
+    "file": "media_138296169685b97df94be130412b4c7355"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#aurix-rc1-echtzeit-computing-und--steuerung-neu-definiert",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 112,
+    "level": 1,
+    "text": "aurix™ rc1: echtzeit-computing und -steuerung neu definiert"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 242,
+    "y": 611,
+    "w": 956,
+    "h": 120,
+    "text": "Wir definieren Echtzeit-Computing und -Steuerung für SDV-, SDX- und Physical-AI-"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 242,
+    "y": 747,
+    "w": 187,
+    "h": 28,
+    "text": "Softwaredefiniertes Fahrzeug"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 266,
+    "y": 791,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#nov-03-2026",
+    "x": 342,
+    "y": 791,
+    "w": 77,
+    "h": 20,
+    "level": 4,
+    "text": "nov. 03, 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h3#entwickelt-für-das-softwaredefinierte-zeitalter",
+    "x": 200,
+    "y": 915,
+    "w": 1040,
+    "h": 36,
+    "level": 3,
+    "text": "entwickelt für das softwaredefinierte zeitalter"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 967,
+    "w": 1040,
+    "h": 585,
+    "text": "",
+    "file": "media_10d7c012adff1dfb25ae856f8793b343e3"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-wrapper > div.story-hub.video > button.story-hub-video-play",
+    "x": 680,
+    "y": 1220,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > em",
+    "x": 200,
+    "y": 1580,
+    "w": 972,
+    "h": 77,
+    "text": "AURIX™ RC1, unsere neue Mikrocontroller-Familie, baut auf der Offenheit von RISC"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h3#ein-neues-kapitel-für-automotive-mikrocontroller-beginnt",
+    "x": 200,
+    "y": 1722,
+    "w": 1040,
+    "h": 36,
+    "level": 3,
+    "text": "ein neues kapitel für automotive-mikrocontroller beginnt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1774,
+    "w": 1040,
+    "h": 78,
+    "text": "Der Wandel hin zu softwaredefinierten Fahrzeugen (SDVs) verändert die Fahrzeugar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-quote-text > blockquote > p",
+    "x": 200,
+    "y": 1925,
+    "w": 924,
+    "h": 64,
+    "text": "Die Zukunft der Mobilität wird von Software bestimmt. Um sie sicher und zuverläs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.quote > div.story-hub-quote-name > h4#thomas-böhm-senior-vice-president-automotive-microcontrollers-infineon-technologies",
+    "x": 200,
+    "y": 1997,
+    "w": 924,
+    "h": 24,
+    "level": 4,
+    "text": "thomas böhm, senior vice president automotive microcontrollers, infineon technologies"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h3#bereit-für-die-nächste-fahrzeuggeneration",
+    "x": 200,
+    "y": 2085,
+    "w": 1040,
+    "h": 36,
+    "level": 3,
+    "text": "bereit für die nächste fahrzeuggeneration"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2137,
+    "w": 1040,
+    "h": 52,
+    "text": "Fahrzeuge werden intelligenter, stärker vernetzt und zunehmend durch Software be"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2205,
+    "w": 1040,
+    "h": 78,
+    "text": "Dieser Wandel erhöht die Anforderungen an skalierbare Rechenleistung, wiederverw"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2299,
+    "w": 1040,
+    "h": 78,
+    "text": "Mit AURIX™ RC1 verbinden wir die Flexibilität der offenen RISC-V-Architektur mit"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h3#neue-maßstäbe-für-automotive-mikrocontroller",
+    "x": 200,
+    "y": 2441,
+    "w": 1040,
+    "h": 36,
+    "level": 3,
+    "text": "neue maßstäbe für automotive-mikrocontroller"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2493,
+    "w": 1040,
+    "h": 52,
+    "text": "AURIX™ RC1 wurde entwickelt, um Hersteller dabei zu unterstützen, Innovationen s"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2561,
+    "w": 1040,
+    "h": 52,
+    "text": "Die nächste Stufe bei Performance, Skalierbarkeit, Safety und Security, Energiee"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p > strong",
+    "x": 200,
+    "y": 2677,
+    "w": 98,
+    "h": 25,
+    "text": "AURIX™ RC1:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 2719,
+    "w": 520,
+    "h": 26,
+    "text": "Vereinfachte Entwicklung und Wiederverwendung von Software"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 720,
+    "y": 2719,
+    "w": 520,
+    "h": 26,
+    "text": "Reduzierte Systemkosten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 2761,
+    "w": 520,
+    "h": 26,
+    "text": "Verbesserte Fahrzeugeffizienz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 720,
+    "y": 2761,
+    "w": 520,
+    "h": 26,
+    "text": "Zukunftssichere Performance"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.is-tl > a",
+    "x": 200,
+    "y": 2820,
+    "w": 156,
+    "h": 22,
+    "text": "mehr über aurix™ rc1",
+    "href": "/products/microcontroller/32-bit-rc1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h3#eine-plattform-viele-anwendungsbereiche",
+    "x": 200,
+    "y": 2907,
+    "w": 1040,
+    "h": 36,
+    "level": 3,
+    "text": "eine plattform. viele anwendungsbereiche."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2975,
+    "w": 1040,
+    "h": 52,
+    "text": "AURIX™ RC1 ist eine skalierbare, RISC-V-basierte Mikrocontroller-Familie, die un"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3043,
+    "w": 1040,
+    "h": 78,
+    "text": "Anwendungsspezifische Varianten adressieren Body-, Gateway- und Zonensteuerung, "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3137,
+    "w": 1040,
+    "h": 52,
+    "text": "Die zugrunde liegenden Prinzipien reichen jedoch über das Fahrzeug hinaus. SDX u"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-figure > picture > img",
+    "x": 200,
+    "y": 3253,
+    "w": 780,
+    "h": 439,
+    "text": "software defined vehicles",
+    "file": "media_11f901ce79a9860e2812124787ea494030"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3724,
+    "w": 1040,
+    "h": 78,
+    "text": "Eine gemeinsame RISC-V-Basis in Verbindung mit einem durchgängigen Software-Stac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3818,
+    "w": 1040,
+    "h": 78,
+    "text": "Gemeinsam mit dem etablierten AURIX™ Ökosystem aus Designhäusern, Softwarepartne"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h3#softwareentwicklung-schon-vor-der-verfügbarkeit-des-siliziums-starten",
+    "x": 200,
+    "y": 3960,
+    "w": 1040,
+    "h": 36,
+    "level": 3,
+    "text": "softwareentwicklung schon vor der verfügbarkeit des siliziums starten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 4028,
+    "w": 1040,
+    "h": 52,
+    "text": "Der AURIX™ RC1 Virtual Prototype ist verfügbar und ermöglicht die Softwareentwic"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p.button-wrapper > a.button.primary",
+    "x": 200,
+    "y": 4096,
+    "w": 198,
+    "h": 40,
+    "text": "aurix™ rc1 entdecken",
+    "href": "/products/microcontroller/32-bit-rc1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p > strong",
+    "x": 736,
+    "y": 4096,
+    "w": 302,
+    "h": 25,
+    "text": "Treffen Sie uns auf der electronica 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > strong",
+    "x": 736,
+    "y": 4154,
+    "w": 206,
+    "h": 25,
+    "text": "Entdecken Sie AURIX™ RC1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > strong",
+    "x": 736,
+    "y": 4180,
+    "w": 151,
+    "h": 25,
+    "text": "Halle C3 | Stand 502"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > h2#mit-risc-v-die-zukunft-softwaredefinierter-fahrzeuge-gestalten",
+    "x": 200,
+    "y": 4302,
+    "w": 1040,
+    "h": 48,
+    "level": 2,
+    "text": "mit risc-v die zukunft softwaredefinierter fahrzeuge gestalten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.display-h2 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 4382,
+    "w": 1040,
+    "h": 104,
+    "text": "Da Software im Fahrzeug eine immer wichtigere Rolle spielt, müssen Mikrocontroll"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#die-richtige-lösung-für-ihre-herausforderung",
+    "x": 96,
+    "y": 4550,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "die richtige lösung für ihre herausforderung"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 4646,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "media_140984eee653dd86be31d824f92a776051"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 4862,
+    "w": 323,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 4930,
+    "w": 323,
+    "h": 28,
+    "text": "Zone Control Unit (ZCU)"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 128,
+    "y": 5008,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/automotive/zonal-architecture/zonal-controller"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 507,
+    "y": 4646,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "media_11afd39c7f45923b6927a878004e33eb65"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 531,
+    "y": 4862,
+    "w": 323,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 531,
+    "y": 4930,
+    "w": 323,
+    "h": 56,
+    "text": "Automotive Power Distribution Unit (PDU)"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 535,
+    "y": 5008,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/automotive/zonal-architecture/automotive-power-distribution"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 914,
+    "y": 4646,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "media_1ccd4494d9cc6ec7d9fba4d7d645d17968"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 938,
+    "y": 4862,
+    "w": 323,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 938,
+    "y": 4930,
+    "w": 323,
+    "h": 56,
+    "text": "Domain controller for ADAS & autonomous driving"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 942,
+    "y": 5008,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/automotive/adas-autonomous-driving/domain-controller"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 1321,
+    "y": 4646,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "media_158aa0bd8acb692cb617459f983662c132"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 1345,
+    "y": 4862,
+    "w": 323,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 1345,
+    "y": 4930,
+    "w": 323,
+    "h": 28,
+    "text": "Radar solutions for SDV"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 1349,
+    "y": 5008,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/automotive/adas-autonomous-driving/77-ghz-radar"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-nav > button.story-hub-rail-prev",
+    "x": 1324,
+    "y": 5080,
+    "w": 40,
+    "h": 40,
+    "text": "previous slide"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-nav > button.story-hub-rail-next",
+    "x": 1380,
+    "y": 5080,
+    "w": 40,
+    "h": 40,
+    "text": "next slide"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#mehr-zu-den-technologien-hinter-sdv",
+    "x": 96,
+    "y": 5120,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "mehr zu den technologien hinter sdv"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 5216,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_176dcf503b44e562e763b75ff4721784ac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 5432,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 5500,
+    "w": 323,
+    "h": 56,
+    "text": "Das innovative Potenzial softwaredefinierter Fahrzeuge"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 128,
+    "y": 5578,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/software-defined-vehicles"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 507,
+    "y": 5216,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_12f12c48df5839fe416d88b91aea859040"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 531,
+    "y": 5432,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 531,
+    "y": 5500,
+    "w": 323,
+    "h": 28,
+    "text": "Get ready for RISC-V"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 535,
+    "y": 5578,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/how-microcontroller-enable-risc-v"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 914,
+    "y": 5216,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_1bbf30c268e69e9e8ffeebf34663de3599"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 938,
+    "y": 5432,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 938,
+    "y": 5500,
+    "w": 323,
+    "h": 56,
+    "text": "Inside the Mind of Tomorrow’s Car - wie das Auto von morgen denkt"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 942,
+    "y": 5578,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/enabling-ethernet"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#subscribe-to-marketing-communications",
+    "x": 203,
+    "y": 5850,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "subscribe to marketing communications!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 732,
+    "y": 5850,
+    "w": 505,
+    "h": 60,
+    "text": "You will receive interesting information and articles. You may withdraw consent "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 732,
+    "y": 5934,
+    "w": 126,
+    "h": 50,
+    "text": "subscribe",
+    "href": "/de/our-stories/rc1-for-sdv-sdx-and-physical-ai"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 96,
+    "y": 6182,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 96,
+    "y": 6144,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 367,
+    "y": 6144,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6200,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6242,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6284,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6326,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6368,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 619,
+    "y": 6144,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6200,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6242,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6284,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6326,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6368,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6410,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 926,
+    "y": 6144,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 6200,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 6242,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 6284,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 1193,
+    "y": 6144,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6200,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6242,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6284,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6326,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 6548,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 272,
+    "y": 6548,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 380,
+    "y": 6548,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 6548,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 647,
+    "y": 6553,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 6552,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1208,
+    "y": 6552,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1248,
+    "y": 6552,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1288,
+    "y": 6549,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 1288,
+    "y": 6549,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1328,
+    "y": 6552,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 4,
+    "offPage": 4,
+    "textNodes": 107,
+    "controls": 58,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.story-hub-card-type",
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-type > p",
+     "text": "applikation",
+     "cutMin": 35,
+     "cutMax": 35
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.story-hub-card-title",
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "radar solutions for sdv",
+     "cutMin": 121,
+     "cutMax": 121
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.story-hub.rail",
+     "path": "div.story-hub-card-body > div.story-hub-card-link > p > a",
+     "text": "mehr erfahren",
+     "cutMin": 50,
+     "cutMax": 50
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.story-hub.rail",
+     "path": "div.story-hub-card-body > div.story-hub-card-link > p > a",
+     "text": "mehr erfahren",
+     "cutMin": 26,
+     "cutMax": 26
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 35,
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-type > p",
+     "text": "applikation",
+     "clipper": "div.story-hub-card-type",
+     "rect": {
+      "l": 1345,
+      "t": 4862,
+      "r": 1455,
+      "b": 4890,
+      "w": 110,
+      "h": 28
+     },
+     "clip": {
+      "l": 1345,
+      "t": 4862,
+      "r": 1668,
+      "b": 4914,
+      "w": 323,
+      "h": 52
+     },
+     "lines": 1
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 121,
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "radar solutions for sdv",
+     "clipper": "div.story-hub-card-title",
+     "rect": {
+      "l": 1345,
+      "t": 4930,
+      "r": 1541,
+      "b": 4958,
+      "w": 196,
+      "h": 28
+     },
+     "clip": {
+      "l": 1345,
+      "t": 4930,
+      "r": 1668,
+      "b": 4986,
+      "w": 323,
+      "h": 56
+     },
+     "lines": 1
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 50,
+     "path": "div.story-hub-card-body > div.story-hub-card-link > p > a",
+     "text": "mehr erfahren",
+     "clipper": "div.story-hub.rail",
+     "rect": {
+      "l": 1349,
+      "t": 5008,
+      "r": 1470,
+      "b": 5032,
+      "w": 121,
+      "h": 24
+     },
+     "clip": {
+      "l": 96,
+      "t": 4550,
+      "r": 1420,
+      "b": 5120,
+      "w": 1324,
+      "h": 570
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 26,
+     "path": "div.story-hub-card-body > div.story-hub-card-link > p > a",
+     "text": "mehr erfahren",
+     "clipper": "div.story-hub.rail",
+     "rect": {
+      "l": 1349,
+      "t": 5009,
+      "r": 1446,
+      "b": 5031,
+      "w": 97,
+      "h": 22
+     },
+     "clip": {
+      "l": 96,
+      "t": 4550,
+      "r": 1420,
+      "b": 5120,
+      "w": 1324,
+      "h": 570
+     },
+     "lines": 1
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "aurix™ rc1: echtzeit-computing und -steuerung neu definiert",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 10,
+    "linkHidden": 0,
+    "button": 3,
+    "buttonHidden": 0,
+    "text": 39,
+    "textHidden": 2,
+    "image": 8,
+    "imageHidden": 1
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"entwickelt für das softwaredefinierte zeitalter\" (y 915) has no origin heading",
+   "text": "entwickelt für das softwaredefinierte zeitalter"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"ein neues kapitel für automotive-mikrocontroller beginnt\" (y 1722) has no origin heading",
+   "text": "ein neues kapitel für automotive-mikrocontroller beginnt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"bereit für die nächste fahrzeuggeneration\" (y 2085) has no origin heading",
+   "text": "bereit für die nächste fahrzeuggeneration"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"neue maßstäbe für automotive-mikrocontroller\" (y 2441) has no origin heading",
+   "text": "neue maßstäbe für automotive-mikrocontroller"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"eine plattform. viele anwendungsbereiche.\" (y 2907) has no origin heading",
+   "text": "eine plattform. viele anwendungsbereiche."
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"softwareentwicklung schon vor der verfügbarkeit des siliziums starten\" (y 3960) has no origin heading",
+   "text": "softwareentwicklung schon vor der verfügbarkeit des siliziums starten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"mit risc-v die zukunft softwaredefinierter fahrzeuge gestalten\" (y 4302) has no origin heading",
+   "text": "mit risc-v die zukunft softwaredefinierter fahrzeuge gestalten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"die richtige lösung für ihre herausforderung\" (y 4550) has no origin heading",
+   "text": "die richtige lösung für ihre herausforderung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"mehr zu den technologien hinter sdv\" (y 5120) has no origin heading",
+   "text": "mehr zu den technologien hinter sdv"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"subscribe to marketing communications!\" (y 5850) has no origin heading",
+   "text": "subscribe to marketing communications!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"play or pause video\" served in band \"aurix™ rc1: echtzeit-computing und -steuerung neu definiert\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "play or pause video"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr über aurix™ rc1\" served in band \"aurix™ rc1: echtzeit-computing und -steuerung neu definiert\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr über aurix™ rc1"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"aurix™ rc1 entdecken\" served in band \"aurix™ rc1: echtzeit-computing und -steuerung neu definiert\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "aurix™ rc1 entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×4 \"mehr erfahren\" served in band \"aurix™ rc1: echtzeit-computing und -steuerung neu definiert\", no origin link or button",
+   "band": 1,
+   "n": 4,
+   "text": "mehr erfahren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"previous slide\" served in band \"aurix™ rc1: echtzeit-computing und -steuerung neu definiert\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "previous slide"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"next slide\" served in band \"aurix™ rc1: echtzeit-computing und -steuerung neu definiert\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "next slide"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×3 \"mehr entdecken\" served in band \"aurix™ rc1: echtzeit-computing und -steuerung neu definiert\", no origin link or button",
+   "band": 1,
+   "n": 3,
+   "text": "mehr entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"subscribe\" served in band \"aurix™ rc1: echtzeit-computing und -steuerung neu definiert\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "subscribe"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"aurix™ rc1: echtzeit-computing und -steuerung neu definiert\": 3 origin → 39 served visible (+2 clipped away)",
+   "band": 1,
+   "origin": 3,
+   "eds": 39,
+   "hidden": 2
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"aurix™ rc1: echtzeit-computing und -steuerung neu definiert\": 0 origin → 8 served visible (+1 clipped away)",
+   "band": 1,
+   "origin": 0,
+   "eds": 8,
+   "hidden": 1
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 10,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 13,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 20,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 166,
+    "y": 23,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 23,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 23,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 23,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 23,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 23,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 86,
+    "w": 364,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 905,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 535,
+    "w": 238,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 612,
+    "w": 921,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 636,
+    "w": 915,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 660,
+    "w": 921,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 684,
+    "w": 944,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 708,
+    "w": 268,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 751,
+    "w": 171,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 791,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 791,
+    "w": 77,
+    "h": 20
+   },
+   {
+    "x": 200,
+    "y": 865,
+    "w": 540,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1520,
+    "w": 917,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1546,
+    "w": 768,
+    "h": 25
+   },
+   {
+    "x": 968,
+    "y": 1546,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1572,
+    "w": 524,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1660,
+    "w": 672,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1714,
+    "w": 993,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1740,
+    "w": 1018,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1766,
+    "w": 52,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1847,
+    "w": 919,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1879,
+    "w": 858,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1922,
+    "w": 593,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 2007,
+    "w": 490,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2061,
+    "w": 1021,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2087,
+    "w": 872,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2129,
+    "w": 926,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2155,
+    "w": 953,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2181,
+    "w": 750,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2223,
+    "w": 1021,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2249,
+    "w": 1022,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2275,
+    "w": 19,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2363,
+    "w": 556,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2417,
+    "w": 947,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2443,
+    "w": 582,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2485,
+    "w": 972,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2511,
+    "w": 81,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2553,
+    "w": 98,
+    "h": 25
+   },
+   {
+    "x": 232,
+    "y": 2595,
+    "w": 406,
+    "h": 25
+   },
+   {
+    "x": 232,
+    "y": 2621,
+    "w": 68,
+    "h": 25
+   },
+   {
+    "x": 752,
+    "y": 2595,
+    "w": 189,
+    "h": 25
+   },
+   {
+    "x": 232,
+    "y": 2663,
+    "w": 222,
+    "h": 25
+   },
+   {
+    "x": 752,
+    "y": 2663,
+    "w": 220,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2722,
+    "w": 159,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 2807,
+    "w": 507,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2877,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2903,
+    "w": 459,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2945,
+    "w": 1010,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2971,
+    "w": 1007,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2997,
+    "w": 131,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3039,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3065,
+    "w": 611,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3594,
+    "w": 1020,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3620,
+    "w": 1022,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3646,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3688,
+    "w": 975,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3714,
+    "w": 1020,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3740,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3828,
+    "w": 830,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 3898,
+    "w": 1017,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3924,
+    "w": 42,
+    "h": 25
+   },
+   {
+    "x": 216,
+    "y": 3975,
+    "w": 158,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 3966,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4008,
+    "w": 206,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4034,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 4170,
+    "w": 943,
+    "h": 51
+   },
+   {
+    "x": 96,
+    "y": 4252,
+    "w": 343,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 4278,
+    "w": 1231,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 4304,
+    "w": 1169,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 4330,
+    "w": 229,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 4418,
+    "w": 670,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 4732,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4800,
+    "w": 199,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4879,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 4732,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 4800,
+    "w": 299,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 4828,
+    "w": 49,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 4879,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 4732,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 4800,
+    "w": 245,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 4828,
+    "w": 170,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 4879,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 1345,
+    "y": 4732,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 1345,
+    "y": 4800,
+    "w": 196,
+    "h": 28
+   },
+   {
+    "x": 1345,
+    "y": 4879,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 4988,
+    "w": 559,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 5302,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 5370,
+    "w": 205,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 5398,
+    "w": 254,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 5449,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 5302,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 5370,
+    "w": 167,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 5449,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 5302,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 5370,
+    "w": 296,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 5398,
+    "w": 263,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 5449,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 5718,
+    "w": 348,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 5766,
+    "w": 269,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 5719,
+    "w": 473,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 5749,
+    "w": 359,
+    "h": 32
+   },
+   {
+    "x": 772,
+    "y": 5817,
+    "w": 68,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6013,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6068,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6110,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6152,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6194,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6236,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6013,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 6068,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6110,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6152,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6194,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6236,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6278,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6013,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 6068,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6110,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6152,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6013,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 6068,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6110,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6152,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6194,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 6421,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 6421,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 6421,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 6421,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 6421,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 6421,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 6421,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 22,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 85,
+    "w": 364,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 905,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 535,
+    "w": 238,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 612,
+    "w": 921,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 636,
+    "w": 915,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 660,
+    "w": 921,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 684,
+    "w": 944,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 708,
+    "w": 268,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 751,
+    "w": 171,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 791,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 791,
+    "w": 77,
+    "h": 20
+   },
+   {
+    "x": 200,
+    "y": 913,
+    "w": 540,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1580,
+    "w": 946,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1606,
+    "w": 972,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1632,
+    "w": 637,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1720,
+    "w": 672,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1774,
+    "w": 993,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1800,
+    "w": 1018,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1826,
+    "w": 52,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1923,
+    "w": 919,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1955,
+    "w": 858,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1998,
+    "w": 593,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 2083,
+    "w": 490,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2137,
+    "w": 1021,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2163,
+    "w": 872,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2205,
+    "w": 926,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2231,
+    "w": 953,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2257,
+    "w": 750,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2299,
+    "w": 1021,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2325,
+    "w": 1022,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2351,
+    "w": 19,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2439,
+    "w": 556,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2493,
+    "w": 947,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2519,
+    "w": 582,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2561,
+    "w": 972,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2587,
+    "w": 81,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2677,
+    "w": 98,
+    "h": 25
+   },
+   {
+    "x": 232,
+    "y": 2721,
+    "w": 424,
+    "h": 22
+   },
+   {
+    "x": 752,
+    "y": 2721,
+    "w": 168,
+    "h": 22
+   },
+   {
+    "x": 232,
+    "y": 2763,
+    "w": 198,
+    "h": 22
+   },
+   {
+    "x": 752,
+    "y": 2763,
+    "w": 195,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 2820,
+    "w": 156,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 2905,
+    "w": 507,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2975,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3001,
+    "w": 459,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3043,
+    "w": 1010,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3069,
+    "w": 1007,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3095,
+    "w": 131,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3137,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3163,
+    "w": 611,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3724,
+    "w": 1020,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3750,
+    "w": 1022,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3776,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3818,
+    "w": 975,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3844,
+    "w": 1020,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3870,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3958,
+    "w": 830,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 4028,
+    "w": 1017,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4054,
+    "w": 42,
+    "h": 25
+   },
+   {
+    "x": 220,
+    "y": 4105,
+    "w": 158,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 4096,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4154,
+    "w": 206,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4180,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4300,
+    "w": 943,
+    "h": 51
+   },
+   {
+    "x": 200,
+    "y": 4382,
+    "w": 343,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4408,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4434,
+    "w": 961,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4460,
+    "w": 634,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 4548,
+    "w": 670,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 4862,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4930,
+    "w": 199,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 5009,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 4862,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 4930,
+    "w": 299,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 4958,
+    "w": 49,
+    "h": 28
+   },
+   {
+    "x": 535,
+    "y": 5009,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 4862,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 4930,
+    "w": 245,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 4958,
+    "w": 170,
+    "h": 28
+   },
+   {
+    "x": 942,
+    "y": 5009,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 1345,
+    "y": 4862,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 1345,
+    "y": 4930,
+    "w": 196,
+    "h": 28
+   },
+   {
+    "x": 1349,
+    "y": 5009,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 5118,
+    "w": 559,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 5432,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 5500,
+    "w": 205,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 5528,
+    "w": 254,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 5579,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 5432,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 5500,
+    "w": 167,
+    "h": 28
+   },
+   {
+    "x": 535,
+    "y": 5579,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 5432,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 5500,
+    "w": 296,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 5528,
+    "w": 263,
+    "h": 28
+   },
+   {
+    "x": 942,
+    "y": 5579,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 5848,
+    "w": 348,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 5896,
+    "w": 269,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 5849,
+    "w": 473,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 5879,
+    "w": 359,
+    "h": 32
+   },
+   {
+    "x": 773,
+    "y": 5948,
+    "w": 68,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6145,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6200,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6242,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6284,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6326,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6368,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6145,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 6200,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6242,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6284,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6326,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6368,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6410,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6145,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 6200,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6242,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6284,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6145,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 6200,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6242,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6284,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6326,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 6553,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 6553,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 6553,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 6553,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 6553,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 6553,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 6553,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

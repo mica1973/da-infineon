@@ -1,0 +1,796 @@
+[live-session] waiting to pace live navigations to www.infineon.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 943 ms
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/de-package-overview-1440/vdiff-final2/
+
+build red flags (advisory): 
+  • BLANK RENDER: the build page is hidden/empty (main height 55px, text 12 chars). NOT a pass. The build render is hidden/empty — a load failure or an unsatisfied visibility gate. Fix before trusting any other result.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": true,
+  "mainHeight": 55,
+  "textLen": 12,
+  "images": [
+   {
+    "src": "spinner-48.svg",
+    "natural": "48x48",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo.svg",
+    "natural": "91x40",
+    "rendered": "82x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "1x1",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "infineonag-eval-m5-e-1b1245n-sic-final02-header.png:asset-880-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "880x440",
+    "rendered": "638x319",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-sso-3-52:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-dip-6-903:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-c-sog-3-950:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-to247-3-44:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-m-to204-3-950:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-iqfn-22-1:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-dsof-8-164:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-lfbga-292-10:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-uf2bga-42-1:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-wson-8-4:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-tdso-8-1:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-sot223-4-24:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-mg-wdson-5-5:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-llga-5-2:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-lqfp-64-29:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-to252-3-11:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-atslp-10-1:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-vfwlb-76-1:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-sg-wll-2-3:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-dip-6-903:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-tflga-27-2:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-vqfn-48-29:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-c-sog-3-950:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-c-fp-8-950:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-sot89-4-2:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-lcc-52-800:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-dip-6-903:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-lg-mlga-14-1:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-mdip-14-1:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cq5dam.web.1280.1280.jpeg",
+    "natural": "905x1280",
+    "rendered": "190x266",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "package-technologies-stoll-pg-hsof-5-1-combi-1-1.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "371x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "package-technologies-toll-pg-hsof-8-1-combi-1-1.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "371x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "package-technologies-tolt-pg-hdsop-16-combi-1-1.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "371x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "package-technologies-tolg-pg-hsog-8-combi-1-1.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "371x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "package-technologies-to-247-247plus-3pin-4pin-group-1.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "371x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Infineon_Logo_Inverted.svg",
+    "natural": "182x80",
+    "rendered": "124x54",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "tiktok.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "0?ti=12013328&tm=gtm002&Ver=2&mid=7214d85c-0a20-4490-8f84-3a78a5a6181b&bo=3&sid=a18713a0e30111f1ac0bcfe0e4b4e6c7&vid=a1874ef0e30111f18ffe158064f1848b&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1440&sh=1000&sc=24&tl=Packages%20%7C%20Infineon%20Technologies&p=https%3A%2F%2Fwww.infineon.com%2Fde%2Fpackage-overview&r=&lt=884&evt=pageLoad&sv=2&asc=G&cdb=AQET&rn=628873",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h3",
+    "text": "Share in WeChat",
+    "color": "rgb(29, 29, 29)",
+    "fontSize": "28px",
+    "family": "Source Sans 3",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "pdf",
+    "color": "rgb(87, 83, 82)"
+   },
+   {
+    "text": "PDF",
+    "color": "rgb(87, 83, 82)"
+   },
+   {
+    "text": "PDF",
+    "color": "rgb(87, 83, 82)"
+   },
+   {
+    "text": "PDF",
+    "color": "rgb(87, 83, 82)"
+   },
+   {
+    "text": "PDF",
+    "color": "rgb(87, 83, 82)"
+   },
+   {
+    "text": "PDF",
+    "color": "rgb(87, 83, 82)"
+   },
+   {
+    "text": "PDF",
+    "color": "rgb(87, 83, 82)"
+   },
+   {
+    "text": "PDF",
+    "color": "rgb(87, 83, 82)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "genericBreadcrumb-component",
+    "width": 1248,
+    "left": 96
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": true,
+  "mainHeight": 55,
+  "textLen": 12,
+  "images": [
+   {
+    "src": "logo.svg",
+    "natural": "91x40",
+    "rendered": "82x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "infineonag-eval-m5-e-1b1245n-sic-final02-header.png:asset-880-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "880x440",
+    "rendered": "638x319",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-sso-3-52:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-dip-6-903:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-c-sog-3-950:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-to247-3-44:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-m-to204-3-950:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-iqfn-22-1:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-dsof-8-164:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-lfbga-292-10:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-uf2bga-42-1:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-wson-8-4:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-tdso-8-1:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-sot223-4-24:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-mg-wdson-5-5:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-llga-5-2:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-lqfp-64-29:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-to252-3-11:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-atslp-10-1:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-vfwlb-76-1:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-sg-wll-2-3:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-dip-6-903:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-tflga-27-2:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-vqfn-48-29:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-c-sog-3-950:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-c-fp-8-950:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-sot89-4-2:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-lcc-52-800:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-dip-6-903:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-lg-mlga-14-1:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mounting-groups-pg-mdip-14-1:asset-680-4x3?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x510",
+    "rendered": "112x84",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cq5dam.web.1280.1280.jpeg",
+    "natural": "905x1280",
+    "rendered": "190x266",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "package-technologies-stoll-pg-hsof-5-1-combi-1-1.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "371x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "package-technologies-toll-pg-hsof-8-1-combi-1-1.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "371x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "package-technologies-tolt-pg-hdsop-16-combi-1-1.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "371x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "package-technologies-tolg-pg-hsog-8-combi-1-1.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "371x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "package-technologies-to-247-247plus-3pin-4pin-group-1.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "371x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Infineon_Logo_Inverted.svg",
+    "natural": "182x80",
+    "rendered": "124x54",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "tiktok.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h3",
+    "text": "Share in WeChat",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "18.72px",
+    "family": "Source Sans 3",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "pdf",
+    "color": "rgb(87, 83, 82)"
+   },
+   {
+    "text": "PDF",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "PDF",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "PDF",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "PDF",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "PDF",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "PDF",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "PDF",
+    "color": "rgb(29, 29, 29)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": []
+ }
+}

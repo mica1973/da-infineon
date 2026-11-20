@@ -1,0 +1,107 @@
+{
+ "url": "https://main--938eead7--aemcoder.aem.live/",
+ "at": "2026-11-18T23:24:38.858Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 17,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 8,
+  "offPage": 73,
+  "textNodes": 222,
+  "controls": 91,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 17,
+   "clipper": "p",
+   "path": "div.mk-card > div.mk-card-body > div.mk-card-desc > p",
+   "text": "we support the transition to electromobility with semiconduc",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": null,
+   "path": "article.np-card > div.np-card-media > div.np-card-badge > p",
+   "text": "new",
+   "cutMin": 23,
+   "cutMax": 69
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": null,
+   "path": "div.np-card-body > div.np-card-title > h3#df300r07w2s5_b77 > a",
+   "text": "df300r07w2s5_b77",
+   "cutMin": 65,
+   "cutMax": 126
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "p",
+   "path": "article.np-card > div.np-card-body > div.np-card-sub > p",
+   "text": "650 v, 300 a booster igbt module",
+   "cutMin": 182,
+   "cutMax": 182
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.ev-nav",
+   "path": "div.ev-tabs > div.ev-nav > div.ev-tablist > div.ev-tab",
+   "text": "technology news",
+   "cutMin": 23,
+   "cutMax": 23
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.ev-nav",
+   "path": "div.ev-nav > div.ev-tablist > div.ev-tab > h3#technology-news",
+   "text": "technology news",
+   "cutMin": 7,
+   "cutMax": 7
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "li",
+   "path": "div.ev-card-foot > div.ev-card-loc > ul > li",
+   "text": "tradeshows & conferences",
+   "cutMin": 6,
+   "cutMax": 6
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 1,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 18,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 11,
+   "offPage": 101,
+   "textNodes": 224,
+   "controls": 92,
+   "total": 1
+  }
+ }
+}

@@ -1,20 +1,194 @@
-footer {
-  background-color: var(--light-color);
-  font-size: var(--body-font-size-xs);
+/* stylelint-disable no-descending-specificity */
+
+/* Infineon footer (canon `.site-footer`), mobile-first; desktop from 992px. */
+
+footer .site-footer {
+  padding: 40px 0;
+  background: var(--ifx-teal);
+  color: #fff;
+  font-family: var(--ifx-font);
 }
 
-footer .footer > div {
-  margin: auto;
-  max-width: 1200px;
-  padding: 40px 24px 24px;
+footer .site-footer a:any-link {
+  color: #fff;
 }
 
-footer .footer p {
-  margin: 0;
+footer .site-footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding-bottom: 40px;
 }
 
-@media (width >= 900px) {
-  footer .footer > div {
-    padding: 40px 32px 24px;
+footer .site-footer-logo {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+}
+
+footer .site-footer-logo .icon,
+footer .site-footer-logo .icon img {
+  width: 123.77px;
+  height: 54.4px;
+}
+
+footer .site-footer-col {
+  flex: 0 0 50%;
+  margin: 40px 0 0;
+  padding-left: 0;
+}
+
+footer .site-footer-col:nth-of-type(odd) {
+  padding-left: 16px;
+}
+
+footer .site-footer-title p {
+  display: inline-block;
+}
+
+footer .site-footer-title {
+  margin-bottom: 16px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  letter-spacing: 3.2px;
+  text-transform: uppercase;
+}
+
+footer .site-footer-col li {
+  margin-bottom: 16px;
+}
+
+footer .site-footer-col li:last-child {
+  margin-bottom: 0;
+}
+
+footer .site-footer-col a {
+  display: inline-block;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+footer .site-footer-col a:hover,
+footer .site-footer-links a:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+footer .site-footer-legal,
+footer .site-footer-legal-left {
+  display: flex;
+  flex-direction: column;
+}
+
+footer .site-footer-links ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+footer .site-footer-links li {
+  display: flex;
+  align-items: center;
+}
+
+footer .site-footer-links li::after {
+  content: '';
+  height: 14px;
+  margin: 0 16px;
+  border-left: 1px solid #fff;
+  opacity: 0.35;
+}
+
+footer .site-footer-links a,
+footer .site-footer-copy {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+footer .site-footer-copy p {
+  white-space: pre;
+}
+
+footer .site-footer-legal-right {
+  margin-top: 24px;
+}
+
+footer .site-footer-social ul {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  height: 24px;
+}
+
+footer .site-footer-social a {
+  display: inline-flex;
+  font-size: 16px;
+}
+
+footer .site-footer-social .icon {
+  font-size: 16px;
+}
+
+footer .site-footer-social .icon:has(> img),
+footer .site-footer-social .icon img {
+  width: 16px;
+  height: 16px;
+}
+
+@media (width >= 992px) {
+  footer .site-footer {
+    padding: 80px 0 40px;
+  }
+
+  footer .site-footer-nav {
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding-bottom: 80px;
+  }
+
+  footer .site-footer-logo {
+    width: auto;
+  }
+
+  footer .site-footer-col,
+  footer .site-footer-col:nth-of-type(odd) {
+    flex: 0 1 auto;
+    margin: 0 0 16px;
+    padding-left: 32px;
+  }
+
+  footer .site-footer-col li,
+  footer .site-footer-col li:last-child {
+    margin-bottom: 16px;
+  }
+
+  footer .site-footer-title {
+    margin-bottom: 32px;
+  }
+
+  footer .site-footer-legal {
+    flex-direction: row;
+  }
+
+  footer .site-footer-legal-left {
+    flex: 0 0 66.6667%;
+    flex-direction: row;
+    max-width: 66.6667%;
+  }
+
+
+  footer .site-footer-legal-right {
+    flex: 0 0 33.3333%;
+    max-width: 33.3333%;
+    margin-top: 0;
+  }
+
+  footer .site-footer-social ul {
+    justify-content: flex-end;
   }
 }

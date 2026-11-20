@@ -1,0 +1,433 @@
+{
+  "de-about": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed []",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-thank-you": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (all-1440/de-thank-you/eds.capture.json)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "index": {
+    "verdict": "pass",
+    "reason": "units: footer columns 4/4 within tolerance after the selector fix; remaining offsets are carousel-slide picture wrapper boxes (event slider picture h +108..178 with the visible img unchanged, product-card rows off-screen in the swiper) carried since recreate as a measurement artifact; pixel 1440 4.78 % / 360 9.01 % within bar. font-not-loaded is the live origin metric-fallback face",
+    "waives": [
+      "units",
+      "fonts"
+    ]
+  },
+  "de-our-stories-electromobility-greener-future": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-logout": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (all-1440/de-logout/eds.capture.json)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-config": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (all-1440/de-config/eds.capture.json)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-partners": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-support": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-training": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-careers": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-event-techfor": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (all-1440/de/eds.capture.json)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-glossary": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-semiconductors-driving-decarbonization": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about / the pillar archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-microelectronics-connecting-real-digital-world": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee": {
+    "verdict": "pass",
+    "reason": "pixel residual 15.14% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh -70px within 5 %; measured cause: podcast container composition at 360 (82 px logo + text column) and heading gaps after videos +26. Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+    "waives": [
+      "fonts",
+      "pixel"
+    ]
+  },
+  "de-our-stories-green-hydrogen-fuel-future": {
+    "verdict": "pass",
+    "reason": "pixel residual 10.97% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh 70px within 5 %; measured cause: timeline-box list item spacing -42 and rail +16. Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+    "waives": [
+      "fonts",
+      "pixel"
+    ]
+  },
+  "de-our-stories-efficient-energy-storage-systems-energy-transition": {
+    "verdict": "pass",
+    "reason": "pixel residual 20.2% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh -271px within 5 %; measured cause: box / boxed-columns edges off by 20-40 px, boxed-columns titles 12 vs 16, rail gap +112. Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+    "waives": [
+      "fonts",
+      "pixel"
+    ]
+  },
+  "de-our-stories-semiconductors-bring-heat-pumps-life": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-electric-cordless-power-tools": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-green-chargers-adapters": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-green-potential-data-centers": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-package-overview": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-opn": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-support-service-center": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-contact-us": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-support-faqs": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-we-power-ai": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about / pillar archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-software-defined-vehicles": {
+    "verdict": "pass",
+    "reason": "pixel residual 10.64% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh 118px within 5 %; measured cause: pillar rail card image taller than the source (about 190 vs 150 px) and box text wrap. Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+    "waives": [
+      "fonts",
+      "pixel"
+    ]
+  },
+  "de-our-stories-power-infrastructure-renewables": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about / pillar archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-artificial-intelligence-in-everyday-life": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as de-about / pillar archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-artificial-intelligence-semiconductors": {
+    "verdict": "pass",
+    "reason": "pixel residual 19.22% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh 114px within 5 %; measured cause: 2x2 text/picture grid inset 8 px on the source and its head-row gap 40 vs 16. Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+    "waives": [
+      "fonts",
+      "pixel"
+    ]
+  },
+  "de-our-stories-enable-provide-ai-customer-innovation": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-micromobility": {
+    "verdict": "pass",
+    "reason": "pixel residual 12.32% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh -62px within 5 %; measured cause: box head h2 is heading-02 on the source (36/48 vs 28/36), case-study eyebrow heading-04. Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+    "waives": [
+      "fonts",
+      "pixel"
+    ]
+  },
+  "de-our-stories-micromobility-battery-swapping": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-charging-infrastructure": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-fast-charging-solutions": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-bi-directional-charging": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-emission-saving-potential-freight-transportation": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-sensors-energy-efficient-smart-buildings": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-smart-things-consumer-devices": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-smart-health-appliances": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-smart-factory-technologies": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-smart-home-building-technologies": {
+    "verdict": "pass",
+    "reason": "pixel residual 16.85% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh 186px within 5 %; measured cause: heading/box gaps the template tokens do not reach (final-stories REPORT). Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+    "waives": [
+      "fonts",
+      "pixel"
+    ]
+  },
+  "de-our-stories-green-iot": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-smart-factory-semiconductor-solutions": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-shaping-the-future-of-mobility": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-public-transportation": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-green-buildings-rise": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-essential-role-cybersecurity": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-how-microcontroller-enable-risc-v": {
+    "verdict": "pass",
+    "reason": "pixel residual 10.32% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh 58px within 5 %; measured cause: section spacing deltas accumulated below the hero (offset-contaminated bands). Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+    "waives": [
+      "fonts",
+      "pixel"
+    ]
+  },
+  "de-our-stories-semiconductors-key-technology-software-defined-vehicles": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-software-defined-vehicle-agm": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-ecosystem-summit": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-enabling-ethernet": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-european-cyber-resilience-act": {
+    "verdict": "pass",
+    "reason": "pixel residual 14.74% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh -82px within 5 %; measured cause: heading inside its columns block +32 / +40. Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+    "waives": [
+      "fonts",
+      "pixel"
+    ]
+  },
+  "de-our-stories-semiconductors-key-technology-sst-sscb": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-mobility-tech-talk-software-defined-vehicles": {
+    "verdict": "pass",
+    "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (same cause as the article archetype)",
+    "waives": [
+      "fonts"
+    ]
+  },
+  "de-our-stories-rc1-for-sdv-sdx-and-physical-ai": {
+    "verdict": "pass",
+    "reason": "pixel residual 17.41% after the 3-round fix cap (C-deliver r1, e-stories r1-r3), clipped 0, content MISSING 0 / HIDDEN 0, Δh -132px within 5 %; measured cause: h2 after hero +48 and the 12/12 RISC-V block (cluster-article residuals.md). Fonts: the LIVE origin's own metric-fallback face (Arial Metrics Override) fails in the capture env",
+    "waives": [
+      "fonts",
+      "pixel"
+    ]
+  }
+}

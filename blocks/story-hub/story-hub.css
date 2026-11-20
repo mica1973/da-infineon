@@ -1,0 +1,2236 @@
+/* stylelint-disable no-descending-specificity */
+
+/* story-hub — story column parts + the section prose around them (mobile-first).
+   Spacing steps mirror the source marginBottomNN utilities
+   (mb32/48/64/80 shrink below 992 / 576). */
+
+/* ---------- section: story column (default) / wide band (section style `wide`) ---------- */
+main .story-hub-container {
+  --sh-gap-32: 16px;
+  --sh-gap-48: 24px;
+  --sh-gap-64: 24px;
+  --sh-gap-80: 32px;
+}
+
+main .story-hub-container > div {
+  max-width: var(--ifx-shell);
+  margin: 0 auto;
+  padding: 0 var(--ifx-gutter);
+}
+
+main .story-hub-container.wide {
+  overflow-x: clip;
+}
+
+/* glyphs not yet in the foundation icon set (request queued in foundation-requests.md) */
+.story-hub .icon-quote::before {
+  content: '\ea09';
+}
+
+.story-hub .icon-share::before {
+  content: '\ea1c';
+}
+
+.story-hub .icon-mail::before {
+  content: '\e9dd';
+}
+
+.story-hub .icon-link::before {
+  content: '\e9d4';
+}
+
+/* prose in the story section */
+main .story-hub-container .default-content-wrapper :is(h2, h3, h4, h5, h6) {
+  margin: 0 0 16px;
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: -0.22px;
+}
+
+main .story-hub-container .default-content-wrapper :is(h2, h3, h4, h5, h6) + *,
+main .story-hub-container .default-content-wrapper p + p,
+main .story-hub-container .default-content-wrapper p + :is(ul, ol) {
+  margin-top: 0;
+}
+
+main .story-hub-container .default-content-wrapper :is(p, ul, ol),
+.story-hub .story-hub-rt :is(p, ul, ol),
+.story-hub .story-hub-links-intro :is(p, ul, ol) {
+  margin-bottom: 16px;
+  color: var(--ifx-stone-text);
+  font-size: 18px;
+  line-height: 26px;
+}
+
+main .story-hub-container .default-content-wrapper :is(p, ul, ol):last-child {
+  margin-bottom: var(--sh-gap-64);
+}
+
+main .story-hub-container .default-content-wrapper:has(+ .story-hub-wrapper .quote) p:last-child {
+  margin-bottom: var(--sh-gap-32);
+}
+
+main .story-hub-container .default-content-wrapper p:has(picture, img) {
+  margin-bottom: var(--sh-gap-64);
+}
+
+main .story-hub-container :is(.default-content-wrapper, .story-hub) :is(b, strong) {
+  font-weight: 600;
+}
+
+main .story-hub-container :is(.default-content-wrapper, .story-hub) sup {
+  position: relative;
+  top: -0.5em;
+  font-size: 13.5px;
+  line-height: 0;
+  vertical-align: baseline;
+}
+
+main .story-hub-container .default-content-wrapper img,
+.story-hub .story-hub-pic img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 680 / 382;
+  object-fit: cover;
+}
+
+/* wide band: intro heading + text above the rails */
+main .story-hub-container.wide .default-content-wrapper :is(h2, h3, h4, h5, h6) {
+  margin-bottom: var(--sh-gap-32);
+  font-size: 26px;
+  line-height: 36px;
+  letter-spacing: -0.26px;
+}
+
+main .story-hub-container.wide .default-content-wrapper :is(p, ul, ol):last-child {
+  margin-bottom: var(--sh-gap-32);
+}
+
+/* ---------- quote ---------- */
+.story-hub.quote {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: var(--sh-gap-32);
+}
+
+.story-hub .story-hub-quote-line {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.story-hub .story-hub-quote-line .icon {
+  color: var(--ifx-teal);
+  font-size: 24px;
+}
+
+.story-hub .story-hub-quote-rule {
+  flex: 1;
+  height: 1px;
+  margin: 16px 0;
+  background: var(--ifx-teal);
+}
+
+.story-hub .story-hub-quote-text blockquote {
+  margin: 0;
+}
+
+.story-hub .story-hub-quote-text p {
+  color: var(--ifx-teal);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: -0.24px;
+}
+
+.story-hub .story-hub-quote-name :is(h2, h3, h4, h5, h6, p) {
+  color: var(--ifx-stone-text);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0;
+}
+
+/* ---------- video ---------- */
+.story-hub.video {
+  position: relative;
+  margin-bottom: 63.5px;
+  overflow: hidden;
+  background: #000;
+  aspect-ratio: 16 / 9;
+}
+
+.story-hub .story-hub-video-stage {
+  position: absolute;
+  inset: 0;
+}
+
+.story-hub .story-hub-video-stage :is(picture, img, video) {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.story-hub .story-hub-video-stage .story-hub-video-player {
+  position: absolute;
+  inset: 0;
+  object-fit: contain;
+  background: #000;
+}
+
+.story-hub .story-hub-video-play {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 80px;
+  height: 80px;
+  margin: -40px 0 0 -40px;
+  border-radius: 50%;
+  background: rgb(0 0 0 / 45%);
+}
+
+.story-hub .story-hub-video-play::after {
+  content: '';
+  position: absolute;
+  left: 33px;
+  top: 26px;
+  border: 14px solid transparent;
+  border-left: 22px solid #fff;
+  border-right: 0;
+}
+
+.story-hub .story-hub-pic.is-video {
+  position: relative;
+}
+
+.story-hub .story-hub-pic.is-video video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #000;
+}
+
+.story-hub.video.is-playing .story-hub-video-play {
+  display: none;
+}
+
+.story-hub .story-hub-video-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.story-hub .story-hub-video-share {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+}
+
+.story-hub .story-hub-video-share-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: rgb(0 0 0 / 45%);
+  color: #fff;
+}
+
+.story-hub .story-hub-video-share-menu {
+  position: absolute;
+  right: 0;
+  top: 100%;
+  min-width: 180px;
+  margin-top: 4px;
+  padding: 8px 0;
+  background: #fff;
+}
+
+.story-hub .story-hub-video-share-menu[hidden] {
+  display: none;
+}
+
+.story-hub .story-hub-video-share-menu a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+/* ---------- box (grey panel: facts / FAQ) ---------- */
+.story-hub.box {
+  margin-bottom: var(--sh-gap-64);
+}
+
+.story-hub .story-hub-box-in {
+  padding: 24px;
+  background: var(--ifx-surface-band);
+}
+
+.story-hub .story-hub-box-head {
+  margin-bottom: 16px;
+}
+
+.story-hub .story-hub-box-head.is-lead {
+  margin-bottom: var(--sh-gap-32);
+}
+
+.story-hub :is(.story-hub-box-head, .story-hub-cols-title) :is(h1, h2, h3, h4, h5, h6) {
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: -0.22px;
+}
+
+.story-hub .story-hub-box-in > .story-hub-rt {
+  margin-bottom: var(--sh-gap-64);
+}
+
+.story-hub .story-hub-fact {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: var(--sh-gap-32);
+}
+
+.story-hub .story-hub-fact.is-last {
+  margin-bottom: 16px;
+}
+
+.story-hub .story-hub-fact-pic {
+  margin-right: 8px;
+  margin-bottom: var(--sh-gap-32);
+}
+
+.story-hub .story-hub-fact.is-last .story-hub-fact-pic {
+  margin-bottom: 0;
+}
+
+.story-hub .story-hub-fact-pic img {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.story-hub .story-hub-fact-title {
+  margin-bottom: 8px;
+}
+
+.story-hub :is(.story-hub-fact-title, .story-hub-col-title, .story-hub-links-title)
+  :is(h1, h2, h3, h4, h5, h6) {
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: -0.2px;
+}
+
+.story-hub .story-hub-fact-body .story-hub-rt {
+  margin-bottom: var(--sh-gap-32);
+}
+
+.story-hub .story-hub-fact.is-last .story-hub-fact-body .story-hub-rt {
+  margin-bottom: 0;
+}
+
+/* ---------- columns ---------- */
+.story-hub .story-hub-cols-title {
+  margin-bottom: var(--sh-gap-32);
+}
+
+.story-hub .story-hub-cols-head .story-hub-rt {
+  margin-bottom: var(--sh-gap-32);
+}
+
+.story-hub .story-hub-cols {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: var(--sh-gap-48);
+}
+
+.story-hub .story-hub-cols.is-compact {
+  margin-bottom: 16px;
+}
+
+.story-hub .story-hub-col {
+  min-width: 0;
+}
+
+.story-hub .story-hub-col-title {
+  margin-bottom: 16px;
+}
+
+.story-hub .story-hub-pic {
+  margin-bottom: var(--sh-gap-32);
+}
+
+.story-hub .story-hub-pic.is-end {
+  margin-bottom: 16px;
+}
+
+.story-hub .story-hub-col .story-hub-rt {
+  margin-bottom: var(--sh-gap-32);
+}
+
+.story-hub .story-hub-col .story-hub-rt.is-end {
+  margin-bottom: 16px;
+}
+
+.story-hub .story-hub-ilink {
+  margin-bottom: 8px;
+}
+
+.story-hub .story-hub-col.is-plain .story-hub-ilink {
+  margin-bottom: 16px;
+}
+
+.story-hub :is(.story-hub-ilink, .story-hub-links-cta) a:any-link {
+  display: inline-flex;
+  gap: 8px;
+  color: var(--ifx-teal);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.story-hub :is(.story-hub-ilink, .story-hub-links-cta) a:any-link:hover {
+  color: var(--ifx-teal-deep);
+}
+
+.story-hub :is(.story-hub-ilink, .story-hub-links-cta) .icon {
+  margin-top: 4px;
+  font-size: 16px;
+  line-height: 16px;
+}
+
+/* ---------- links (three-up link list) ---------- */
+.story-hub .story-hub-links-title {
+  margin-bottom: 16px;
+}
+
+.story-hub .story-hub-links-intro {
+  margin-bottom: 8px;
+}
+
+.story-hub .story-hub-links-list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 32px;
+  margin-bottom: var(--sh-gap-64);
+}
+
+.story-hub .story-hub-links-item {
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 24px 16px;
+}
+
+.story-hub .story-hub-links-subject p {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+}
+
+.story-hub .story-hub-links-desc p {
+  margin-bottom: 16px;
+  color: var(--ifx-stone-text);
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.story-hub .story-hub-links-cta {
+  margin-top: auto;
+}
+
+/* ---------- rail (teaser cards) ---------- */
+.story-hub.rail {
+  margin-bottom: 0;
+}
+
+main .story-hub-container .story-hub-wrapper:last-child .story-hub.rail {
+  margin-bottom: var(--sh-gap-80);
+}
+
+.story-hub .story-hub-rail-title {
+  margin-bottom: 24px;
+}
+
+.story-hub .story-hub-rail-title :is(h1, h2, h3, h4, h5, h6) {
+  font-size: 26px;
+  line-height: 36px;
+  letter-spacing: -0.26px;
+}
+
+.story-hub .story-hub-rail-track {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  overflow-y: clip;
+  transition: transform 0.3s ease;
+  touch-action: pan-y;
+}
+
+.story-hub .story-hub-rail-track.is-dragging {
+  transition: none;
+  user-select: none;
+}
+
+.story-hub .story-hub-card {
+  position: relative;
+  flex: 0 0 320px;
+  border-left: 4px solid var(--ifx-border);
+  background: #fff;
+}
+
+.story-hub .story-hub-card-img img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+.story-hub .story-hub-card-body {
+  padding: 16px 24px 13px;
+}
+
+.story-hub .story-hub-card-body p {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+.story-hub .story-hub-card-type {
+  margin-bottom: 16px;
+  letter-spacing: 1px;
+}
+
+.story-hub .story-hub-card-type p {
+  letter-spacing: 1px;
+}
+
+.story-hub .story-hub-card-title {
+  display: -webkit-box;
+  margin-bottom: 22px;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.story-hub .story-hub-card-title p {
+  letter-spacing: -0.2px;
+}
+
+.story-hub .story-hub-card-link p {
+  display: flex;
+}
+
+.story-hub .story-hub-card-link a:any-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--ifx-teal);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.story-hub .story-hub-card-link .icon {
+  font-size: 16px;
+}
+
+.story-hub .story-hub-rail-nav {
+  display: none;
+}
+
+@media (width >= 576px) {
+  main .story-hub-container {
+    --sh-gap-32: 24px;
+    --sh-gap-64: 32px;
+  }
+
+  .story-hub.video {
+    margin-bottom: var(--sh-gap-64);
+  }
+}
+
+@media (width >= 768px) {
+  main .story-hub-container {
+    --sh-gap-80: 40px;
+  }
+
+  main .story-hub-container.wide {
+    overflow-x: visible;
+  }
+
+  /* story column: 10 of 12 columns, offset 1 */
+  main .story-hub-container:not(.wide) > div {
+    --sh-col: calc((min(100%, var(--ifx-shell)) - 2 * var(--ifx-gutter)) / 12);
+
+    padding-left: calc(var(--ifx-gutter) + var(--sh-col));
+    padding-right: calc(var(--ifx-gutter) + var(--sh-col));
+  }
+
+  main .story-hub-container .default-content-wrapper img,
+  .story-hub .story-hub-pic img {
+    aspect-ratio: 16 / 9;
+  }
+
+  .story-hub .story-hub-fact {
+    flex-direction: row;
+  }
+
+  .story-hub .story-hub-fact-icon {
+    flex: 0 0 25%;
+    padding-right: 16px;
+  }
+
+  .story-hub .story-hub-fact-pic img {
+    width: 112px;
+    height: 112px;
+    aspect-ratio: auto;
+  }
+
+  .story-hub .story-hub-fact-body {
+    flex: 0 0 calc(100% * 7 / 12);
+    margin-left: 16px;
+  }
+
+  .story-hub .story-hub-cols {
+    flex-direction: row;
+  }
+
+  .story-hub .story-hub-col {
+    flex: 0 0 50%;
+  }
+
+  .story-hub .story-hub-col:has(+ .story-hub-col) {
+    padding-right: 16px;
+  }
+
+  .story-hub .story-hub-col + .story-hub-col {
+    padding-left: 16px;
+  }
+
+  .story-hub .story-hub-links-list {
+    flex-flow: row wrap;
+  }
+
+  .story-hub .story-hub-links-item {
+    flex: 0 0 33.333%;
+    padding: 16px 24px 0 0;
+  }
+
+  .story-hub.rail {
+    overflow: hidden;
+  }
+
+  .story-hub .story-hub-rail-title {
+    margin-bottom: 48px;
+  }
+
+  .story-hub .story-hub-rail-track {
+    align-items: stretch;
+    gap: 32px;
+    overflow-y: visible;
+  }
+
+  .story-hub .story-hub-card {
+    flex-basis: 375px;
+    height: 402px;
+  }
+
+  .story-hub .story-hub-card-img img {
+    height: 200px;
+  }
+
+  .story-hub .story-hub-card-body {
+    padding: 16px 24px;
+  }
+
+  .story-hub .story-hub-card-type {
+    min-height: 52px;
+  }
+
+  .story-hub .story-hub-card-title {
+    min-height: 56px;
+    margin-bottom: 16px;
+  }
+
+  .story-hub .story-hub-card-link {
+    position: absolute;
+    left: 24px;
+    bottom: 16px;
+  }
+}
+
+@media (width >= 992px) {
+  main .story-hub-container {
+    --sh-gap-32: 32px;
+    --sh-gap-48: 48px;
+    --sh-gap-64: 64px;
+    --sh-gap-80: 80px;
+  }
+
+  main .story-hub-container .default-content-wrapper :is(h2, h3, h4, h5, h6),
+  .story-hub :is(.story-hub-box-head, .story-hub-cols-title) :is(h1, h2, h3, h4, h5, h6) {
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.28px;
+  }
+
+  main .story-hub-container.wide .default-content-wrapper :is(h2, h3, h4, h5, h6),
+  .story-hub .story-hub-rail-title :is(h1, h2, h3, h4, h5, h6) {
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.36px;
+  }
+
+  .story-hub.quote {
+    width: 88.86%;
+  }
+
+  .story-hub .story-hub-quote-text p {
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  .story-hub .story-hub-quote-name :is(h2, h3, h4, h5, h6, p) {
+    line-height: 24px;
+  }
+
+  .story-hub :is(.story-hub-fact-title, .story-hub-col-title, .story-hub-links-title)
+    :is(h1, h2, h3, h4, h5, h6) {
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -0.24px;
+  }
+
+  .story-hub .story-hub-links-subject p {
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: -0.2px;
+  }
+
+  .story-hub .story-hub-rail-nav {
+    display: flex;
+    justify-content: flex-end;
+    gap: 16px;
+    height: 40px;
+    margin-top: 32px;
+  }
+
+  .story-hub.rail.is-locked .story-hub-rail-nav button {
+    visibility: hidden;
+  }
+
+  .story-hub .story-hub-rail-nav button {
+    width: 40px;
+    height: 40px;
+    color: var(--ifx-teal);
+    font-size: 24px;
+  }
+
+  .story-hub .story-hub-rail-nav button:disabled {
+    color: var(--ifx-border);
+    cursor: default;
+  }
+}
+
+/* ==========================================================================
+   Section style `article` — the article template's story column (Our stories articles).
+   Prose stays default content; spacing mirrors the source utilities (mb8 / mb16 / mb32 /
+   mb64; mb32 -> 16 and mb64 -> 24 below 576). Section style `related` (with `wide`) — the
+   teaser rows under an article. Variant classes only: the pillar sections are untouched.
+   ========================================================================== */
+main .section.article,
+main .section.related {
+  --ar-32: 16px;
+  --ar-64: 24px;
+  --ar-80: 32px;
+}
+
+main .section.article {
+  --g32: 16px;
+  --g40: 24px;
+  --g48: 24px;
+  --g56: 24px;
+  --g64: 24px;
+  --g80: 32px;
+
+  padding-bottom: var(--ar-80);
+}
+
+main .section.article > div {
+  max-width: var(--ifx-shell);
+  margin: 0 auto;
+  padding: 0 var(--ifx-gutter);
+}
+
+main .section.article .default-content-wrapper > * {
+  margin-top: 0;
+}
+
+main .section.article .default-content-wrapper > :is(h2, h3, h4, h5, h6) {
+  margin-bottom: var(--ar-32);
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: -0.22px;
+  scroll-margin-top: 80px;
+}
+
+main .section.article .default-content-wrapper > :is(h2, h3) {
+  margin-top: var(--ar-64);
+}
+
+main .section.article .default-content-wrapper > h2 {
+  margin-bottom: 16px;
+}
+
+main .section.article .default-content-wrapper > :is(h4, h5, h6) {
+  margin-top: var(--ar-32);
+  margin-bottom: 8px;
+  font-size: 18px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+}
+
+main .section.article .default-content-wrapper > :is(h4, h5, h6):last-child {
+  margin-bottom: var(--ar-32);
+}
+
+main .section.article .default-content-wrapper > p:has(img) + :is(h4, h5, h6) {
+  margin-top: var(--ar-64);
+}
+
+main .section.article .default-content-wrapper > :is(p, ul, ol) {
+  margin-bottom: 16px;
+  color: var(--ifx-stone-text);
+  font-size: 18px;
+  line-height: 26px;
+}
+
+main .section.article .default-content-wrapper > p:has(img) {
+  margin-top: var(--ar-32);
+  margin-bottom: var(--ar-32);
+}
+
+main .section.article .default-content-wrapper > :is(p, ul, ol):last-child {
+  margin-bottom: var(--ar-64);
+}
+
+main .section.article :is(.default-content-wrapper, .story-hub) :is(b, strong) {
+  font-weight: 600;
+}
+
+main .section.article :is(.default-content-wrapper, .story-hub) :is(sub, sup) {
+  position: relative;
+  font-size: 0.75em;
+  line-height: 0;
+  vertical-align: baseline;
+}
+
+main .section.article :is(.default-content-wrapper, .story-hub) sup {
+  top: -0.5em;
+}
+
+main .section.article :is(.default-content-wrapper, .story-hub) sub {
+  bottom: -0.25em;
+}
+
+main .section.article :is(.default-content-wrapper, .story-hub) a:any-link {
+  color: var(--ifx-teal);
+  font-weight: 600;
+}
+
+main .section.article .story-hub .story-hub-pic img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+}
+
+/* prose pictures keep their natural ratio; narrower pictures are story-hub figure w25/w50/w75 */
+main .section.article .default-content-wrapper img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+}
+
+main .section.article .story-hub.figure {
+  margin-bottom: var(--ar-32);
+}
+
+main .section.article .story-hub.box {
+  margin-bottom: var(--ar-64);
+}
+
+main .section.article .story-hub .story-hub-box-in > .story-hub-rt:last-child {
+  margin-bottom: 0;
+}
+
+main .section.article .story-hub .story-hub-pic {
+  margin-bottom: var(--ar-32);
+}
+
+main .section.article .story-hub .story-hub-col .story-hub-rt.is-end {
+  margin-bottom: var(--ar-32);
+}
+
+main .section.article .story-hub .story-hub-cols.is-compact {
+  margin-bottom: 0;
+}
+
+main .section.article .story-hub.video {
+  margin-bottom: max(var(--ar-64), calc(var(--ar-64) + 224px - 56.25%));
+}
+
+/* article lists: 16/26 items with disc bullets; story-hub `timeline` = teal dot bullets joined by
+   a thin rule (source rich text inside a `custom-verticle` wrapper) */
+main .section.article :is(.default-content-wrapper, .story-hub-rt) > :is(ul, ol) {
+  margin-bottom: 16px;
+  padding-left: 16px;
+}
+
+main .section.article :is(.default-content-wrapper, .story-hub-rt) > ul {
+  list-style: disc;
+}
+
+main .section.article :is(.default-content-wrapper, .story-hub-rt) > ol {
+  list-style: decimal;
+}
+
+main .section.article :is(.default-content-wrapper, .story-hub-rt) > :is(ul, ol) > li {
+  color: var(--ifx-stone-text);
+  font-size: 16px;
+  line-height: 26px;
+}
+
+main .section.article :is(.default-content-wrapper, .story-hub-rt) > :is(ul, ol) > li + li {
+  margin-top: 16px;
+}
+
+main .section.article .story-hub.timeline .story-hub-rt > :is(ul, ol) {
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+main .section.article .story-hub.timeline .story-hub-rt > :is(ul, ol) > li {
+  position: relative;
+  margin-top: 0;
+  padding: 0 0 32px 40px;
+}
+
+main .section.article .story-hub.timeline .story-hub-rt > :is(ul, ol) > li::before {
+  content: '';
+  position: absolute;
+  top: 9px;
+  left: 4px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--ifx-teal);
+}
+
+main .section.article .story-hub.timeline .story-hub-rt > :is(ul, ol) > li:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  top: 17px;
+  bottom: -9px;
+  left: 7.5px;
+  width: 1px;
+  background: var(--ifx-border);
+}
+
+/* columns `boxed`: side-by-side columns inside one grey box (source textbox with columns) */
+main .section.article .story-hub.columns.boxed {
+  margin-bottom: var(--ar-64);
+  padding: 24px 24px 8px;
+  background: var(--ifx-surface-band);
+}
+
+main .section.article .story-hub.columns.boxed .story-hub-cols {
+  margin-bottom: 0;
+}
+
+main .section.article .story-hub.columns.boxed .story-hub-col-title :is(h1, h2, h3) {
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: -0.22px;
+}
+
+/* links: four link cards per row in a grey band (source link collection) */
+main .section.article .story-hub.links {
+  margin-bottom: 24px;
+  padding: 0 24px 24px;
+  background: var(--ifx-surface-band);
+}
+
+main .section.article .story-hub .story-hub-links-list {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+/* below 768 the source card = 16 px inset, 26 px title line, 278 px pitch (wider: see 768) */
+main .section.article .story-hub .story-hub-links-item {
+  flex: 0 0 100%;
+  min-width: 0; /* a long word overflows its quarter as on the source, never wraps the row */
+  padding: 24px 0 0 16px;
+}
+
+main .section.article .story-hub .story-hub-links-subject p {
+  margin: 0;
+  color: var(--ifx-ink);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: -0.2px;
+}
+
+main .section.article .story-hub .story-hub-links-desc p {
+  margin: 0;
+  color: var(--ifx-stone-text);
+  font-size: 16px;
+  line-height: 26px;
+}
+
+main .section.article .story-hub .story-hub-links-cta {
+  margin-top: 16px;
+}
+
+/* related teaser rows: the title box keeps two lines, so every card of a row has the same
+   height (the rail sets its track height from the active card; no stretch) */
+main .section.related .story-hub-wrapper:not(:last-child) .story-hub.rail {
+  margin-bottom: var(--ar-64);
+}
+
+main .section.related .story-hub .story-hub-card-title {
+  min-height: 56px;
+}
+
+main .section.related .story-hub-wrapper:not(:last-child) .story-hub.rail.flush {
+  margin-bottom: 0;
+}
+
+main .section.related .story-hub .story-hub-rail-title :is(h4, h5, h6) {
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: -0.2px;
+}
+
+main .section.article .story-hub .story-hub-col-title :is(h4, h5, h6) {
+  font-size: 18px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+}
+
+@media (width >= 576px) {
+  main .section.article,
+  main .section.related {
+    --ar-32: 32px;
+    --ar-64: 64px;
+    --ar-80: 40px;
+  }
+}
+
+@media (width >= 768px) {
+  main .section.article > div {
+    padding: 0 var(--ifx-gutter);
+  }
+
+  main .section.article .story-hub.video {
+    margin-bottom: var(--ar-64);
+  }
+
+  main .section.related .story-hub .story-hub-card-body {
+    margin-bottom: 30px;
+    padding: 16px 24px;
+  }
+
+  main .section.related .story-hub .story-hub-card-type {
+    height: 52px;
+    overflow: hidden;
+  }
+
+  main .section.related .story-hub .story-hub-card-title {
+    height: 56px;
+  }
+
+  main .section.related .story-hub .story-hub-card-link {
+    left: 28px;
+  }
+
+  main .section.article .story-hub .story-hub-links-item {
+    flex-basis: 33.333%;
+    padding: 40px 24px 0 0;
+  }
+
+  main .section.article .story-hub .story-hub-links-subject p {
+    line-height: 28px;
+  }
+}
+
+@media (width >= 992px) {
+  main .section.article {
+    --ar-80: 80px;
+  }
+
+  /* story column: 10 of 12 columns, centred */
+  main .section.article > div {
+    --ar-col: calc((min(100%, var(--ifx-shell)) - 2 * var(--ifx-gutter)) / 12);
+
+    padding-left: calc(var(--ifx-gutter) + var(--ar-col));
+    padding-right: calc(var(--ifx-gutter) + var(--ar-col));
+  }
+
+  main .section.article .default-content-wrapper > :is(h2, h3) {
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.28px;
+  }
+
+  main .section.article .default-content-wrapper > :is(h4, h5, h6) {
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: -0.2px;
+  }
+
+  main .section.related .story-hub.rail {
+    margin-right: calc(-1 * var(--ifx-gutter));
+  }
+
+  /* final-stories: the source drops the rail nav row (32 + 40 px) when a rail has <= 2 cards
+     (measured: rail h2 -> next h2 / newsletter +72 on every 1-2 card rail, 0 with >= 3) */
+  main .section.related .story-hub.rail:not(:has(.story-hub-rail-track > :nth-child(3)))
+    .story-hub-rail-nav {
+    display: none;
+  }
+
+  main .section.related .story-hub .story-hub-rail-title :is(h4, h5, h6) {
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -0.24px;
+  }
+
+  main .section.article .story-hub .story-hub-col-title :is(h4, h5, h6) {
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: -0.2px;
+  }
+
+  main .section.article .story-hub.columns.cols-7-3 .story-hub-col:first-child,
+  main .section.article .story-hub.columns.cols-3-7 .story-hub-col:last-child {
+    flex-basis: 70%;
+  }
+
+  main .section.article .story-hub.columns.cols-7-3 .story-hub-col:last-child,
+  main .section.article .story-hub.columns.cols-3-7 .story-hub-col:first-child {
+    flex-basis: 30%;
+  }
+
+  main .section.article .story-hub.columns.cols-6-4 .story-hub-col:first-child,
+  main .section.article .story-hub.columns.cols-4-6 .story-hub-col:last-child {
+    flex-basis: 60%;
+  }
+
+  main .section.article .story-hub.columns.cols-6-4 .story-hub-col:last-child,
+  main .section.article .story-hub.columns.cols-4-6 .story-hub-col:first-child {
+    flex-basis: 40%;
+  }
+
+  main .section.article .story-hub.columns.boxed .story-hub-col-title :is(h1, h2, h3) {
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.28px;
+  }
+
+  main .section.article .story-hub .story-hub-links-item {
+    flex-basis: 25%;
+  }
+}
+
+/* ---------- pillar sibling variants (cluster-pillar) ---------- */
+
+/* quote portrait: speaker avatar (mobile: floated beside the quote text; from 768 a
+   left column beside line, text and name) */
+.story-hub .story-hub-quote-pic {
+  float: left;
+  margin-right: 8px;
+}
+
+.story-hub.quote.portrait .story-hub-quote-text::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.story-hub .story-hub-quote-pic :is(p, picture) {
+  display: block;
+  margin: 0;
+}
+
+.story-hub .story-hub-quote-pic img {
+  display: block;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* columns icons: pictograms at a quarter of the column (full width below 768) */
+.story-hub.columns.icons .story-hub-pic img {
+  width: 100%;
+  padding-right: 16px;
+  box-sizing: border-box;
+  aspect-ratio: 1;
+  object-fit: contain;
+}
+
+/* checks: intro + check list (two columns from 768) */
+.story-hub.checks {
+  margin-bottom: var(--sh-gap-32);
+}
+
+.story-hub.checks .story-hub-rt > p {
+  margin: 0 0 16px;
+}
+
+.story-hub.checks ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.story-hub.checks li {
+  position: relative;
+  width: 100%;
+  padding: 0 0 16px 32px;
+  color: var(--ifx-stone-text);
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.story-hub.checks li::before {
+  content: '\e934';
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--ifx-teal);
+  font-family: var(--ifx-icon-font);
+  font-size: 24px;
+  line-height: 26px;
+}
+
+/* box flat: icon | text fact rows without the grey panel */
+.story-hub.box.flat .story-hub-box-in {
+  padding: 0;
+  background: none;
+}
+
+/* box cta: the prose box ends in a filled button */
+.story-hub.box.cta .story-hub-box-in > .story-hub-rt:last-child {
+  margin-bottom: 0;
+}
+
+.story-hub.box.cta .story-hub-rt ul {
+  margin: 16px 0 0;
+  padding-left: 16px;
+  list-style: disc;
+}
+
+.story-hub.box.cta .story-hub-rt li {
+  margin-bottom: 16px;
+  color: var(--ifx-stone-text);
+  font-size: 16px;
+  line-height: 26px;
+}
+
+/* figure: a picture at a share of the column, left aligned */
+.story-hub.figure {
+  margin-bottom: var(--sh-gap-32);
+}
+
+.story-hub .story-hub-figure :is(p, picture) {
+  display: block;
+  margin: 0;
+}
+
+.story-hub .story-hub-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.story-hub.figure.w75 .story-hub-figure {
+  width: 75%;
+}
+
+.story-hub.figure.w50 .story-hub-figure {
+  width: 50%;
+}
+
+.story-hub.figure.w25 .story-hub-figure {
+  width: 25%;
+}
+
+/* rail described: title + description cards */
+.story-hub.rail.described .story-hub-card-type p {
+  letter-spacing: -0.2px;
+}
+
+.story-hub.rail.described .story-hub-card-title {
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+}
+
+.story-hub.rail.described .story-hub-card-title p {
+  color: var(--ifx-stone-text);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0;
+}
+
+/* bottom spacing of the source instance (overrides the kind's default) */
+.story-hub.mb-16 {
+  margin-bottom: 16px;
+}
+
+.story-hub.mb-32 {
+  margin-bottom: var(--sh-gap-32);
+}
+
+.story-hub.mb-64 {
+  margin-bottom: var(--sh-gap-64);
+}
+
+/* gallery: stage + thumbnail grid */
+.story-hub.gallery {
+  margin-bottom: var(--sh-gap-32);
+}
+
+.story-hub .story-hub-gallery-title :is(h1, h2, h3, h4, h5, h6) {
+  margin: 0 0 24px;
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: -0.22px;
+}
+
+.story-hub .story-hub-gallery-stage :is(picture, img) {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.story-hub .story-hub-gallery-nav {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  padding: 16px 0 0;
+}
+
+.story-hub .story-hub-gallery-nav button {
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: 1px solid var(--ifx-teal);
+  border-radius: 50%;
+  background: none;
+  color: var(--ifx-teal);
+  cursor: pointer;
+}
+
+.story-hub .story-hub-gallery-nav button:disabled {
+  border-color: #bfbbbb;
+  color: #bfbbbb;
+  cursor: default;
+}
+
+.story-hub .story-hub-gallery-thumbs {
+  display: none;
+}
+
+.story-hub .story-hub-gallery-thumb {
+  cursor: pointer;
+}
+
+.story-hub .story-hub-gallery-thumb :is(p, picture) {
+  display: block;
+  margin: 0;
+}
+
+.story-hub .story-hub-gallery-thumb img {
+  display: block;
+  width: 100%;
+  height: 104px;
+  object-fit: cover;
+  border: 1px solid #eeeded;
+}
+
+.story-hub .story-hub-gallery-thumb.is-selected img {
+  border: 2px solid var(--ifx-teal);
+}
+
+/* articles: eyebrow + heading, three cards with a grey rule */
+.story-hub.articles {
+  margin-bottom: 104px;
+}
+
+.story-hub .story-hub-articles-eyebrow p {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 16px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 3.2px;
+  text-transform: uppercase;
+}
+
+.story-hub .story-hub-articles-title :is(h1, h2, h3, h4, h5, h6) {
+  margin: 0 0 56px;
+  font-size: 26px;
+  line-height: 36px;
+  letter-spacing: -0.26px;
+}
+
+.story-hub .story-hub-articles-list {
+  display: grid;
+  gap: 32px;
+}
+
+.story-hub .story-hub-article {
+  display: flex;
+  flex-direction: column;
+  border-left: 4px solid #bfbbbb;
+}
+
+.story-hub .story-hub-article-img :is(p, picture) {
+  display: block;
+  margin: 0;
+}
+
+.story-hub .story-hub-article-img img {
+  display: block;
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.story-hub .story-hub-article-body {
+  padding: 0 24px 24px;
+}
+
+.story-hub .story-hub-article-body p {
+  margin: 0;
+}
+
+.story-hub .story-hub-article-title p {
+  margin-bottom: 16px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.story-hub .story-hub-article-desc p {
+  color: var(--ifx-stone-text);
+  font-size: 16px;
+  line-height: 26px;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.story-hub .story-hub-article-topic {
+  display: flex;
+  margin-top: 16px;
+}
+
+.story-hub .story-hub-article-topic p {
+  padding: 4px 8px;
+  border-radius: 16px;
+  background: #eeeded;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+.story-hub .story-hub-article-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 14px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.story-hub .story-hub-article-meta p:first-child {
+  font-weight: 600;
+}
+
+.story-hub .story-hub-article-meta p + p {
+  color: var(--ifx-stone-text);
+}
+
+.story-hub .story-hub-article-meta p + p::before {
+  content: '•';
+  margin-right: 8px;
+  color: #bfbbbb;
+}
+
+@media (width >= 768px) {
+  .story-hub.columns.icons .story-hub-pic img {
+    width: 25%;
+  }
+
+  .story-hub.checks li {
+    width: 50%;
+    padding: 0 16px 0 32px;
+  }
+
+  .story-hub .story-hub-gallery-nav {
+    display: none;
+  }
+
+  .story-hub .story-hub-gallery-stage :is(picture, img) {
+    aspect-ratio: 693 / 468;
+    object-fit: fill;
+  }
+
+  .story-hub.quote.portrait {
+    padding-left: 88px;
+  }
+
+  .story-hub.quote.portrait .story-hub-quote-text {
+    position: relative;
+  }
+
+  .story-hub .story-hub-quote-pic {
+    position: absolute;
+    top: 0;
+    left: -88px;
+    float: none;
+    margin: 0;
+  }
+
+  .story-hub.rail.described .story-hub-card-title {
+    min-height: 72px;
+  }
+
+  .story-hub .story-hub-gallery-body {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    align-items: start;
+  }
+
+  .story-hub .story-hub-gallery-thumbs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px 32px;
+    padding: 16px 0 0 32px;
+  }
+
+  .story-hub .story-hub-articles-list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .story-hub .story-hub-article-img img {
+    height: 200px;
+  }
+
+  .story-hub .story-hub-article-title p {
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: -0.2px;
+  }
+}
+
+@media (width >= 992px) {
+  .story-hub .story-hub-gallery-title :is(h1, h2, h3, h4, h5, h6) {
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.28px;
+  }
+
+  .story-hub .story-hub-articles-title :is(h1, h2, h3, h4, h5, h6) {
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.36px;
+  }
+}
+
+/* source-instance spacing (cluster-pillar round 3) */
+.story-hub.box.facts-16 .story-hub-fact:not(.is-last) {
+  margin-bottom: calc(var(--sh-gap-32) - 16px);
+}
+
+.story-hub.box.facts-end-32 .story-hub-fact.is-last {
+  margin-bottom: var(--sh-gap-32);
+}
+
+main .story-hub-container .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-32)
+  :is(p, ul, ol):last-child {
+  margin-bottom: var(--sh-gap-32);
+}
+
+main .story-hub-container .story-hub-wrapper .story-hub.rail.mb-32 {
+  margin-bottom: var(--sh-gap-32);
+}
+
+.story-hub.rail.mt-24 {
+  margin-top: 24px;
+}
+
+@media (width >= 992px) {
+  .story-hub.box.end {
+    margin-bottom: 32px;
+  }
+}
+
+/* article `display-h2` (section style): pages whose h2 carries the large heading-02 type */
+main .section.article.display-h2 .default-content-wrapper > h2 {
+  margin-bottom: 24px;
+  font-size: 26px;
+  line-height: 36px;
+  letter-spacing: -0.26px;
+}
+
+/* final-stories `hb-16` (encoder): display-h2 page whose h2 / h3 titles carry marginBottom16 —
+   measured live 16 px under every heading (artificial-intelligence-semiconductors h2 24 -> 16,
+   enable-provide-ai-customer-innovation h3 32 -> 16, both widths) */
+main .section.article.hb-16 .default-content-wrapper > :is(h2, h3) {
+  margin-bottom: 16px;
+}
+
+/* final-stories: an h2 inside a story-hub block of a display-h2 page is heading-02 on the source
+   too (artificial-intelligence-semiconductors: columns head + box head 26/36 at 360, 36/48 at 1440;
+   ours were 22/30 and 28/36) */
+main .section.article.display-h2 .story-hub h2 {
+  font-size: 26px;
+  line-height: 36px;
+  letter-spacing: -0.26px;
+}
+
+@media (width >= 992px) {
+  main .section.article.display-h2 :is(.default-content-wrapper > h2, .story-hub h2) {
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.36px;
+  }
+}
+
+/* article: the source story quote has no teal rule beside the mark */
+main .section.article .story-hub.quote .story-hub-quote-rule {
+  visibility: hidden;
+}
+
+
+/* article-2: source per-component spacing (marginBottomNN) carried as encoder variant tokens:
+   `pre-NN` gap above the block, `gap-NN` gap below it; columns also `t-8` (title margin),
+   `pic-NN` / `rt-NN` (inner image / rich-text margin). Source scale below 992: 32 -> 24
+   (16 below 576), 40 / 48 -> 24. Only blocks carrying the tokens are affected. */
+main .section.article .story-hub.gap-8 {
+  --sh-gap-b: 8px;
+}
+
+main .section.article .story-hub.gap-16 {
+  --sh-gap-b: 16px;
+}
+
+main .section.article .story-hub.gap-24 {
+  --sh-gap-b: 24px;
+}
+
+main .section.article .story-hub.gap-32 {
+  --sh-gap-b: 16px;
+}
+
+main .section.article .story-hub.gap-40 {
+  --sh-gap-b: 24px;
+}
+
+main .section.article .story-hub.gap-48 {
+  --sh-gap-b: 24px;
+}
+
+main .section.article .story-hub.pic-8 {
+  --sh-pic: 8px;
+}
+
+main .section.article .story-hub.pic-16 {
+  --sh-pic: 16px;
+}
+
+main .section.article .story-hub.pic-24 {
+  --sh-pic: 24px;
+}
+
+main .section.article .story-hub.pic-32 {
+  --sh-pic: 16px;
+}
+
+main .section.article .story-hub.pic-40 {
+  --sh-pic: 24px;
+}
+
+main .section.article .story-hub.pic-48 {
+  --sh-pic: 24px;
+}
+
+main .section.article .story-hub.rt-8 {
+  --sh-rt: 8px;
+}
+
+main .section.article .story-hub.rt-16 {
+  --sh-rt: 16px;
+}
+
+main .section.article .story-hub.rt-24 {
+  --sh-rt: 24px;
+}
+
+main .section.article .story-hub.rt-32 {
+  --sh-rt: 16px;
+}
+
+main .section.article .story-hub.rt-40 {
+  --sh-rt: 24px;
+}
+
+main .section.article .story-hub.rt-48 {
+  --sh-rt: 24px;
+}
+
+main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-8) {
+  --sh-pre: 8px;
+}
+
+main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-16) {
+  --sh-pre: 16px;
+}
+
+main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-24) {
+  --sh-pre: 24px;
+}
+
+main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-32) {
+  --sh-pre: 16px;
+}
+
+main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-40) {
+  --sh-pre: 24px;
+}
+
+main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-48) {
+  --sh-pre: 24px;
+}
+
+main .section.article .story-hub.gap-64 {
+  --sh-gap-b: 24px;
+}
+
+main .section.article .story-hub.pic-64 {
+  --sh-pic: 24px;
+}
+
+main .section.article .story-hub.rt-64 {
+  --sh-rt: 24px;
+}
+
+main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-64) {
+  --sh-pre: 24px;
+}
+
+@media (width >= 576px) {
+  main .section.article .story-hub.gap-64 {
+    --sh-gap-b: 32px;
+  }
+
+  main .section.article .story-hub.pic-64 {
+    --sh-pic: 32px;
+  }
+
+  main .section.article .story-hub.rt-64 {
+    --sh-rt: 32px;
+  }
+
+  main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-64) {
+    --sh-pre: 32px;
+  }
+}
+
+@media (width >= 576px) {
+  main .section.article .story-hub.gap-32 {
+    --sh-gap-b: 24px;
+  }
+
+  main .section.article .story-hub.pic-32 {
+    --sh-pic: 24px;
+  }
+
+  main .section.article .story-hub.rt-32 {
+    --sh-rt: 24px;
+  }
+
+  main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-32) {
+    --sh-pre: 24px;
+  }
+}
+
+@media (width >= 992px) {
+  main .section.article .story-hub.gap-32 {
+    --sh-gap-b: 32px;
+  }
+
+  main .section.article .story-hub.gap-40 {
+    --sh-gap-b: 40px;
+  }
+
+  main .section.article .story-hub.gap-48 {
+    --sh-gap-b: 48px;
+  }
+
+  main .section.article .story-hub.pic-32 {
+    --sh-pic: 32px;
+  }
+
+  main .section.article .story-hub.pic-40 {
+    --sh-pic: 40px;
+  }
+
+  main .section.article .story-hub.pic-48 {
+    --sh-pic: 48px;
+  }
+
+  main .section.article .story-hub.rt-32 {
+    --sh-rt: 32px;
+  }
+
+  main .section.article .story-hub.rt-40 {
+    --sh-rt: 40px;
+  }
+
+  main .section.article .story-hub.rt-48 {
+    --sh-rt: 48px;
+  }
+
+  main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-32) {
+    --sh-pre: 32px;
+  }
+
+  main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-40) {
+    --sh-pre: 40px;
+  }
+
+  main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-48) {
+    --sh-pre: 48px;
+  }
+
+  main .section.article .story-hub.gap-64 {
+    --sh-gap-b: 64px;
+  }
+
+  main .section.article .story-hub.pic-64 {
+    --sh-pic: 64px;
+  }
+
+  main .section.article .story-hub.rt-64 {
+    --sh-rt: 64px;
+  }
+
+  main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-64) {
+    --sh-pre: 64px;
+  }
+}
+
+main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub[class*='pre-'])
+  > :is(p, ul, ol):last-child {
+  margin-bottom: var(--sh-pre);
+}
+
+main .section.article .story-hub-wrapper:has(> .story-hub[class*='gap-']) + .default-content-wrapper > :first-child {
+  margin-top: 0;
+}
+
+/* the source video player keeps a strip below the picture: 12 px wide, ~52 px at 360 */
+main .section.article .story-hub.video[class*='gap-'] {
+  margin-bottom: calc(var(--sh-gap-b) + max(12px, 236px - 56.25%));
+}
+
+main .section.article .story-hub.columns.t-8 .story-hub-col-title {
+  margin-bottom: 8px;
+}
+
+main .section.article .story-hub.columns[class*='pic-'] .story-hub-col > .story-hub-pic:not(:last-child) {
+  margin-bottom: var(--sh-pic);
+}
+
+main .section.article .story-hub.columns[class*='rt-'] .story-hub-col > .story-hub-rt:not(:last-child) {
+  margin-bottom: var(--sh-rt);
+}
+
+main .section.article .story-hub.columns[class*='gap-'] .story-hub-cols {
+  margin-bottom: 0;
+}
+
+main .section.article .story-hub.columns[class*='gap-'] .story-hub-col > :last-child {
+  margin-bottom: var(--sh-gap-b);
+}
+
+main .section.article .story-hub.gap-0 {
+  --sh-gap-b: 16px;
+}
+
+@media (width >= 768px) {
+  main .section.article .story-hub.gap-0 {
+    --sh-gap-b: 0;
+  }
+}
+
+main .section.article .story-hub.pic-0 {
+  --sh-pic: 0;
+}
+
+main .section.article .story-hub.rt-0 {
+  --sh-rt: 0;
+}
+
+main .section.article .default-content-wrapper:has(+ .story-hub-wrapper .story-hub.pre-0) {
+  --sh-pre: 0;
+}
+
+/* columns whose source images sit at width50, centred in their column (side by side only) */
+@media (width >= 768px) {
+  main .section.article .story-hub.columns.img-w50 .story-hub-pic img {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+  }
+}
+
+/* `rev` (alias `reverse`, article-4 content): source container stacks its columns in reverse
+   order on phones (picture first) */
+main .section.article .story-hub.columns:is(.rev, .reverse) .story-hub-cols {
+  flex-direction: column-reverse;
+}
+
+@media (width >= 768px) {
+  main .section.article .story-hub.columns:is(.rev, .reverse) .story-hub-cols {
+    flex-direction: row;
+  }
+}
+
+/* final-stories `tail-N…` (phones only, story-hub.js moves the nodes): the source stacks the
+   container's trailing full-width components, reversed, above its columns — measured live 360
+   (smart-factory-semiconductor-solutions): text -24- heading -16- picture; green-buildings 16 */
+main .section.article .story-hub.columns.rev:has(> .story-hub-tail) {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+main .section.article .story-hub.columns.rev > .story-hub-tail {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+main .section.article .story-hub.columns.rev > .story-hub-tail > .story-hub-tail-item {
+  margin-bottom: 24px;
+}
+
+main .section.article .story-hub.columns.rev > .story-hub-tail > .story-hub-tail-item:first-child {
+  margin-bottom: 16px;
+}
+
+main .section.article .story-hub.columns.rev > .story-hub-tail > .story-hub-tail-item > * {
+  margin-top: 0;
+}
+
+main .section.article .story-hub.columns.rev > .story-hub-tail > .story-hub-tail-item > :last-child {
+  margin-bottom: 0;
+}
+
+/* article-5: a source `button` component (filled, no icon) in an article column -> EDS primary button;
+   the article link colour / arrow icon must not apply to it */
+main .section.article .story-hub a.button:any-link {
+  padding: 8px 20px;
+  border: 0;
+  color: #fff;
+}
+
+main .section.article .story-hub a.button .icon {
+  display: none;
+}
+
+/* cluster-article close: source spacing scale (marginBottomNN below 576 / 768 / 992 / from 992)
+   for the encoder's section tokens `hg-…` (gap above each default heading; story-hub.js tags the
+   headings `hg-NN`) and `end-NN` / `endc-NN` / `endp` (gap under the story column: the last
+   component's margin + its containers' margin + a rich text's 16 px paragraph margin) */
+@media (width >= 576px) {
+  main .section.article {
+    --g32: 24px;
+    --g64: 32px;
+  }
+}
+
+@media (width >= 768px) {
+  main .section.article {
+    --g80: 40px;
+  }
+}
+
+@media (width >= 992px) {
+  main .section.article {
+    --g32: 32px;
+    --g40: 40px;
+    --g48: 48px;
+    --g56: 56px;
+    --g64: 64px;
+    --g80: 80px;
+  }
+}
+
+main .section.article .default-content-wrapper > :has(+ [class*='hg-']) {
+  margin-bottom: 0;
+}
+
+main .section.article .story-hub-wrapper:has(+ .default-content-wrapper > [class*='hg-']:first-child)
+  > .story-hub {
+  margin-bottom: 0;
+}
+
+main .section.article .default-content-wrapper > .hg-0 {
+  margin-top: 0;
+}
+
+main .section.article .default-content-wrapper > .hg-8 {
+  margin-top: 8px;
+}
+
+main .section.article .default-content-wrapper > .hg-16 {
+  margin-top: 16px;
+}
+
+main .section.article .default-content-wrapper > .hg-24 {
+  margin-top: 24px;
+}
+
+main .section.article .default-content-wrapper > .hg-32 {
+  margin-top: var(--g32);
+}
+
+main .section.article .default-content-wrapper > .hg-40 {
+  margin-top: var(--g40);
+}
+
+main .section.article .default-content-wrapper > .hg-48 {
+  margin-top: var(--g48);
+}
+
+main .section.article .default-content-wrapper > .hg-56 {
+  margin-top: var(--g56);
+}
+
+main .section.article[class*='end-'] {
+  padding-bottom: calc(var(--end, 0px) + var(--endc, 0px) + var(--endp, 0px));
+}
+
+main .section.article[class*='end-'] > div:last-child > :last-child {
+  margin-bottom: 0;
+}
+
+main .section.article.end-8 {
+  --end: 8px;
+}
+
+main .section.article.end-16 {
+  --end: 16px;
+}
+
+main .section.article.end-24 {
+  --end: 24px;
+}
+
+main .section.article.end-32 {
+  --end: var(--g32);
+}
+
+main .section.article.end-40 {
+  --end: var(--g40);
+}
+
+main .section.article.end-48 {
+  --end: var(--g48);
+}
+
+main .section.article.end-56 {
+  --end: var(--g56);
+}
+
+main .section.article.end-64 {
+  --end: var(--g64);
+}
+
+main .section.article.end-80 {
+  --end: var(--g80);
+}
+
+main .section.article.endc-24 {
+  --endc: 24px;
+}
+
+main .section.article.endc-32 {
+  --endc: var(--g32);
+}
+
+main .section.article.endc-64 {
+  --endc: var(--g64);
+}
+
+main .section.article.endc-80 {
+  --endc: var(--g80);
+}
+
+main .section.article.endp {
+  --endp: 16px;
+}
+
+/* final-stories: a cell player (story-hub.js cellPlayer) keeps the source player's control strip
+   under the picture on phones — measured live 360: picture -> card title 82 px at a 280 px cell
+   (shaping-the-future-of-mobility), 71 px at 328 (turning-ray) = 146px - 22.9 % */
+@media (width < 576px) {
+  main .section.article .story-hub .story-hub-col > .story-hub-pic.is-video:not(:last-child) {
+    margin-bottom: calc(146px - 22.9%);
+  }
+}
+
+/* final-stories: check lists (`checks`, `box checks`) — the source items sit flush with the column
+   (ours +16 from the article list indent) and are spaced by the 16 px row gap only (ours +16 from
+   the article `li + li` margin): live pitch 42 at 1440 (public-transportation), 120
+   (micromobility-battery-swapping); ours were 58 / 136. Side-by-side columns only: the same fix
+   below 768 (live 58 vs ours 74 at 360) is exact locally but lost an upstream compensation —
+   gated 360: battery-swapping 9.13 -> 10.93, public-transportation 10.73 -> 14.36 — so phones
+   keep the previous spacing (e-stories re-gated it at every width: battery-swapping 9.13 ->
+   10.93, rc1 9.64 -> 12.79 at 360 — reverted again) */
+@media (width >= 768px) {
+  main .section.article .story-hub.checks :is(.default-content-wrapper, .story-hub-rt) > ul {
+    padding-left: 0;
+  }
+
+  main .section.article .story-hub.checks :is(.default-content-wrapper, .story-hub-rt) > ul > li + li {
+    margin-top: 0;
+  }
+}
+
+/* e-stories: `hm-…` / `im-…` article tokens (encoder; story-hub.js tags the nodes `hm-NN` /
+   `im-NN`): the source gap UNDER a default-content heading is its title component's marginBottom
+   (measured: green-hydrogen h3 -> p 16 vs ours 32, turning-ray h3 24 vs 32, efficient-energy
+   h2 12 / 24 / 32 vs 16 at both widths), the gap under an image its marginBottom (green-hydrogen
+   image/64 -> p 64 vs ours 32). Scale below 992 as for `hg-…` (--g32 …). The node after it
+   loses its own top margin; a heading tagged `hg-…` keeps its gap above. */
+main .section.article .default-content-wrapper
+  > :is(h2, h3, h4, h5, h6, p)[class*='m-']:not(:last-child, :has(+ [class*='hg-'])) + * {
+  margin-top: 0;
+}
+
+main .section.article .default-content-wrapper > :is(h2, h3, h4, h5, h6).hm-0,
+main .section.article .default-content-wrapper > p.im-0:not(:last-child, :has(+ [class*='hg-'])) {
+  margin-bottom: 0;
+}
+
+main .section.article .default-content-wrapper > :is(h2, h3, h4, h5, h6).hm-8,
+main .section.article .default-content-wrapper > p.im-8:not(:last-child, :has(+ [class*='hg-'])) {
+  margin-bottom: 8px;
+}
+
+main .section.article .default-content-wrapper > :is(h2, h3, h4, h5, h6).hm-12,
+main .section.article .default-content-wrapper > p.im-12:not(:last-child, :has(+ [class*='hg-'])) {
+  margin-bottom: 12px;
+}
+
+main .section.article .default-content-wrapper > :is(h2, h3, h4, h5, h6).hm-16,
+main .section.article .default-content-wrapper > p.im-16:not(:last-child, :has(+ [class*='hg-'])) {
+  margin-bottom: 16px;
+}
+
+main .section.article .default-content-wrapper > :is(h2, h3, h4, h5, h6).hm-24,
+main .section.article .default-content-wrapper > p.im-24:not(:last-child, :has(+ [class*='hg-'])) {
+  margin-bottom: 24px;
+}
+
+main .section.article .default-content-wrapper > :is(h2, h3, h4, h5, h6).hm-32,
+main .section.article .default-content-wrapper > p.im-32:not(:last-child, :has(+ [class*='hg-'])) {
+  margin-bottom: var(--g32);
+}
+
+main .section.article .default-content-wrapper > :is(h2, h3, h4, h5, h6).hm-40,
+main .section.article .default-content-wrapper > p.im-40:not(:last-child, :has(+ [class*='hg-'])) {
+  margin-bottom: var(--g40);
+}
+
+main .section.article .default-content-wrapper > :is(h2, h3, h4, h5, h6).hm-48,
+main .section.article .default-content-wrapper > p.im-48:not(:last-child, :has(+ [class*='hg-'])) {
+  margin-bottom: var(--g48);
+}
+
+main .section.article .default-content-wrapper > :is(h2, h3, h4, h5, h6).hm-56,
+main .section.article .default-content-wrapper > p.im-56:not(:last-child, :has(+ [class*='hg-'])) {
+  margin-bottom: var(--g56);
+}
+
+main .section.article .default-content-wrapper > :is(h2, h3, h4, h5, h6).hm-64,
+main .section.article .default-content-wrapper > p.im-64:not(:last-child, :has(+ [class*='hg-'])) {
+  margin-bottom: var(--g64);
+}
+
+/* e-stories: a bare link paragraph is the source tertiary link — 16/24 (ours were 18/26;
+   turning-ray 1440: 4 links, each +2 px and wider) */
+main .section.article .default-content-wrapper > p.is-tl {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* e-stories: an `hg-NN` first heading right after the in-page navigation takes the source gap
+   (the navigation's own marginBottom: efficient-energy 32, artificial-intelligence-semiconductors
+   40; ours the 64 template gap) — the navigation's margin gives way to the heading's */
+main .section.article
+  .article-toc-wrapper:has(+ .default-content-wrapper > [class*='hg-']:first-child) > .article-toc {
+  margin-bottom: 0;
+}
+
+/* e-stories `sp-…` (story-hub.js): the source rich text's empty spacer paragraph — one 26 px
+   line + its 16 px margin (public-transportation 360: every node below it -41 / -42 px,
+   green-hydrogen timeline box list -42) */
+main .section.article p.sp-gap {
+  margin-top: 0;
+  margin-bottom: 16px;
+  line-height: 26px;
+}
+
+main .section.article > .sp-before {
+  padding-top: 42px;
+}
+
+/* e-stories: an `end-NN` story column that ends in a columns block — the cells' own last
+   margins give way too (enable-provide-ai-customer-innovation 1440: rail gap 80 vs live 48) */
+main .section.article[class*='end-'] > div:last-child > .story-hub.columns
+  :is(.story-hub-cols, .story-hub-col > :last-child) {
+  margin-bottom: 0;
+}

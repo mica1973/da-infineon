@@ -1,0 +1,15 @@
+cap-probe  base 1440 → probe 2560 (from stardust/current/DESIGN.json)
+live   https://www.infineon.com/de/glossary
+  shell     1400px  max-width #container-f0f0c05cb9 > div.ifxcontainer.responsivegrid  (tier -4, holds 100% of the text)
+  modules  2 sections: none capped · full-bleed ×2
+  contentMaxWidth 1400px (shell) · shellMaxWidth 1400px · root div > div.ifx-container.tablet-margin0 > div.aem-Grid.aem-Grid--12 > div.genericbreadcrumb.aem-GridColumn
+build  http://localhost:8791/de-glossary-proposed.html
+  shell     1400px  max-width body > main.root > div.cmp-container > div.ifxcontainer.ifx-fixed  (tier 2, holds 96% of the text)
+  modules  3 sections: capped 1400 ×2, 765 ×1 · full-bleed ×0
+  contentMaxWidth 1400px (shell) · shellMaxWidth 1400px · root body > main.root
+rows
+  ✓ wrapper cap: live 1400px = build 1400px (±20)
+  ⚠ sections: live 2 vs build 3 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches
+  ⚠ module 1/2: live full-bleed (div.aem-Grid.aem-Grid--12 > div.genericbreadcrumb.aem-GridColumn > nav.genericBreadcrumb-component.add-gaps > div.genericBreadcrumb-links) → build 1400px (main.root > div.cmp-container > div.ifxcontainer.ifx-fluid > div.genericbreadcrumb.ifx-fixed)
+  ⚠ module 2/2: live full-bleed (div.aem-Grid.aem-Grid--12 > div.genericbreadcrumb.aem-GridColumn > nav.genericBreadcrumb-component.add-gaps > div.breadcrumb-icons) → build 1400px (main.root > div.cmp-container > div.ifxcontainer.ifx-extra-fluid > div.ifx-fixed)
+cap-probe: PASS at 2560 — 0 of 4 rows failed (evidence stardust/replica/gates/de-glossary-2560/cap-iter.json)

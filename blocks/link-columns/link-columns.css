@@ -1,0 +1,86 @@
+/* link-columns: heading + titled link-list columns (live .tertiary-comp, "Hilfreiche Links") */
+.link-columns .icon-launch::before {
+  content: '\e9ce';
+}
+
+.link-columns .link-columns-inner {
+  padding-top: 0;
+  padding-bottom: 16px;
+}
+
+.link-columns :is(h1, h2, h3, h4, h5, h6, p, ul) {
+  margin: 0;
+}
+
+.link-columns .link-columns-head :is(h1, h2, h3) {
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: -0.22px;
+}
+
+.link-columns .link-columns-cols {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 24px;
+}
+
+.link-columns .link-columns-col :is(h2, h3, h4) {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+}
+
+.link-columns .link-columns-col ul {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 16px;
+  padding: 0;
+  list-style: none;
+}
+
+.link-columns .link-columns-col a:any-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--ifx-teal);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.link-columns .link-columns-icon {
+  font-size: 16px;
+}
+
+@media (width >= 992px) {
+  .link-columns .link-columns-inner {
+    padding-top: 64px;
+    padding-bottom: 32px;
+  }
+
+  .link-columns .link-columns-head :is(h1, h2, h3) {
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.28px;
+  }
+
+  .link-columns .link-columns-cols {
+    flex-direction: row;
+    gap: 16px;
+    margin-top: 32px;
+  }
+
+  .link-columns .link-columns-col {
+    flex: 0 0 400px;
+  }
+
+  .link-columns .link-columns-col :is(h2, h3, h4) {
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: -0.2px;
+  }
+}

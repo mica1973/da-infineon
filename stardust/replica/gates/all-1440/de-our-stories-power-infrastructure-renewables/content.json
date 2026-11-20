@@ -1,0 +1,9190 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:19:03.836Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/power-infrastructure-renewables",
+  "at": "2026-11-18T23:18:35.772Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 11846,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems0",
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/de/our-stories/power-infrastructure-renewables"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems1",
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/de/our-stories/power-infrastructure-renewables"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems2",
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/de/our-stories/power-infrastructure-renewables"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems3",
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/our-stories/power-infrastructure-renewables"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems4",
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/our-stories/power-infrastructure-renewables"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 714,
+    "y": 16,
+    "w": 197,
+    "h": 36,
+    "label": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die suche zu aktivieren.",
+    "value": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die ",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "text": "navbardropdown"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "label": "navbardropdown",
+    "value": "navbardropdown",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-1",
+    "x": 1072,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.nav-item.desktopProfile > div.login-dropdown > button.login-button",
+    "x": 1132,
+    "y": 14,
+    "w": 248,
+    "h": 40,
+    "text": "anmeldung zu myinfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 254,
+    "y": 86,
+    "w": 308,
+    "h": 20,
+    "text": "wir unterstützen die energieinfrastruktur der zukunft",
+    "href": "/de/our-stories/power-infrastructure-renewables"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "im hintergrund ist eine natürliche landschaft zu sehen, in d",
+    "file": "power-line-forest-1.jpg:asset-2000-25x9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 112,
+    "level": 1,
+    "text": "wir unterstützen die energieinfrastruktur der zukunft"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 242,
+    "y": 611,
+    "w": 956,
+    "h": 96,
+    "text": "Das Zeitalter der Elektrizität ist da – und es erfordert eine fortschrittliche E"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 242,
+    "y": 723,
+    "w": 134,
+    "h": 28,
+    "text": "Energieinfrastruktur"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 392,
+    "y": 723,
+    "w": 132,
+    "h": 28,
+    "text": "KI Stromversorgung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 266,
+    "y": 767,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 342,
+    "y": 767,
+    "w": 81,
+    "h": 20,
+    "level": 4,
+    "text": "sept. 03, 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-6c526b9d38 > h2#anch1",
+    "x": 200,
+    "y": 843,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "stromversorgung mit neuen herausforderungen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5f1cf5f93a > p",
+    "x": 200,
+    "y": 903,
+    "w": 1040,
+    "h": 78,
+    "text": "Die Zukunft der Stromversorgung hängt von zwei Faktoren ab: den stark steigenden"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.quote-wrapper-desktop.desktop-view > div.quote-left-side > img",
+    "x": 200,
+    "y": 1082,
+    "w": 64,
+    "h": 64,
+    "text": "adam white, division president power systems bei infineon",
+    "file": "adam-white-ps.png:asset-680-1x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.quote-right-side > div.quote-right-description > p.mb-0.heading-04",
+    "x": 288,
+    "y": 1054,
+    "w": 924,
+    "h": 128,
+    "text": "Angesichts des steigenden Strombedarfs und des anhaltenden Ausbaus erneuerbarer "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.quote-right-side > div.quote-right-name > h4.mb-0.body-03",
+    "x": 288,
+    "y": 1190,
+    "w": 395,
+    "h": 24,
+    "level": 4,
+    "text": "adam white, division president power systems bei infineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-64bff7fe36 > p",
+    "x": 200,
+    "y": 1246,
+    "w": 1040,
+    "h": 156,
+    "text": "Mit grüner Energie gibt die Natur den Takt vor! Sie betätigen den Schalter – das"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#ext_video_0_container_inner > div#ext_video_0_videoPlayer > div#IconEffect_s7classic_1B",
+    "x": 680,
+    "y": 1687,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-24ac6a89f1 > h2.dynamicAnchors.heading-03",
+    "x": 224,
+    "y": 2107,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "einige interessante fakten zur energieinfrastrruktur"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 280,
+    "y": 2175,
+    "w": 112,
+    "h": 112,
+    "text": "1,650 gw waiting to connect",
+    "file": "icon-renewables2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-a529480f7e > h2.dynamicAnchors.heading-04",
+    "x": 488,
+    "y": 2175,
+    "w": 555,
+    "h": 32,
+    "level": 2,
+    "text": "1.650 gw warten auf den anschluss"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-08d46cf98f > p",
+    "x": 488,
+    "y": 2223,
+    "w": 563,
+    "h": 104,
+    "text": "Im Jahr 2024 verzeichnete die Internationale Energieagentur (IEA) 1.650 GW Leist"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-08d46cf98f > p > sup",
+    "x": 488,
+    "y": 2340,
+    "w": 316,
+    "h": 19,
+    "text": "Quelle: IEA, Building the Future Transmission Grid (2025)"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 280,
+    "y": 2417,
+    "w": 112,
+    "h": 112,
+    "text": "100,000 km global hvdc lines",
+    "file": "ee-transmission-ocean2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-db1d485718 > h2.dynamicAnchors.heading-04",
+    "x": 488,
+    "y": 2417,
+    "w": 555,
+    "h": 32,
+    "level": 2,
+    "text": "100.000 km hgü-leitungen weltweit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-1d93e01f8a > p",
+    "x": 488,
+    "y": 2465,
+    "w": 563,
+    "h": 104,
+    "text": "Seit 2010 hat sich die weltweite Länge der HGÜ-Leitungen fast verdreifacht und ü"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-1d93e01f8a > p > sup",
+    "x": 488,
+    "y": 2582,
+    "w": 316,
+    "h": 19,
+    "text": "Quelle: IEA, Building the Future Transmission Grid (2025)"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-bd9ec91c58 > h2.dynamicAnchors.heading-03",
+    "x": 200,
+    "y": 2715,
+    "w": 1040,
+    "h": 72,
+    "level": 2,
+    "text": "vor welchen herausforderungen stehen moderne stromnetze – und wie helfen halbleiter dabei, sie zu bewältigen?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-9d28d31454 > p",
+    "x": 200,
+    "y": 2819,
+    "w": 1040,
+    "h": 78,
+    "text": "Eine zuverlässige Stromversorgung steht heute vor neuen Herausforderungen. Da er"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-a1ab7ec057 > h2.dynamicAnchors.heading-04",
+    "x": 200,
+    "y": 2929,
+    "w": 504,
+    "h": 64,
+    "level": 2,
+    "text": "wie können halbleiter leistungsschwankungen aus erneuerbaren energien bewältigen?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 3009,
+    "w": 504,
+    "h": 284,
+    "text": "graphic hvdc",
+    "file": "final-infin-grafik-lastdiagramme-wind-so"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-413b671840 > p",
+    "x": 200,
+    "y": 3325,
+    "w": 504,
+    "h": 234,
+    "text": "Erneuerbare Energiequellen sind essenziell, um unsere Klimaziele zu erreichen. D"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-debf923d71 > p",
+    "x": 200,
+    "y": 3591,
+    "w": 504,
+    "h": 416,
+    "text": "Batterie-Energiespeichersysteme (BESS) sorgen für Stabilität und Zuverlässigkeit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 4023,
+    "w": 305,
+    "h": 24,
+    "text": "netzbildende windturbinen von goldwin",
+    "href": "/de/technology-news/2025/INFGIP202509-146"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 4055,
+    "w": 321,
+    "h": 24,
+    "text": "effiziente batterie-energiespeichersysteme",
+    "href": "/de/our-stories/efficient-energy-storage-systems-energy-transition"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 4087,
+    "w": 348,
+    "h": 24,
+    "text": "wie aus einem sonnenstrahl heißer kaffee wird",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-546b916d2f > h2.dynamicAnchors.heading-04",
+    "x": 736,
+    "y": 2929,
+    "w": 504,
+    "h": 64,
+    "level": 2,
+    "text": "wie können halbleiter das stromnetz für energieintensive anwendungen optimieren?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 736,
+    "y": 3009,
+    "w": 504,
+    "h": 284,
+    "text": "data center",
+    "file": "final-infin-grafik-datacenter-focus-upda"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-d331c9bc3f > p",
+    "x": 736,
+    "y": 3325,
+    "w": 504,
+    "h": 260,
+    "text": "Der weltweit steigende Strombedarf von KI-Rechenzentren und modernen Industriean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-9614915384 > p",
+    "x": 736,
+    "y": 3617,
+    "w": 504,
+    "h": 572,
+    "text": "Diese neuen Herausforderungen erfordern Innovationen auf Basis moderner Halbleit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 4205,
+    "w": 325,
+    "h": 24,
+    "text": "infrastrukturlösungen für ki-rechenzentren",
+    "href": "/de/press-release/2026/infpr202607-121"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 4237,
+    "w": 280,
+    "h": 24,
+    "text": "elektrischer schutz in rechenzentren",
+    "href": "/de/press-release/2026/infgip202606-107"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 4269,
+    "w": 284,
+    "h": 24,
+    "text": "infineon im gartner®-bericht erwähnt",
+    "href": "/de/press-release/2026/ifxpr202607-117"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-73f5966770 > h2.dynamicAnchors.heading-04",
+    "x": 200,
+    "y": 4349,
+    "w": 504,
+    "h": 64,
+    "level": 2,
+    "text": "wie kann strom über weite entfernungen mit minimalen verlusten übertragen werden?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 4429,
+    "w": 504,
+    "h": 284,
+    "text": "bidirectional energy flow",
+    "file": "infin-grafik-geographical-gap-newweb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-8287f7cd2c > p",
+    "x": 200,
+    "y": 4745,
+    "w": 504,
+    "h": 182,
+    "text": "Die verlustarme Übertragung von grünem Strom ist entscheidend für die Energiewen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-7f0ffa639d > p",
+    "x": 200,
+    "y": 4959,
+    "w": 504,
+    "h": 390,
+    "text": "Die Hochspannungs-Gleichstrom-Übertragung (HGÜ) ermöglicht die Übertragung elekt"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 5365,
+    "w": 185,
+    "h": 24,
+    "text": "mehr zum thema hvdc",
+    "href": "/applications/industrial/power-transmission-and-distribution/high-voltage-direct-current-hvdc"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-df08072712 > h2.dynamicAnchors.heading-04",
+    "x": 736,
+    "y": 4349,
+    "w": 504,
+    "h": 64,
+    "level": 2,
+    "text": "wie steuern halbleiter dezentrale und bidirektionale energieflüsse im stromnetz?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 736,
+    "y": 4429,
+    "w": 504,
+    "h": 284,
+    "text": "private green energy generation",
+    "file": "grafik-bidirectional-energy-flow-newweb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-0e55bb7ea0 > p",
+    "x": 736,
+    "y": 4745,
+    "w": 504,
+    "h": 312,
+    "text": "Das traditionelle Stromnetz wurde für einen Energiefluss in eine Richtung ausgel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-912d94a8f4 > p",
+    "x": 736,
+    "y": 5073,
+    "w": 504,
+    "h": 234,
+    "text": "Halbleiter sind die Schlüsseltechnologie für ein intelligentes, flexibles und ho"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 5323,
+    "w": 342,
+    "h": 24,
+    "text": "lösungen für 3-phasige hybrid-wechselrichter",
+    "href": "/applications/industrial/photovoltaic/3-phase-hybrid-inverter-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 5355,
+    "w": 269,
+    "h": 24,
+    "text": "lösungen für zentralwechselrichter",
+    "href": "/applications/industrial/photovoltaic/central-inverter-solutions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-f3a88bc6e4 > h2#anch1",
+    "x": 200,
+    "y": 5445,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "fortschrittliche stromversorgungslösungen für moderne energieinfrastrukturen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-10931efb25 > p",
+    "x": 200,
+    "y": 5513,
+    "w": 1040,
+    "h": 104,
+    "text": "Moderne Energieinfrastrukturen basieren auf leistungsstarken Halbleitern, um int"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-8dce873a56 > h2.dynamicAnchors.heading-05",
+    "x": 200,
+    "y": 5633,
+    "w": 1040,
+    "h": 28,
+    "level": 2,
+    "text": "im fokus: solid-state-transformatoren und solid-state-circuit breaker"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 5677,
+    "w": 1040,
+    "h": 586,
+    "text": "infineon solutions for solid-state transformers and solid-st",
+    "file": "infin-grafik-power-infrastructure-new-we"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-7395354d76 > h2.dynamicAnchors.heading-05",
+    "x": 200,
+    "y": 6278,
+    "w": 504,
+    "h": 28,
+    "level": 2,
+    "text": "solid-state-transformator (sst)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-5eebf23ea8 > p",
+    "x": 200,
+    "y": 6322,
+    "w": 504,
+    "h": 78,
+    "text": "Ein Solid-State-Transformator (SST) ist ein fortschrittliches, halbleiterbasiert"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-5eebf23ea8 > p",
+    "x": 200,
+    "y": 6416,
+    "w": 504,
+    "h": 182,
+    "text": "Er bietet einen höheren Wirkungsgrad, eine deutlich größere Leistungsdichte und "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-5eebf23ea8 > p",
+    "x": 200,
+    "y": 6614,
+    "w": 504,
+    "h": 104,
+    "text": "Sie ermöglichen die direkte Umwandlung der vom Stromnetz bereitgestellten Mittel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-0b11e78e77 > h2.dynamicAnchors.heading-05",
+    "x": 736,
+    "y": 6278,
+    "w": 504,
+    "h": 28,
+    "level": 2,
+    "text": "solid-state-circuit-breaker (sscb)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-3728f209a4 > p",
+    "x": 736,
+    "y": 6322,
+    "w": 504,
+    "h": 78,
+    "text": "Ein Solid-State-Circuit-Breaker (SSCB) schützt elektrische Stromkreise vor überm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-3728f209a4 > p",
+    "x": 736,
+    "y": 6416,
+    "w": 504,
+    "h": 156,
+    "text": "Im Gegensatz zu herkömmlichen elektromechanischen Leistungsschaltern, die auf me"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-3728f209a4 > p",
+    "x": 736,
+    "y": 6588,
+    "w": 504,
+    "h": 182,
+    "text": "Diese Fähigkeit ist insbesondere für Gleichstromnetze (DC-Grids) von entscheiden"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-59903b5804 > h2.dynamicAnchors.heading-05",
+    "x": 200,
+    "y": 6794,
+    "w": 504,
+    "h": 28,
+    "level": 2,
+    "text": "produkte im fokus"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-dbde134f4a > p",
+    "x": 200,
+    "y": 6838,
+    "w": 504,
+    "h": 26,
+    "text": "CoolSiC™ MOSFET EasyPACK™ Module mit .XT"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-dbde134f4a > p > b",
+    "x": 200,
+    "y": 6880,
+    "w": 140,
+    "h": 25,
+    "text": "Mehr Information:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 6922,
+    "w": 210,
+    "h": 24,
+    "text": "easy power module für sst",
+    "href": "/product-information/easy-power-modules-for-solid-state-transformers"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-6d7813b286 > h2.dynamicAnchors.heading-05",
+    "x": 736,
+    "y": 6794,
+    "w": 504,
+    "h": 28,
+    "level": 2,
+    "text": "produkte im fokus"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-88501181ea > p",
+    "x": 736,
+    "y": 6838,
+    "w": 504,
+    "h": 26,
+    "text": "CoolSiC™ JFET Technologie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-88501181ea > p > b",
+    "x": 736,
+    "y": 6880,
+    "w": 140,
+    "h": 25,
+    "text": "Mehr Information:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 6922,
+    "w": 310,
+    "h": 24,
+    "text": "stromverteilung der nächsten generation",
+    "href": "/product-information/power/silicon-carbide-jfets"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-485d6e7cc1 > h2#anch1",
+    "x": 200,
+    "y": 7010,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "lösungen für eine widerstandsfähige und zuverlässige energieinfrastruktur"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-a4d810e4df > p",
+    "x": 200,
+    "y": 7078,
+    "w": 1040,
+    "h": 104,
+    "text": "Das Netz der Zukunft muss mehr leisten als nur Strom zu liefern. Es muss Stromsc"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 7214,
+    "w": 1040,
+    "h": 585,
+    "text": "infineon semiconductor solutions infographic showing 6 key a",
+    "file": "inf-what-semiconductors-make-possible-02"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-6215076ab8 > h2#demand",
+    "x": 224,
+    "y": 7888,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "faq"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 224,
+    "y": 7956,
+    "w": 552,
+    "h": 25,
+    "text": "Warum ist die Energieinfrastruktur gerade jetzt ein so wichtiges Thema?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-7d1e14373b > p",
+    "x": 224,
+    "y": 7998,
+    "w": 992,
+    "h": 156,
+    "text": "Elektrizität ist Grundlage des modernen Lebens und der modernen Industrie. Gleic"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 224,
+    "y": 8170,
+    "w": 891,
+    "h": 25,
+    "text": "Welche Rolle spielen Halbleiter in modernen Energieinfrastrukturen mit einem hoh"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-7d1e14373b > p",
+    "x": 224,
+    "y": 8212,
+    "w": 992,
+    "h": 182,
+    "text": "Halbleiter sind die unsichtbare Technologie hinter der Erzeugung, Umwandlung, Üb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 224,
+    "y": 8410,
+    "w": 360,
+    "h": 25,
+    "text": "Wie verbessern Halbleiter die Energieeffizienz?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-7d1e14373b > p",
+    "x": 224,
+    "y": 8452,
+    "w": 992,
+    "h": 182,
+    "text": "Bevor elektrische Energie ihre Endanwendung erreicht, durchläuft sie in der Rege"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > u > b",
+    "x": 224,
+    "y": 8650,
+    "w": 513,
+    "h": 25,
+    "text": "Was sind Solid-State-Transformatoren und warum sind sie wichtig?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-7d1e14373b > p",
+    "x": 224,
+    "y": 8692,
+    "w": 992,
+    "h": 156,
+    "text": "Solid-State-Transformatoren stellen eine neue Generation von Netztechnologien da"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 224,
+    "y": 8864,
+    "w": 591,
+    "h": 25,
+    "text": "Was sind Solid-State-Circuit Breaker und wie erhöhen sie die Zuverlässigkeit?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-7d1e14373b > p",
+    "x": 224,
+    "y": 8906,
+    "w": 992,
+    "h": 130,
+    "text": "Traditionelle Schutzschalter nutzen mechanische Komponenten, um Fehlerströme zu "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 224,
+    "y": 9052,
+    "w": 754,
+    "h": 25,
+    "text": "Welche Halbleitertechnologien sind für die Energieinfrastrukturen der Zukunft be"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-7d1e14373b > p",
+    "x": 224,
+    "y": 9094,
+    "w": 992,
+    "h": 208,
+    "text": "Silizium bleibt für viele Anwendungen die dominierende Halbleitertechnologie. Gl"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-8ec299ba39 > h2#anch1",
+    "x": 96,
+    "y": 9422,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "große designflexibiltät"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-6b6d0e6276 > p",
+    "x": 96,
+    "y": 9502,
+    "w": 1248,
+    "h": 52,
+    "text": "Mit einem umfangreichen Portfolio an Leistungshalbleitern und langjähriger Exper"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_copy_ifxcontainer_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 9618,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "die richtige lösung für ihre designanforderung"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 9714,
+    "w": 371,
+    "h": 200,
+    "text": "photovoltaic",
+    "file": "key-visual-hybrid-inverter-01.tif:asset-"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 9930,
+    "w": 323,
+    "h": 52,
+    "text": "Photovoltaic"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.description",
+    "x": 124,
+    "y": 9998,
+    "w": 323,
+    "h": 72,
+    "text": "Find the right solution for your design challenge"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 10106,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/industrial/photovoltaic"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 507,
+    "y": 9714,
+    "w": 371,
+    "h": 200,
+    "text": "energy storage systems",
+    "file": "energy-storage-systems.png:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 531,
+    "y": 9930,
+    "w": 323,
+    "h": 52,
+    "text": "Energy storage systems"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.description",
+    "x": 531,
+    "y": 9998,
+    "w": 323,
+    "h": 72,
+    "text": "Leading products for end-to-end solar power solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 531,
+    "y": 10106,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/industrial/battery-energy-storage"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 914,
+    "y": 9714,
+    "w": 371,
+    "h": 200,
+    "text": "power transmission and distribution",
+    "file": "power-line-forest.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 938,
+    "y": 9930,
+    "w": 323,
+    "h": 52,
+    "text": "Power transmission and distribution"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.description",
+    "x": 938,
+    "y": 9998,
+    "w": 323,
+    "h": 72,
+    "text": "Commercial and utility scale"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 938,
+    "y": 10106,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/industrial/power-transmission-and-distribution"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.article-container > div.container-title-left > div.container-preheading",
+    "x": 96,
+    "y": 10250,
+    "w": 367,
+    "h": 24,
+    "text": "Mehr Energieinfrastruktur Insights"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.article-container > div.container-title-left > h2.container-heading",
+    "x": 96,
+    "y": 10290,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "mehr zu den technologien hinter der energieinfrastruktur"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card.column > div.card-body > p.card-title",
+    "x": 124,
+    "y": 10594,
+    "w": 343,
+    "h": 56,
+    "text": "Wir unterstützen die Energieinfrastruktur der Zukunft"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.card-description-and-filter > p.card-description",
+    "x": 124,
+    "y": 10666,
+    "w": 343,
+    "h": 78,
+    "text": "Das Zeitalter der Elektrizität ist da – und es erfordert eine fortschrittliche E"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 124,
+    "y": 10760,
+    "w": 122,
+    "h": 30,
+    "text": "Energieinfrastru..."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 254,
+    "y": 10760,
+    "w": 67,
+    "h": 30,
+    "text": "KI Stro..."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-type",
+    "x": 124,
+    "y": 10804,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-publish-date",
+    "x": 176,
+    "y": 10804,
+    "w": 91,
+    "h": 20,
+    "text": "Sep 3rd, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card.column > div.card-body > p.card-title",
+    "x": 551,
+    "y": 10594,
+    "w": 343,
+    "h": 56,
+    "text": "Halbleiter prägen das Zeitalter der Elektrizität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.card-description-and-filter > p.card-description",
+    "x": 551,
+    "y": 10666,
+    "w": 343,
+    "h": 78,
+    "text": "KI-Rechenzentren und moderne Industrien treiben den Strombedarf auf neue Höchsts"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 551,
+    "y": 10760,
+    "w": 122,
+    "h": 30,
+    "text": "Energieinfrastru..."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-type",
+    "x": 551,
+    "y": 10804,
+    "w": 56,
+    "h": 20,
+    "text": "Video"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-publish-date",
+    "x": 619,
+    "y": 10804,
+    "w": 97,
+    "h": 20,
+    "text": "Aug 10th, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card.column > div.card-body > p.card-title",
+    "x": 977,
+    "y": 10594,
+    "w": 343,
+    "h": 56,
+    "text": "Wie aus einem Sonnenstrahl eine Tasse heißer Kaffee entsteht"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.card-description-and-filter > p.card-description",
+    "x": 977,
+    "y": 10666,
+    "w": 343,
+    "h": 78,
+    "text": "Elektrizität spielt in unserem Leben eine zentrale Rolle, sei es beim Kochen, be"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 977,
+    "y": 10760,
+    "w": 122,
+    "h": 30,
+    "text": "Energieinfrastru..."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-type",
+    "x": 977,
+    "y": 10804,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-publish-date",
+    "x": 1029,
+    "y": 10804,
+    "w": 95,
+    "h": 20,
+    "text": "Mar 31st, 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 203,
+    "y": 11080,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 732,
+    "y": 11080,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 732,
+    "y": 11164,
+    "w": 136,
+    "h": 48,
+    "text": "abonnieren",
+    "href": "/de/our-stories/power-infrastructure-renewables"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 96,
+    "y": 11372,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 367,
+    "y": 11372,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 11428,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 11470,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 11512,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 11554,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 11596,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 619,
+    "y": 11372,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 11428,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 11470,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 11512,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 11554,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 11596,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 11638,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 926,
+    "y": 11372,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 11428,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 11470,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 11512,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 1193,
+    "y": 11372,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 11428,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 11470,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 11512,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 11554,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 96,
+    "y": 11776,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 272,
+    "y": 11776,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 380,
+    "y": 11776,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 647,
+    "y": 11781,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 1168,
+    "y": 11780,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 1208,
+    "y": 11780,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 1248,
+    "y": 11780,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 1288,
+    "y": 11777,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 1288,
+    "y": 11781,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 1328,
+    "y": 11780,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 1,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 3,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 157,
+    "controls": 56,
+    "total": 1
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLIPPED",
+     "advisory": false,
+     "n": 1,
+     "clipper": "p.card-title",
+     "path": "div.card > div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+     "text": "power transmission and distribution",
+     "cutMin": 4,
+     "cutMax": 4
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 3,
+     "clipper": "p.card-description",
+     "path": "div.card.column > div.card-body > div.card-description-and-filter > p.card-description",
+     "text": "das zeitalter der elektrizität ist da – und es erfordert ein",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/power-infrastructure-renewables",
+  "at": "2026-11-18T23:19:03.729Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 11682,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 166,
+    "y": 21,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/products"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 243,
+    "y": 21,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/applications"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 353,
+    "y": 21,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/design-resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 487,
+    "y": 21,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 629,
+    "y": 21,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/about"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "sprache"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "sprache",
+    "value": "sprache",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-login > p > a",
+    "x": 1132,
+    "y": 13,
+    "w": 207,
+    "h": 40,
+    "text": "anmeldung zu myinfineon",
+    "href": "/de/login.login.de.json"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 254,
+    "y": 85,
+    "w": 308,
+    "h": 20,
+    "text": "wir unterstützen die energieinfrastruktur der zukunft",
+    "href": "/de/our-stories/power-infrastructure-renewables"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "im hintergrund ist eine natürliche landschaft zu sehen, in d",
+    "file": "media_1777f262580af5a5100ec7f208cc576274"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#wir-unterstützen-die-energieinfrastruktur-der-zukunft",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 112,
+    "level": 1,
+    "text": "wir unterstützen die energieinfrastruktur der zukunft"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 242,
+    "y": 611,
+    "w": 956,
+    "h": 96,
+    "text": "Das Zeitalter der Elektrizität ist da – und es erfordert eine fortschrittliche E"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 242,
+    "y": 723,
+    "w": 134,
+    "h": 28,
+    "text": "Energieinfrastruktur"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 392,
+    "y": 723,
+    "w": 132,
+    "h": 28,
+    "text": "KI Stromversorgung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 266,
+    "y": 767,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#sept-03-2026",
+    "x": 342,
+    "y": 767,
+    "w": 81,
+    "h": 20,
+    "level": 4,
+    "text": "sept. 03, 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > h2#stromversorgung-mit-neuen-herausforderungen",
+    "x": 200,
+    "y": 843,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "stromversorgung mit neuen herausforderungen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 895,
+    "w": 1040,
+    "h": 78,
+    "text": "Die Zukunft der Stromversorgung hängt von zwei Faktoren ab: den stark steigenden"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 1046,
+    "w": 64,
+    "h": 64,
+    "text": "adam white, division president power systems bei infineon",
+    "file": "media_177f69ba43d0c881eb69bc97c38371cd53"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-quote-text > blockquote > p",
+    "x": 288,
+    "y": 1046,
+    "w": 836,
+    "h": 128,
+    "text": "Angesichts des steigenden Strombedarfs und des anhaltenden Ausbaus erneuerbarer "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.quote > div.story-hub-quote-name > h4#adam-white-division-president-power-systems-bei-infineon",
+    "x": 288,
+    "y": 1182,
+    "w": 836,
+    "h": 24,
+    "level": 4,
+    "text": "adam white, division president power systems bei infineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1238,
+    "w": 1040,
+    "h": 156,
+    "text": "Mit grüner Energie gibt die Natur den Takt vor! Sie betätigen den Schalter – das"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 1426,
+    "w": 1040,
+    "h": 585,
+    "text": "",
+    "file": "media_1208f82808dc331807c12f10c0487db216"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-wrapper > div.story-hub.video > button.story-hub-video-play",
+    "x": 680,
+    "y": 1679,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head.is-lead > h2#einige-interessante-fakten-zur-energieinfrastrruktur",
+    "x": 224,
+    "y": 2099,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "einige interessante fakten zur energieinfrastrruktur"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-pic > picture > img",
+    "x": 280,
+    "y": 2167,
+    "w": 112,
+    "h": 112,
+    "text": "1,650 gw waiting to connect",
+    "file": "media_16a8e6a909dba927e81d1585925907b8ea"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-body > div.story-hub-fact-title > h2#gw-warten-auf-den-anschluss",
+    "x": 488,
+    "y": 2167,
+    "w": 579,
+    "h": 32,
+    "level": 2,
+    "text": "1.650 gw warten auf den anschluss"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-body > div.story-hub-rt > p",
+    "x": 488,
+    "y": 2207,
+    "w": 579,
+    "h": 104,
+    "text": "Im Jahr 2024 verzeichnete die Internationale Energieagentur (IEA) 1.650 GW Leist"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p > sup",
+    "x": 488,
+    "y": 2324,
+    "w": 316,
+    "h": 19,
+    "text": "Quelle: IEA, Building the Future Transmission Grid (2025)"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-pic > picture > img",
+    "x": 280,
+    "y": 2417,
+    "w": 112,
+    "h": 112,
+    "text": "100,000 km global hvdc lines",
+    "file": "media_184ea829d9cc37843f3805cea25450fe0d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-body > div.story-hub-fact-title > h2#km-hgü-leitungen-weltweit",
+    "x": 488,
+    "y": 2417,
+    "w": 579,
+    "h": 32,
+    "level": 2,
+    "text": "100.000 km hgü-leitungen weltweit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-body > div.story-hub-rt > p",
+    "x": 488,
+    "y": 2457,
+    "w": 579,
+    "h": 104,
+    "text": "Seit 2010 hat sich die weltweite Länge der HGÜ-Leitungen fast verdreifacht und ü"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p > sup",
+    "x": 488,
+    "y": 2574,
+    "w": 316,
+    "h": 19,
+    "text": "Quelle: IEA, Building the Future Transmission Grid (2025)"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-cols-head > div.story-hub-cols-title > h2#vor-welchen-herausforderungen-stehen-moderne-stromnetze--und-wie-helfen-halbleiter-dabei-sie-zu-bewältigen",
+    "x": 200,
+    "y": 2707,
+    "w": 1040,
+    "h": 72,
+    "level": 2,
+    "text": "vor welchen herausforderungen stehen moderne stromnetze – und wie helfen halbleiter dabei, sie zu bewältigen?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-cols-head > div.story-hub-rt > p",
+    "x": 200,
+    "y": 2811,
+    "w": 1040,
+    "h": 78,
+    "text": "Eine zuverlässige Stromversorgung steht heute vor neuen Herausforderungen. Da er"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#wie-können-halbleiter-leistungsschwankungen-aus-erneuerbaren-energien-bewältigen",
+    "x": 200,
+    "y": 2921,
+    "w": 504,
+    "h": 64,
+    "level": 2,
+    "text": "wie können halbleiter leistungsschwankungen aus erneuerbaren energien bewältigen?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 3001,
+    "w": 504,
+    "h": 284,
+    "text": "graphic hvdc",
+    "file": "media_1e66c85b189e6f868cf91ae4fe8de1a21f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 200,
+    "y": 3317,
+    "w": 504,
+    "h": 234,
+    "text": "Erneuerbare Energiequellen sind essenziell, um unsere Klimaziele zu erreichen. D"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 3583,
+    "w": 504,
+    "h": 416,
+    "text": "Batterie-Energiespeichersysteme (BESS) sorgen für Stabilität und Zuverlässigkeit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 200,
+    "y": 4015,
+    "w": 303,
+    "h": 24,
+    "text": "netzbildende windturbinen von goldwin",
+    "href": "/de/technology-news/2025/INFGIP202509-146"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 200,
+    "y": 4047,
+    "w": 319,
+    "h": 24,
+    "text": "effiziente batterie-energiespeichersysteme",
+    "href": "/de/our-stories/efficient-energy-storage-systems-energy-transition"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 200,
+    "y": 4079,
+    "w": 347,
+    "h": 24,
+    "text": "wie aus einem sonnenstrahl heißer kaffee wird",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#wie-können-halbleiter-das-stromnetz-für-energieintensive-anwendungen-optimieren",
+    "x": 736,
+    "y": 2921,
+    "w": 504,
+    "h": 64,
+    "level": 2,
+    "text": "wie können halbleiter das stromnetz für energieintensive anwendungen optimieren?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 736,
+    "y": 3001,
+    "w": 504,
+    "h": 284,
+    "text": "data center",
+    "file": "media_126a955e933f50991f55bddbf80b77377f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 736,
+    "y": 3317,
+    "w": 504,
+    "h": 260,
+    "text": "Der weltweit steigende Strombedarf von KI-Rechenzentren und modernen Industriean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 736,
+    "y": 3609,
+    "w": 504,
+    "h": 572,
+    "text": "Diese neuen Herausforderungen erfordern Innovationen auf Basis moderner Halbleit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 4197,
+    "w": 324,
+    "h": 24,
+    "text": "infrastrukturlösungen für ki-rechenzentren",
+    "href": "/de/press-release/2026/infpr202607-121"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 4229,
+    "w": 279,
+    "h": 24,
+    "text": "elektrischer schutz in rechenzentren",
+    "href": "/de/press-release/2026/infgip202606-107"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 4261,
+    "w": 283,
+    "h": 24,
+    "text": "infineon im gartner®-bericht erwähnt",
+    "href": "/de/press-release/2026/ifxpr202607-117"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#wie-kann-strom-über-weite-entfernungen-mit-minimalen-verlusten-übertragen-werden",
+    "x": 200,
+    "y": 4341,
+    "w": 504,
+    "h": 64,
+    "level": 2,
+    "text": "wie kann strom über weite entfernungen mit minimalen verlusten übertragen werden?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 4421,
+    "w": 504,
+    "h": 284,
+    "text": "bidirectional energy flow",
+    "file": "media_16d871ae0f70bff3495babe61c9de1b40e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 200,
+    "y": 4736,
+    "w": 504,
+    "h": 182,
+    "text": "Die verlustarme Übertragung von grünem Strom ist entscheidend für die Energiewen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 4950,
+    "w": 504,
+    "h": 390,
+    "text": "Die Hochspannungs-Gleichstrom-Übertragung (HGÜ) ermöglicht die Übertragung elekt"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 200,
+    "y": 5356,
+    "w": 184,
+    "h": 24,
+    "text": "mehr zum thema hvdc",
+    "href": "/applications/industrial/power-transmission-and-distribution/high-voltage-direct-current-hvdc"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#wie-steuern-halbleiter-dezentrale-und-bidirektionale-energieflüsse-im-stromnetz",
+    "x": 736,
+    "y": 4341,
+    "w": 504,
+    "h": 64,
+    "level": 2,
+    "text": "wie steuern halbleiter dezentrale und bidirektionale energieflüsse im stromnetz?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 736,
+    "y": 4421,
+    "w": 504,
+    "h": 284,
+    "text": "private green energy generation",
+    "file": "media_181dc2f7358d1399f4a14ed2e59d9d159f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 736,
+    "y": 4736,
+    "w": 504,
+    "h": 312,
+    "text": "Das traditionelle Stromnetz wurde für einen Energiefluss in eine Richtung ausgel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 736,
+    "y": 5080,
+    "w": 504,
+    "h": 234,
+    "text": "Halbleiter sind die Schlüsseltechnologie für ein intelligentes, flexibles und ho"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 5330,
+    "w": 341,
+    "h": 24,
+    "text": "lösungen für 3-phasige hybrid-wechselrichter",
+    "href": "/applications/industrial/photovoltaic/3-phase-hybrid-inverter-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 5362,
+    "w": 268,
+    "h": 24,
+    "text": "lösungen für zentralwechselrichter",
+    "href": "/applications/industrial/photovoltaic/central-inverter-solutions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > h2#fortschrittliche-stromversorgungslösungen-für-moderne-energieinfrastrukturen",
+    "x": 200,
+    "y": 5442,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "fortschrittliche stromversorgungslösungen für moderne energieinfrastrukturen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 5494,
+    "w": 1040,
+    "h": 104,
+    "text": "Moderne Energieinfrastrukturen basieren auf leistungsstarken Halbleitern, um int"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > h2#im-fokus-solid-state-transformatoren-und-solid-state-circuit-breaker",
+    "x": 200,
+    "y": 5614,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "im fokus: solid-state-transformatoren und solid-state-circuit breaker"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 5666,
+    "w": 1040,
+    "h": 585,
+    "text": "infineon solutions for solid-state transformers and solid-st",
+    "file": "media_171867954f41ec844172f4bb257ce07572"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#solid-state-transformator-sst",
+    "x": 200,
+    "y": 6315,
+    "w": 504,
+    "h": 32,
+    "level": 2,
+    "text": "solid-state-transformator (sst)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 6363,
+    "w": 504,
+    "h": 78,
+    "text": "Ein Solid-State-Transformator (SST) ist ein fortschrittliches, halbleiterbasiert"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 6457,
+    "w": 504,
+    "h": 182,
+    "text": "Er bietet einen höheren Wirkungsgrad, eine deutlich größere Leistungsdichte und "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 6655,
+    "w": 504,
+    "h": 104,
+    "text": "Sie ermöglichen die direkte Umwandlung der vom Stromnetz bereitgestellten Mittel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#solid-state-circuit-breaker-sscb",
+    "x": 736,
+    "y": 6315,
+    "w": 504,
+    "h": 32,
+    "level": 2,
+    "text": "solid-state-circuit-breaker (sscb)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 736,
+    "y": 6363,
+    "w": 504,
+    "h": 78,
+    "text": "Ein Solid-State-Circuit-Breaker (SSCB) schützt elektrische Stromkreise vor überm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 736,
+    "y": 6457,
+    "w": 504,
+    "h": 156,
+    "text": "Im Gegensatz zu herkömmlichen elektromechanischen Leistungsschaltern, die auf me"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 736,
+    "y": 6629,
+    "w": 504,
+    "h": 182,
+    "text": "Diese Fähigkeit ist insbesondere für Gleichstromnetze (DC-Grids) von entscheiden"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#produkte-im-fokus",
+    "x": 200,
+    "y": 6875,
+    "w": 504,
+    "h": 32,
+    "level": 2,
+    "text": "produkte im fokus"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 200,
+    "y": 6923,
+    "w": 504,
+    "h": 26,
+    "text": "CoolSiC™ MOSFET EasyPACK™ Module mit .XT"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > strong",
+    "x": 200,
+    "y": 6981,
+    "w": 140,
+    "h": 25,
+    "text": "Mehr Information:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 200,
+    "y": 7023,
+    "w": 209,
+    "h": 24,
+    "text": "easy power module für sst",
+    "href": "/product-information/easy-power-modules-for-solid-state-transformers"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#produkte-im-fokus-1",
+    "x": 736,
+    "y": 6875,
+    "w": 504,
+    "h": 32,
+    "level": 2,
+    "text": "produkte im fokus"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 736,
+    "y": 6923,
+    "w": 504,
+    "h": 26,
+    "text": "CoolSiC™ JFET Technologie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > strong",
+    "x": 736,
+    "y": 6981,
+    "w": 140,
+    "h": 25,
+    "text": "Mehr Information:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 7023,
+    "w": 308,
+    "h": 24,
+    "text": "stromverteilung der nächsten generation",
+    "href": "/product-information/power/silicon-carbide-jfets"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > h2#lösungen-für-eine-widerstandsfähige-und-zuverlässige-energieinfrastruktur",
+    "x": 200,
+    "y": 7103,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "lösungen für eine widerstandsfähige und zuverlässige energieinfrastruktur"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 7155,
+    "w": 1040,
+    "h": 104,
+    "text": "Das Netz der Zukunft muss mehr leisten als nur Strom zu liefern. Es muss Stromsc"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 7275,
+    "w": 1040,
+    "h": 585,
+    "text": "infineon semiconductor solutions infographic showing 6 key a",
+    "file": "media_19374bdb963d71b57dfb504a63411d6f95"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head > h2#faq",
+    "x": 224,
+    "y": 7948,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "faq"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 224,
+    "y": 8000,
+    "w": 552,
+    "h": 25,
+    "text": "Warum ist die Energieinfrastruktur gerade jetzt ein so wichtiges Thema?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 8042,
+    "w": 992,
+    "h": 156,
+    "text": "Elektrizität ist Grundlage des modernen Lebens und der modernen Industrie. Gleic"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 224,
+    "y": 8214,
+    "w": 891,
+    "h": 25,
+    "text": "Welche Rolle spielen Halbleiter in modernen Energieinfrastrukturen mit einem hoh"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 8256,
+    "w": 992,
+    "h": 182,
+    "text": "Halbleiter sind die unsichtbare Technologie hinter der Erzeugung, Umwandlung, Üb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 224,
+    "y": 8454,
+    "w": 360,
+    "h": 25,
+    "text": "Wie verbessern Halbleiter die Energieeffizienz?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 8496,
+    "w": 992,
+    "h": 182,
+    "text": "Bevor elektrische Energie ihre Endanwendung erreicht, durchläuft sie in der Rege"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 224,
+    "y": 8694,
+    "w": 513,
+    "h": 25,
+    "text": "Was sind Solid-State-Transformatoren und warum sind sie wichtig?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 8736,
+    "w": 992,
+    "h": 156,
+    "text": "Solid-State-Transformatoren stellen eine neue Generation von Netztechnologien da"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 224,
+    "y": 8908,
+    "w": 591,
+    "h": 25,
+    "text": "Was sind Solid-State-Circuit Breaker und wie erhöhen sie die Zuverlässigkeit?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 8950,
+    "w": 992,
+    "h": 130,
+    "text": "Traditionelle Schutzschalter nutzen mechanische Komponenten, um Fehlerströme zu "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 224,
+    "y": 9096,
+    "w": 754,
+    "h": 25,
+    "text": "Welche Halbleitertechnologien sind für die Energieinfrastrukturen der Zukunft be"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 9138,
+    "w": 992,
+    "h": 208,
+    "text": "Silizium bleibt für viele Anwendungen die dominierende Halbleitertechnologie. Gl"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.wide.section > div.default-content-wrapper > h2#große-designflexibiltät",
+    "x": 96,
+    "y": 9466,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "große designflexibiltät"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.wide.section > div.default-content-wrapper > p",
+    "x": 96,
+    "y": 9546,
+    "w": 1248,
+    "h": 52,
+    "text": "Mit einem umfangreichen Portfolio an Leistungshalbleitern und langjähriger Exper"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#die-richtige-lösung-für-ihre-designanforderung",
+    "x": 96,
+    "y": 9630,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "die richtige lösung für ihre designanforderung"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 9726,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "media_194682e3f194a34c48c3e71766b2ac3262"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 9942,
+    "w": 323,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 10010,
+    "w": 323,
+    "h": 28,
+    "text": "Photovoltaic"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 124,
+    "y": 10088,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/language-masters/en/applications/industrial/photovoltaic"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 507,
+    "y": 9726,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "media_1099bf4764af06897a0be8c269fbcaadcc"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 531,
+    "y": 9942,
+    "w": 323,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 531,
+    "y": 10010,
+    "w": 323,
+    "h": 28,
+    "text": "Energy storage systems"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 531,
+    "y": 10088,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/language-masters/en/applications/industrial/battery-energy-storage"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 914,
+    "y": 9726,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "media_1f70092542724349103edcb0b501ea5c01"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 938,
+    "y": 9942,
+    "w": 323,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 938,
+    "y": 10010,
+    "w": 323,
+    "h": 28,
+    "text": "Power transmission and distribution"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 938,
+    "y": 10088,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/language-masters/en/applications/industrial/power-transmission-and-distribution"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#mehr-zu-den-technologien-hinter-der-energieinfrastruktur",
+    "x": 96,
+    "y": 10232,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "mehr zu den technologien hinter der energieinfrastruktur"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 10328,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_10a4c7d82abcf3067bc638ce25652d863c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 10544,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 10612,
+    "w": 323,
+    "h": 56,
+    "text": "Wie aus einem Sonnenstrahl eine Tasse heißer Kaffee entsteht"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 124,
+    "y": 10690,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 507,
+    "y": 10328,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_16d26b400f09ddf2d9590b41bfb3c0f88a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 531,
+    "y": 10544,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 531,
+    "y": 10612,
+    "w": 323,
+    "h": 56,
+    "text": "Grüne Energie mit Wide-Bandgap-Halbleitern"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 531,
+    "y": 10690,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 914,
+    "y": 10328,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_14f83280add92b4fef2ebefd073419fb96"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 938,
+    "y": 10544,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 938,
+    "y": 10612,
+    "w": 323,
+    "h": 28,
+    "text": "Storing the sun for cloudy days"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 938,
+    "y": 10690,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/our-stories/storing-sun-cloudy-days"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#abonnieren-sie-die-marketingkommunikation",
+    "x": 203,
+    "y": 10914,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 732,
+    "y": 10914,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 732,
+    "y": 10998,
+    "w": 138,
+    "h": 50,
+    "text": "abonnieren",
+    "href": "/de/our-stories/power-infrastructure-renewables"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 96,
+    "y": 11247,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 96,
+    "y": 11208,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 367,
+    "y": 11208,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 11264,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 11306,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 11348,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 11390,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 11432,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 619,
+    "y": 11208,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 11264,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 11306,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 11348,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 11390,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 11432,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 11474,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 926,
+    "y": 11208,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 11264,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 11306,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 11348,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 1193,
+    "y": 11208,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 11264,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 11306,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 11348,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 11390,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 11612,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 272,
+    "y": 11612,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 380,
+    "y": 11612,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 11612,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 647,
+    "y": 11617,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 11616,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1208,
+    "y": 11616,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1248,
+    "y": 11616,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1288,
+    "y": 11613,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 1288,
+    "y": 11613,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1328,
+    "y": 11616,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 147,
+    "controls": 63,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "wir unterstützen die energieinfrastruktur der zukunft",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 4,
+    "image": 0
+   },
+   "eds": {
+    "link": 18,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 58,
+    "textHidden": 0,
+    "image": 16,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"stromversorgung mit neuen herausforderungen\" (y 843) has no origin heading",
+   "text": "stromversorgung mit neuen herausforderungen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"einige interessante fakten zur energieinfrastrruktur\" (y 2099) has no origin heading",
+   "text": "einige interessante fakten zur energieinfrastrruktur"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"1.650 gw warten auf den anschluss\" (y 2167) has no origin heading",
+   "text": "1.650 gw warten auf den anschluss"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"100.000 km hgü-leitungen weltweit\" (y 2417) has no origin heading",
+   "text": "100.000 km hgü-leitungen weltweit"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"vor welchen herausforderungen stehen moderne stromnetze – und wie helfen halbleiter dabei, sie zu bewältigen?\" (y 2707) has no origin heading",
+   "text": "vor welchen herausforderungen stehen moderne stromnetze – und wie helfen halbleiter dabei, sie zu bewältigen?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie können halbleiter leistungsschwankungen aus erneuerbaren energien bewältigen?\" (y 2921) has no origin heading",
+   "text": "wie können halbleiter leistungsschwankungen aus erneuerbaren energien bewältigen?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie können halbleiter das stromnetz für energieintensive anwendungen optimieren?\" (y 2921) has no origin heading",
+   "text": "wie können halbleiter das stromnetz für energieintensive anwendungen optimieren?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie kann strom über weite entfernungen mit minimalen verlusten übertragen werden?\" (y 4341) has no origin heading",
+   "text": "wie kann strom über weite entfernungen mit minimalen verlusten übertragen werden?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie steuern halbleiter dezentrale und bidirektionale energieflüsse im stromnetz?\" (y 4341) has no origin heading",
+   "text": "wie steuern halbleiter dezentrale und bidirektionale energieflüsse im stromnetz?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"fortschrittliche stromversorgungslösungen für moderne energieinfrastrukturen\" (y 5442) has no origin heading",
+   "text": "fortschrittliche stromversorgungslösungen für moderne energieinfrastrukturen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"im fokus: solid-state-transformatoren und solid-state-circuit breaker\" (y 5614) has no origin heading",
+   "text": "im fokus: solid-state-transformatoren und solid-state-circuit breaker"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"solid-state-transformator (sst)\" (y 6315) has no origin heading",
+   "text": "solid-state-transformator (sst)"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"solid-state-circuit-breaker (sscb)\" (y 6315) has no origin heading",
+   "text": "solid-state-circuit-breaker (sscb)"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"produkte im fokus\" (y 6875) has no origin heading",
+   "text": "produkte im fokus"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"produkte im fokus\" (y 6875) has no origin heading",
+   "text": "produkte im fokus"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"lösungen für eine widerstandsfähige und zuverlässige energieinfrastruktur\" (y 7103) has no origin heading",
+   "text": "lösungen für eine widerstandsfähige und zuverlässige energieinfrastruktur"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"faq\" (y 7948) has no origin heading",
+   "text": "faq"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"große designflexibiltät\" (y 9466) has no origin heading",
+   "text": "große designflexibiltät"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"die richtige lösung für ihre designanforderung\" (y 9630) has no origin heading",
+   "text": "die richtige lösung für ihre designanforderung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"mehr zu den technologien hinter der energieinfrastruktur\" (y 10232) has no origin heading",
+   "text": "mehr zu den technologien hinter der energieinfrastruktur"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"abonnieren sie die marketingkommunikation!\" (y 10914) has no origin heading",
+   "text": "abonnieren sie die marketingkommunikation!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"play or pause video\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "play or pause video"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"netzbildende windturbinen von goldwin\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "netzbildende windturbinen von goldwin"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"effiziente batterie-energiespeichersysteme\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "effiziente batterie-energiespeichersysteme"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"wie aus einem sonnenstrahl heißer kaffee wird\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "wie aus einem sonnenstrahl heißer kaffee wird"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"infrastrukturlösungen für ki-rechenzentren\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "infrastrukturlösungen für ki-rechenzentren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"elektrischer schutz in rechenzentren\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "elektrischer schutz in rechenzentren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"infineon im gartner®-bericht erwähnt\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "infineon im gartner®-bericht erwähnt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr zum thema hvdc\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr zum thema hvdc"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"lösungen für 3-phasige hybrid-wechselrichter\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "lösungen für 3-phasige hybrid-wechselrichter"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"lösungen für zentralwechselrichter\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "lösungen für zentralwechselrichter"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"easy power module für sst\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "easy power module für sst"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"stromverteilung der nächsten generation\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "stromverteilung der nächsten generation"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×3 \"mehr erfahren\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 3,
+   "text": "mehr erfahren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×3 \"mehr entdecken\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 3,
+   "text": "mehr entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"abonnieren\" served in band \"wir unterstützen die energieinfrastruktur der zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "abonnieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"wir unterstützen die energieinfrastruktur der zukunft\": 4 origin → 58 served visible",
+   "band": 1,
+   "origin": 4,
+   "eds": 58,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"wir unterstützen die energieinfrastruktur der zukunft\": 0 origin → 16 served visible",
+   "band": 1,
+   "origin": 0,
+   "eds": 16,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 21,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 19,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 38,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 166,
+    "y": 23,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 23,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 23,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 23,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 23,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 23,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 86,
+    "w": 308,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 829,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 535,
+    "w": 146,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 612,
+    "w": 914,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 636,
+    "w": 944,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 660,
+    "w": 931,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 684,
+    "w": 180,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 727,
+    "w": 118,
+    "h": 20
+   },
+   {
+    "x": 400,
+    "y": 727,
+    "w": 116,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 767,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 767,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 200,
+    "y": 841,
+    "w": 565,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 903,
+    "w": 1016,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 929,
+    "w": 1016,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 955,
+    "w": 756,
+    "h": 25
+   },
+   {
+    "x": 288,
+    "y": 1052,
+    "w": 852,
+    "h": 35
+   },
+   {
+    "x": 288,
+    "y": 1084,
+    "w": 836,
+    "h": 35
+   },
+   {
+    "x": 288,
+    "y": 1116,
+    "w": 920,
+    "h": 35
+   },
+   {
+    "x": 288,
+    "y": 1148,
+    "w": 326,
+    "h": 35
+   },
+   {
+    "x": 288,
+    "y": 1191,
+    "w": 395,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1246,
+    "w": 933,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1272,
+    "w": 1031,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1298,
+    "w": 922,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1324,
+    "w": 1028,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1350,
+    "w": 939,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1376,
+    "w": 893,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 2105,
+    "w": 605,
+    "h": 40
+   },
+   {
+    "x": 488,
+    "y": 2173,
+    "w": 354,
+    "h": 35
+   },
+   {
+    "x": 488,
+    "y": 2223,
+    "w": 534,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2249,
+    "w": 518,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2275,
+    "w": 548,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2301,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2340,
+    "w": 316,
+    "h": 19
+   },
+   {
+    "x": 488,
+    "y": 2415,
+    "w": 368,
+    "h": 35
+   },
+   {
+    "x": 488,
+    "y": 2465,
+    "w": 556,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2491,
+    "w": 535,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2517,
+    "w": 535,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2543,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2582,
+    "w": 316,
+    "h": 19
+   },
+   {
+    "x": 200,
+    "y": 2713,
+    "w": 1037,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2749,
+    "w": 293,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2819,
+    "w": 1022,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2845,
+    "w": 922,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2871,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2927,
+    "w": 475,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 2959,
+    "w": 400,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 3325,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3351,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3377,
+    "w": 421,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3403,
+    "w": 415,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3429,
+    "w": 502,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3455,
+    "w": 495,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3481,
+    "w": 489,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3507,
+    "w": 473,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3533,
+    "w": 357,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3591,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3617,
+    "w": 486,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3643,
+    "w": 481,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3669,
+    "w": 483,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3695,
+    "w": 456,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3721,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3747,
+    "w": 477,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3773,
+    "w": 461,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3799,
+    "w": 472,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3825,
+    "w": 414,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3851,
+    "w": 418,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3877,
+    "w": 473,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3903,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3929,
+    "w": 482,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3955,
+    "w": 396,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3981,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4024,
+    "w": 283,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 4056,
+    "w": 299,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 4088,
+    "w": 326,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 2927,
+    "w": 407,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 2959,
+    "w": 444,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 3325,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3351,
+    "w": 472,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3377,
+    "w": 465,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3403,
+    "w": 465,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3429,
+    "w": 416,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3455,
+    "w": 412,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3481,
+    "w": 473,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3507,
+    "w": 449,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3533,
+    "w": 472,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3559,
+    "w": 101,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3617,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3643,
+    "w": 490,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3669,
+    "w": 399,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3695,
+    "w": 429,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3721,
+    "w": 500,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3747,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3773,
+    "w": 476,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3799,
+    "w": 472,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3825,
+    "w": 474,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3851,
+    "w": 471,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3877,
+    "w": 481,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3903,
+    "w": 476,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3929,
+    "w": 456,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3955,
+    "w": 494,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3981,
+    "w": 484,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4007,
+    "w": 439,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4033,
+    "w": 496,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4059,
+    "w": 444,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4085,
+    "w": 468,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4111,
+    "w": 500,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4137,
+    "w": 474,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4163,
+    "w": 458,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4206,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 4238,
+    "w": 258,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 4270,
+    "w": 262,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 4347,
+    "w": 452,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 4379,
+    "w": 417,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 4745,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4771,
+    "w": 488,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4797,
+    "w": 492,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4823,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4849,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4875,
+    "w": 449,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4901,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4959,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4985,
+    "w": 482,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5011,
+    "w": 420,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5037,
+    "w": 361,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5063,
+    "w": 478,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5089,
+    "w": 446,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5115,
+    "w": 490,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5141,
+    "w": 474,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5167,
+    "w": 454,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5193,
+    "w": 444,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5219,
+    "w": 413,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5245,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5271,
+    "w": 487,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5297,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5323,
+    "w": 136,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5366,
+    "w": 163,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 4347,
+    "w": 379,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 4379,
+    "w": 433,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 4745,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4771,
+    "w": 476,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4797,
+    "w": 472,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4823,
+    "w": 487,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4849,
+    "w": 440,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4875,
+    "w": 474,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4901,
+    "w": 423,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4927,
+    "w": 453,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4953,
+    "w": 490,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4979,
+    "w": 383,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5005,
+    "w": 463,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5031,
+    "w": 434,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5073,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5099,
+    "w": 452,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5125,
+    "w": 452,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5151,
+    "w": 452,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5177,
+    "w": 478,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5203,
+    "w": 495,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5229,
+    "w": 414,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5255,
+    "w": 460,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5281,
+    "w": 456,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5324,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 5356,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 5443,
+    "w": 937,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 5513,
+    "w": 1014,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5539,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5565,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5591,
+    "w": 750,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5633,
+    "w": 588,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 6278,
+    "w": 266,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 6322,
+    "w": 440,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6348,
+    "w": 436,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6374,
+    "w": 459,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6416,
+    "w": 451,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6442,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6468,
+    "w": 391,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6494,
+    "w": 499,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6520,
+    "w": 411,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6546,
+    "w": 466,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6572,
+    "w": 465,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6614,
+    "w": 457,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6640,
+    "w": 475,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6666,
+    "w": 470,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6692,
+    "w": 434,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6278,
+    "w": 285,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 6322,
+    "w": 427,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6348,
+    "w": 496,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6374,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6416,
+    "w": 410,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6442,
+    "w": 493,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6468,
+    "w": 473,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6494,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6520,
+    "w": 445,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6546,
+    "w": 72,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6588,
+    "w": 481,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6614,
+    "w": 485,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6640,
+    "w": 423,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6666,
+    "w": 387,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6692,
+    "w": 488,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6718,
+    "w": 439,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6744,
+    "w": 158,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6794,
+    "w": 157,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 6838,
+    "w": 342,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6880,
+    "w": 140,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6923,
+    "w": 188,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 6794,
+    "w": 157,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 6838,
+    "w": 206,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6880,
+    "w": 140,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6923,
+    "w": 288,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 7008,
+    "w": 877,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 7078,
+    "w": 960,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 7104,
+    "w": 998,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 7130,
+    "w": 940,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 7156,
+    "w": 365,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7886,
+    "w": 47,
+    "h": 40
+   },
+   {
+    "x": 224,
+    "y": 7956,
+    "w": 552,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7998,
+    "w": 888,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8024,
+    "w": 922,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8050,
+    "w": 940,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8076,
+    "w": 929,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8102,
+    "w": 892,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8128,
+    "w": 801,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8170,
+    "w": 891,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8212,
+    "w": 916,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8238,
+    "w": 913,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8264,
+    "w": 978,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8290,
+    "w": 931,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8316,
+    "w": 951,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8342,
+    "w": 940,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8368,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8410,
+    "w": 360,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8452,
+    "w": 984,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8478,
+    "w": 975,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8504,
+    "w": 837,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8530,
+    "w": 978,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8556,
+    "w": 929,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8582,
+    "w": 914,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8608,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8650,
+    "w": 513,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8692,
+    "w": 894,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8718,
+    "w": 915,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8744,
+    "w": 909,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8770,
+    "w": 924,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8796,
+    "w": 955,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8822,
+    "w": 168,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8864,
+    "w": 591,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8906,
+    "w": 952,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8932,
+    "w": 930,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8958,
+    "w": 957,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8984,
+    "w": 953,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9010,
+    "w": 864,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9052,
+    "w": 754,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9094,
+    "w": 860,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9120,
+    "w": 931,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9146,
+    "w": 941,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9172,
+    "w": 875,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9198,
+    "w": 904,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9224,
+    "w": 961,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9250,
+    "w": 863,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9276,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 9420,
+    "w": 347,
+    "h": 51
+   },
+   {
+    "x": 96,
+    "y": 9502,
+    "w": 1235,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 9528,
+    "w": 830,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 9616,
+    "w": 704,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 9930,
+    "w": 121,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 9999,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 10107,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 9930,
+    "w": 223,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 9999,
+    "w": 297,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 10023,
+    "w": 62,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 10107,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 9930,
+    "w": 228,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 9958,
+    "w": 114,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 9999,
+    "w": 189,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 10107,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 101,
+    "y": 10252,
+    "w": 362,
+    "h": 20
+   },
+   {
+    "x": 96,
+    "y": 10288,
+    "w": 865,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 10594,
+    "w": 170,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 10622,
+    "w": 273,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 10668,
+    "w": 282,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 10694,
+    "w": 334,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 10720,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 133,
+    "y": 10765,
+    "w": 104,
+    "h": 20
+   },
+   {
+    "x": 263,
+    "y": 10765,
+    "w": 49,
+    "h": 20
+   },
+   {
+    "x": 124,
+    "y": 10804,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 188,
+    "y": 10804,
+    "w": 79,
+    "h": 20
+   },
+   {
+    "x": 551,
+    "y": 10594,
+    "w": 287,
+    "h": 28
+   },
+   {
+    "x": 551,
+    "y": 10622,
+    "w": 92,
+    "h": 28
+   },
+   {
+    "x": 551,
+    "y": 10668,
+    "w": 336,
+    "h": 22
+   },
+   {
+    "x": 551,
+    "y": 10694,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 551,
+    "y": 10720,
+    "w": 231,
+    "h": 22
+   },
+   {
+    "x": 560,
+    "y": 10765,
+    "w": 104,
+    "h": 20
+   },
+   {
+    "x": 573,
+    "y": 10804,
+    "w": 34,
+    "h": 20
+   },
+   {
+    "x": 631,
+    "y": 10804,
+    "w": 85,
+    "h": 20
+   },
+   {
+    "x": 977,
+    "y": 10594,
+    "w": 327,
+    "h": 28
+   },
+   {
+    "x": 977,
+    "y": 10622,
+    "w": 187,
+    "h": 28
+   },
+   {
+    "x": 977,
+    "y": 10668,
+    "w": 323,
+    "h": 22
+   },
+   {
+    "x": 977,
+    "y": 10694,
+    "w": 338,
+    "h": 22
+   },
+   {
+    "x": 977,
+    "y": 10720,
+    "w": 314,
+    "h": 22
+   },
+   {
+    "x": 986,
+    "y": 10765,
+    "w": 104,
+    "h": 20
+   },
+   {
+    "x": 977,
+    "y": 10804,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 1041,
+    "y": 10804,
+    "w": 83,
+    "h": 20
+   },
+   {
+    "x": 1173,
+    "y": 10906,
+    "w": 7,
+    "h": 20
+   },
+   {
+    "x": 1212,
+    "y": 10906,
+    "w": 7,
+    "h": 20
+   },
+   {
+    "x": 1247,
+    "y": 10906,
+    "w": 7,
+    "h": 20
+   },
+   {
+    "x": 203,
+    "y": 11078,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 11126,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 11079,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 11109,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 772,
+    "y": 11177,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 11373,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 11428,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 11470,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 11512,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 11554,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 11596,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 11373,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 11428,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 11470,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 11512,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 11554,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 11596,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 11638,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 11373,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 11428,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 11470,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 11512,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 11373,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 11428,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 11470,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 11512,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 11554,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 11781,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 11781,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 11781,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 11781,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 11781,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 11781,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 11781,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 22,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 85,
+    "w": 308,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 829,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 535,
+    "w": 146,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 612,
+    "w": 914,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 636,
+    "w": 944,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 660,
+    "w": 931,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 684,
+    "w": 180,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 727,
+    "w": 118,
+    "h": 20
+   },
+   {
+    "x": 400,
+    "y": 727,
+    "w": 116,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 767,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 767,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 200,
+    "y": 841,
+    "w": 565,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 895,
+    "w": 1016,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 921,
+    "w": 1016,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 947,
+    "w": 756,
+    "h": 25
+   },
+   {
+    "x": 288,
+    "y": 1044,
+    "w": 714,
+    "h": 35
+   },
+   {
+    "x": 288,
+    "y": 1076,
+    "w": 822,
+    "h": 35
+   },
+   {
+    "x": 288,
+    "y": 1108,
+    "w": 660,
+    "h": 35
+   },
+   {
+    "x": 288,
+    "y": 1140,
+    "w": 738,
+    "h": 35
+   },
+   {
+    "x": 288,
+    "y": 1183,
+    "w": 395,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1238,
+    "w": 933,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1264,
+    "w": 1031,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1290,
+    "w": 922,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1316,
+    "w": 1028,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1342,
+    "w": 939,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1368,
+    "w": 893,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 2097,
+    "w": 605,
+    "h": 40
+   },
+   {
+    "x": 488,
+    "y": 2165,
+    "w": 354,
+    "h": 35
+   },
+   {
+    "x": 488,
+    "y": 2207,
+    "w": 563,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2233,
+    "w": 542,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2259,
+    "w": 520,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2285,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2324,
+    "w": 316,
+    "h": 19
+   },
+   {
+    "x": 488,
+    "y": 2415,
+    "w": 368,
+    "h": 35
+   },
+   {
+    "x": 488,
+    "y": 2457,
+    "w": 556,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2483,
+    "w": 535,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2509,
+    "w": 535,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2535,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2574,
+    "w": 316,
+    "h": 19
+   },
+   {
+    "x": 200,
+    "y": 2705,
+    "w": 1037,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2741,
+    "w": 293,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2811,
+    "w": 1022,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2837,
+    "w": 922,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2863,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2919,
+    "w": 475,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 2951,
+    "w": 400,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 3317,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3343,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3369,
+    "w": 421,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3395,
+    "w": 415,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3421,
+    "w": 502,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3447,
+    "w": 495,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3473,
+    "w": 489,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3499,
+    "w": 473,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3525,
+    "w": 357,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3583,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3609,
+    "w": 486,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3635,
+    "w": 481,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3661,
+    "w": 483,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3687,
+    "w": 456,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3713,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3739,
+    "w": 477,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3765,
+    "w": 461,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3791,
+    "w": 472,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3817,
+    "w": 414,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3843,
+    "w": 418,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3869,
+    "w": 473,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3895,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3921,
+    "w": 482,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3947,
+    "w": 396,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3973,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4016,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 4048,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 4080,
+    "w": 323,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 2919,
+    "w": 407,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 2951,
+    "w": 444,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 3317,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3343,
+    "w": 472,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3369,
+    "w": 465,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3395,
+    "w": 465,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3421,
+    "w": 416,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3447,
+    "w": 412,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3473,
+    "w": 473,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3499,
+    "w": 449,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3525,
+    "w": 472,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3551,
+    "w": 101,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3609,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3635,
+    "w": 490,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3661,
+    "w": 399,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3687,
+    "w": 429,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3713,
+    "w": 500,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3739,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3765,
+    "w": 476,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3791,
+    "w": 472,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3817,
+    "w": 474,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3843,
+    "w": 471,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3869,
+    "w": 481,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3895,
+    "w": 476,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3921,
+    "w": 456,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3947,
+    "w": 494,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3973,
+    "w": 484,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3999,
+    "w": 439,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4025,
+    "w": 496,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4051,
+    "w": 444,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4077,
+    "w": 468,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4103,
+    "w": 500,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4129,
+    "w": 474,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4155,
+    "w": 458,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4198,
+    "w": 300,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 4230,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 4262,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 4339,
+    "w": 452,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 4371,
+    "w": 417,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 4736,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4762,
+    "w": 488,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4788,
+    "w": 492,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4814,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4840,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4866,
+    "w": 449,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4892,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4950,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4976,
+    "w": 482,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5002,
+    "w": 420,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5028,
+    "w": 361,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5054,
+    "w": 478,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5080,
+    "w": 446,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5106,
+    "w": 490,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5132,
+    "w": 474,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5158,
+    "w": 454,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5184,
+    "w": 444,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5210,
+    "w": 413,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5236,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5262,
+    "w": 487,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5288,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5314,
+    "w": 136,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5357,
+    "w": 160,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 4339,
+    "w": 379,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 4371,
+    "w": 433,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 4736,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4762,
+    "w": 476,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4788,
+    "w": 472,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4814,
+    "w": 487,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4840,
+    "w": 440,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4866,
+    "w": 474,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4892,
+    "w": 423,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4918,
+    "w": 453,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4944,
+    "w": 490,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4970,
+    "w": 383,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4996,
+    "w": 463,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5022,
+    "w": 434,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5080,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5106,
+    "w": 452,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5132,
+    "w": 452,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5158,
+    "w": 452,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5184,
+    "w": 478,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5210,
+    "w": 495,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5236,
+    "w": 414,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5262,
+    "w": 460,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5288,
+    "w": 456,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5331,
+    "w": 317,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 5363,
+    "w": 244,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 5440,
+    "w": 937,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 5494,
+    "w": 1014,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5520,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5546,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5572,
+    "w": 750,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5612,
+    "w": 823,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 6313,
+    "w": 320,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 6363,
+    "w": 440,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6389,
+    "w": 436,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6415,
+    "w": 459,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6457,
+    "w": 451,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6483,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6509,
+    "w": 391,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6535,
+    "w": 499,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6561,
+    "w": 411,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6587,
+    "w": 466,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6613,
+    "w": 465,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6655,
+    "w": 457,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6681,
+    "w": 475,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6707,
+    "w": 470,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6733,
+    "w": 434,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6313,
+    "w": 343,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 6363,
+    "w": 427,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6389,
+    "w": 496,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6415,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6457,
+    "w": 410,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6483,
+    "w": 493,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6509,
+    "w": 473,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6535,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6561,
+    "w": 445,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6587,
+    "w": 72,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6629,
+    "w": 481,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6655,
+    "w": 485,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6681,
+    "w": 423,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6707,
+    "w": 387,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6733,
+    "w": 488,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6759,
+    "w": 439,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6785,
+    "w": 158,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6873,
+    "w": 188,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 6923,
+    "w": 342,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6981,
+    "w": 140,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 7024,
+    "w": 185,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 6873,
+    "w": 188,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 6923,
+    "w": 206,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6981,
+    "w": 140,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 7024,
+    "w": 284,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 7101,
+    "w": 877,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 7155,
+    "w": 960,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 7181,
+    "w": 998,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 7207,
+    "w": 940,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 7233,
+    "w": 365,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7946,
+    "w": 47,
+    "h": 40
+   },
+   {
+    "x": 224,
+    "y": 8000,
+    "w": 552,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8042,
+    "w": 888,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8068,
+    "w": 922,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8094,
+    "w": 940,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8120,
+    "w": 929,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8146,
+    "w": 892,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8172,
+    "w": 801,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8214,
+    "w": 891,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8256,
+    "w": 916,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8282,
+    "w": 913,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8308,
+    "w": 978,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8334,
+    "w": 931,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8360,
+    "w": 951,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8386,
+    "w": 940,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8412,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8454,
+    "w": 360,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8496,
+    "w": 984,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8522,
+    "w": 975,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8548,
+    "w": 837,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8574,
+    "w": 978,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8600,
+    "w": 929,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8626,
+    "w": 914,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8652,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8694,
+    "w": 513,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8736,
+    "w": 894,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8762,
+    "w": 915,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8788,
+    "w": 909,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8814,
+    "w": 924,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8840,
+    "w": 955,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8866,
+    "w": 168,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8908,
+    "w": 591,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8950,
+    "w": 952,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 8976,
+    "w": 930,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9002,
+    "w": 957,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9028,
+    "w": 953,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9054,
+    "w": 864,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9096,
+    "w": 754,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9138,
+    "w": 860,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9164,
+    "w": 931,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9190,
+    "w": 941,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9216,
+    "w": 875,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9242,
+    "w": 904,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9268,
+    "w": 961,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9294,
+    "w": 863,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 9320,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 9464,
+    "w": 347,
+    "h": 51
+   },
+   {
+    "x": 96,
+    "y": 9546,
+    "w": 1235,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 9572,
+    "w": 830,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 9628,
+    "w": 704,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 9942,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 10010,
+    "w": 106,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 10089,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 9942,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 10010,
+    "w": 196,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 10089,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 9942,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 10010,
+    "w": 305,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 10089,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 10230,
+    "w": 865,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 10544,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 10612,
+    "w": 276,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 10640,
+    "w": 237,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 10691,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 10544,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 10612,
+    "w": 285,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 10640,
+    "w": 95,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 10691,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 10544,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 10612,
+    "w": 258,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 10691,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 10912,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 10960,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 10913,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 10943,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 773,
+    "y": 11012,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 11209,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 11264,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 11306,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 11348,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 11390,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 11432,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 11209,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 11264,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 11306,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 11348,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 11390,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 11432,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 11474,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 11209,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 11264,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 11306,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 11348,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 11209,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 11264,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 11306,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 11348,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 11390,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 11617,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 11617,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 11617,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 11617,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 11617,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 11617,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 11617,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

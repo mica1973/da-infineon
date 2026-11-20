@@ -1,0 +1,80 @@
+{
+  "slug": "de-logout",
+  "type": "utility",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "thank-you"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "cmp-container"
+  ],
+  "canonShas": {
+    "header": null,
+    "footer": null,
+    "css": "25ab8c4d541e"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Logout | Infineon Technologies",
+    "description": "Danke | Infineon Technologies",
+    "canonical": null,
+    "lang": "de"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Logout | Infineon Technologies",
+    "description": "Danke | Infineon Technologies",
+    "url": "https://www.infineon.com/de/logout"
+  },
+  "migratedAt": "2026-11-18T07:39:47Z",
+  "designMdSha": "77b908e2eb7e",
+  "designJsonSha": "c36dd7a2ffca",
+  "sourceCurrentSha": "9af7b83fd211",
+  "sourceProposedSha": "5443253612fa",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "full"
+  ],
+  "gatesPassed": [
+    "variance-probe",
+    "pixel-gate-1440",
+    "pixel-gate-360",
+    "delivery-lint",
+    "media-reconcile",
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "variance-probe": "stardust/.work/rollout/cluster-utility/variance.json: logout full-bleed panel (1440 vs 1248) → variant full",
+    "pixel-gate-1440": "gate-all published 0.01% Δh 0 (cu-gate-1440b.log)",
+    "pixel-gate-360": "gate-all published 0.02% Δh 0 (cu-gate-360.log)",
+    "delivery-lint": "delivery-lint 0 P0/P1",
+    "media-reconcile": "media-reconcile pass",
+    "content-fidelity": "verbatim from stardust/current/pages/de-logout.json/.html; deviations logged"
+  },
+  "contentDeviations": [
+    {
+      "kind": "link-path",
+      "source": "/aem/start.html",
+      "target": "/aem/start",
+      "reason": "extensionless internal path (delivery-lint P1); live 301s to /aem/start which 404s on the source too"
+    }
+  ],
+  "assetsBundled": 9,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "/aem/start",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "de/logout/index.html",
+  "outputPathDefault": "trailing-slash",
+  "sidecar": "de/logout/_meta.json",
+  "driverVersion": "1"
+}

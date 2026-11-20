@@ -1,0 +1,10 @@
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://www.infineon.com/de/thank-you (live side from cache stardust/replica/gates/de-thank-you-1440/chrome-live.json, probed 2026-11-18T05:00:16.408Z — delete the file to re-probe)
+  build: http://localhost:8791/de-thank-you-proposed.html
+
+■ header: 1 delta(s) — 6 paired of 6/6 texts, 1/1 icons
+  PAIR         "Anmeldung zu myInfineon"  Δx +8px (1132→1140); <button> box 248×40 → 207×24
+
+■ footer: ✓ parity — 28 paired of 28/28 texts, 2/2 icons
+
+✗ 1 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

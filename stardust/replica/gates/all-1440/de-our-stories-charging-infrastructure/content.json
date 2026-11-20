@@ -1,0 +1,5460 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:15:40.812Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/charging-infrastructure",
+  "at": "2026-11-18T23:15:17.935Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7818,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems0",
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems1",
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems2",
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems3",
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems4",
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 714,
+    "y": 16,
+    "w": 197,
+    "h": 36,
+    "label": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die suche zu aktivieren.",
+    "value": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die ",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "text": "navbardropdown"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "label": "navbardropdown",
+    "value": "navbardropdown",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-1",
+    "x": 1072,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.nav-item.desktopProfile > div.login-dropdown > button.login-button",
+    "x": 1132,
+    "y": 14,
+    "w": 248,
+    "h": 40,
+    "text": "anmeldung zu myinfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 254,
+    "y": 86,
+    "w": 358,
+    "h": 20,
+    "text": "die zukunft des ladens: wegbereiter für nachhaltige mobilität",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "charging infrastructure",
+    "file": "man-parked-at-a-charging-station-to-char"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 112,
+    "level": 1,
+    "text": "die zukunft des ladens: wegbereiter für nachhaltige mobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 242,
+    "y": 611,
+    "w": 956,
+    "h": 72,
+    "text": "Elektrofahrzeuge sind ein wichtiger Schritt in Richtung nachhaltiger Mobilität. "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 242,
+    "y": 699,
+    "w": 111,
+    "h": 28,
+    "text": "Elektromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 266,
+    "y": 743,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 342,
+    "y": 743,
+    "w": 72,
+    "h": 20,
+    "level": 4,
+    "text": "juli 10, 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 877,
+    "w": 232,
+    "h": 22,
+    "text": "nachhaltige mobilität vorantreiben",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 911,
+    "w": 180,
+    "h": 22,
+    "text": "ausbau des ladenetzwerks",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 945,
+    "w": 396,
+    "h": 22,
+    "text": "reibungsloses laden an bord und außerhalb des fahrzeugs",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 979,
+    "w": 209,
+    "h": 22,
+    "text": "wo fahrer ihre fahrzeuge laden",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 1013,
+    "w": 205,
+    "h": 22,
+    "text": "halbleiter für elektrofahrzeuge",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > p",
+    "x": 224,
+    "y": 843,
+    "w": 177,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-f260a1bb89 > h2#anch1",
+    "x": 200,
+    "y": 1125,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "nachhaltige mobilität vorantreiben"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-d03aedf7a4 > p > b",
+    "x": 200,
+    "y": 1177,
+    "w": 746,
+    "h": 25,
+    "text": "Infineons Leistungselektronik ebnet den Weg für effiziente Ladenetzwerke und Dek"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-d03aedf7a4 > p",
+    "x": 200,
+    "y": 1219,
+    "w": 1040,
+    "h": 52,
+    "text": "Batteriebetriebene Elektrofahrzeuge treiben die nachhaltige Mobilität voran – vo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-d03aedf7a4 > p",
+    "x": 200,
+    "y": 1287,
+    "w": 1040,
+    "h": 104,
+    "text": "Der benötigte Strom muss nicht nur aus erneuerbaren Quellen stammen, sondern die"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-88e1be53d1 > h2#anch2",
+    "x": 200,
+    "y": 1423,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "ausbau des ladenetzwerks"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-5aac7a4a6f > p > b",
+    "x": 200,
+    "y": 1475,
+    "w": 400,
+    "h": 25,
+    "text": "Die Entwicklung zentraler Ladeinfrastruktur fördern"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5aac7a4a6f > p",
+    "x": 200,
+    "y": 1517,
+    "w": 1040,
+    "h": 78,
+    "text": "Die Ladeinfrastruktur für Elektroautos, Lkw und Busse macht deutliche Fortschrit"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 1627,
+    "w": 1040,
+    "h": 585,
+    "text": "charging infrastructure worldwide",
+    "file": "inforgraphic-charging-infrastructure-wor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-e0ff0d538d > p",
+    "x": 200,
+    "y": 2244,
+    "w": 1040,
+    "h": 104,
+    "text": "In den nächsten Jahren wird ein umfassendes Netz aus energieeffizienten und schn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-e0ff0d538d > p",
+    "x": 200,
+    "y": 2364,
+    "w": 1040,
+    "h": 78,
+    "text": "Gleichzeitig müssen sowohl die Ladepunkte als auch die Fahrzeuge selbst so energ"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-e0ff0d538d > p",
+    "x": 200,
+    "y": 2458,
+    "w": 1040,
+    "h": 78,
+    "text": "Infineon-Produkte und -Lösungen, wie etwa SiC-basierte Bauelemente, spielen eine"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-4a4a2f8dcf > h2#arch3",
+    "x": 200,
+    "y": 2600,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "reibungsloses laden an bord und außerhalb des fahrzeugs"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-8728587f22 > p",
+    "x": 200,
+    "y": 2652,
+    "w": 1040,
+    "h": 104,
+    "text": "Ein Elektroauto kann entweder mit Gleichstrom (DC) oder Wechselstrom (AC) gelade"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 2788,
+    "w": 1040,
+    "h": 585,
+    "text": "how to charge electric vehicles",
+    "file": "infografik-mobility-how-to-charge.png:as"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-89a92e8c52 > p",
+    "x": 200,
+    "y": 3405,
+    "w": 1040,
+    "h": 156,
+    "text": "AC-Ladegeräte speisen Wechselstrom aus der Steckdose oder der Ladestation in das"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-89a92e8c52 > p > a",
+    "x": 200,
+    "y": 3577,
+    "w": 491,
+    "h": 25,
+    "text": "erfahren sie mehr über on-board-batterieladegeräte für (h)evs.",
+    "href": "/applications/automotive/electric-drivetrain/onboard-charging-obc"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-ffa9c92f39 > h2#arch4",
+    "x": 200,
+    "y": 3667,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "wo fahrer ihre fahrzeuge laden"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-e1153a0107 > p",
+    "x": 200,
+    "y": 3719,
+    "w": 1040,
+    "h": 52,
+    "text": "Die Entscheidung für eine bestimmte Lademethode wird von mehreren Faktoren beein"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-4c7032a8bc > ul > li",
+    "x": 200,
+    "y": 3803,
+    "w": 1040,
+    "h": 162,
+    "text": "Für das Laden zu Hause installieren viele Hausbesitzer eine Ladestation (Wallbox"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-4c7032a8bc > ul > li",
+    "x": 200,
+    "y": 3965,
+    "w": 1040,
+    "h": 136,
+    "text": "Vor allem auf langen Geschäftsreisen oder Fahrten besteht oft die Notwendigkeit,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-4c7032a8bc > ul > li",
+    "x": 200,
+    "y": 4101,
+    "w": 1040,
+    "h": 110,
+    "text": "Das Laden am Arbeitsplatz ist ebenfalls eine Option, sofern der Arbeitgeber eine"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 4243,
+    "w": 1040,
+    "h": 585,
+    "text": "charging time household socket",
+    "file": "infographic-comparison-charging-time-hou"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-a52d720723 > h2#arch7",
+    "x": 200,
+    "y": 4892,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "halbleiter für elektrofahrzeuge"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-5a9225fb29 > p > b",
+    "x": 200,
+    "y": 4944,
+    "w": 435,
+    "h": 25,
+    "text": "Passende Halbleiter für alle Arten von Elektrofahrzeugen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5a9225fb29 > p",
+    "x": 200,
+    "y": 4986,
+    "w": 1040,
+    "h": 52,
+    "text": "Infineon ist Mitglied der CharIN-Initiative (Charging Interface Initiative e.V.)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5a9225fb29 > p",
+    "x": 200,
+    "y": 5054,
+    "w": 1040,
+    "h": 78,
+    "text": "Die Halbleiterlösungen von Infineon sind für sämtliche Arten von Elektrofahrzeug"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5a9225fb29 > p",
+    "x": 200,
+    "y": 5148,
+    "w": 1040,
+    "h": 130,
+    "text": "Integrierte Infineon-Komponenten bilden die zentralen Bausteine von Steuergeräte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-6d32bc022b > p > b",
+    "x": 224,
+    "y": 5334,
+    "w": 507,
+    "h": 25,
+    "text": "Entdecken Sie unser Portfolio für Elektromobilitätsanwendungen:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5376,
+    "w": 237,
+    "h": 25,
+    "text": "coolsic™ automotive qualified",
+    "href": "/technology/silicon-carbide-sic"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5418,
+    "w": 154,
+    "h": 25,
+    "text": "hybridpack™ drive",
+    "href": "/products/power/igbt/automotive-qualified-igbts/coolsic-mosfet-modules/hybridpack-drive-dc6"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5460,
+    "w": 59,
+    "h": 25,
+    "text": "easy 1b",
+    "href": "/product-information/power/igbt/igbt-modules/easy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5502,
+    "w": 232,
+    "h": 25,
+    "text": "mosfets for 48 v mild hybrids",
+    "href": "/products/power/mosfet/automotive-mosfet"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5544,
+    "w": 124,
+    "h": 25,
+    "text": "optireg™ pmic",
+    "href": "/products/power/power-supply-ics/optireg-pmic"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5586,
+    "w": 100,
+    "h": 25,
+    "text": "eicedriver™",
+    "href": "/products/power/gate-driver-ics"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5628,
+    "w": 59,
+    "h": 25,
+    "text": "aurix™",
+    "href": "/products/microcontroller/32-bit-tricore"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5670,
+    "w": 69,
+    "h": 25,
+    "text": "xensiv™",
+    "href": "/products/sensor/current-sensors"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_ifxcontainer_552115689_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 5816,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 5912,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "atv-clean-mobility-white-car-charging.pn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 6128,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 124,
+    "y": 6196,
+    "w": 323,
+    "h": 56,
+    "text": "Innovative Schnellladelösungen für die Elektromobilität"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 6274,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/fast-charging-solutions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 507,
+    "y": 5912,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "household-energy-storage-system-pss.png:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 531,
+    "y": 6128,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 531,
+    "y": 6196,
+    "w": 323,
+    "h": 56,
+    "text": "Bidirektionales Laden für eine effiziente Energienutzung"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 531,
+    "y": 6274,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/bi-directional-charging"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_16431_ifxcontainer_552115689_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 6394,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weiterführende inhalte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 6490,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "lowres-on-board-charger.png:asset-680-2x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 6706,
+    "w": 323,
+    "h": 52,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 124,
+    "y": 6774,
+    "w": 323,
+    "h": 56,
+    "text": "On-board battery charger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 6852,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/automotive/electric-drivetrain/onboard-charging-obc"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 507,
+    "y": 6490,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "man-in-ev-car-charging.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 531,
+    "y": 6706,
+    "w": 323,
+    "h": 52,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 531,
+    "y": 6774,
+    "w": 323,
+    "h": 56,
+    "text": "EV charging"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 531,
+    "y": 6852,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/industrial/ev-charging"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 203,
+    "y": 7052,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 732,
+    "y": 7052,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 732,
+    "y": 7136,
+    "w": 136,
+    "h": 48,
+    "text": "abonnieren",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 96,
+    "y": 7344,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 367,
+    "y": 7344,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 7400,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 7442,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 7484,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 7526,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 7568,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 619,
+    "y": 7344,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 7400,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 7442,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 7484,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 7526,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 7568,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 7610,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 926,
+    "y": 7344,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 7400,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 7442,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 7484,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 1193,
+    "y": 7344,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 7400,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 7442,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 7484,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 7526,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 96,
+    "y": 7748,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 272,
+    "y": 7748,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 380,
+    "y": 7748,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 647,
+    "y": 7753,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 1168,
+    "y": 7752,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 1208,
+    "y": 7752,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 1248,
+    "y": 7752,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 1288,
+    "y": 7749,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 1288,
+    "y": 7753,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 1328,
+    "y": 7752,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 103,
+    "controls": 59,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/charging-infrastructure",
+  "at": "2026-11-18T23:15:40.691Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7840,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 166,
+    "y": 21,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/products"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 243,
+    "y": 21,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/applications"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 353,
+    "y": 21,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/design-resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 487,
+    "y": 21,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 629,
+    "y": 21,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/about"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "sprache"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "sprache",
+    "value": "sprache",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-login > p > a",
+    "x": 1132,
+    "y": 13,
+    "w": 207,
+    "h": 40,
+    "text": "anmeldung zu myinfineon",
+    "href": "/de/login.login.de.json"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 254,
+    "y": 85,
+    "w": 358,
+    "h": 20,
+    "text": "die zukunft des ladens: wegbereiter für nachhaltige mobilität",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "charging infrastructure",
+    "file": "media_13c23b8c9cf5067304dbd7b2d5733a10fb"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#die-zukunft-des-ladens-wegbereiter-für-nachhaltige-mobilität",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 112,
+    "level": 1,
+    "text": "die zukunft des ladens: wegbereiter für nachhaltige mobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 242,
+    "y": 611,
+    "w": 956,
+    "h": 72,
+    "text": "Elektrofahrzeuge sind ein wichtiger Schritt in Richtung nachhaltiger Mobilität. "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 242,
+    "y": 699,
+    "w": 111,
+    "h": 28,
+    "text": "Elektromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 266,
+    "y": 743,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#juli-10-2025",
+    "x": 342,
+    "y": 743,
+    "w": 72,
+    "h": 20,
+    "level": 4,
+    "text": "juli 10, 2025"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-toc.block > div.article-toc-label > p",
+    "x": 224,
+    "y": 843,
+    "w": 992,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 877,
+    "w": 232,
+    "h": 22,
+    "text": "nachhaltige mobilität vorantreiben",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 911,
+    "w": 180,
+    "h": 22,
+    "text": "ausbau des ladenetzwerks",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 945,
+    "w": 396,
+    "h": 22,
+    "text": "reibungsloses laden an bord und außerhalb des fahrzeugs",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 979,
+    "w": 209,
+    "h": 22,
+    "text": "wo fahrer ihre fahrzeuge laden",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 1013,
+    "w": 205,
+    "h": 22,
+    "text": "halbleiter für elektrofahrzeuge",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > h2#nachhaltige-mobilität-vorantreiben",
+    "x": 200,
+    "y": 1125,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "nachhaltige mobilität vorantreiben"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 200,
+    "y": 1177,
+    "w": 746,
+    "h": 25,
+    "text": "Infineons Leistungselektronik ebnet den Weg für effiziente Ladenetzwerke und Dek"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1219,
+    "w": 1040,
+    "h": 52,
+    "text": "Batteriebetriebene Elektrofahrzeuge treiben die nachhaltige Mobilität voran – vo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1287,
+    "w": 1040,
+    "h": 104,
+    "text": "Der benötigte Strom muss nicht nur aus erneuerbaren Quellen stammen, sondern die"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > h2#ausbau-des-ladenetzwerks",
+    "x": 200,
+    "y": 1423,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "ausbau des ladenetzwerks"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 200,
+    "y": 1475,
+    "w": 400,
+    "h": 25,
+    "text": "Die Entwicklung zentraler Ladeinfrastruktur fördern"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1517,
+    "w": 1040,
+    "h": 78,
+    "text": "Die Ladeinfrastruktur für Elektroautos, Lkw und Busse macht deutliche Fortschrit"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 1627,
+    "w": 1040,
+    "h": 585,
+    "text": "charging infrastructure worldwide",
+    "file": "media_1b806ef26ad2d2700ac71b2ab57310eb91"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2244,
+    "w": 1040,
+    "h": 104,
+    "text": "In den nächsten Jahren wird ein umfassendes Netz aus energieeffizienten und schn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2364,
+    "w": 1040,
+    "h": 78,
+    "text": "Gleichzeitig müssen sowohl die Ladepunkte als auch die Fahrzeuge selbst so energ"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2458,
+    "w": 1040,
+    "h": 78,
+    "text": "Infineon-Produkte und -Lösungen, wie etwa SiC-basierte Bauelemente, spielen eine"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > h2#reibungsloses-laden-an-bord-und-außerhalb-des-fahrzeugs",
+    "x": 200,
+    "y": 2600,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "reibungsloses laden an bord und außerhalb des fahrzeugs"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2652,
+    "w": 1040,
+    "h": 104,
+    "text": "Ein Elektroauto kann entweder mit Gleichstrom (DC) oder Wechselstrom (AC) gelade"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 2788,
+    "w": 1040,
+    "h": 585,
+    "text": "how to charge electric vehicles",
+    "file": "media_1e4ebc8670bfb780d4ce7b6e0d00f33dd3"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3405,
+    "w": 1040,
+    "h": 156,
+    "text": "AC-Ladegeräte speisen Wechselstrom aus der Steckdose oder der Ladestation in das"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.is-tl > a",
+    "x": 200,
+    "y": 3578,
+    "w": 436,
+    "h": 22,
+    "text": "erfahren sie mehr über on-board-batterieladegeräte für (h)evs.",
+    "href": "/applications/automotive/electric-drivetrain/onboard-charging-obc"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > h2#wo-fahrer-ihre-fahrzeuge-laden",
+    "x": 200,
+    "y": 3665,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "wo fahrer ihre fahrzeuge laden"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3717,
+    "w": 1040,
+    "h": 52,
+    "text": "Die Entscheidung für eine bestimmte Lademethode wird von mehreren Faktoren beein"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 3833,
+    "w": 1040,
+    "h": 136,
+    "text": "Für das Laden zu Hause installieren viele Hausbesitzer eine Ladestation (Wallbox"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 3969,
+    "w": 1040,
+    "h": 136,
+    "text": "Vor allem auf langen Geschäftsreisen oder Fahrten besteht oft die Notwendigkeit,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 200,
+    "y": 4105,
+    "w": 1040,
+    "h": 110,
+    "text": "Das Laden am Arbeitsplatz ist ebenfalls eine Option, sofern der Arbeitgeber eine"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 4247,
+    "w": 1040,
+    "h": 585,
+    "text": "charging time household socket",
+    "file": "media_11bdf5d2a937303d964c039be2bfa62267"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > h2#halbleiter-für-elektrofahrzeuge",
+    "x": 200,
+    "y": 4896,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "halbleiter für elektrofahrzeuge"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 200,
+    "y": 4948,
+    "w": 435,
+    "h": 25,
+    "text": "Passende Halbleiter für alle Arten von Elektrofahrzeugen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 4990,
+    "w": 1040,
+    "h": 52,
+    "text": "Infineon ist Mitglied der CharIN-Initiative (Charging Interface Initiative e.V.)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 5058,
+    "w": 1040,
+    "h": 78,
+    "text": "Die Halbleiterlösungen von Infineon sind für sämtliche Arten von Elektrofahrzeug"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 5152,
+    "w": 1040,
+    "h": 130,
+    "text": "Integrierte Infineon-Komponenten bilden die zentralen Bausteine von Steuergeräte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p > strong",
+    "x": 224,
+    "y": 5370,
+    "w": 507,
+    "h": 25,
+    "text": "Entdecken Sie unser Portfolio für Elektromobilitätsanwendungen:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5412,
+    "w": 237,
+    "h": 25,
+    "text": "coolsic™ automotive qualified",
+    "href": "/technology/silicon-carbide-sic"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5454,
+    "w": 151,
+    "h": 25,
+    "text": "hybridpack™ drive",
+    "href": "/products/power/igbt/automotive-qualified-igbts/coolsic-mosfet-modules/hybridpack-drive-dc6"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5496,
+    "w": 59,
+    "h": 25,
+    "text": "easy 1b",
+    "href": "/product-information/power/igbt/igbt-modules/easy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5538,
+    "w": 232,
+    "h": 25,
+    "text": "mosfets for 48 v mild hybrids",
+    "href": "/products/power/mosfet/automotive-mosfet"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5580,
+    "w": 124,
+    "h": 25,
+    "text": "optireg™ pmic",
+    "href": "/products/power/power-supply-ics/optireg-pmic"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5622,
+    "w": 100,
+    "h": 25,
+    "text": "eicedriver™",
+    "href": "/products/power/gate-driver-ics"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5664,
+    "w": 59,
+    "h": 25,
+    "text": "aurix™",
+    "href": "/products/microcontroller/32-bit-tricore"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 240,
+    "y": 5706,
+    "w": 69,
+    "h": 25,
+    "text": "xensiv™",
+    "href": "/products/sensor/current-sensors"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#weitere-geschichten",
+    "x": 96,
+    "y": 5852,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 5948,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_1897e15936a2530fee9ee06fa4e3f14b47"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 6164,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 6232,
+    "w": 323,
+    "h": 56,
+    "text": "Innovative Schnellladelösungen für die Elektromobilität"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 128,
+    "y": 6310,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/fast-charging-solutions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 507,
+    "y": 5948,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_1895aa7636416667bad92a555b75db8617"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 531,
+    "y": 6164,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 531,
+    "y": 6232,
+    "w": 323,
+    "h": 56,
+    "text": "Bidirektionales Laden für eine effiziente Energienutzung"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 535,
+    "y": 6310,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/bi-directional-charging"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#weiterführende-inhalte",
+    "x": 96,
+    "y": 6414,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weiterführende inhalte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 6510,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "media_13ced64a73a8cdb14df42199ff15aa0ff2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 6726,
+    "w": 323,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 6794,
+    "w": 323,
+    "h": 28,
+    "text": "On-board battery charger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 128,
+    "y": 6872,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/automotive/electric-drivetrain/onboard-charging-obc"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 507,
+    "y": 6510,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "media_14b8b011f09632c9ab3072543b1f0f97b4"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 531,
+    "y": 6726,
+    "w": 323,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 531,
+    "y": 6794,
+    "w": 323,
+    "h": 28,
+    "text": "EV charging"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 535,
+    "y": 6872,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/industrial/ev-charging"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#abonnieren-sie-die-marketingkommunikation",
+    "x": 203,
+    "y": 7072,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 732,
+    "y": 7072,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 732,
+    "y": 7156,
+    "w": 138,
+    "h": 50,
+    "text": "abonnieren",
+    "href": "/de/our-stories/charging-infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 96,
+    "y": 7405,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 96,
+    "y": 7366,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 367,
+    "y": 7366,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 7422,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 7464,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 7506,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 7548,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 7590,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 619,
+    "y": 7366,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7422,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7464,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7506,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7548,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7590,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7632,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 926,
+    "y": 7366,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 7422,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 7464,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 7506,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 1193,
+    "y": 7366,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 7422,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 7464,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 7506,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 7548,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 7770,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 272,
+    "y": 7770,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 380,
+    "y": 7770,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 7770,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 647,
+    "y": 7775,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 7774,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1208,
+    "y": 7774,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1248,
+    "y": 7774,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1288,
+    "y": 7771,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 1288,
+    "y": 7771,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1328,
+    "y": 7774,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 103,
+    "controls": 62,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "die zukunft des ladens: wegbereiter für nachhaltige mobilität",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 19,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 32,
+    "textHidden": 0,
+    "image": 7,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"nachhaltige mobilität vorantreiben\" (y 1125) has no origin heading",
+   "text": "nachhaltige mobilität vorantreiben"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"ausbau des ladenetzwerks\" (y 1423) has no origin heading",
+   "text": "ausbau des ladenetzwerks"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"reibungsloses laden an bord und außerhalb des fahrzeugs\" (y 2600) has no origin heading",
+   "text": "reibungsloses laden an bord und außerhalb des fahrzeugs"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wo fahrer ihre fahrzeuge laden\" (y 3665) has no origin heading",
+   "text": "wo fahrer ihre fahrzeuge laden"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"halbleiter für elektrofahrzeuge\" (y 4896) has no origin heading",
+   "text": "halbleiter für elektrofahrzeuge"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"weitere geschichten\" (y 5852) has no origin heading",
+   "text": "weitere geschichten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"weiterführende inhalte\" (y 6414) has no origin heading",
+   "text": "weiterführende inhalte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"abonnieren sie die marketingkommunikation!\" (y 7072) has no origin heading",
+   "text": "abonnieren sie die marketingkommunikation!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"nachhaltige mobilität vorantreiben\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "nachhaltige mobilität vorantreiben"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"ausbau des ladenetzwerks\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "ausbau des ladenetzwerks"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"reibungsloses laden an bord und außerhalb des fahrzeugs\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "reibungsloses laden an bord und außerhalb des fahrzeugs"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"wo fahrer ihre fahrzeuge laden\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "wo fahrer ihre fahrzeuge laden"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"halbleiter für elektrofahrzeuge\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "halbleiter für elektrofahrzeuge"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"erfahren sie mehr über on-board-batterieladegeräte für (h)evs.\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "erfahren sie mehr über on-board-batterieladegeräte für (h)evs."
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"coolsic™ automotive qualified\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "coolsic™ automotive qualified"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"hybridpack™ drive\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "hybridpack™ drive"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"easy 1b\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "easy 1b"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mosfets for 48 v mild hybrids\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mosfets for 48 v mild hybrids"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"optireg™ pmic\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "optireg™ pmic"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"eicedriver™\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "eicedriver™"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"aurix™\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "aurix™"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"xensiv™\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "xensiv™"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"mehr entdecken\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 2,
+   "text": "mehr entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"mehr erfahren\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 2,
+   "text": "mehr erfahren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"abonnieren\" served in band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "abonnieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\": 3 origin → 32 served visible",
+   "band": 1,
+   "origin": 3,
+   "eds": 32,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"die zukunft des ladens: wegbereiter für nachhaltige mobilität\": 0 origin → 7 served visible",
+   "band": 1,
+   "origin": 0,
+   "eds": 7,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 8,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 19,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 27,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 166,
+    "y": 23,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 23,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 23,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 23,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 23,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 23,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 86,
+    "w": 358,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 736,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 535,
+    "w": 392,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 612,
+    "w": 918,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 636,
+    "w": 937,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 660,
+    "w": 762,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 703,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 743,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 743,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 252,
+    "y": 877,
+    "w": 232,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 911,
+    "w": 180,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 945,
+    "w": 396,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 979,
+    "w": 209,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 1013,
+    "w": 205,
+    "h": 22
+   },
+   {
+    "x": 224,
+    "y": 844,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1123,
+    "w": 411,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1177,
+    "w": 746,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1219,
+    "w": 1031,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1245,
+    "w": 736,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1287,
+    "w": 1026,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1313,
+    "w": 1032,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1339,
+    "w": 971,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1365,
+    "w": 608,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1421,
+    "w": 318,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1475,
+    "w": 400,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1517,
+    "w": 1023,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1543,
+    "w": 1030,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1569,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2244,
+    "w": 1010,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2270,
+    "w": 1006,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2296,
+    "w": 1015,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2322,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2364,
+    "w": 1023,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2390,
+    "w": 987,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2416,
+    "w": 84,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2458,
+    "w": 975,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2484,
+    "w": 944,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2510,
+    "w": 913,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2598,
+    "w": 695,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2652,
+    "w": 1037,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2678,
+    "w": 1036,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2704,
+    "w": 1037,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2730,
+    "w": 576,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3405,
+    "w": 1009,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3431,
+    "w": 989,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3457,
+    "w": 717,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3483,
+    "w": 992,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3509,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3535,
+    "w": 948,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3577,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3665,
+    "w": 369,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 3719,
+    "w": 984,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3745,
+    "w": 670,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 3805,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3831,
+    "w": 976,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3857,
+    "w": 887,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3883,
+    "w": 990,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3909,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3967,
+    "w": 205,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3993,
+    "w": 988,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4019,
+    "w": 997,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4045,
+    "w": 772,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4103,
+    "w": 153,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4129,
+    "w": 989,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4155,
+    "w": 188,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 4890,
+    "w": 362,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 4944,
+    "w": 435,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4986,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5012,
+    "w": 924,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5054,
+    "w": 963,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5080,
+    "w": 1023,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5106,
+    "w": 481,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5148,
+    "w": 1025,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5174,
+    "w": 977,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5200,
+    "w": 975,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5226,
+    "w": 1031,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5252,
+    "w": 798,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 5334,
+    "w": 507,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5376,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5418,
+    "w": 154,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5460,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5502,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5544,
+    "w": 124,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5586,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5628,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5670,
+    "w": 69,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 5814,
+    "w": 309,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 6128,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6196,
+    "w": 296,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6224,
+    "w": 167,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6275,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 6128,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6196,
+    "w": 251,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6224,
+    "w": 216,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6275,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 6392,
+    "w": 351,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 6706,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6774,
+    "w": 213,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6853,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 6706,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6774,
+    "w": 99,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6853,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 7050,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 7098,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 7051,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 7081,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 772,
+    "y": 7149,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 7345,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 7400,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7442,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7484,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7526,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7568,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7345,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 7400,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7442,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7484,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7526,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7568,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7610,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 7345,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 7400,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 7442,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 7484,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7345,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 7400,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7442,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7484,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7526,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 7753,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 7753,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 7753,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 7753,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 7753,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 7753,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 7753,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 22,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 85,
+    "w": 358,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 736,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 535,
+    "w": 392,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 612,
+    "w": 918,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 636,
+    "w": 937,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 660,
+    "w": 762,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 703,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 743,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 743,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 224,
+    "y": 844,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 877,
+    "w": 232,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 911,
+    "w": 180,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 945,
+    "w": 396,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 979,
+    "w": 209,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 1013,
+    "w": 205,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1123,
+    "w": 411,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1177,
+    "w": 746,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1219,
+    "w": 1031,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1245,
+    "w": 736,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1287,
+    "w": 1026,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1313,
+    "w": 1032,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1339,
+    "w": 971,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1365,
+    "w": 608,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1421,
+    "w": 318,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1475,
+    "w": 400,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1517,
+    "w": 1023,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1543,
+    "w": 1030,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1569,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2244,
+    "w": 1010,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2270,
+    "w": 1006,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2296,
+    "w": 1015,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2322,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2364,
+    "w": 1023,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2390,
+    "w": 987,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2416,
+    "w": 84,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2458,
+    "w": 975,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2484,
+    "w": 944,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2510,
+    "w": 913,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2598,
+    "w": 695,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2652,
+    "w": 1037,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2678,
+    "w": 1036,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2704,
+    "w": 1037,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2730,
+    "w": 576,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3405,
+    "w": 1009,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3431,
+    "w": 989,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3457,
+    "w": 717,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3483,
+    "w": 992,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3509,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3535,
+    "w": 948,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3578,
+    "w": 436,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 3663,
+    "w": 369,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 3717,
+    "w": 984,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3743,
+    "w": 670,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 3835,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 347,
+    "y": 3835,
+    "w": 877,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3861,
+    "w": 987,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3887,
+    "w": 990,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3913,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3971,
+    "w": 205,
+    "h": 22
+   },
+   {
+    "x": 445,
+    "y": 3971,
+    "w": 760,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 3997,
+    "w": 995,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4023,
+    "w": 853,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4049,
+    "w": 145,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4107,
+    "w": 153,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4133,
+    "w": 989,
+    "h": 22
+   },
+   {
+    "x": 240,
+    "y": 4159,
+    "w": 188,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 4894,
+    "w": 362,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 4948,
+    "w": 435,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4990,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5016,
+    "w": 924,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5058,
+    "w": 963,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5084,
+    "w": 1023,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5110,
+    "w": 481,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5152,
+    "w": 1025,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5178,
+    "w": 977,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5204,
+    "w": 975,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5230,
+    "w": 1031,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5256,
+    "w": 798,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 5370,
+    "w": 507,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5412,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5454,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5496,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5538,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5580,
+    "w": 124,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5622,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5664,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 240,
+    "y": 5706,
+    "w": 69,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 5850,
+    "w": 309,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 6164,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6232,
+    "w": 296,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6260,
+    "w": 167,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 6311,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 6164,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6232,
+    "w": 251,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6260,
+    "w": 216,
+    "h": 28
+   },
+   {
+    "x": 535,
+    "y": 6311,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 6412,
+    "w": 351,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 6726,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6794,
+    "w": 213,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 6873,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 6726,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6794,
+    "w": 99,
+    "h": 28
+   },
+   {
+    "x": 535,
+    "y": 6873,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 7070,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 7118,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 7071,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 7101,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 773,
+    "y": 7170,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 7367,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 7422,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7464,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7506,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7548,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7590,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7367,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 7422,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7464,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7506,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7548,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7590,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7632,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 7367,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 7422,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 7464,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 7506,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7367,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 7422,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7464,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7506,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7548,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 7775,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 7775,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 7775,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 7775,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 7775,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 7775,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 7775,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

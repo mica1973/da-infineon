@@ -1,0 +1,2953 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/optimize",
+    "writtenAt": "2026-11-18T21:01:04.849Z",
+    "stardustVersion": "0.0.0"
+  },
+  "runs": [
+    {
+      "id": "run-1",
+      "at": "2026-11-18T20:54:18.097Z",
+      "scopePages": [
+        "de",
+        "de-about",
+        "de-careers",
+        "de-config",
+        "de-contact-us",
+        "de-event-techfor",
+        "de-glossary",
+        "de-logout",
+        "de-opn",
+        "de-our-stories-artificial-intelligence-in-everyday-life",
+        "de-our-stories-artificial-intelligence-semiconductors",
+        "de-our-stories-bi-directional-charging",
+        "de-our-stories-charging-infrastructure",
+        "de-our-stories-ecosystem-summit",
+        "de-our-stories-efficient-energy-storage-systems-energy-transition",
+        "de-our-stories-electric-cordless-power-tools",
+        "de-our-stories-electromobility-greener-future",
+        "de-our-stories-emission-saving-potential-freight-transportation",
+        "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors",
+        "de-our-stories-enable-provide-ai-customer-innovation",
+        "de-our-stories-enabling-ethernet",
+        "de-our-stories-essential-role-cybersecurity",
+        "de-our-stories-european-cyber-resilience-act",
+        "de-our-stories-fast-charging-solutions",
+        "de-our-stories-green-buildings-rise",
+        "de-our-stories-green-chargers-adapters",
+        "de-our-stories-green-hydrogen-fuel-future",
+        "de-our-stories-green-iot",
+        "de-our-stories-green-potential-data-centers",
+        "de-our-stories-how-microcontroller-enable-risc-v",
+        "de-our-stories-microelectronics-connecting-real-digital-world",
+        "de-our-stories-micromobility",
+        "de-our-stories-micromobility-battery-swapping",
+        "de-our-stories-mobility-tech-talk-software-defined-vehicles",
+        "de-our-stories-power-infrastructure-renewables",
+        "de-our-stories-public-transportation",
+        "de-our-stories-rc1-for-sdv-sdx-and-physical-ai",
+        "de-our-stories-semiconductors-bring-heat-pumps-life",
+        "de-our-stories-semiconductors-driving-decarbonization",
+        "de-our-stories-semiconductors-key-technology-software-defined-vehicles",
+        "de-our-stories-semiconductors-key-technology-sst-sscb",
+        "de-our-stories-sensors-energy-efficient-smart-buildings",
+        "de-our-stories-shaping-the-future-of-mobility",
+        "de-our-stories-smart-factory-semiconductor-solutions",
+        "de-our-stories-smart-factory-technologies",
+        "de-our-stories-smart-health-appliances",
+        "de-our-stories-smart-home-building-technologies",
+        "de-our-stories-smart-things-consumer-devices",
+        "de-our-stories-software-defined-vehicle-agm",
+        "de-our-stories-software-defined-vehicles",
+        "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee",
+        "de-our-stories-we-power-ai",
+        "de-package-overview",
+        "de-partners",
+        "de-support",
+        "de-support-faqs",
+        "de-support-service-center",
+        "de-thank-you",
+        "de-training",
+        "index"
+      ],
+      "layersRun": [
+        "accessibility",
+        "seo",
+        "ai-search",
+        "cross-page"
+      ],
+      "trigger": "deliver",
+      "source": "https://main--938eead7--aemcoder.aem.live"
+    },
+    {
+      "id": "run-2",
+      "at": "2026-11-18T21:01:04.849Z",
+      "scopePages": [
+        "de",
+        "de-about",
+        "de-careers",
+        "de-config",
+        "de-contact-us",
+        "de-event-techfor",
+        "de-glossary",
+        "de-logout",
+        "de-opn",
+        "de-our-stories-artificial-intelligence-in-everyday-life",
+        "de-our-stories-artificial-intelligence-semiconductors",
+        "de-our-stories-bi-directional-charging",
+        "de-our-stories-charging-infrastructure",
+        "de-our-stories-ecosystem-summit",
+        "de-our-stories-efficient-energy-storage-systems-energy-transition",
+        "de-our-stories-electric-cordless-power-tools",
+        "de-our-stories-electromobility-greener-future",
+        "de-our-stories-emission-saving-potential-freight-transportation",
+        "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors",
+        "de-our-stories-enable-provide-ai-customer-innovation",
+        "de-our-stories-enabling-ethernet",
+        "de-our-stories-essential-role-cybersecurity",
+        "de-our-stories-european-cyber-resilience-act",
+        "de-our-stories-fast-charging-solutions",
+        "de-our-stories-green-buildings-rise",
+        "de-our-stories-green-chargers-adapters",
+        "de-our-stories-green-hydrogen-fuel-future",
+        "de-our-stories-green-iot",
+        "de-our-stories-green-potential-data-centers",
+        "de-our-stories-how-microcontroller-enable-risc-v",
+        "de-our-stories-microelectronics-connecting-real-digital-world",
+        "de-our-stories-micromobility",
+        "de-our-stories-micromobility-battery-swapping",
+        "de-our-stories-mobility-tech-talk-software-defined-vehicles",
+        "de-our-stories-power-infrastructure-renewables",
+        "de-our-stories-public-transportation",
+        "de-our-stories-rc1-for-sdv-sdx-and-physical-ai",
+        "de-our-stories-semiconductors-bring-heat-pumps-life",
+        "de-our-stories-semiconductors-driving-decarbonization",
+        "de-our-stories-semiconductors-key-technology-software-defined-vehicles",
+        "de-our-stories-semiconductors-key-technology-sst-sscb",
+        "de-our-stories-sensors-energy-efficient-smart-buildings",
+        "de-our-stories-shaping-the-future-of-mobility",
+        "de-our-stories-smart-factory-semiconductor-solutions",
+        "de-our-stories-smart-factory-technologies",
+        "de-our-stories-smart-health-appliances",
+        "de-our-stories-smart-home-building-technologies",
+        "de-our-stories-smart-things-consumer-devices",
+        "de-our-stories-software-defined-vehicle-agm",
+        "de-our-stories-software-defined-vehicles",
+        "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee",
+        "de-our-stories-we-power-ai",
+        "de-package-overview",
+        "de-partners",
+        "de-support",
+        "de-support-faqs",
+        "de-support-service-center",
+        "de-thank-you",
+        "de-training",
+        "index"
+      ],
+      "layersRun": [
+        "accessibility",
+        "seo",
+        "ai-search",
+        "cross-page"
+      ],
+      "trigger": "deliver",
+      "source": "https://main--938eead7--aemcoder.aem.live"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f-07a6d7809c",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-electric-cordless-power-tools"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-09a1c8386a",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-training"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-0d890c7849",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-green-hydrogen-fuel-future"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-0e8be25b0c",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-enable-provide-ai-customer-innovation"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-0f82cb75f1",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-public-transportation"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-100abd4bb2",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-smart-things-consumer-devices"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-1a921a3a5b",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-software-defined-vehicles"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-1bbc996800",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-software-defined-vehicle-agm"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-1f250a3c02",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-smart-factory-semiconductor-solutions"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-2a61ef1552",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-artificial-intelligence-in-everyday-life"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-33c99ce7dd",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-semiconductors-key-technology-software-defined-vehicles"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-4026fe3a30",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-micromobility"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-41ad9f4adb",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-support-service-center"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-429392db38",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-charging-infrastructure"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-432e785a8d",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-micromobility-battery-swapping"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-463e25a14a",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-careers"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-46f10f6052",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-artificial-intelligence-semiconductors"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-4a24944d9b",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-semiconductors-driving-decarbonization"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-4ba3bcf5df",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-how-microcontroller-enable-risc-v"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-4d3eeaffcb",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-opn"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-4f42ec98cc",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-mobility-tech-talk-software-defined-vehicles"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-52b229a932",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-thank-you"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-531e6a5c1d",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-shaping-the-future-of-mobility"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-54be5a397f",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "index"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-54ea1a6de8",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-60823eb4ba",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-european-cyber-resilience-act"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-610947e68b",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-event-techfor"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-642b87decd",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-about"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-6b8e758ff7",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-6d70a3655a",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-contact-us"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-6df21c2ef8",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-logout"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-74e8001056",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-green-potential-data-centers"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-7c5340c176",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-smart-home-building-technologies"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-839f578319",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-smart-health-appliances"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-8498b7241c",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-87a0e60363",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-rc1-for-sdv-sdx-and-physical-ai"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-8cadf3ccaf",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-power-infrastructure-renewables"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-8cd3c8424b",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-semiconductors-key-technology-sst-sscb"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-901a75cf05",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-bi-directional-charging"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-95c9fbfe2b",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-ecosystem-summit"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-998e10f9e4",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-green-iot"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-a2031421dd",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-config"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-aa51313619",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-support"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-aa973eb830",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-glossary"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-b89bc0f325",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-microelectronics-connecting-real-digital-world"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-bf899edfe7",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-green-buildings-rise"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-c3a961297d",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-essential-role-cybersecurity"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-c58cb5c8bf",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-sensors-energy-efficient-smart-buildings"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-c7831995fc",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-electromobility-greener-future"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-ce1a660017",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-fast-charging-solutions"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-cfeff426b0",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-green-chargers-adapters"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-d2e9e06daf",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-we-power-ai"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-d64974cbc4",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-semiconductors-bring-heat-pumps-life"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-db02c88f82",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-package-overview"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-df1202e39a",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-emission-saving-potential-freight-transportation"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-e458702017",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-efficient-energy-storage-systems-energy-transition"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-edd0886191",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-support-faqs"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-f5c7e2d417",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-smart-factory-technologies"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-f77c1046e3",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-partners"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-f7ab7f9a60",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-enabling-ethernet"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-18T21:01:04.849Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-124f68fd57",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-charging-infrastructure"
+        ]
+      },
+      "evidence": "source parity: <title> is 75 chars (\"Die Zukunft des Ladens: Wegbereiter für \") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-21d2db86f7",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-we-power-ai"
+        ]
+      },
+      "evidence": "source parity: <title> is 73 chars (\"Wir versorgen KI mit Strom: vom Stromnet\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-3897cb1472",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-semiconductors-driving-decarbonization"
+        ]
+      },
+      "evidence": "source parity: <title> is 71 chars (\"Wie Halbeiter die Dekarbonisierung voran\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-417cfc22fc",
+      "source": "rollout:baseline",
+      "layer": "cross-page",
+      "check": "duplicate-description",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-support",
+          "de-support-faqs"
+        ]
+      },
+      "evidence": "source parity: 2 pages share a meta description — the source shares this description across the same pages",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-4e5ee95c85",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-semiconductors-key-technology-sst-sscb"
+        ]
+      },
+      "evidence": "source parity: <title> is 72 chars (\"Halbleiter prägen das Zeitalter der Elek\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-504a428546",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-green-iot"
+        ]
+      },
+      "evidence": "source parity: <title> is 77 chars (\"Wir bringen das IoT zum Laufen - für ein\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-50ad35f09e",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-mobility-tech-talk-software-defined-vehicles"
+        ]
+      },
+      "evidence": "source parity: <title> is 77 chars (\"Mobility Tech Talk – Das software defini\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-589a1a96cf",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-emission-saving-potential-freight-transportation"
+        ]
+      },
+      "evidence": "source parity: <title> is 71 chars (\"Grüner Güterverkehr: Emissionsreduzierun\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-5c2f44efe9",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-essential-role-cybersecurity"
+        ]
+      },
+      "evidence": "source parity: <title> is 74 chars (\"Cybersicherheit – Schutz für die digital\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-5e5bd7152e",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-fast-charging-solutions"
+        ]
+      },
+      "evidence": "source parity: <title> is 79 chars (\"Innovative Schnellladelösungen für die E\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-66636561d1",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-smart-factory-technologies"
+        ]
+      },
+      "evidence": "source parity: <title> is 71 chars (\"Wie kann eine Fabrik intelligent, digita\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-692c1381af",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-sensors-energy-efficient-smart-buildings"
+        ]
+      },
+      "evidence": "source parity: <title> is 76 chars (\"Sensoren für energieeffiziente, intellig\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-7654d6174a",
+      "source": "rollout:baseline",
+      "layer": "cross-page",
+      "check": "duplicate-description",
+      "severity": "P3",
+      "fixability": "design-pass",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de",
+          "index"
+        ]
+      },
+      "evidence": "2 pages share a meta description",
+      "recommendedMove": "Write per-page descriptions upstream.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-78d9664e90",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-rc1-for-sdv-sdx-and-physical-ai"
+        ]
+      },
+      "evidence": "source parity: <title> is 73 chars (\"AURIX™ RC1: Echtzeit-Computing und -Steu\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-88bd703dd4",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-micromobility-battery-swapping"
+        ]
+      },
+      "evidence": "source parity: <title> is 79 chars (\"Batteriewechsel: Die Zukunft der urbanen\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-8fb9be5c42",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-software-defined-vehicle-agm"
+        ]
+      },
+      "evidence": "source parity: <title> is 76 chars (\"Wie Halbleiter das softwaredefinierte Fa\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-991c3686c9",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-smart-things-consumer-devices"
+        ]
+      },
+      "evidence": "source parity: <title> is 77 chars (\"Bequem, hilfreich und umweltfreundlich: \") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-99882a1b48",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-power-infrastructure-renewables"
+        ]
+      },
+      "evidence": "source parity: <title> is 77 chars (\"Wir unterstützen die Energieinfrastruktu\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-a2a92adc87",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-european-cyber-resilience-act"
+        ]
+      },
+      "evidence": "source parity: <title> is 73 chars (\"European Cyber Resilience Act: Mehr Vert\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-a567510d64",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-software-defined-vehicles"
+        ]
+      },
+      "evidence": "source parity: <title> is 78 chars (\"Das innovative Potenzial softwaredefinie\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-b4237e3aad",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-ecosystem-summit"
+        ]
+      },
+      "evidence": "source parity: <title> is 78 chars (\"Automotive Ecosystem Summit 2026 \"Mach d\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-bf4f49e529",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-efficient-energy-storage-systems-energy-transition"
+        ]
+      },
+      "evidence": "source parity: <title> is 74 chars (\"Effiziente Batterie-Energiespeichersyste\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-c61b801735",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-smart-home-building-technologies"
+        ]
+      },
+      "evidence": "source parity: <title> is 72 chars (\"Smart-Home- und Gebäudelösungen für eine\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-caf20bc9ff",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-smart-health-appliances"
+        ]
+      },
+      "evidence": "source parity: <title> is 77 chars (\"Die Zukunft von Gesundheit und Wohlbefin\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-ceb73c4090",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-enable-provide-ai-customer-innovation"
+        ]
+      },
+      "evidence": "source parity: <title> is 76 chars (\"Wir ermöglichen und bieten KI - für zuve\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-ced4f02a71",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-enabling-ethernet"
+        ]
+      },
+      "evidence": "source parity: <title> is 76 chars (\"Inside the Mind of Tomorrow’s Car - wie \") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-d62a649a19",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee"
+        ]
+      },
+      "evidence": "source parity: <title> is 75 chars (\"Wie aus einem Sonnenstrahl eine Tasse he\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-f9145a59ec",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "de-our-stories-microelectronics-connecting-real-digital-world"
+        ]
+      },
+      "evidence": "source parity: <title> is 79 chars (\"Mikroelektronik – verbindet die reale mi\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    }
+  ]
+}

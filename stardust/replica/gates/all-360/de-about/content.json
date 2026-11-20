@@ -1,0 +1,5198 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:27:50.005Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/about",
+  "at": "2026-11-18T23:27:27.476Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7392,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button#searchicon-items",
+    "x": 164,
+    "y": 14,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-0",
+    "x": 220,
+    "y": 15,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.usericon-item.d-block",
+    "x": 260,
+    "y": 17,
+    "w": 40,
+    "h": 25,
+    "text": "user profile"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "header > div.page-header.simple-header-component > h1.heading-03",
+    "x": 16,
+    "y": 85,
+    "w": 273,
+    "h": 30,
+    "level": 1,
+    "text": "über uns"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-header.simple-header-component > div > div.desc-content-sph",
+    "x": 16,
+    "y": 131,
+    "w": 273,
+    "h": 156,
+    "text": "Erfahren Sie mehr über unser Unternehmen und erhalten Sie relevante Informatione"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.dropdown-sph > div.dropbtn-sph.dropdown-toggle > span.dropdown-spn-text",
+    "x": 49,
+    "y": 328,
+    "w": 79,
+    "h": 16,
+    "text": "Springen zu"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-204335216f > h2#company",
+    "x": 16,
+    "y": 425,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "firma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-c0d75b0aed > p",
+    "x": 16,
+    "y": 477,
+    "w": 328,
+    "h": 156,
+    "text": "Als weltweit führender Halbleiterhersteller für Energiesysteme und IoT ermöglich"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.btn-col > div.selected-icon.gaparound > a.reusebtn.standard",
+    "x": 16,
+    "y": 657,
+    "w": 327,
+    "h": 48,
+    "text": "zur hauptseite",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 729,
+    "w": 125,
+    "h": 24,
+    "text": "führungsteam",
+    "href": "/de/about/company/leadership-team"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 769,
+    "w": 126,
+    "h": 24,
+    "text": "nachhaltigkeit",
+    "href": "/de/about/company/sustainability"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 809,
+    "w": 152,
+    "h": 24,
+    "text": "geschäftsbereiche",
+    "href": "/de/about/company/our-divisions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 849,
+    "w": 167,
+    "h": 24,
+    "text": "kontaktieren sie uns",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-212b6c3cd5 > h2#ir",
+    "x": 16,
+    "y": 1265,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "investorenbeziehungen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5ca503fdce > p",
+    "x": 16,
+    "y": 1317,
+    "w": 328,
+    "h": 52,
+    "text": "Das Investor-Relations-Team informiert Aktionäre, Analysten und Investoren."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.btn-col > div.selected-icon.gaparound > a.reusebtn.standard",
+    "x": 16,
+    "y": 1393,
+    "w": 327,
+    "h": 48,
+    "text": "zu den investor relations",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 1465,
+    "w": 162,
+    "h": 24,
+    "text": "hauptversammlung",
+    "href": "/de/about/investor/annual-general-meeting"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 1505,
+    "w": 123,
+    "h": 24,
+    "text": "infineon-aktie",
+    "href": "/de/about/investor/infineon-share"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 1545,
+    "w": 109,
+    "h": 24,
+    "text": "nachrichten",
+    "href": "/de/about/investor/news"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 1585,
+    "w": 224,
+    "h": 24,
+    "text": "festverzinsliche wertpapiere",
+    "href": "/de/about/investor/fixed-income/rating"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 1625,
+    "w": 95,
+    "h": 24,
+    "text": "ereignisse",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 1665,
+    "w": 183,
+    "h": 24,
+    "text": "unternehmensführung",
+    "href": "/de/about/investor/corporate-governance"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 1705,
+    "w": 205,
+    "h": 24,
+    "text": "berichte & präsentationen",
+    "href": "/de/about/investor/reports-presentations/financial-results"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 1745,
+    "w": 291,
+    "h": 24,
+    "text": "ansprechpartner für investor relations",
+    "href": "/about/investor/contacts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-7b52891a9b > h2#press",
+    "x": 16,
+    "y": 2161,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "presse"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-86636bf11a > p",
+    "x": 16,
+    "y": 2213,
+    "w": 328,
+    "h": 78,
+    "text": "Das Team Media Relations ist der Ansprechpartner für Journalistinnen und Journal"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.btn-col > div.selected-icon.gaparound > a.reusebtn.standard",
+    "x": 16,
+    "y": 2315,
+    "w": 327,
+    "h": 48,
+    "text": "zur presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 2387,
+    "w": 169,
+    "h": 24,
+    "text": "presseinformationen",
+    "href": "/de/about/press/press-releases"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 2427,
+    "w": 106,
+    "h": 24,
+    "text": "medienpool",
+    "href": "/de/about/press/media-pool"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 2467,
+    "w": 145,
+    "h": 24,
+    "text": "technology news",
+    "href": "/de/about/press/technology-news"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 2507,
+    "w": 95,
+    "h": 24,
+    "text": "ereignisse",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 2547,
+    "w": 127,
+    "h": 24,
+    "text": "pressemappen",
+    "href": "/de/about/press/press-kits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 2587,
+    "w": 131,
+    "h": 24,
+    "text": "pressekontakte",
+    "href": "/de/about/press/contacts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-f0fa71d7ee > h2#careers",
+    "x": 16,
+    "y": 3003,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "karrieren"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-3b59533406 > p",
+    "x": 16,
+    "y": 3055,
+    "w": 328,
+    "h": 208,
+    "text": "Möchten Sie Teil von Infineon werden? Entdecken Sie unsere vielfältigen Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.btn-col > div.selected-icon.gaparound > a.reusebtn.standard",
+    "x": 16,
+    "y": 3287,
+    "w": 327,
+    "h": 48,
+    "text": "zu den karrieren",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 3359,
+    "w": 91,
+    "h": 24,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 3399,
+    "w": 122,
+    "h": 24,
+    "text": "mannschaften",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 3439,
+    "w": 56,
+    "h": 24,
+    "text": "orte",
+    "href": "/de/careers/our-locations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 3479,
+    "w": 171,
+    "h": 24,
+    "text": "vielfalt und inklusion",
+    "href": "/de/careers/diversity-inclusion"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 3519,
+    "w": 199,
+    "h": 24,
+    "text": "studenten & absolventen",
+    "href": "/de/careers/students-graduates"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 3559,
+    "w": 182,
+    "h": 24,
+    "text": "wie bewerbe ich mich?",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 3599,
+    "w": 95,
+    "h": 24,
+    "text": "ereignisse",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-408d356d0d > h2#stories",
+    "x": 16,
+    "y": 4015,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "unsere geschichten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-d657386001 > p",
+    "x": 16,
+    "y": 4067,
+    "w": 328,
+    "h": 234,
+    "text": "Energie, Mobilität und IoT: Tauchen Sie ein in unsere Erlebniswelt und erfahren "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.btn-col > div.selected-icon.gaparound > a.reusebtn.standard",
+    "x": 16,
+    "y": 4325,
+    "w": 327,
+    "h": 48,
+    "text": "zu unseren geschichten",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.event-container > div.container-title-left > h2.container-heading",
+    "x": 16,
+    "y": 4805,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "events"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.event-container > div.container-title-left > div.container-description",
+    "x": 16,
+    "y": 4865,
+    "w": 328,
+    "h": 52,
+    "text": "Vernetzen Sie sich mit Infineon auf unseren kommenden Veranstaltungen!"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-img.cursor-pointer > span > img",
+    "x": 20,
+    "y": 4933,
+    "w": 324,
+    "h": 198,
+    "text": "",
+    "file": "quiet-period-1.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.date-field > span.dateTime.timefield",
+    "x": 36,
+    "y": 5150,
+    "w": 146,
+    "h": 20,
+    "text": "Oct 11th - Nov 10th, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.date-field > span.dateTime",
+    "x": 199,
+    "y": 5150,
+    "w": 53,
+    "h": 20,
+    "text": "8: 00 CET"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > p.card-title.cursor-pointer > span",
+    "x": 36,
+    "y": 5172,
+    "w": 291,
+    "h": 79,
+    "text": "Quiet Period; Date preliminary – 11 Oct 2026 - 10 Nov 2026, until announcement o"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.event-data > div.location-data > span.eventsType",
+    "x": 56,
+    "y": 5263,
+    "w": 39,
+    "h": 20,
+    "text": "Online"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.event-data > div.location-data > span.eventsType",
+    "x": 112,
+    "y": 5263,
+    "w": 62,
+    "h": 20,
+    "text": "Investoren"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "span.links-body.selected-icon > span.calender > span.calenderMargin",
+    "x": 60,
+    "y": 5295,
+    "w": 176,
+    "h": 22,
+    "text": "Zum Kalender hinzufügen"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-img.cursor-pointer > span > img",
+    "x": 20,
+    "y": 5366,
+    "w": 324,
+    "h": 198,
+    "text": "",
+    "file": "university-students-visual-forty-two.jpg"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.date-field > span.dateTime.timefield",
+    "x": 36,
+    "y": 5583,
+    "w": 109,
+    "h": 20,
+    "text": "Nov 3rd - 5th, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.date-field > span.dateTime",
+    "x": 162,
+    "y": 5583,
+    "w": 53,
+    "h": 20,
+    "text": "9: 30 CET"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > p.card-title.cursor-pointer > span",
+    "x": 36,
+    "y": 5605,
+    "w": 231,
+    "h": 25,
+    "text": "Bonding at RWTH Aachen 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.event-data > div.location-data > span.location",
+    "x": 56,
+    "y": 5642,
+    "w": 124,
+    "h": 20,
+    "text": "Aachen, Deutschland"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.event-data > div.location-data > span.eventsType",
+    "x": 197,
+    "y": 5642,
+    "w": 74,
+    "h": 20,
+    "text": "Face-to-Face"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.event-data > div.location-data > span.eventsType",
+    "x": 36,
+    "y": 5666,
+    "w": 72,
+    "h": 20,
+    "text": "Studierende"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > span.links-body.selected-icon > a.register.d-inline-flex",
+    "x": 36,
+    "y": 5697,
+    "w": 152,
+    "h": 24,
+    "text": "go to partner page",
+    "href": "/aachen/messe/die-messe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "span.links-body.selected-icon > span.calender > span.calenderMargin",
+    "x": 36,
+    "y": 5698,
+    "w": 240,
+    "h": 46,
+    "text": "Zum Kalender hinzufügen"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-img.cursor-pointer > span > img",
+    "x": 20,
+    "y": 5793,
+    "w": 324,
+    "h": 198,
+    "text": "",
+    "file": "university-students-visual-twenty-three."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.date-field > span.dateTime.timefield",
+    "x": 36,
+    "y": 6010,
+    "w": 79,
+    "h": 20,
+    "text": "Nov 4th, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.date-field > span.dateTime",
+    "x": 132,
+    "y": 6010,
+    "w": 53,
+    "h": 20,
+    "text": "9: 00 CET"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > p.card-title.cursor-pointer > span",
+    "x": 36,
+    "y": 6032,
+    "w": 102,
+    "h": 25,
+    "text": "Connect 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.event-data > div.location-data > span.location",
+    "x": 56,
+    "y": 6069,
+    "w": 128,
+    "h": 20,
+    "text": "Klagenfurt, Österreich"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.event-data > div.location-data > span.eventsType",
+    "x": 201,
+    "y": 6069,
+    "w": 74,
+    "h": 20,
+    "text": "Face-to-Face"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.event-data > div.location-data > span.eventsType",
+    "x": 36,
+    "y": 6093,
+    "w": 262,
+    "h": 20,
+    "text": "Schüler*innen, Berufserfahrene, Studierende"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > span.links-body.selected-icon > a.register.d-inline-flex",
+    "x": 36,
+    "y": 6124,
+    "w": 152,
+    "h": 24,
+    "text": "go to partner page",
+    "href": "/alumni-karriere/connect/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "span.links-body.selected-icon > span.calender > span.calenderMargin",
+    "x": 36,
+    "y": 6125,
+    "w": 240,
+    "h": 46,
+    "text": "Zum Kalender hinzufügen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx_events_card > div.show-more-button > a#showmorebutton",
+    "x": 16,
+    "y": 6244,
+    "w": 328,
+    "h": 40,
+    "text": "alle veranstaltungen anzeigen",
+    "href": "/de/about/events.html"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.show-more-button > a#showmorebutton > button.more-btn",
+    "x": 16,
+    "y": 6244,
+    "w": 328,
+    "h": 40,
+    "text": "alle veranstaltungen anzeigen"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 16,
+    "y": 6356,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 6450,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6490,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6532,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6574,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6616,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6658,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 196,
+    "y": 6450,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6490,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6532,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6574,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6642,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6684,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6726,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 6792,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6832,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6874,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6916,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 32,
+    "y": 6982,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7022,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7064,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7106,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7148,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 7214,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 192,
+    "y": 7214,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 7244,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 21,
+    "y": 7279,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 16,
+    "y": 7332,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 56,
+    "y": 7332,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 96,
+    "y": 7332,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 136,
+    "y": 7329,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 136,
+    "y": 7334,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 176,
+    "y": 7332,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 107,
+    "controls": 65,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/about",
+  "at": "2026-11-18T23:27:49.872Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7399,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "label": "search",
+    "value": "search",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-header-comp > div.page-header-head > h1#über-uns",
+    "x": 16,
+    "y": 85,
+    "w": 273,
+    "h": 30,
+    "level": 1,
+    "text": "über uns"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-header-comp > div.page-header-head > p",
+    "x": 16,
+    "y": 131,
+    "w": 273,
+    "h": 156,
+    "text": "Erfahren Sie mehr über unser Unternehmen und erhalten Sie relevante Informatione"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-header-comp > div.page-header-jump > div.page-header-jump-bar",
+    "x": 32,
+    "y": 319,
+    "w": 241,
+    "h": 34,
+    "text": "springen zu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-header-comp > div.page-header-jump > div.page-header-jump-bar",
+    "x": 32,
+    "y": 319,
+    "w": 241,
+    "h": 34,
+    "label": "trigger",
+    "value": "springen zu",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-text > h2#company",
+    "x": 16,
+    "y": 425,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "firma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-text > p",
+    "x": 16,
+    "y": 477,
+    "w": 328,
+    "h": 156,
+    "text": "Als weltweit führender Halbleiterhersteller für Energiesysteme und IoT ermöglich"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-text > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 657,
+    "w": 328,
+    "h": 48,
+    "text": "zur hauptseite",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 729,
+    "w": 122,
+    "h": 24,
+    "text": "führungsteam",
+    "href": "/de/about/company/leadership-team"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 769,
+    "w": 123,
+    "h": 24,
+    "text": "nachhaltigkeit",
+    "href": "/de/about/company/sustainability"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 809,
+    "w": 148,
+    "h": 24,
+    "text": "geschäftsbereiche",
+    "href": "/de/about/company/our-divisions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 849,
+    "w": 164,
+    "h": 24,
+    "text": "kontaktieren sie uns",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-text > h2#ir",
+    "x": 16,
+    "y": 1265,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "investorenbeziehungen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-text > p",
+    "x": 16,
+    "y": 1317,
+    "w": 328,
+    "h": 52,
+    "text": "Das Investor-Relations-Team informiert Aktionäre, Analysten und Investoren."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-text > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 1393,
+    "w": 328,
+    "h": 48,
+    "text": "zu den investor relations",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1465,
+    "w": 159,
+    "h": 24,
+    "text": "hauptversammlung",
+    "href": "/de/about/investor/annual-general-meeting"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1505,
+    "w": 120,
+    "h": 24,
+    "text": "infineon-aktie",
+    "href": "/de/about/investor/infineon-share"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1545,
+    "w": 106,
+    "h": 24,
+    "text": "nachrichten",
+    "href": "/de/about/investor/news"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1585,
+    "w": 220,
+    "h": 24,
+    "text": "festverzinsliche wertpapiere",
+    "href": "/de/about/investor/fixed-income/rating"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1625,
+    "w": 92,
+    "h": 24,
+    "text": "ereignisse",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1665,
+    "w": 180,
+    "h": 24,
+    "text": "unternehmensführung",
+    "href": "/de/about/investor/corporate-governance"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1705,
+    "w": 202,
+    "h": 24,
+    "text": "berichte & präsentationen",
+    "href": "/de/about/investor/reports-presentations/financial-results"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 1745,
+    "w": 288,
+    "h": 24,
+    "text": "ansprechpartner für investor relations",
+    "href": "/about/investor/contacts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-text > h2#press",
+    "x": 16,
+    "y": 2161,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "presse"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-text > p",
+    "x": 16,
+    "y": 2213,
+    "w": 328,
+    "h": 78,
+    "text": "Das Team Media Relations ist der Ansprechpartner für Journalistinnen und Journal"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-text > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 2315,
+    "w": 328,
+    "h": 48,
+    "text": "zur presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2387,
+    "w": 166,
+    "h": 24,
+    "text": "presseinformationen",
+    "href": "/de/about/press/press-releases"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2427,
+    "w": 103,
+    "h": 24,
+    "text": "medienpool",
+    "href": "/de/about/press/media-pool"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2467,
+    "w": 142,
+    "h": 24,
+    "text": "technology news",
+    "href": "/de/about/press/technology-news"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2507,
+    "w": 92,
+    "h": 24,
+    "text": "ereignisse",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2547,
+    "w": 124,
+    "h": 24,
+    "text": "pressemappen",
+    "href": "/de/about/press/press-kits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2587,
+    "w": 128,
+    "h": 24,
+    "text": "pressekontakte",
+    "href": "/de/about/press/contacts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-text > h2#careers",
+    "x": 16,
+    "y": 3003,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "karrieren"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-text > p",
+    "x": 16,
+    "y": 3055,
+    "w": 328,
+    "h": 208,
+    "text": "Möchten Sie Teil von Infineon werden? Entdecken Sie unsere vielfältigen Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-text > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 3287,
+    "w": 328,
+    "h": 48,
+    "text": "zu den karrieren",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3359,
+    "w": 88,
+    "h": 24,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3399,
+    "w": 119,
+    "h": 24,
+    "text": "mannschaften",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3439,
+    "w": 52,
+    "h": 24,
+    "text": "orte",
+    "href": "/de/careers/our-locations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3479,
+    "w": 168,
+    "h": 24,
+    "text": "vielfalt und inklusion",
+    "href": "/de/careers/diversity-inclusion"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3519,
+    "w": 196,
+    "h": 24,
+    "text": "studenten & absolventen",
+    "href": "/de/careers/students-graduates"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3559,
+    "w": 178,
+    "h": 24,
+    "text": "wie bewerbe ich mich?",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3599,
+    "w": 92,
+    "h": 24,
+    "text": "ereignisse",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-text > h2#stories",
+    "x": 16,
+    "y": 4015,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "unsere geschichten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-text > p",
+    "x": 16,
+    "y": 4067,
+    "w": 328,
+    "h": 234,
+    "text": "Energie, Mobilität und IoT: Tauchen Sie ein in unsere Erlebniswelt und erfahren "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-text > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 4325,
+    "w": 328,
+    "h": 48,
+    "text": "zu unseren geschichten",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-head > h2#events",
+    "x": 16,
+    "y": 4805,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "events"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-head > p",
+    "x": 16,
+    "y": 4865,
+    "w": 328,
+    "h": 52,
+    "text": "Vernetzen Sie sich mit Infineon auf unseren kommenden Veranstaltungen!"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-img > picture > img",
+    "x": 20,
+    "y": 4933,
+    "w": 324,
+    "h": 198,
+    "text": "",
+    "file": "media_1c8116d34ebf8e4db00276ef01289c7c9e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-date > ul > li",
+    "x": 36,
+    "y": 5150,
+    "w": 146,
+    "h": 20,
+    "text": "Oct 11th - Nov 10th, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-date > ul > li",
+    "x": 185,
+    "y": 5150,
+    "w": 70,
+    "h": 20,
+    "text": "8: 00 CET"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-body > div.hub-band-card-title > p",
+    "x": 36,
+    "y": 5171,
+    "w": 292,
+    "h": 81,
+    "text": "Quiet Period; Date preliminary – 11 Oct 2026 - 10 Nov 2026, until announcement o"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-facts > ul > li",
+    "x": 36,
+    "y": 5260,
+    "w": 76,
+    "h": 24,
+    "text": "Online"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-facts > ul > li",
+    "x": 112,
+    "y": 5260,
+    "w": 62,
+    "h": 24,
+    "text": "Investoren"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-body > div.hub-band-card-links > p",
+    "x": 36,
+    "y": 5295,
+    "w": 196,
+    "h": 22,
+    "text": "Zum Kalender hinzufügen"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-img > picture > img",
+    "x": 20,
+    "y": 5366,
+    "w": 324,
+    "h": 198,
+    "text": "",
+    "file": "media_17631b0edc489a2b499c0d2e6e3e2ae746"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-date > ul > li",
+    "x": 36,
+    "y": 5583,
+    "w": 109,
+    "h": 20,
+    "text": "Nov 3rd - 5th, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-date > ul > li",
+    "x": 148,
+    "y": 5583,
+    "w": 70,
+    "h": 20,
+    "text": "9: 30 CET"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-body > div.hub-band-card-title > p",
+    "x": 36,
+    "y": 5604,
+    "w": 231,
+    "h": 27,
+    "text": "Bonding at RWTH Aachen 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-facts > ul > li",
+    "x": 36,
+    "y": 5639,
+    "w": 161,
+    "h": 24,
+    "text": "Aachen, Deutschland"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-facts > ul > li",
+    "x": 197,
+    "y": 5639,
+    "w": 91,
+    "h": 24,
+    "text": "Face-to-Face"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-facts > ul > li",
+    "x": 36,
+    "y": 5663,
+    "w": 72,
+    "h": 24,
+    "text": "Studierende"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-links > p > a",
+    "x": 36,
+    "y": 5697,
+    "w": 152,
+    "h": 24,
+    "text": "go to partner page",
+    "href": "/aachen/messe/die-messe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-body > div.hub-band-card-links > p",
+    "x": 36,
+    "y": 5698,
+    "w": 236,
+    "h": 46,
+    "text": "Zum Kalender hinzufügen"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-img > picture > img",
+    "x": 20,
+    "y": 5793,
+    "w": 324,
+    "h": 198,
+    "text": "",
+    "file": "media_1e322b1c5ba076f78870063c055dd8595c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-date > ul > li",
+    "x": 36,
+    "y": 6010,
+    "w": 79,
+    "h": 20,
+    "text": "Nov 4th, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-date > ul > li",
+    "x": 119,
+    "y": 6010,
+    "w": 70,
+    "h": 20,
+    "text": "9: 00 CET"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-body > div.hub-band-card-title > p",
+    "x": 36,
+    "y": 6031,
+    "w": 102,
+    "h": 27,
+    "text": "Connect 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-facts > ul > li",
+    "x": 36,
+    "y": 6066,
+    "w": 165,
+    "h": 24,
+    "text": "Klagenfurt, Österreich"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-facts > ul > li",
+    "x": 201,
+    "y": 6066,
+    "w": 91,
+    "h": 24,
+    "text": "Face-to-Face"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-facts > ul > li",
+    "x": 36,
+    "y": 6090,
+    "w": 262,
+    "h": 24,
+    "text": "Schüler*innen, Berufserfahrene, Studierende"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-links > p > a",
+    "x": 36,
+    "y": 6124,
+    "w": 152,
+    "h": 24,
+    "text": "go to partner page",
+    "href": "/alumni-karriere/connect/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-card-body > div.hub-band-card-links > p",
+    "x": 36,
+    "y": 6125,
+    "w": 236,
+    "h": 46,
+    "text": "Zum Kalender hinzufügen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-more > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 6244,
+    "w": 328,
+    "h": 40,
+    "text": "alle veranstaltungen anzeigen",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 16,
+    "y": 6394,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 16,
+    "y": 6356,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 6457,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6497,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6539,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6581,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6623,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6665,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 196,
+    "y": 6457,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6497,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6539,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6581,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6649,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6691,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6733,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 6799,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6839,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6881,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6923,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 32,
+    "y": 6989,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7029,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7071,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7113,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7155,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7221,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 192,
+    "y": 7221,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7251,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 188,
+    "y": 7251,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 21,
+    "y": 7286,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7339,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 7339,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 7339,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 136,
+    "y": 7336,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 136,
+    "y": 7336,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 176,
+    "y": 7339,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 104,
+    "controls": 69,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "über uns",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 33,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 27,
+    "textHidden": 0,
+    "image": 3,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"firma\" (y 425) has no origin heading",
+   "text": "firma"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"investorenbeziehungen\" (y 1265) has no origin heading",
+   "text": "investorenbeziehungen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"presse\" (y 2161) has no origin heading",
+   "text": "presse"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"karrieren\" (y 3003) has no origin heading",
+   "text": "karrieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"unsere geschichten\" (y 4015) has no origin heading",
+   "text": "unsere geschichten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"events\" (y 4805) has no origin heading",
+   "text": "events"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"springen zu\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "springen zu"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"zur hauptseite\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "zur hauptseite"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"führungsteam\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "führungsteam"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"nachhaltigkeit\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "nachhaltigkeit"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"geschäftsbereiche\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "geschäftsbereiche"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"kontaktieren sie uns\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "kontaktieren sie uns"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"zu den investor relations\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "zu den investor relations"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"hauptversammlung\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "hauptversammlung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"infineon-aktie\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "infineon-aktie"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"nachrichten\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "nachrichten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"festverzinsliche wertpapiere\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "festverzinsliche wertpapiere"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×3 \"ereignisse\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 3,
+   "text": "ereignisse"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"unternehmensführung\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "unternehmensführung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"berichte & präsentationen\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "berichte & präsentationen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"ansprechpartner für investor relations\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "ansprechpartner für investor relations"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"zur presse\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "zur presse"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"presseinformationen\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "presseinformationen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"medienpool\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "medienpool"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"technology news\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "technology news"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"pressemappen\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "pressemappen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"pressekontakte\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "pressekontakte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"zu den karrieren\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "zu den karrieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"jobsuche\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "jobsuche"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mannschaften\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mannschaften"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"orte\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "orte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"vielfalt und inklusion\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "vielfalt und inklusion"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"studenten & absolventen\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "studenten & absolventen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"wie bewerbe ich mich?\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "wie bewerbe ich mich?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"zu unseren geschichten\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "zu unseren geschichten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"go to partner page\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 2,
+   "text": "go to partner page"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"alle veranstaltungen anzeigen\" served in band \"über uns\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "alle veranstaltungen anzeigen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"über uns\": 2 origin → 27 served visible",
+   "band": 1,
+   "origin": 2,
+   "eds": 27,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"über uns\": 0 origin → 3 served visible",
+   "band": 1,
+   "origin": 0,
+   "eds": 3,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 6,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 34,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 39,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 16,
+    "y": 84,
+    "w": 83,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 133,
+    "w": 195,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 159,
+    "w": 271,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 185,
+    "w": 236,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 211,
+    "w": 253,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 237,
+    "w": 194,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 263,
+    "w": 90,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 325,
+    "w": 79,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 424,
+    "w": 64,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 477,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 503,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 529,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 555,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 581,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 607,
+    "w": 26,
+    "h": 25
+   },
+   {
+    "x": 129,
+    "y": 670,
+    "w": 101,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 730,
+    "w": 103,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 770,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 810,
+    "w": 130,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 850,
+    "w": 145,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1264,
+    "w": 257,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 1317,
+    "w": 293,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1343,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 93,
+    "y": 1406,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1466,
+    "w": 140,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1506,
+    "w": 101,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1546,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1586,
+    "w": 202,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1626,
+    "w": 73,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1666,
+    "w": 161,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1706,
+    "w": 183,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1746,
+    "w": 269,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2160,
+    "w": 72,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 2213,
+    "w": 245,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2239,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2265,
+    "w": 102,
+    "h": 25
+   },
+   {
+    "x": 144,
+    "y": 2328,
+    "w": 72,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2388,
+    "w": 147,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2428,
+    "w": 84,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2468,
+    "w": 123,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2508,
+    "w": 73,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2548,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2588,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3002,
+    "w": 103,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 3055,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3081,
+    "w": 248,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3107,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3133,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3159,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3185,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3211,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3237,
+    "w": 293,
+    "h": 25
+   },
+   {
+    "x": 123,
+    "y": 3300,
+    "w": 115,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3360,
+    "w": 69,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3400,
+    "w": 100,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3440,
+    "w": 34,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3480,
+    "w": 149,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3520,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3560,
+    "w": 160,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3600,
+    "w": 73,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4014,
+    "w": 216,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 4067,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4093,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4119,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4145,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4171,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4197,
+    "w": 263,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4223,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4249,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4275,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 98,
+    "y": 4338,
+    "w": 164,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4804,
+    "w": 73,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 4865,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4891,
+    "w": 227,
+    "h": 25
+   },
+   {
+    "x": 36,
+    "y": 5150,
+    "w": 146,
+    "h": 20
+   },
+   {
+    "x": 199,
+    "y": 5150,
+    "w": 27,
+    "h": 20
+   },
+   {
+    "x": 229,
+    "y": 5150,
+    "w": 23,
+    "h": 20
+   },
+   {
+    "x": 36,
+    "y": 5172,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 36,
+    "y": 5199,
+    "w": 182,
+    "h": 25
+   },
+   {
+    "x": 36,
+    "y": 5226,
+    "w": 187,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 5263,
+    "w": 39,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 5263,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 60,
+    "y": 5295,
+    "w": 176,
+    "h": 22
+   },
+   {
+    "x": 36,
+    "y": 5583,
+    "w": 109,
+    "h": 20
+   },
+   {
+    "x": 162,
+    "y": 5583,
+    "w": 27,
+    "h": 20
+   },
+   {
+    "x": 192,
+    "y": 5583,
+    "w": 23,
+    "h": 20
+   },
+   {
+    "x": 36,
+    "y": 5605,
+    "w": 231,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 5642,
+    "w": 124,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 5642,
+    "w": 74,
+    "h": 20
+   },
+   {
+    "x": 36,
+    "y": 5666,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 36,
+    "y": 5698,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 245,
+    "y": 5698,
+    "w": 31,
+    "h": 22
+   },
+   {
+    "x": 36,
+    "y": 5722,
+    "w": 143,
+    "h": 22
+   },
+   {
+    "x": 36,
+    "y": 6010,
+    "w": 79,
+    "h": 20
+   },
+   {
+    "x": 132,
+    "y": 6010,
+    "w": 27,
+    "h": 20
+   },
+   {
+    "x": 162,
+    "y": 6010,
+    "w": 23,
+    "h": 20
+   },
+   {
+    "x": 36,
+    "y": 6032,
+    "w": 102,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 6069,
+    "w": 128,
+    "h": 20
+   },
+   {
+    "x": 201,
+    "y": 6069,
+    "w": 74,
+    "h": 20
+   },
+   {
+    "x": 36,
+    "y": 6093,
+    "w": 262,
+    "h": 20
+   },
+   {
+    "x": 36,
+    "y": 6125,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 245,
+    "y": 6125,
+    "w": 31,
+    "h": 22
+   },
+   {
+    "x": 36,
+    "y": 6149,
+    "w": 143,
+    "h": 22
+   },
+   {
+    "x": 77,
+    "y": 6253,
+    "w": 206,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6451,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6490,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6532,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6574,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6616,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6658,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6451,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 6490,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6532,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6574,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6600,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6642,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6684,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6726,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6793,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6832,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6874,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6916,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 6983,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 7022,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7064,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7106,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7148,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 7219,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 7219,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7249,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 7249,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7279,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 7279,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 7279,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 16,
+    "y": 84,
+    "w": 83,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 133,
+    "w": 195,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 159,
+    "w": 271,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 185,
+    "w": 236,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 211,
+    "w": 253,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 237,
+    "w": 194,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 263,
+    "w": 90,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 325,
+    "w": 79,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 424,
+    "w": 64,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 477,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 503,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 529,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 555,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 581,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 607,
+    "w": 26,
+    "h": 25
+   },
+   {
+    "x": 129,
+    "y": 670,
+    "w": 101,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 730,
+    "w": 100,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 770,
+    "w": 101,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 810,
+    "w": 126,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 850,
+    "w": 142,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1264,
+    "w": 257,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 1317,
+    "w": 293,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1343,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 93,
+    "y": 1406,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1466,
+    "w": 137,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1506,
+    "w": 98,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1546,
+    "w": 84,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1586,
+    "w": 198,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1626,
+    "w": 70,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1666,
+    "w": 158,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1706,
+    "w": 180,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1746,
+    "w": 266,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2160,
+    "w": 72,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 2213,
+    "w": 245,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2239,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2265,
+    "w": 99,
+    "h": 25
+   },
+   {
+    "x": 144,
+    "y": 2328,
+    "w": 72,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2388,
+    "w": 144,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2428,
+    "w": 81,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2468,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2508,
+    "w": 70,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2548,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2588,
+    "w": 106,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3002,
+    "w": 103,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 3055,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3081,
+    "w": 248,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3107,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3133,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3159,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3185,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3211,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3237,
+    "w": 293,
+    "h": 25
+   },
+   {
+    "x": 123,
+    "y": 3300,
+    "w": 115,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3360,
+    "w": 66,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3400,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3440,
+    "w": 30,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3480,
+    "w": 146,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3520,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3560,
+    "w": 156,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3600,
+    "w": 70,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4014,
+    "w": 216,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 4067,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4093,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4119,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4145,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4171,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4197,
+    "w": 263,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4223,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4249,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4275,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 98,
+    "y": 4338,
+    "w": 164,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4804,
+    "w": 73,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 4865,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4891,
+    "w": 227,
+    "h": 25
+   },
+   {
+    "x": 36,
+    "y": 5150,
+    "w": 146,
+    "h": 20
+   },
+   {
+    "x": 202,
+    "y": 5150,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 36,
+    "y": 5172,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 36,
+    "y": 5199,
+    "w": 182,
+    "h": 25
+   },
+   {
+    "x": 36,
+    "y": 5226,
+    "w": 187,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 5262,
+    "w": 39,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 5262,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 5295,
+    "w": 176,
+    "h": 22
+   },
+   {
+    "x": 36,
+    "y": 5583,
+    "w": 109,
+    "h": 20
+   },
+   {
+    "x": 165,
+    "y": 5583,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 36,
+    "y": 5605,
+    "w": 231,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 5641,
+    "w": 124,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 5641,
+    "w": 74,
+    "h": 20
+   },
+   {
+    "x": 36,
+    "y": 5665,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 36,
+    "y": 5698,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 241,
+    "y": 5698,
+    "w": 31,
+    "h": 22
+   },
+   {
+    "x": 36,
+    "y": 5722,
+    "w": 143,
+    "h": 22
+   },
+   {
+    "x": 36,
+    "y": 6010,
+    "w": 79,
+    "h": 20
+   },
+   {
+    "x": 136,
+    "y": 6010,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 36,
+    "y": 6032,
+    "w": 102,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 6068,
+    "w": 128,
+    "h": 20
+   },
+   {
+    "x": 201,
+    "y": 6068,
+    "w": 74,
+    "h": 20
+   },
+   {
+    "x": 36,
+    "y": 6092,
+    "w": 262,
+    "h": 20
+   },
+   {
+    "x": 36,
+    "y": 6125,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 241,
+    "y": 6125,
+    "w": 31,
+    "h": 22
+   },
+   {
+    "x": 36,
+    "y": 6149,
+    "w": 143,
+    "h": 22
+   },
+   {
+    "x": 77,
+    "y": 6253,
+    "w": 206,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6458,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6497,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6539,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6581,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6623,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6665,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6458,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 6497,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6539,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6581,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6607,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6649,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6691,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6733,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6800,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6839,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6881,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6923,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 6990,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 7029,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7071,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7113,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7155,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 7226,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 7226,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7256,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 7256,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7286,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 7286,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 7286,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

@@ -1,0 +1,5737 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:13:41.881Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/smart-factory-semiconductor-solutions",
+  "at": "2026-11-18T23:13:21.767Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5596,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems0",
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems1",
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems2",
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems3",
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems4",
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 714,
+    "y": 16,
+    "w": 197,
+    "h": 36,
+    "label": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die suche zu aktivieren.",
+    "value": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die ",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "text": "navbardropdown"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "label": "navbardropdown",
+    "value": "navbardropdown",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-1",
+    "x": 1072,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.nav-item.desktopProfile > div.login-dropdown > button.login-button",
+    "x": 1132,
+    "y": 14,
+    "w": 248,
+    "h": 40,
+    "text": "anmeldung zu myinfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 254,
+    "y": 86,
+    "w": 204,
+    "h": 20,
+    "text": "wir treiben die smarte fabrik voran",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "ingenieur mensch fabrik",
+    "file": "industrial-automation-factory.png:asset-"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 56,
+    "level": 1,
+    "text": "wir treiben die smarte fabrik voran"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 242,
+    "y": 555,
+    "w": 956,
+    "h": 48,
+    "text": "Der Wandel zu intelligenten Fabriken für ökologische Nachhaltigkeit und betriebl"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 242,
+    "y": 619,
+    "w": 67,
+    "h": 28,
+    "text": "Robotics"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 266,
+    "y": 663,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 342,
+    "y": 663,
+    "w": 72,
+    "h": 20,
+    "level": 4,
+    "text": "juli 08, 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 797,
+    "w": 209,
+    "h": 22,
+    "text": "die fabrik der zukunft ist smart",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 831,
+    "w": 325,
+    "h": 22,
+    "text": "gehen wir die herausforderungen der zukunft an",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 865,
+    "w": 297,
+    "h": 22,
+    "text": "halbleiterlösungen machen das iiot möglich",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 899,
+    "w": 129,
+    "h": 22,
+    "text": "die zukunft ist jetzt",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > p",
+    "x": 224,
+    "y": 763,
+    "w": 180,
+    "h": 24,
+    "text": "Gefunden auf dieser Seite:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-1d74055df9 > h2#anch1",
+    "x": 200,
+    "y": 1011,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "die fabrik der zukunft ist smart"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-f32e86e70c > p",
+    "x": 200,
+    "y": 1079,
+    "w": 1040,
+    "h": 156,
+    "text": "Wenn Sie eine intelligente Fabrik betreten, werden Sie wahrscheinlich in eine ho"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.quote-right-side > div.quote-right-description > p.mb-0.heading-04",
+    "x": 200,
+    "y": 1340,
+    "w": 924,
+    "h": 96,
+    "text": "Der globale Markt für das industrielle Internet der Dinge (IIoT) wurde im Jahr 2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.quote-right-side > div.quote-right-name > h4.mb-0.body-03",
+    "x": 200,
+    "y": 1444,
+    "w": 730,
+    "h": 24,
+    "level": 4,
+    "text": "industrial iot - market size worldwide 2020-2030; herausgegeben von lionel sujay vailshery; 13. februar 2024."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-6206d0c16d > p",
+    "x": 200,
+    "y": 1500,
+    "w": 1040,
+    "h": 208,
+    "text": "Es ist kein Geheimnis, dass intelligente Fabriken und das IIoT zum Rückgrat der "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-3584068fb4 > h2#future",
+    "x": 200,
+    "y": 1772,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "gehen wir die herausforderungen der zukunft an"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-2d52222cc9 > p",
+    "x": 200,
+    "y": 1824,
+    "w": 1040,
+    "h": 156,
+    "text": "Industrieunternehmen investieren zunehmend in die Digitalisierung, um ihre Abläu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-2d52222cc9 > p",
+    "x": 200,
+    "y": 1996,
+    "w": 1040,
+    "h": 78,
+    "text": "Lassen Sie uns weiter daran arbeiten und gemeinsam innovative Lösungen für das i"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-508bd76c58 > h2#anch2",
+    "x": 200,
+    "y": 2138,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "halbleiterlösungen machen das iiot möglich"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-e3f5cf46d5 > p",
+    "x": 200,
+    "y": 2190,
+    "w": 1040,
+    "h": 52,
+    "text": "Um diese Vision zu erreichen, ist eine robuste Mikroelektronik unerlässlich. Sie"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-ed8e7e4f13 > h5.dynamicAnchors.heading-05",
+    "x": 200,
+    "y": 2274,
+    "w": 712,
+    "h": 28,
+    "level": 5,
+    "text": "sensoren: datentransparenz für industrie 4.0"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-97cf8e9bbd > p",
+    "x": 200,
+    "y": 2310,
+    "w": 712,
+    "h": 130,
+    "text": "Die intelligente Fabrik basiert auf Daten - aus der Umwelt, von Maschinen und de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-97cf8e9bbd > p > a",
+    "x": 385,
+    "y": 2336,
+    "w": 181,
+    "h": 25,
+    "text": "xensiv™-sensorfamilie",
+    "href": "/applications/industrial/industrial-automation/industrial-sensors"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 944,
+    "y": 2274,
+    "w": 296,
+    "h": 167,
+    "text": "iot sense sensoren",
+    "file": "iot-sense-sensors.jpg:asset-2000-16x9"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 2473,
+    "w": 296,
+    "h": 167,
+    "text": "iot compute mikrocontroller",
+    "file": "iot-compute-microcontrollers.jpg:asset-2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-3451f1a2a1 > h5.dynamicAnchors.heading-05",
+    "x": 528,
+    "y": 2473,
+    "w": 712,
+    "h": 28,
+    "level": 5,
+    "text": "verarbeitung: signalverarbeitung und steuerung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-7f21f96d44 > p",
+    "x": 528,
+    "y": 2509,
+    "w": 712,
+    "h": 130,
+    "text": "Wir erwarten, dass die intelligenten Maschinen und Lösungen in der Smart Factory"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-7f21f96d44 > p > a",
+    "x": 716,
+    "y": 2587,
+    "w": 193,
+    "h": 25,
+    "text": "mikrocontroller-portfolio",
+    "href": "/products/microcontroller"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-7f21f96d44 > p > a",
+    "x": 918,
+    "y": 2587,
+    "w": 158,
+    "h": 25,
+    "text": "nor-flash-produkte",
+    "href": "/products/memories/nor-flash"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-7f21f96d44 > p > a",
+    "x": 528,
+    "y": 2587,
+    "w": 700,
+    "h": 51,
+    "text": "excelon™ f-ram",
+    "href": "/products/memories/f-ram-ferroelectric-ram/excelon-f-ram"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-2a3acf91f6 > h5.dynamicAnchors.heading-05",
+    "x": 200,
+    "y": 2671,
+    "w": 712,
+    "h": 28,
+    "level": 5,
+    "text": "in bewegung setzen: industrielle automation mit mehr möglichkeiten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-b709af8ad2 > p",
+    "x": 200,
+    "y": 2707,
+    "w": 712,
+    "h": 78,
+    "text": "Motorsteuerungslösungen von Infineon treiben industrielle Automatisierungsanwend"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-b709af8ad2 > p > a",
+    "x": 200,
+    "y": 2733,
+    "w": 595,
+    "h": 51,
+    "text": "lösungen für das energiemanagement in der industrieautomation",
+    "href": "/products/power"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-b709af8ad2 > p",
+    "x": 200,
+    "y": 2801,
+    "w": 712,
+    "h": 78,
+    "text": "Profitieren Sie von unserem Portfolio an intelligenten Schaltern für hochintegri"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-b709af8ad2 > p > a",
+    "x": 200,
+    "y": 2827,
+    "w": 473,
+    "h": 51,
+    "text": "intelligenten leistungsmodulen (ipms)",
+    "href": "/products/power/intelligent-power-modules-ipm"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-b709af8ad2 > p > a",
+    "x": 285,
+    "y": 2853,
+    "w": 73,
+    "h": 25,
+    "text": "diskreten",
+    "href": "/products/power/igbt/igbt-discretes"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 944,
+    "y": 2671,
+    "w": 296,
+    "h": 167,
+    "text": "iot actuate leistungshalbleiter",
+    "file": "iot-actuate-power-semiconductor.jpg:asse"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 2911,
+    "w": 296,
+    "h": 167,
+    "text": "iot verbinden",
+    "file": "iot-connect.jpg:asset-2000-16x9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-622505e860 > h5.dynamicAnchors.heading-05",
+    "x": 528,
+    "y": 2911,
+    "w": 712,
+    "h": 28,
+    "level": 5,
+    "text": "konnektivität: von ios zur hochgeschwindigkeitskommunikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-94b1142b7b > p",
+    "x": 528,
+    "y": 2947,
+    "w": 712,
+    "h": 130,
+    "text": "In der komplexen Automatisierung muss jede periphere Systemkomponente über einen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-94b1142b7b > p > a",
+    "x": 792,
+    "y": 2999,
+    "w": 32,
+    "h": 25,
+    "text": "can",
+    "href": "/products/transceivers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-94b1142b7b > p > a",
+    "x": 683,
+    "y": 3051,
+    "w": 201,
+    "h": 25,
+    "text": "die wireless-technologien",
+    "href": "/products/wireless-connectivity"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-c34898dc14 > h5.dynamicAnchors.heading-05",
+    "x": 200,
+    "y": 3110,
+    "w": 712,
+    "h": 28,
+    "level": 5,
+    "text": "sicherheit: skalierbare, einfach zu integrierende lösungen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-a36fc9a174 > p",
+    "x": 200,
+    "y": 3146,
+    "w": 712,
+    "h": 130,
+    "text": "Mit den hochwertigen von Infineon können Hersteller überwachen, ob die Kommunika"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-a36fc9a174 > p > a",
+    "x": 367,
+    "y": 3146,
+    "w": 259,
+    "h": 25,
+    "text": "industriellen sicherheitslösungen",
+    "href": "/products/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-authenticate"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 944,
+    "y": 3110,
+    "w": 296,
+    "h": 167,
+    "text": "sichere iot-sicherheitslösungen",
+    "file": "iot-security-solutions-secure.jpg:asset-"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-63bd89d2e2 > h2#future2",
+    "x": 200,
+    "y": 3356,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "die zukunft ist jetzt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-ad03b30da3 > p",
+    "x": 200,
+    "y": 3408,
+    "w": 1040,
+    "h": 130,
+    "text": "Die intelligente Fabrik ist keine Zukunftsvision mehr, sondern eine Realität, di"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_copy__ifxcontainer_2039244_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 3602,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 3698,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "iot-smart-factory-redesign-v02-00.jpg:as"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 3914,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 124,
+    "y": 3982,
+    "w": 323,
+    "h": 56,
+    "text": "Wie kann eine Fabrik intelligent, digitalisiert, automatisiert und effizient wer"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 4060,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/smart-factory-technologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 507,
+    "y": 3698,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "keyvisual-iot-kugeln-1.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 531,
+    "y": 3914,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 531,
+    "y": 3982,
+    "w": 323,
+    "h": 56,
+    "text": "Mikroelektronik – verbindet die reale mit der digitalen Welt"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 531,
+    "y": 4060,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/microelectronics-connecting-real-digital-world"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 914,
+    "y": 3698,
+    "w": 371,
+    "h": 200,
+    "text": "video",
+    "file": "video-story-header.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 938,
+    "y": 3914,
+    "w": 323,
+    "h": 52,
+    "text": "Video"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 938,
+    "y": 3982,
+    "w": 323,
+    "h": 56,
+    "text": "Zwei Generationen - eine Smart Factory"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 938,
+    "y": 4060,
+    "w": 120,
+    "h": 24,
+    "text": "jetzt ansehen",
+    "href": "/our-stories/two-generations-one-smart-factory"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_copy_ifxcontainer_2039244_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 4172,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "verwandte inhalte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 4268,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "welding-robot.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 4484,
+    "w": 323,
+    "h": 52,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 124,
+    "y": 4552,
+    "w": 323,
+    "h": 56,
+    "text": "Industrial automation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 4630,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/industrial/industrial-automation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 203,
+    "y": 4830,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 732,
+    "y": 4830,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 732,
+    "y": 4914,
+    "w": 136,
+    "h": 48,
+    "text": "abonnieren",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 96,
+    "y": 5122,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 367,
+    "y": 5122,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 5178,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 5220,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 5262,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 5304,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 5346,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 619,
+    "y": 5122,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5178,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5220,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5262,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5304,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5346,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 5388,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 926,
+    "y": 5122,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 5178,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 5220,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 5262,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 1193,
+    "y": 5122,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 5178,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 5220,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 5262,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 5304,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 96,
+    "y": 5526,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 272,
+    "y": 5526,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 380,
+    "y": 5526,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 647,
+    "y": 5531,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 1168,
+    "y": 5530,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 1208,
+    "y": 5530,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 1248,
+    "y": 5530,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 1288,
+    "y": 5527,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 1288,
+    "y": 5531,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 1328,
+    "y": 5530,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 108,
+    "controls": 59,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p.preheadline",
+     "path": "div.card > div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+     "text": "wie kann eine fabrik intelligent, digitalisiert, automatisie",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/smart-factory-semiconductor-solutions",
+  "at": "2026-11-18T23:13:41.688Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5582,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 166,
+    "y": 21,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/products"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 243,
+    "y": 21,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/applications"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 353,
+    "y": 21,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/design-resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 487,
+    "y": 21,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 629,
+    "y": 21,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/about"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "sprache"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "sprache",
+    "value": "sprache",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-login > p > a",
+    "x": 1132,
+    "y": 13,
+    "w": 207,
+    "h": 40,
+    "text": "anmeldung zu myinfineon",
+    "href": "/de/login.login.de.json"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 254,
+    "y": 85,
+    "w": 204,
+    "h": 20,
+    "text": "wir treiben die smarte fabrik voran",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "ingenieur mensch fabrik",
+    "file": "media_135ab197365c03fe5f1485298c67bd9bd7"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#wir-treiben-die-smarte-fabrik-voran",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 56,
+    "level": 1,
+    "text": "wir treiben die smarte fabrik voran"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 242,
+    "y": 555,
+    "w": 956,
+    "h": 48,
+    "text": "Der Wandel zu intelligenten Fabriken für ökologische Nachhaltigkeit und betriebl"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 242,
+    "y": 619,
+    "w": 67,
+    "h": 28,
+    "text": "Robotics"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 266,
+    "y": 663,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#juli-08-2025",
+    "x": 342,
+    "y": 663,
+    "w": 72,
+    "h": 20,
+    "level": 4,
+    "text": "juli 08, 2025"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-toc.block > div.article-toc-label > p",
+    "x": 224,
+    "y": 763,
+    "w": 992,
+    "h": 24,
+    "text": "Gefunden auf dieser Seite:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 797,
+    "w": 208,
+    "h": 22,
+    "text": "die fabrik der zukunft ist smart",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 831,
+    "w": 325,
+    "h": 22,
+    "text": "gehen wir die herausforderungen der zukunft an",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 865,
+    "w": 297,
+    "h": 22,
+    "text": "halbleiterlösungen machen das iiot möglich",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 899,
+    "w": 128,
+    "h": 22,
+    "text": "die zukunft ist jetzt",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-64 > div.default-content-wrapper > h2#die-fabrik-der-zukunft-ist-smart",
+    "x": 200,
+    "y": 1011,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "die fabrik der zukunft ist smart"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-64 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1079,
+    "w": 1040,
+    "h": 156,
+    "text": "Wenn Sie eine intelligente Fabrik betreten, werden Sie wahrscheinlich in eine ho"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-quote-text > blockquote > p",
+    "x": 200,
+    "y": 1308,
+    "w": 924,
+    "h": 96,
+    "text": "Der globale Markt für das industrielle Internet der Dinge (IIoT) wurde im Jahr 2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.quote > div.story-hub-quote-name > h4#industrial-iot---market-size-worldwide-2020-2030-herausgegeben-von-lionel-sujay-vailshery-13-februar-2024",
+    "x": 200,
+    "y": 1412,
+    "w": 924,
+    "h": 24,
+    "level": 4,
+    "text": "industrial iot - market size worldwide 2020-2030; herausgegeben von lionel sujay vailshery; 13. februar 2024."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-64 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1468,
+    "w": 1040,
+    "h": 208,
+    "text": "Es ist kein Geheimnis, dass intelligente Fabriken und das IIoT zum Rückgrat der "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-64 > div.default-content-wrapper > h2#gehen-wir-die-herausforderungen-der-zukunft-an",
+    "x": 200,
+    "y": 1740,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "gehen wir die herausforderungen der zukunft an"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-64 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1792,
+    "w": 1040,
+    "h": 156,
+    "text": "Industrieunternehmen investieren zunehmend in die Digitalisierung, um ihre Abläu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-64 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1964,
+    "w": 1040,
+    "h": 78,
+    "text": "Lassen Sie uns weiter daran arbeiten und gemeinsam innovative Lösungen für das i"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-64 > div.default-content-wrapper > h2#halbleiterlösungen-machen-das-iiot-möglich",
+    "x": 200,
+    "y": 2106,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "halbleiterlösungen machen das iiot möglich"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-64 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2158,
+    "w": 1040,
+    "h": 52,
+    "text": "Um diese Vision zu erreichen, ist eine robuste Mikroelektronik unerlässlich. Sie"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#sensoren-datentransparenz-für-industrie-40",
+    "x": 200,
+    "y": 2242,
+    "w": 712,
+    "h": 28,
+    "level": 5,
+    "text": "sensoren: datentransparenz für industrie 4.0"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 2278,
+    "w": 712,
+    "h": 130,
+    "text": "Die intelligente Fabrik basiert auf Daten - aus der Umwelt, von Maschinen und de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > a",
+    "x": 385,
+    "y": 2304,
+    "w": 181,
+    "h": 25,
+    "text": "xensiv™-sensorfamilie",
+    "href": "/applications/industrial/industrial-automation/industrial-sensors"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-pic.is-end > picture > img",
+    "x": 944,
+    "y": 2242,
+    "w": 296,
+    "h": 167,
+    "text": "iot sense sensoren",
+    "file": "media_11e1f83ed340efe84423b11caaad060687"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-pic.is-end > picture > img",
+    "x": 200,
+    "y": 2441,
+    "w": 296,
+    "h": 167,
+    "text": "iot compute mikrocontroller",
+    "file": "media_125ded9118e7e01b6dbb30b319b39e73b7"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#verarbeitung-signalverarbeitung-und-steuerung",
+    "x": 528,
+    "y": 2441,
+    "w": 712,
+    "h": 28,
+    "level": 5,
+    "text": "verarbeitung: signalverarbeitung und steuerung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 528,
+    "y": 2477,
+    "w": 712,
+    "h": 130,
+    "text": "Wir erwarten, dass die intelligenten Maschinen und Lösungen in der Smart Factory"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > a",
+    "x": 716,
+    "y": 2555,
+    "w": 193,
+    "h": 25,
+    "text": "mikrocontroller-portfolio",
+    "href": "/products/microcontroller"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > a",
+    "x": 918,
+    "y": 2555,
+    "w": 158,
+    "h": 25,
+    "text": "nor-flash-produkte",
+    "href": "/products/memories/nor-flash"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > a",
+    "x": 528,
+    "y": 2555,
+    "w": 700,
+    "h": 51,
+    "text": "excelon™ f-ram",
+    "href": "/products/memories/f-ram-ferroelectric-ram/excelon-f-ram"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#in-bewegung-setzen-industrielle-automation-mit-mehr-möglichkeiten",
+    "x": 200,
+    "y": 2639,
+    "w": 712,
+    "h": 28,
+    "level": 5,
+    "text": "in bewegung setzen: industrielle automation mit mehr möglichkeiten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 2675,
+    "w": 712,
+    "h": 78,
+    "text": "Motorsteuerungslösungen von Infineon treiben industrielle Automatisierungsanwend"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > a",
+    "x": 200,
+    "y": 2701,
+    "w": 595,
+    "h": 51,
+    "text": "lösungen für das energiemanagement in der industrieautomation",
+    "href": "/products/power"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 2769,
+    "w": 712,
+    "h": 78,
+    "text": "Profitieren Sie von unserem Portfolio an intelligenten Schaltern für hochintegri"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > a",
+    "x": 200,
+    "y": 2795,
+    "w": 473,
+    "h": 51,
+    "text": "intelligenten leistungsmodulen (ipms)",
+    "href": "/products/power/intelligent-power-modules-ipm"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > a",
+    "x": 285,
+    "y": 2821,
+    "w": 73,
+    "h": 25,
+    "text": "diskreten",
+    "href": "/products/power/igbt/igbt-discretes"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-pic.is-end > picture > img",
+    "x": 944,
+    "y": 2639,
+    "w": 296,
+    "h": 167,
+    "text": "iot actuate leistungshalbleiter",
+    "file": "media_1823aa124a2864baf8f28afba3bee0448b"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-pic.is-end > picture > img",
+    "x": 200,
+    "y": 2879,
+    "w": 296,
+    "h": 167,
+    "text": "iot verbinden",
+    "file": "media_15afe7fe5fc04a3be006b5f9d02637ffe6"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#konnektivität-von-ios-zur-hochgeschwindigkeitskommunikation",
+    "x": 528,
+    "y": 2879,
+    "w": 712,
+    "h": 28,
+    "level": 5,
+    "text": "konnektivität: von ios zur hochgeschwindigkeitskommunikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 528,
+    "y": 2915,
+    "w": 712,
+    "h": 130,
+    "text": "In der komplexen Automatisierung muss jede periphere Systemkomponente über einen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > a",
+    "x": 792,
+    "y": 2967,
+    "w": 32,
+    "h": 25,
+    "text": "can",
+    "href": "/products/transceivers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > a",
+    "x": 683,
+    "y": 3019,
+    "w": 201,
+    "h": 25,
+    "text": "die wireless-technologien",
+    "href": "/products/wireless-connectivity"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#sicherheit-skalierbare-einfach-zu-integrierende-lösungen",
+    "x": 200,
+    "y": 3078,
+    "w": 712,
+    "h": 28,
+    "level": 5,
+    "text": "sicherheit: skalierbare, einfach zu integrierende lösungen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 3114,
+    "w": 712,
+    "h": 130,
+    "text": "Mit den hochwertigen von Infineon können Hersteller überwachen, ob die Kommunika"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > a",
+    "x": 367,
+    "y": 3114,
+    "w": 259,
+    "h": 25,
+    "text": "industriellen sicherheitslösungen",
+    "href": "/products/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-authenticate"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-pic.is-end > picture > img",
+    "x": 944,
+    "y": 3078,
+    "w": 296,
+    "h": 167,
+    "text": "sichere iot-sicherheitslösungen",
+    "file": "media_17ae1dd3988f95118787a34c19b614afbf"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-64 > div.default-content-wrapper > h2#die-zukunft-ist-jetzt",
+    "x": 200,
+    "y": 3340,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "die zukunft ist jetzt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-64 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 3392,
+    "w": 1040,
+    "h": 130,
+    "text": "Die intelligente Fabrik ist keine Zukunftsvision mehr, sondern eine Realität, di"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#weitere-geschichten",
+    "x": 96,
+    "y": 3586,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 3682,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_1cc1ae99042e62fa371e69002c684e0fbc"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 3898,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 3966,
+    "w": 323,
+    "h": 56,
+    "text": "Wie kann eine Fabrik intelligent, digitalisiert, automatisiert und effizient wer"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 128,
+    "y": 4044,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/smart-factory-technologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 507,
+    "y": 3682,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_1998871092791dda569b83067b341a8b30"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 531,
+    "y": 3898,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 531,
+    "y": 3966,
+    "w": 323,
+    "h": 56,
+    "text": "Mikroelektronik – verbindet die reale mit der digitalen Welt"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 535,
+    "y": 4044,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/microelectronics-connecting-real-digital-world"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 914,
+    "y": 3682,
+    "w": 371,
+    "h": 200,
+    "text": "video",
+    "file": "media_192469159c6aeb8f5dbdb28266cdf4434f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 938,
+    "y": 3898,
+    "w": 323,
+    "h": 28,
+    "text": "Video"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 938,
+    "y": 3966,
+    "w": 323,
+    "h": 56,
+    "text": "Zwei Generationen - eine Smart Factory"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 942,
+    "y": 4044,
+    "w": 120,
+    "h": 24,
+    "text": "jetzt ansehen",
+    "href": "/our-stories/two-generations-one-smart-factory"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#verwandte-inhalte",
+    "x": 96,
+    "y": 4156,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "verwandte inhalte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 4252,
+    "w": 371,
+    "h": 200,
+    "text": "applikation",
+    "file": "media_1673eea1f3cc909d8a095aa797cea14f7f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 4468,
+    "w": 323,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 4536,
+    "w": 323,
+    "h": 28,
+    "text": "Industrial automation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 128,
+    "y": 4614,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/industrial/industrial-automation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#abonnieren-sie-die-marketingkommunikation",
+    "x": 203,
+    "y": 4814,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 732,
+    "y": 4814,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 732,
+    "y": 4898,
+    "w": 138,
+    "h": 50,
+    "text": "abonnieren",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 96,
+    "y": 5147,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 96,
+    "y": 5108,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 367,
+    "y": 5108,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 5164,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 5206,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 5248,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 5290,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 5332,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 619,
+    "y": 5108,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5164,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5206,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5248,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5290,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5332,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 5374,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 926,
+    "y": 5108,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 5164,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 5206,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 5248,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 1193,
+    "y": 5108,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 5164,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 5206,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 5248,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 5290,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 5512,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 272,
+    "y": 5512,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 380,
+    "y": 5512,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 5512,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 647,
+    "y": 5517,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 5516,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1208,
+    "y": 5516,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1248,
+    "y": 5516,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1288,
+    "y": 5513,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 1288,
+    "y": 5513,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1328,
+    "y": 5516,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 108,
+    "controls": 62,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.story-hub-card-title",
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "wie kann eine fabrik intelligent, digitalisiert, automatisie",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 1,
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "wie kann eine fabrik intelligent, digitalisiert, automatisie",
+     "clipper": "div.story-hub-card-title",
+     "rect": {
+      "l": 124,
+      "t": 3966,
+      "r": 392,
+      "b": 3994,
+      "w": 268,
+      "h": 28
+     },
+     "clip": {
+      "l": 124,
+      "t": 3966,
+      "r": 447,
+      "b": 4022,
+      "w": 323,
+      "h": 56
+     },
+     "lines": 3
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "wir treiben die smarte fabrik voran",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 19,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 26,
+    "textHidden": 0,
+    "image": 9,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"die fabrik der zukunft ist smart\" (y 1011) has no origin heading",
+   "text": "die fabrik der zukunft ist smart"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"gehen wir die herausforderungen der zukunft an\" (y 1740) has no origin heading",
+   "text": "gehen wir die herausforderungen der zukunft an"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"halbleiterlösungen machen das iiot möglich\" (y 2106) has no origin heading",
+   "text": "halbleiterlösungen machen das iiot möglich"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"die zukunft ist jetzt\" (y 3340) has no origin heading",
+   "text": "die zukunft ist jetzt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"weitere geschichten\" (y 3586) has no origin heading",
+   "text": "weitere geschichten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"verwandte inhalte\" (y 4156) has no origin heading",
+   "text": "verwandte inhalte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"abonnieren sie die marketingkommunikation!\" (y 4814) has no origin heading",
+   "text": "abonnieren sie die marketingkommunikation!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"die fabrik der zukunft ist smart\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "die fabrik der zukunft ist smart"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"gehen wir die herausforderungen der zukunft an\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "gehen wir die herausforderungen der zukunft an"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"halbleiterlösungen machen das iiot möglich\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "halbleiterlösungen machen das iiot möglich"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"die zukunft ist jetzt\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "die zukunft ist jetzt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"xensiv™-sensorfamilie\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "xensiv™-sensorfamilie"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mikrocontroller-portfolio\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mikrocontroller-portfolio"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"nor-flash-produkte\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "nor-flash-produkte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"excelon™ f-ram\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "excelon™ f-ram"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"lösungen für das energiemanagement in der industrieautomation\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "lösungen für das energiemanagement in der industrieautomation"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"intelligenten leistungsmodulen (ipms)\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "intelligenten leistungsmodulen (ipms)"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"diskreten\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "diskreten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"can\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "can"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"die wireless-technologien\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "die wireless-technologien"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"industriellen sicherheitslösungen\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "industriellen sicherheitslösungen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"mehr entdecken\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 2,
+   "text": "mehr entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"jetzt ansehen\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "jetzt ansehen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr erfahren\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr erfahren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"abonnieren\" served in band \"wir treiben die smarte fabrik voran\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "abonnieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"wir treiben die smarte fabrik voran\": 3 origin → 26 served visible",
+   "band": 1,
+   "origin": 3,
+   "eds": 26,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"wir treiben die smarte fabrik voran\": 0 origin → 9 served visible",
+   "band": 1,
+   "origin": 0,
+   "eds": 9,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 7,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 19,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 27,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 166,
+    "y": 23,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 23,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 23,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 23,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 23,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 23,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 86,
+    "w": 204,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 648,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 556,
+    "w": 918,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 580,
+    "w": 131,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 623,
+    "w": 51,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 663,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 663,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 252,
+    "y": 797,
+    "w": 209,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 831,
+    "w": 325,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 865,
+    "w": 297,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 899,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 224,
+    "y": 764,
+    "w": 180,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1009,
+    "w": 369,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1079,
+    "w": 983,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1105,
+    "w": 965,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1131,
+    "w": 1010,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1157,
+    "w": 1010,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1183,
+    "w": 1022,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1209,
+    "w": 846,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1338,
+    "w": 907,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1370,
+    "w": 867,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1402,
+    "w": 908,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1445,
+    "w": 730,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1500,
+    "w": 962,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1526,
+    "w": 985,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1552,
+    "w": 951,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1578,
+    "w": 1024,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1604,
+    "w": 1013,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1630,
+    "w": 997,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1656,
+    "w": 1014,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1682,
+    "w": 561,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1770,
+    "w": 574,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1824,
+    "w": 987,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1850,
+    "w": 925,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1876,
+    "w": 1017,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1902,
+    "w": 1011,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1928,
+    "w": 1016,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1954,
+    "w": 810,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1996,
+    "w": 988,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2022,
+    "w": 1027,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2048,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2136,
+    "w": 521,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2190,
+    "w": 989,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2216,
+    "w": 338,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2274,
+    "w": 375,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 2310,
+    "w": 617,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2336,
+    "w": 185,
+    "h": 25
+   },
+   {
+    "x": 385,
+    "y": 2336,
+    "w": 181,
+    "h": 25
+   },
+   {
+    "x": 566,
+    "y": 2336,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2362,
+    "w": 705,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2388,
+    "w": 707,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2414,
+    "w": 565,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2473,
+    "w": 407,
+    "h": 28
+   },
+   {
+    "x": 528,
+    "y": 2509,
+    "w": 683,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2535,
+    "w": 696,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2561,
+    "w": 690,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2587,
+    "w": 188,
+    "h": 25
+   },
+   {
+    "x": 716,
+    "y": 2587,
+    "w": 193,
+    "h": 25
+   },
+   {
+    "x": 909,
+    "y": 2587,
+    "w": 8,
+    "h": 25
+   },
+   {
+    "x": 918,
+    "y": 2587,
+    "w": 158,
+    "h": 25
+   },
+   {
+    "x": 1076,
+    "y": 2587,
+    "w": 69,
+    "h": 25
+   },
+   {
+    "x": 1145,
+    "y": 2587,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2613,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 577,
+    "y": 2613,
+    "w": 27,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2671,
+    "w": 579,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 2707,
+    "w": 712,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2733,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 451,
+    "y": 2733,
+    "w": 345,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2759,
+    "w": 160,
+    "h": 25
+   },
+   {
+    "x": 360,
+    "y": 2759,
+    "w": 394,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2801,
+    "w": 651,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2827,
+    "w": 228,
+    "h": 25
+   },
+   {
+    "x": 428,
+    "y": 2827,
+    "w": 245,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2853,
+    "w": 48,
+    "h": 25
+   },
+   {
+    "x": 248,
+    "y": 2853,
+    "w": 37,
+    "h": 25
+   },
+   {
+    "x": 285,
+    "y": 2853,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 358,
+    "y": 2853,
+    "w": 81,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2911,
+    "w": 544,
+    "h": 28
+   },
+   {
+    "x": 528,
+    "y": 2947,
+    "w": 654,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2973,
+    "w": 587,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2999,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 792,
+    "y": 2999,
+    "w": 32,
+    "h": 25
+   },
+   {
+    "x": 825,
+    "y": 2999,
+    "w": 352,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 3025,
+    "w": 677,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 3051,
+    "w": 155,
+    "h": 25
+   },
+   {
+    "x": 683,
+    "y": 3051,
+    "w": 201,
+    "h": 25
+   },
+   {
+    "x": 884,
+    "y": 3051,
+    "w": 284,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3110,
+    "w": 489,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 3146,
+    "w": 167,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 3146,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 626,
+    "y": 3146,
+    "w": 235,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3172,
+    "w": 693,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3198,
+    "w": 689,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3224,
+    "w": 651,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3250,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3354,
+    "w": 227,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 3408,
+    "w": 985,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3434,
+    "w": 985,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3460,
+    "w": 973,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3486,
+    "w": 1039,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3512,
+    "w": 120,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 3600,
+    "w": 309,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 3914,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 3982,
+    "w": 268,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4010,
+    "w": 257,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4061,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 3914,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 3982,
+    "w": 308,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 4010,
+    "w": 181,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 4061,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 3914,
+    "w": 53,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 3982,
+    "w": 264,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 4010,
+    "w": 63,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 4061,
+    "w": 96,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 4170,
+    "w": 278,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 4484,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4552,
+    "w": 184,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4631,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 4828,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 4876,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 4829,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 4859,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 772,
+    "y": 4927,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 5123,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 5178,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5220,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5262,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5304,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5346,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5123,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 5178,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5220,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5262,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5304,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5346,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5388,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5123,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 5178,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5220,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5262,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5123,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 5178,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5220,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5262,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5304,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 5531,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 5531,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 5531,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 5531,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 5531,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 5531,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 5531,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 22,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 85,
+    "w": 204,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 648,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 556,
+    "w": 918,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 580,
+    "w": 131,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 623,
+    "w": 51,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 663,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 663,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 224,
+    "y": 764,
+    "w": 180,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 797,
+    "w": 208,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 831,
+    "w": 325,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 865,
+    "w": 297,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 899,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1009,
+    "w": 369,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1079,
+    "w": 983,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1105,
+    "w": 965,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1131,
+    "w": 1010,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1157,
+    "w": 1010,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1183,
+    "w": 1022,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1209,
+    "w": 846,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1306,
+    "w": 907,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1338,
+    "w": 867,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1370,
+    "w": 908,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1413,
+    "w": 730,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1468,
+    "w": 962,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1494,
+    "w": 985,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1520,
+    "w": 951,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1546,
+    "w": 1024,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1572,
+    "w": 1013,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1598,
+    "w": 997,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1624,
+    "w": 1014,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1650,
+    "w": 561,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1738,
+    "w": 574,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1792,
+    "w": 987,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1818,
+    "w": 925,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1844,
+    "w": 1017,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1870,
+    "w": 1011,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1896,
+    "w": 1016,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1922,
+    "w": 810,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1964,
+    "w": 988,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1990,
+    "w": 1027,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2016,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2104,
+    "w": 521,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2158,
+    "w": 989,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2184,
+    "w": 338,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2242,
+    "w": 375,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 2278,
+    "w": 617,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2304,
+    "w": 185,
+    "h": 25
+   },
+   {
+    "x": 385,
+    "y": 2304,
+    "w": 181,
+    "h": 25
+   },
+   {
+    "x": 566,
+    "y": 2304,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2330,
+    "w": 705,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2356,
+    "w": 707,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2382,
+    "w": 565,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2441,
+    "w": 407,
+    "h": 28
+   },
+   {
+    "x": 528,
+    "y": 2477,
+    "w": 683,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2503,
+    "w": 696,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2529,
+    "w": 690,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2555,
+    "w": 188,
+    "h": 25
+   },
+   {
+    "x": 716,
+    "y": 2555,
+    "w": 193,
+    "h": 25
+   },
+   {
+    "x": 909,
+    "y": 2555,
+    "w": 8,
+    "h": 25
+   },
+   {
+    "x": 918,
+    "y": 2555,
+    "w": 158,
+    "h": 25
+   },
+   {
+    "x": 1076,
+    "y": 2555,
+    "w": 69,
+    "h": 25
+   },
+   {
+    "x": 1145,
+    "y": 2555,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2581,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 577,
+    "y": 2581,
+    "w": 27,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2639,
+    "w": 579,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 2675,
+    "w": 712,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2701,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 451,
+    "y": 2701,
+    "w": 345,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2727,
+    "w": 160,
+    "h": 25
+   },
+   {
+    "x": 360,
+    "y": 2727,
+    "w": 394,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2769,
+    "w": 651,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2795,
+    "w": 228,
+    "h": 25
+   },
+   {
+    "x": 428,
+    "y": 2795,
+    "w": 245,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2821,
+    "w": 48,
+    "h": 25
+   },
+   {
+    "x": 248,
+    "y": 2821,
+    "w": 37,
+    "h": 25
+   },
+   {
+    "x": 285,
+    "y": 2821,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 358,
+    "y": 2821,
+    "w": 81,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2879,
+    "w": 544,
+    "h": 28
+   },
+   {
+    "x": 528,
+    "y": 2915,
+    "w": 654,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2941,
+    "w": 587,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2967,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 792,
+    "y": 2967,
+    "w": 32,
+    "h": 25
+   },
+   {
+    "x": 825,
+    "y": 2967,
+    "w": 352,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 2993,
+    "w": 677,
+    "h": 25
+   },
+   {
+    "x": 528,
+    "y": 3019,
+    "w": 155,
+    "h": 25
+   },
+   {
+    "x": 683,
+    "y": 3019,
+    "w": 201,
+    "h": 25
+   },
+   {
+    "x": 884,
+    "y": 3019,
+    "w": 284,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3078,
+    "w": 489,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 3114,
+    "w": 167,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 3114,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 626,
+    "y": 3114,
+    "w": 235,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3140,
+    "w": 693,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3166,
+    "w": 689,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3192,
+    "w": 651,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3218,
+    "w": 276,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3338,
+    "w": 227,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 3392,
+    "w": 985,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3418,
+    "w": 985,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3444,
+    "w": 973,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3470,
+    "w": 1039,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3496,
+    "w": 120,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 3584,
+    "w": 309,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 3898,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 3966,
+    "w": 268,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 3994,
+    "w": 257,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 4045,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 3898,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 3966,
+    "w": 308,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 3994,
+    "w": 181,
+    "h": 28
+   },
+   {
+    "x": 535,
+    "y": 4045,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 3898,
+    "w": 53,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 3966,
+    "w": 264,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 3994,
+    "w": 63,
+    "h": 28
+   },
+   {
+    "x": 942,
+    "y": 4045,
+    "w": 96,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 4154,
+    "w": 278,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 4468,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 4536,
+    "w": 184,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 4615,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 4812,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 4860,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 4813,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 4843,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 773,
+    "y": 4912,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 5109,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 5164,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5206,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5248,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5290,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 5332,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5109,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 5164,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5206,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5248,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5290,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5332,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 5374,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5109,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 5164,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5206,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 5248,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5109,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 5164,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5206,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5248,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 5290,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 5517,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 5517,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 5517,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 5517,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 5517,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 5517,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 5517,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

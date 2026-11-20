@@ -1,0 +1,3739 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:44:41.114Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/support/faqs",
+  "at": "2026-11-18T23:44:23.580Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3392,
+  "root": "div.genericbreadcrumb.aem-GridColumn",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button#searchicon-items",
+    "x": 164,
+    "y": 14,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-0",
+    "x": 220,
+    "y": 15,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.usericon-item.d-block",
+    "x": 260,
+    "y": 17,
+    "w": 40,
+    "h": 25,
+    "text": "user profile"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "nav.genericBreadcrumb-mobileview > div.lastBreadcrumb > a.text-decoration-none",
+    "x": 36,
+    "y": 82,
+    "w": 48,
+    "h": 21,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 290,
+    "y": 77,
+    "w": 22,
+    "h": 26,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 290,
+    "y": 77,
+    "w": 22,
+    "h": 26,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.dropdown.d-flex > div.selected-icon.page-data-js > button.icon-wrapper.px-0",
+    "x": 328,
+    "y": 77,
+    "w": 16,
+    "h": 26,
+    "text": "bookmaarkclick"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.page-header.simple-header-component > div.pre-headline > span.pre-headline-text",
+    "x": 77,
+    "y": 168,
+    "w": 121,
+    "h": 20,
+    "text": "Infineon Support"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "header > div.page-header.simple-header-component > h1.heading-03",
+    "x": 16,
+    "y": 206,
+    "w": 328,
+    "h": 60,
+    "level": 1,
+    "text": "finden sie die antwort auf ihre frage"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "atomic-search-layout#atomic-search-layout-16jdy > atomic-layout-section.page--heading-section.hydrated > h2.page--heading",
+    "x": 16,
+    "y": 314,
+    "w": 328,
+    "h": 30,
+    "level": 2,
+    "text": "häufig gestellte fragen"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 16,
+    "y": 378,
+    "w": 176,
+    "h": 32,
+    "label": "suchfeld mit vorschlägen. um die vorschläge zu durchlaufen, drücken sie die pfeiltaste nach unten, während sie im feld sind. um zu senden, drücken sie enter.",
+    "value": "suchfeld mit vorschlägen. um die vorschläge zu durchlaufen, ",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "atomic-search-box.hydrated > div.flex.bg-background > button.btn-primary.-my-px",
+    "x": 28,
+    "y": 386,
+    "w": 20,
+    "h": 16,
+    "text": "suchen"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "atomic-layout-section.hydrated > atomic-refine-toggle#atomic-refine-toggle > button.btn-outline-primary.w-full",
+    "x": 200,
+    "y": 376,
+    "w": 144,
+    "h": 36,
+    "text": "sortieren und filtern"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-header.active > atomic-result-section-title.faq-title.hydrated > atomic-result-text.hydrated",
+    "x": 16,
+    "y": 440,
+    "w": 271,
+    "h": 46,
+    "text": "Wo finde ich Simulationsparameter und SPICE-Modelle?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "atomic-result-html.custom-class.hydrated > atomic-html.hydrated > span",
+    "x": 16,
+    "y": 500,
+    "w": 317,
+    "h": 358,
+    "text": "Bitte prüfen Sie die Produktseite unter der Auswahl \"Design Resources\" für Simul"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "atomic-html.hydrated > span > a",
+    "x": 16,
+    "y": 596,
+    "w": 257,
+    "h": 22,
+    "text": "https://www.infineon.com/simulation.",
+    "href": "/simulation."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "atomic-html.hydrated > span > a",
+    "x": 99,
+    "y": 668,
+    "w": 199,
+    "h": 22,
+    "text": "https://mycases.infineon.com",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "atomic-html.hydrated > span > a",
+    "x": 16,
+    "y": 716,
+    "w": 217,
+    "h": 22,
+    "text": "https://community.infineon.com",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-header > atomic-result-section-title.faq-title.hydrated > atomic-result-text.hydrated",
+    "x": 16,
+    "y": 896,
+    "w": 46,
+    "h": 22,
+    "text": "REACH"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-header > atomic-result-section-title.faq-title.hydrated > atomic-result-text.hydrated",
+    "x": 16,
+    "y": 958,
+    "w": 155,
+    "h": 46,
+    "text": "Berufspraktikum im IFX Kindergarten/krippe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-header > atomic-result-section-title.faq-title.hydrated > atomic-result-text.hydrated",
+    "x": 16,
+    "y": 1044,
+    "w": 198,
+    "h": 22,
+    "text": "Orderable Part Number (OPN)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-header > atomic-result-section-title.faq-title.hydrated > atomic-result-text.hydrated",
+    "x": 16,
+    "y": 1106,
+    "w": 202,
+    "h": 22,
+    "text": "Infineon Datenschutzrichtlinie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-header > atomic-result-section-title.faq-title.hydrated > atomic-result-text.hydrated",
+    "x": 16,
+    "y": 1168,
+    "w": 244,
+    "h": 46,
+    "text": "Bestellung, Verfügbarkeit, Preise von Produkten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-header > atomic-result-section-title.faq-title.hydrated > atomic-result-text.hydrated",
+    "x": 16,
+    "y": 1254,
+    "w": 193,
+    "h": 22,
+    "text": "Hauptversammlung Aktionär"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-header > atomic-result-section-title.faq-title.hydrated > atomic-result-text.hydrated",
+    "x": 16,
+    "y": 1316,
+    "w": 133,
+    "h": 22,
+    "text": "Bedeutung von GEG"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-header > atomic-result-section-title.faq-title.hydrated > atomic-result-text.hydrated",
+    "x": 16,
+    "y": 1378,
+    "w": 146,
+    "h": 22,
+    "text": "Beschwerdeverfahren"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-header > atomic-result-section-title.faq-title.hydrated > atomic-result-text.hydrated",
+    "x": 16,
+    "y": 1440,
+    "w": 178,
+    "h": 22,
+    "text": "Infineon Academy Training"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "nav > div.flex.flex-wrap > button.btn-outline-primary.flex",
+    "x": 16,
+    "y": 1502,
+    "w": 40,
+    "h": 40,
+    "text": "zurück"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.flex.flex-wrap > div.contents > input.btn-radio.btn-outline-neutral",
+    "x": 124,
+    "y": 1506,
+    "w": 32,
+    "h": 32,
+    "label": "seite 1",
+    "value": "seite 1",
+    "via": "radio"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "nav > div.flex.flex-wrap > button.btn-outline-primary.flex",
+    "x": 304,
+    "y": 1502,
+    "w": 40,
+    "h": 40,
+    "text": "weiter"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.application-main.ifx-fixed > div.support-heading > h2#contact",
+    "x": 16,
+    "y": 1658,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "kontakt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.need-technical-help.col-sm-12 > div.text-center > span.help-title",
+    "x": 16,
+    "y": 1729,
+    "w": 317,
+    "h": 20,
+    "text": "Benötigen Sie technische Hilfe?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.need-technical-help.col-sm-12 > div.help-buttons > a.offramp-button.offramp-button-filled",
+    "x": 16,
+    "y": 1767,
+    "w": 328,
+    "h": 48,
+    "text": "zur community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.need-technical-help.col-sm-12 > div.help-buttons > a.offramp-button.offramp-button-outline",
+    "x": 16,
+    "y": 1831,
+    "w": 328,
+    "h": 48,
+    "text": "support-fall erstellen",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.need-technical-help.col-sm-12 > div.help-tools.left-anchor-links > span.urgent-question",
+    "x": 16,
+    "y": 1895,
+    "w": 131,
+    "h": 20,
+    "text": "Bei dringenden Fragen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.help-tools.left-anchor-links > div.iconlink-item.selected-icon > a.hotline-number.text-decoration-none",
+    "x": 40,
+    "y": 1939,
+    "w": 107,
+    "h": 21,
+    "text": "hotline-nummern",
+    "href": "/de/support/service-center"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.have-other-questions.col-sm-12 > div.text-center > span.question-title",
+    "x": 16,
+    "y": 1995,
+    "w": 231,
+    "h": 20,
+    "text": "Haben Sie noch Fragen?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.have-other-questions.col-sm-12 > div.view-contacts > a.offramp-button.offramp-button-outline",
+    "x": 16,
+    "y": 2033,
+    "w": 328,
+    "h": 48,
+    "text": "zu allen kontakten",
+    "href": "/content/ifx/de/contact-us.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.have-other-questions.col-sm-12 > div.question-contacts > span.fequently-contact",
+    "x": 16,
+    "y": 2097,
+    "w": 106,
+    "h": 20,
+    "text": "Häufig kontaktiert"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.question-contacts > div.iconlink-item.selected-icon > a.investor-relations.anchor-text",
+    "x": 40,
+    "y": 2141,
+    "w": 140,
+    "h": 21,
+    "text": "personalwesen/karriere",
+    "href": "/de/careers/hr-contacts"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.question-contacts > div.iconlink-item.selected-icon > a.investor-relations.anchor-text",
+    "x": 40,
+    "y": 2186,
+    "w": 102,
+    "h": 21,
+    "text": "investor relations",
+    "href": "/de/about/investor/contacts"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.question-contacts > div.iconlink-item.selected-icon > a.investor-relations.anchor-text",
+    "x": 40,
+    "y": 2231,
+    "w": 31,
+    "h": 21,
+    "text": "sales",
+    "href": "/en/authenticated/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 16,
+    "y": 2356,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 2450,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 2490,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 2532,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 2574,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 2616,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 2658,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 196,
+    "y": 2450,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 2490,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 2532,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 2574,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 2642,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 2684,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 2726,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 2792,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 2832,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 2874,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 2916,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 32,
+    "y": 2982,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 3022,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 3064,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 3106,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 3148,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 3214,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 192,
+    "y": 3214,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 3244,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 21,
+    "y": 3279,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 16,
+    "y": 3332,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 56,
+    "y": 3332,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 96,
+    "y": 3332,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 136,
+    "y": 3329,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 136,
+    "y": 3334,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 176,
+    "y": 3332,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > div.sc-fFCZOx.jRYtdz > button#da-icon",
+    "x": 213,
+    "y": 784,
+    "w": 137,
+    "h": 62,
+    "text": "ask ai"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > div.sc-fFCZOx.jRYtdz > button#da-icon",
+    "x": 213,
+    "y": 784,
+    "w": 137,
+    "h": 62,
+    "label": "trigger",
+    "value": "ask ai",
+    "via": "trigger"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 72,
+    "controls": 49,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/support/faqs",
+  "at": "2026-11-18T23:44:41.018Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3402,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "label": "search",
+    "value": "search",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 38,
+    "y": 82,
+    "w": 48,
+    "h": 21,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.ifx-fixed.breadcrumb-inner > div.breadcrumb-tools > button.breadcrumb-tool.breadcrumb-tool-share",
+    "x": 290,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.ifx-fixed.breadcrumb-inner > div.breadcrumb-tools > button.breadcrumb-tool.breadcrumb-tool-share",
+    "x": 290,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-header-comp > div.page-header-head > p",
+    "x": 16,
+    "y": 148,
+    "w": 273,
+    "h": 24,
+    "text": "Infineon Support"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-header-comp > div.page-header-head > h1#finden-sie-die-antwort-auf-ihre-frage",
+    "x": 16,
+    "y": 206,
+    "w": 273,
+    "h": 60,
+    "level": 1,
+    "text": "finden sie die antwort auf ihre frage"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.faq-list-inner > div.faq-list-title > h2#häufig-gestellte-fragen",
+    "x": 16,
+    "y": 314,
+    "w": 328,
+    "h": 30,
+    "level": 2,
+    "text": "häufig gestellte fragen"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-main > div.faq-list-tools > button.faq-list-filter-btn",
+    "x": 304,
+    "y": 376,
+    "w": 40,
+    "h": 40,
+    "text": "filter"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-main > div.faq-list-tools > button.faq-list-filter-btn",
+    "x": 304,
+    "y": 376,
+    "w": 40,
+    "h": 40,
+    "label": "filter",
+    "value": "filter",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-head > div.faq-list-question > p",
+    "x": 16,
+    "y": 440,
+    "w": 280,
+    "h": 48,
+    "text": "Wo finde ich Simulationsparameter und SPICE-Modelle?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item.open > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 448,
+    "w": 32,
+    "h": 32,
+    "text": "antwort ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item.open > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 448,
+    "w": 32,
+    "h": 32,
+    "label": "antwort ein- oder ausblenden",
+    "value": "antwort ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item.open > div.faq-list-answer > p",
+    "x": 16,
+    "y": 504,
+    "w": 328,
+    "h": 240,
+    "text": "Bitte prüfen Sie die Produktseite unter der Auswahl \"Design Resources\" für Simul"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-answer > p > a",
+    "x": 16,
+    "y": 601,
+    "w": 257,
+    "h": 22,
+    "text": "https://www.infineon.com/simulation.",
+    "href": "/simulation."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-answer > p > a",
+    "x": 99,
+    "y": 673,
+    "w": 199,
+    "h": 22,
+    "text": "https://mycases.infineon.com",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-answer > p > a",
+    "x": 16,
+    "y": 721,
+    "w": 217,
+    "h": 22,
+    "text": "https://community.infineon.com",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item.open > div.faq-list-answer > p",
+    "x": 16,
+    "y": 768,
+    "w": 328,
+    "h": 96,
+    "text": "Infineon verwendet ausschließlich Spice- und Saber-Modelle. Dies sind weit verbr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-head > div.faq-list-question > p",
+    "x": 16,
+    "y": 917,
+    "w": 46,
+    "h": 24,
+    "text": "REACH"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 913,
+    "w": 32,
+    "h": 32,
+    "text": "antwort ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 913,
+    "w": 32,
+    "h": 32,
+    "label": "antwort ein- oder ausblenden",
+    "value": "antwort ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-head > div.faq-list-question > p",
+    "x": 16,
+    "y": 977,
+    "w": 280,
+    "h": 48,
+    "text": "Berufspraktikum im IFX Kindergarten/krippe"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 985,
+    "w": 32,
+    "h": 32,
+    "text": "antwort ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 985,
+    "w": 32,
+    "h": 32,
+    "label": "antwort ein- oder ausblenden",
+    "value": "antwort ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-head > div.faq-list-question > p",
+    "x": 16,
+    "y": 1061,
+    "w": 198,
+    "h": 24,
+    "text": "Orderable Part Number (OPN)"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 1057,
+    "w": 32,
+    "h": 32,
+    "text": "antwort ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 1057,
+    "w": 32,
+    "h": 32,
+    "label": "antwort ein- oder ausblenden",
+    "value": "antwort ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-head > div.faq-list-question > p",
+    "x": 16,
+    "y": 1125,
+    "w": 202,
+    "h": 24,
+    "text": "Infineon Datenschutzrichtlinie"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 1121,
+    "w": 32,
+    "h": 32,
+    "text": "antwort ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 1121,
+    "w": 32,
+    "h": 32,
+    "label": "antwort ein- oder ausblenden",
+    "value": "antwort ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-head > div.faq-list-question > p",
+    "x": 16,
+    "y": 1185,
+    "w": 280,
+    "h": 48,
+    "text": "Bestellung, Verfügbarkeit, Preise von Produkten"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 1193,
+    "w": 32,
+    "h": 32,
+    "text": "antwort ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 1193,
+    "w": 32,
+    "h": 32,
+    "label": "antwort ein- oder ausblenden",
+    "value": "antwort ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-head > div.faq-list-question > p",
+    "x": 16,
+    "y": 1269,
+    "w": 193,
+    "h": 24,
+    "text": "Hauptversammlung Aktionär"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 1265,
+    "w": 32,
+    "h": 32,
+    "text": "antwort ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 1265,
+    "w": 32,
+    "h": 32,
+    "label": "antwort ein- oder ausblenden",
+    "value": "antwort ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-head > div.faq-list-question > p",
+    "x": 16,
+    "y": 1333,
+    "w": 133,
+    "h": 24,
+    "text": "Bedeutung von GEG"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 1329,
+    "w": 32,
+    "h": 32,
+    "text": "antwort ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 1329,
+    "w": 32,
+    "h": 32,
+    "label": "antwort ein- oder ausblenden",
+    "value": "antwort ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-head > div.faq-list-question > p",
+    "x": 16,
+    "y": 1397,
+    "w": 146,
+    "h": 24,
+    "text": "Beschwerdeverfahren"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 1393,
+    "w": 32,
+    "h": 32,
+    "text": "antwort ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 1393,
+    "w": 32,
+    "h": 32,
+    "label": "antwort ein- oder ausblenden",
+    "value": "antwort ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-head > div.faq-list-question > p",
+    "x": 16,
+    "y": 1461,
+    "w": 178,
+    "h": 24,
+    "text": "Infineon Academy Training"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 1457,
+    "w": 32,
+    "h": 32,
+    "text": "antwort ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-item > div.faq-list-head > button.faq-list-toggle",
+    "x": 312,
+    "y": 1457,
+    "w": 32,
+    "h": 32,
+    "label": "antwort ein- oder ausblenden",
+    "value": "antwort ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-foot > nav.faq-list-pager > button.faq-list-prev",
+    "x": 16,
+    "y": 1529,
+    "w": 40,
+    "h": 40,
+    "text": "previous page"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-list-foot > nav.faq-list-pager > button.faq-list-next",
+    "x": 304,
+    "y": 1529,
+    "w": 40,
+    "h": 40,
+    "text": "next page"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.contact-band-inner > div.contact-band-head > h2#kontakt",
+    "x": 16,
+    "y": 1681,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "kontakt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-band-col > div.contact-band-eyebrow > p",
+    "x": 16,
+    "y": 1733,
+    "w": 328,
+    "h": 24,
+    "text": "Benötigen Sie technische Hilfe?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-band-buttons > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 1774,
+    "w": 328,
+    "h": 48,
+    "text": "zur community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-band-buttons > p.button-wrapper > a.button.secondary",
+    "x": 16,
+    "y": 1838,
+    "w": 328,
+    "h": 48,
+    "text": "support-fall erstellen",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-band-tools > ul > li.contact-band-label",
+    "x": 16,
+    "y": 1910,
+    "w": 131,
+    "h": 20,
+    "text": "Bei dringenden Fragen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 40,
+    "y": 1946,
+    "w": 107,
+    "h": 20,
+    "text": "hotline-nummern",
+    "href": "/de/support/service-center"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-band-col > div.contact-band-eyebrow > p",
+    "x": 16,
+    "y": 1998,
+    "w": 328,
+    "h": 24,
+    "text": "Haben Sie noch Fragen?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-band-buttons > p.button-wrapper > a.button.secondary",
+    "x": 16,
+    "y": 2039,
+    "w": 328,
+    "h": 48,
+    "text": "zu allen kontakten",
+    "href": "/content/ifx/de/contact-us.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-band-tools > ul > li.contact-band-label",
+    "x": 16,
+    "y": 2111,
+    "w": 106,
+    "h": 20,
+    "text": "Häufig kontaktiert"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 40,
+    "y": 2147,
+    "w": 140,
+    "h": 20,
+    "text": "personalwesen/karriere",
+    "href": "/de/careers/hr-contacts"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 40,
+    "y": 2191,
+    "w": 102,
+    "h": 20,
+    "text": "investor relations",
+    "href": "/de/about/investor/contacts"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 40,
+    "y": 2235,
+    "w": 31,
+    "h": 20,
+    "text": "sales",
+    "href": "/en/authenticated/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 16,
+    "y": 2397,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 16,
+    "y": 2359,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 2460,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2500,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2542,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2584,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2626,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2668,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 196,
+    "y": 2460,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 2500,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 2542,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 2584,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 2652,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 2694,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 2736,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 2802,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2842,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2884,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 2926,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 32,
+    "y": 2992,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 3032,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 3074,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 3116,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 3158,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3224,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 192,
+    "y": 3224,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3254,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 188,
+    "y": 3254,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 21,
+    "y": 3289,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3342,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 3342,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 3342,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 136,
+    "y": 3339,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 136,
+    "y": 3339,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 176,
+    "y": 3342,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 71,
+    "controls": 60,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 11,
+    "linkHidden": 0,
+    "button": 14,
+    "buttonHidden": 0,
+    "text": 17,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"finden sie die antwort auf ihre frage\" (y 206) has no origin heading",
+   "text": "finden sie die antwort auf ihre frage"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"häufig gestellte fragen\" (y 314) has no origin heading",
+   "text": "häufig gestellte fragen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"kontakt\" (y 1681) has no origin heading",
+   "text": "kontakt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"support\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "support"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"pageshare\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "pageshare"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"filter\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "filter"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×10 \"antwort ein- oder ausblenden\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 10,
+   "text": "antwort ein- oder ausblenden"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"https://www.infineon.com/simulation.\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "https://www.infineon.com/simulation."
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"https://mycases.infineon.com\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "https://mycases.infineon.com"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"https://community.infineon.com\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "https://community.infineon.com"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"previous page\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "previous page"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"next page\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "next page"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"zur community\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "zur community"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"support-fall erstellen\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "support-fall erstellen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"hotline-nummern\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "hotline-nummern"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"zu allen kontakten\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "zu allen kontakten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"personalwesen/karriere\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "personalwesen/karriere"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"investor relations\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "investor relations"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"sales\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "sales"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"(top)\": 0 origin → 17 served visible",
+   "band": 0,
+   "origin": 0,
+   "eds": 17,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 3,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 25,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 1,
+  "findings": 20,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 36,
+    "y": 82,
+    "w": 48,
+    "h": 20
+   },
+   {
+    "x": 77,
+    "y": 168,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 205,
+    "w": 284,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 235,
+    "w": 51,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 313,
+    "w": 211,
+    "h": 32
+   },
+   {
+    "x": 213,
+    "y": 384,
+    "w": 118,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 440,
+    "w": 271,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 464,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 500,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 524,
+    "w": 212,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 548,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 572,
+    "w": 189,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 596,
+    "w": 257,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 620,
+    "w": 301,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 644,
+    "w": 317,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 668,
+    "w": 83,
+    "h": 22
+   },
+   {
+    "x": 99,
+    "y": 668,
+    "w": 199,
+    "h": 22
+   },
+   {
+    "x": 298,
+    "y": 668,
+    "w": 34,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 692,
+    "w": 188,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 716,
+    "w": 217,
+    "h": 22
+   },
+   {
+    "x": 233,
+    "y": 716,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 764,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 788,
+    "w": 272,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 812,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 836,
+    "w": 194,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 896,
+    "w": 46,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 958,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 982,
+    "w": 136,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1044,
+    "w": 198,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1106,
+    "w": 202,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1168,
+    "w": 244,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1192,
+    "w": 70,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1254,
+    "w": 193,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1316,
+    "w": 133,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1378,
+    "w": 146,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1440,
+    "w": 178,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1657,
+    "w": 87,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 1729,
+    "w": 317,
+    "h": 20
+   },
+   {
+    "x": 126,
+    "y": 1780,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 106,
+    "y": 1844,
+    "w": 149,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1895,
+    "w": 131,
+    "h": 20
+   },
+   {
+    "x": 40,
+    "y": 1939,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 1995,
+    "w": 231,
+    "h": 20
+   },
+   {
+    "x": 116,
+    "y": 2046,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2097,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 40,
+    "y": 2141,
+    "w": 140,
+    "h": 20
+   },
+   {
+    "x": 40,
+    "y": 2186,
+    "w": 102,
+    "h": 20
+   },
+   {
+    "x": 40,
+    "y": 2231,
+    "w": 31,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 2451,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2490,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2532,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2574,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2616,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2658,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2451,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 2490,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2532,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2574,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2600,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2642,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2684,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2726,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2793,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2832,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2874,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2916,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 2983,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3022,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 3064,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 3106,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 3148,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 3219,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 3219,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 3249,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 3249,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 3279,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 3279,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 3279,
+    "w": 156,
+    "h": 20
+   },
+   {
+    "x": 273,
+    "y": 802,
+    "w": 46,
+    "h": 25
+   }
+  ],
+  "eds": [
+   {
+    "x": 38,
+    "y": 82,
+    "w": 48,
+    "h": 20
+   },
+   {
+    "x": 80,
+    "y": 150,
+    "w": 172,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 205,
+    "w": 243,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 235,
+    "w": 92,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 313,
+    "w": 211,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 441,
+    "w": 271,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 465,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 505,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 529,
+    "w": 212,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 553,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 577,
+    "w": 189,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 601,
+    "w": 257,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 625,
+    "w": 301,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 649,
+    "w": 317,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 673,
+    "w": 83,
+    "h": 22
+   },
+   {
+    "x": 99,
+    "y": 673,
+    "w": 199,
+    "h": 22
+   },
+   {
+    "x": 298,
+    "y": 673,
+    "w": 34,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 697,
+    "w": 188,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 721,
+    "w": 217,
+    "h": 22
+   },
+   {
+    "x": 233,
+    "y": 721,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 769,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 793,
+    "w": 272,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 817,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 841,
+    "w": 194,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 918,
+    "w": 46,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 978,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1002,
+    "w": 136,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1062,
+    "w": 198,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1126,
+    "w": 202,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1186,
+    "w": 244,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1210,
+    "w": 70,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1270,
+    "w": 193,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1334,
+    "w": 133,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1398,
+    "w": 146,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1462,
+    "w": 178,
+    "h": 22
+   },
+   {
+    "x": 177,
+    "y": 1539,
+    "w": 7,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 1680,
+    "w": 87,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 1735,
+    "w": 317,
+    "h": 20
+   },
+   {
+    "x": 126,
+    "y": 1787,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 106,
+    "y": 1851,
+    "w": 149,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1910,
+    "w": 131,
+    "h": 20
+   },
+   {
+    "x": 40,
+    "y": 1946,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 2000,
+    "w": 231,
+    "h": 20
+   },
+   {
+    "x": 116,
+    "y": 2052,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2111,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 40,
+    "y": 2147,
+    "w": 140,
+    "h": 20
+   },
+   {
+    "x": 40,
+    "y": 2191,
+    "w": 102,
+    "h": 20
+   },
+   {
+    "x": 40,
+    "y": 2235,
+    "w": 31,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 2461,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2500,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2542,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2584,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2626,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2668,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2461,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 2500,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2542,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2584,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2610,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2652,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2694,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2736,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2803,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2842,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2884,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2926,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 2993,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3032,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 3074,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 3116,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 3158,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 3229,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 3229,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 3259,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 3259,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 3289,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 3289,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 3289,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

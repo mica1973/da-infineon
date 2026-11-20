@@ -1,0 +1,46 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://www.infineon.com/de/our-stories/electromobility-greener-future (live side from cache stardust/replica/gates/de-our-stories-electromobility-greener-future-360/chrome-live.json, probed 2026-11-18T04:52:50.270Z — delete the file to re-probe)
+  build: http://localhost:8791/de-our-stories-electromobility-greener-future-proposed.html
+
+■ header: 7 delta(s) — 5 paired of 7/5 texts, 1/1 icons
+  PAIR         "Produkte"  Δx -125px (141→16); Δy -12px (50→38); Δh +24px (0→24)
+  PAIR         "Applikationen"  Δx -40px (125→85); Δy -20px (58→38); Δh +24px (0→24)
+  PAIR         "Designressourcen"  Δx +74px (113→187); Δy -28px (66→38); Δh +24px (0→24)
+  PAIR         "Support & Training"  Δx +204px (109→313); Δy -36px (74→38); Δh +24px (0→24)
+  PAIR         "Über uns"  Δx +305px (142→447); Δy -44px (82→38); Δh +24px (0→24)
+  MISSING      "Deutsch"  live <span> "Deutsch" has no build element with the same text
+  MISSING      "$ US-Dollar"  live <span> "$ US-Dollar" has no build element with the same text
+
+■ footer: 30 delta(s) — 28 paired of 28/28 texts, 2/2 icons
+  REGION BOX   Δy +961px (16550→17511), Δh +54px (1022→1076)
+  PAIR         "Über uns"  Δy +1015px (16630→17645)
+  PAIR         "Unternehmen"  Δy +1015px (16670→17685)
+  PAIR         "Kontakt"  Δy +1015px (16712→17727)
+  PAIR         "Events"  Δy +1015px (16754→17769)
+  PAIR         "Presse"  Δy +1015px (16796→17811)
+  PAIR         "Investor"  Δy +1015px (16838→17853)
+  PAIR         "Quicklinks"  Δy +1015px (16630→17645)
+  PAIR         "Community"  Δy +1015px (16670→17685)
+  PAIR         "Support"  Δy +1015px (16712→17727)
+  PAIR         "Distributoren Partner"  Δy +1015px (16754→17769)
+  PAIR         "Online sampling"  Δy +1015px (16822→17837)
+  PAIR         "Qualität"  Δy +1015px (16864→17879)
+  PAIR         "Website feedback"  Δy +1015px (16906→17921)
+  PAIR         "myInfineon"  Δy +1015px (16972→17987)
+  PAIR         "Vorteile"  Δy +1015px (17012→18027)
+  PAIR         "Profil"  Δy +1015px (17054→18069)
+  PAIR         "Registrierung"  Δy +1015px (17096→18111)
+  PAIR         "Karriere"  Δy +1015px (17162→18177)
+  PAIR         "Übersicht"  Δy +1015px (17202→18217)
+  PAIR         "Jobsuche"  Δy +1015px (17244→18259)
+  PAIR         "Teams"  Δy +1015px (17286→18301)
+  PAIR         "Bewerbungsprozess"  Δy +1015px (17328→18343)
+  PAIR         "Nutzungsbedingungen"  Δy +1015px (17394→18409)
+  PAIR         "Impressum"  Δy +1015px (17394→18409)
+  PAIR         "Datenschutzerklärung"  Δy +1015px (17424→18439)
+  PAIR         "Cookies"  Δy +1015px (17424→18439)
+  PAIR         "© 1999- Infineon Technologies AG"  Δy +1015px (17459→18474)
+  PAIR         "2026"  Δy +1015px (17459→18474)
+  ICON         icon #0: Δh +54px (0→54)
+
+✗ 37 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

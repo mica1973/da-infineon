@@ -1,0 +1,87 @@
+{
+ "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/we-power-ai",
+ "at": "2026-11-18T23:14:44.815Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 2,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 4,
+  "offPage": 4,
+  "textNodes": 146,
+  "controls": 65,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.story-hub-card-title",
+   "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+   "text": "willkommen in der zukunft der effizienten, zuverlässigen und",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.story-hub.rail",
+   "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-type > p",
+   "text": "technologie",
+   "cutMin": 20,
+   "cutMax": 20
+  },
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.story-hub-card-title",
+   "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+   "text": "powering ai psu solutions",
+   "cutMin": 125,
+   "cutMax": 125
+  },
+  {
+   "kind": "CONTROL X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.story-hub.rail",
+   "path": "div.story-hub-card-body > div.story-hub-card-link > p > a",
+   "text": "mehr erfahren",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.story-hub.rail",
+   "path": "div.story-hub-card-body > div.story-hub-card-link > p > a",
+   "text": "mehr erfahren",
+   "cutMin": 2,
+   "cutMax": 2
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 2,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 6,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 2,
+   "offPage": 3,
+   "textNodes": 156,
+   "controls": 56,
+   "total": 2
+  }
+ }
+}

@@ -1,0 +1,321 @@
+{
+  "_provenance": {
+    "writtenBy": "gate-all.mjs",
+    "writtenAt": "2026-11-18T09:02:54.777Z",
+    "stage": "published",
+    "breakpoint": 1440,
+    "threshold": 10,
+    "heightTolerance": 0.05,
+    "clipMax": 0,
+    "unitTol": 4,
+    "criteria": {
+      "pixel": true,
+      "height": true,
+      "clip": true,
+      "content": true
+    },
+    "verdict": "overlap pixel % ≤ 10 AND |Δh| ≤ 5% of origin height AND clipped ≤ 0 (+ documented allowance) AND content MISSING + HIDDEN links/headings = 0",
+    "origin": "https://www.infineon.com",
+    "eds": "http://localhost:3000",
+    "edsHostOverride": "http://localhost:3000",
+    "only": [
+      "de-our-stories-we-power-ai",
+      "de-our-stories-software-defined-vehicles",
+      "de-our-stories-power-infrastructure-renewables",
+      "de-our-stories-artificial-intelligence-in-everyday-life"
+    ]
+  },
+  "totals": {
+    "pages": 4,
+    "pass": 0,
+    "pixelOnlyPass": 0,
+    "overridePass": 0,
+    "fail": 4,
+    "error": 0,
+    "failPixel": 4,
+    "failHeight": 4,
+    "failClip": 0,
+    "failContent": 4,
+    "failUnits": 0,
+    "fontsNotLoaded": 4,
+    "fontChecksSkipped": 0,
+    "contentNA": 0,
+    "asymmetricOrigins": 0,
+    "degradedTier": 0,
+    "passWithOverrides": 0
+  },
+  "rows": [
+    {
+      "slug": "de-our-stories-we-power-ai",
+      "path": "/de/our-stories/we-power-ai",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 38.41,
+      "textPct": 11.32,
+      "heightDelta": 8843,
+      "originH": 9743,
+      "edsH": 900,
+      "pixelPass": false,
+      "heightPass": false,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": false,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "height",
+        "content",
+        "fonts"
+      ],
+      "unwaived": [
+        "pixel",
+        "height",
+        "content",
+        "fonts"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 38.41% > 10%",
+        "Δh 8843px > 5% of 9743",
+        "content MISSING 4 / HIDDEN 0",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 4,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 1,
+        "hiddenButtons": 0,
+        "findings": 11,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": null,
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "0-500:65.2%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-software-defined-vehicles",
+      "path": "/de/our-stories/software-defined-vehicles",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 35.52,
+      "textPct": 12.12,
+      "heightDelta": 11918,
+      "originH": 12818,
+      "edsH": 900,
+      "pixelPass": false,
+      "heightPass": false,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": false,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "height",
+        "content",
+        "fonts"
+      ],
+      "unwaived": [
+        "pixel",
+        "height",
+        "content",
+        "fonts"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 35.52% > 10%",
+        "Δh 11918px > 5% of 12818",
+        "content MISSING 4 / HIDDEN 0",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 4,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 1,
+        "hiddenButtons": 0,
+        "findings": 11,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": null,
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "0-500:60.3%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-power-infrastructure-renewables",
+      "path": "/de/our-stories/power-infrastructure-renewables",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 30.46,
+      "textPct": 12.3,
+      "heightDelta": 10768,
+      "originH": 11668,
+      "edsH": 900,
+      "pixelPass": false,
+      "heightPass": false,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": false,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "height",
+        "content",
+        "fonts"
+      ],
+      "unwaived": [
+        "pixel",
+        "height",
+        "content",
+        "fonts"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 30.46% > 10%",
+        "Δh 10768px > 5% of 11668",
+        "content MISSING 4 / HIDDEN 0",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 4,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 1,
+        "hiddenButtons": 0,
+        "findings": 11,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": null,
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "0-500:51.4%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "de-our-stories-artificial-intelligence-in-everyday-life",
+      "path": "/de/our-stories/artificial-intelligence-in-everyday-life",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 31.94,
+      "textPct": 11.47,
+      "heightDelta": 9516,
+      "originH": 10416,
+      "edsH": 900,
+      "pixelPass": false,
+      "heightPass": false,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": false,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel",
+        "height",
+        "content",
+        "fonts"
+      ],
+      "unwaived": [
+        "pixel",
+        "height",
+        "content",
+        "fonts"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 31.94% > 10%",
+        "Δh 9516px > 5% of 10416",
+        "content MISSING 4 / HIDDEN 0",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 4,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 1,
+        "hiddenButtons": 0,
+        "findings": 11,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": null,
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "0-500:53.8%"
+      ],
+      "error": null
+    }
+  ]
+}

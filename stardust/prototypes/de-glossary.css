@@ -1,0 +1,97 @@
+/* ==========================================================================
+   Reference archetype (Glossar) — de-glossary. Loaded after canon.css.
+   Values lifted from live computed styles (measure.mjs @1440/@360) and source CSS
+   (clientlib-common .accordion-comp, clientlib-head accordion icon glyphs, clientlib-generic .pageheader-comp).
+   ========================================================================== */
+
+/* page-local icon glyphs (codepoints from clientlib-head) — canon back-port candidates */
+.icon-share::before { content: "\ea1c"; }
+.icon-star::before { content: "\ea2c"; }
+.icon-link::before { content: "\e9d4"; }
+.icon-mail::before { content: "\e9dd"; }
+.icon-wechat::before { content: "\ea5e"; }
+.icon-accordion-circle-custom::before { content: "\e936"; }
+.accordion-header > .collapsed .icon-accordion-circle-custom::before { content: "\e933"; }
+
+/* ---------- breadcrumb row (same component as the article archetype) ---------- */
+.art-crumbs { display: flex; justify-content: space-between; align-items: center; min-height: 63px; }
+.art-crumbs__links { padding: 16px 40px 16px 0; }
+.art-crumbs__row { display: flex; flex-wrap: wrap; font-size: 14px; line-height: 20px; }
+.art-crumbs__last { display: flex; align-items: center; }
+.art-crumbs__current { margin: 0; }
+.icon-divider::before { content: "\ea6e"; }
+.art-crumbs__links .icon-divider { margin: .22rem .75rem; font-size: 14px; }
+.art-crumbs__arrow { display: none !important; } /* source: .breadcrumb-arrow.d-none (glyph present, never shown) */
+.art-crumbs__links a { border-bottom: 1px solid var(--ifx-ink); }
+.art-crumbs__mobile { display: none; }
+.art-share { position: relative; display: flex; align-items: center; }
+.art-share__btn, .art-share__star { display: flex; padding: 1px 0 1px 6px; color: #000; font-size: 16px; line-height: 16px; background: none; border: 0; cursor: pointer; }
+.art-share__star { padding-left: 16px; }
+.art-share__menu { position: absolute; right: 0; top: 100%; z-index: 5; min-width: 180px; padding: 8px 0; background: #fff;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, .16); }
+.art-share__menu a { display: flex; gap: 8px; align-items: center; padding: 8px 16px; }
+.art-wechat { position: fixed; inset: 0; z-index: 50; display: grid; place-content: center; gap: 8px; padding: 24px; background: #fff; }
+.art-wechat[hidden] { display: none; }
+
+/* ---------- simple page header band ---------- */
+.gl-head { background: var(--ifx-surface-band); margin-bottom: 48px; }
+.gl-head > .ifx-fixed { padding-top: 48px; padding-bottom: 64px; }
+.gl-head__title { font-size: 28px; line-height: 36px; font-weight: 600; letter-spacing: -.28px; }
+
+/* ---------- glossary body ---------- */
+.mb8 { margin-bottom: 8px; }
+.mb16 { margin-bottom: 16px; }
+.mb32 { margin-bottom: 32px; }
+.mb48 { margin-bottom: 48px; }
+.mbd { margin-bottom: 24px; }
+.gl-h1 { font-size: 44px; line-height: 56px; font-weight: 600; letter-spacing: -.44px; }
+.gl-h2 { font-size: 36px; line-height: 48px; font-weight: 600; letter-spacing: -.36px; }
+.gl-term { font-size: 18px; line-height: 26px; font-weight: 600; letter-spacing: -.18px; }
+.gl-h1, .gl-h2 { scroll-margin-top: 16px; }
+.gl-text { color: var(--ifx-stone-text); font-size: 18px; line-height: 26px; }
+.gl-text p { margin: 0 0 16px; }
+.gl-text p:last-child { margin-bottom: 0; }
+.gl-text b { font-weight: 600; }
+.gl-text a { color: var(--ifx-teal); }
+.gl-text a:hover { text-decoration: underline; }
+
+/* accordion (clientlib-common .accordion-comp) */
+.accordion-comp.mbd { display: block; }
+.accordion-entry { margin: 24px 0; }
+.accordion-item { padding: 0 0 16px; border-bottom: 1px solid var(--ifx-surface-muted); background: #fff; border-radius: 4px; }
+.accordion-item.accordion-item-open { padding-bottom: 16px; }
+.accordion-button { display: flex; align-items: flex-start; gap: 16px; min-height: 44px; margin: 0 0 8px; padding: 0 0 8px; width: 100%;
+  color: #212529; font-size: 16px; line-height: 20px; font-weight: 600; letter-spacing: -.16px; cursor: pointer;
+  background-color: transparent; border-radius: 0;
+  transition: color .15s ease-in-out, background-color .15s ease-in-out, border-radius .15s ease; }
+.accordion-button.collapsed { background-color: #fff; border-bottom-left-radius: 4px; border-bottom-right-radius: 4px; }
+.accordion-button:not(.collapsed) { color: #000; }
+.accordion-button:focus-visible { outline: 2px solid var(--ifx-teal); outline-offset: 2px; }
+.clickable-icon { display: inline-flex; align-items: center; justify-content: center; flex: 0 0 32px; width: 32px; height: 32px; margin-left: auto; }
+.clickable-icon .icon { color: var(--ifx-teal); font-size: 32px; line-height: 32px; }
+.accordion-collapse { display: none; overflow: hidden; }
+.accordion-item-open .accordion-collapse, .accordion-collapse.show { display: block; }
+.accordion-collapse.collapsing { display: block; height: 0; transition: height .35s ease; }
+.accordion-body-inner { display: flow-root; padding: 4px 0 8px; }
+
+@media (max-width: 991px) {
+  .art-crumbs { min-height: 63px; }
+  .art-crumbs__links { display: none; }
+  .art-crumbs__mobile { display: flex; align-items: center; font-size: 14px; line-height: 20px; padding: 16px 35px 16px 0; }
+  .art-crumbs__mobile .icon { margin-right: 8px; }
+  .art-crumbs__mobile a { border-bottom: 1px solid var(--ifx-ink); }
+  .gl-head { margin-bottom: 24px; }
+  .gl-head > .ifx-fixed { padding-top: 24px; padding-bottom: 24px; }
+  .gl-head__title { font-size: 22px; line-height: 30px; letter-spacing: -.22px; }
+  .gl-h1 { font-size: 32px; line-height: 44px; letter-spacing: -.32px; }
+  .gl-h2 { font-size: 26px; line-height: 36px; letter-spacing: -.26px; }
+  .gl-term { font-size: 14px; line-height: 20px; letter-spacing: -.14px; }
+  .mbd { margin-bottom: 16px; }
+}
+@media (max-width: 575px) {
+  .mb32 { margin-bottom: 16px; }
+  .mb48 { margin-bottom: 24px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .accordion-collapse.collapsing, .accordion-button { transition: none; }
+}

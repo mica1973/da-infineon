@@ -1,0 +1,46 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization (live side from cache stardust/replica/gates/de-our-stories-semiconductors-driving-decarbonization-360/chrome-live.json, probed 2026-11-18T04:51:40.649Z — delete the file to re-probe)
+  build: http://localhost:8791/de-our-stories-semiconductors-driving-decarbonization-proposed.html
+
+■ header: 7 delta(s) — 5 paired of 7/5 texts, 1/1 icons
+  PAIR         "Produkte"  Δx -125px (141→16); Δy -12px (50→38); Δh +24px (0→24)
+  PAIR         "Applikationen"  Δx -40px (125→85); Δy -20px (58→38); Δh +24px (0→24)
+  PAIR         "Designressourcen"  Δx +74px (113→187); Δy -28px (66→38); Δh +24px (0→24)
+  PAIR         "Support & Training"  Δx +204px (109→313); Δy -36px (74→38); Δh +24px (0→24)
+  PAIR         "Über uns"  Δx +305px (142→447); Δy -44px (82→38); Δh +24px (0→24)
+  MISSING      "Deutsch"  live <span> "Deutsch" has no build element with the same text
+  MISSING      "$ US-Dollar"  live <span> "$ US-Dollar" has no build element with the same text
+
+■ footer: 30 delta(s) — 28 paired of 28/28 texts, 2/2 icons
+  REGION BOX   Δy +1180px (9603→10783), Δh +54px (1022→1076)
+  PAIR         "Über uns"  Δy +1235px (9683→10918)
+  PAIR         "Unternehmen"  Δy +1235px (9723→10958)
+  PAIR         "Kontakt"  Δy +1235px (9765→11000)
+  PAIR         "Events"  Δy +1235px (9807→11042)
+  PAIR         "Presse"  Δy +1235px (9849→11084)
+  PAIR         "Investor"  Δy +1235px (9891→11126)
+  PAIR         "Quicklinks"  Δy +1235px (9683→10918)
+  PAIR         "Community"  Δy +1235px (9723→10958)
+  PAIR         "Support"  Δy +1235px (9765→11000)
+  PAIR         "Distributoren Partner"  Δy +1235px (9807→11042)
+  PAIR         "Online sampling"  Δy +1235px (9875→11110)
+  PAIR         "Qualität"  Δy +1235px (9917→11152)
+  PAIR         "Website feedback"  Δy +1235px (9959→11194)
+  PAIR         "myInfineon"  Δy +1235px (10025→11260)
+  PAIR         "Vorteile"  Δy +1235px (10065→11300)
+  PAIR         "Profil"  Δy +1235px (10107→11342)
+  PAIR         "Registrierung"  Δy +1235px (10149→11384)
+  PAIR         "Karriere"  Δy +1235px (10215→11450)
+  PAIR         "Übersicht"  Δy +1235px (10255→11490)
+  PAIR         "Jobsuche"  Δy +1235px (10297→11532)
+  PAIR         "Teams"  Δy +1235px (10339→11574)
+  PAIR         "Bewerbungsprozess"  Δy +1235px (10381→11616)
+  PAIR         "Nutzungsbedingungen"  Δy +1235px (10447→11682)
+  PAIR         "Impressum"  Δy +1235px (10447→11682)
+  PAIR         "Datenschutzerklärung"  Δy +1235px (10477→11712)
+  PAIR         "Cookies"  Δy +1235px (10477→11712)
+  PAIR         "© 1999- Infineon Technologies AG"  Δy +1235px (10512→11747)
+  PAIR         "2026"  Δy +1235px (10512→11747)
+  ICON         icon #0: Δh +54px (0→54)
+
+✗ 37 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

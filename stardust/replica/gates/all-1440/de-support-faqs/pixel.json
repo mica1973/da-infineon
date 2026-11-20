@@ -1,0 +1,47 @@
+{
+  "a": "stardust/replica/gates/all-1440/de-support-faqs/origin.png",
+  "b": "stardust/replica/gates/all-1440/de-support-faqs/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 2422,
+    "mode": "overlap"
+  },
+  "heightDelta": -27,
+  "differingPixels": 120996,
+  "pct": 3.47,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/de-support-faqs/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 10.56,
+  "textBoxes": 94,
+  "textPixels": 315466,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 1.5
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 4.2
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 1.1
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 8.6
+    },
+    {
+      "y0": 2000,
+      "y1": 2422,
+      "pct": 1.7
+    }
+  ]
+}

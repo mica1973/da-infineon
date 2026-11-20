@@ -1,0 +1,119 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics check",
+  "writtenAt": "2026-11-18T16:58:12.080Z",
+  "origin": "https://main--938eead7--aemcoder.aem.live",
+  "parity": "stardust/dynamics/parity.json",
+  "contract": "stardust/martech-contract.json"
+ },
+ "results": [
+  {
+   "feature": "Tag stack (GTM route)",
+   "id": "martech-stack",
+   "class": "T",
+   "status": "scaffolded-awaiting-owner",
+   "type": "martech",
+   "pass": true,
+   "detail": "no tag host requested (1 gated · 0 cross-site host(s) blocked)",
+   "thirdParty": "",
+   "ms": 6398,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Tag stack (GTM route)",
+   "id": "martech-stack",
+   "class": "T",
+   "status": "scaffolded-awaiting-owner",
+   "type": "martech",
+   "pass": true,
+   "detail": "no tag host requested (1 gated · 0 cross-site host(s) blocked)",
+   "thirdParty": "",
+   "ms": 6157,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Consent: OneTrust CMP",
+   "id": "consent-onetrust",
+   "class": "T",
+   "status": "scaffolded-awaiting-owner",
+   "type": "consent-gate",
+   "pass": true,
+   "detail": "no request to 3 gated host pattern(s) before consent",
+   "thirdParty": "",
+   "ms": 5997,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Dynamic Media (Scene7) video",
+   "id": "s7-video",
+   "class": "V",
+   "status": "done",
+   "type": "video-plays",
+   "pass": true,
+   "detail": "iframe/video: false · video playing (Δt 0.80s)",
+   "thirdParty": "assets.infineon.com:206×1",
+   "ms": 8544,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Tab set (careers)",
+   "id": "tabs",
+   "class": "CR",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "4 × .tabs [role=tab] (min 2)",
+   "thirdParty": "",
+   "ms": 2092,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Header search typeahead",
+   "id": "site-search",
+   "class": "S",
+   "status": "done",
+   "type": "fetch-json",
+   "pass": false,
+   "detail": "404 · -1 rows",
+   "thirdParty": "",
+   "ms": 1956,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Header menus and drawer",
+   "id": "modals-chrome",
+   "class": "M",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "10 × header [aria-haspopup] (min 1)",
+   "thirdParty": "",
+   "ms": 1960,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Header menus and drawer",
+   "id": "modals-chrome",
+   "class": "M",
+   "status": "done",
+   "type": "no-page-errors",
+   "pass": false,
+   "detail": "error: c.paths is not iterable",
+   "thirdParty": "",
+   "ms": 1,
+   "environmentLimit": null
+  },
+  {
+   "feature": "martech: consent + tag routing",
+   "id": "martech",
+   "class": "T",
+   "status": "scaffolded-off",
+   "type": "martech",
+   "pass": true,
+   "detail": "no tag host requested (1 gated · 0 cross-site host(s) blocked)",
+   "thirdParty": "",
+   "ms": 6141,
+   "environmentLimit": null
+  }
+ ]
+}

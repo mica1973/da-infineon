@@ -1,0 +1,87 @@
+{
+ "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/artificial-intelligence-semiconductors",
+ "at": "2026-11-18T23:14:40.822Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 3,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 6,
+  "offPage": 4,
+  "textNodes": 138,
+  "controls": 76,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 3,
+   "clipper": "div.story-hub-card-title",
+   "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+   "text": "wir ermöglichen und bieten ki - für zuverlässige und effizie",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.story-hub.rail",
+   "path": "div.story-hub-card-body > div.story-hub-card-link > p > a",
+   "text": "mehr entdecken",
+   "cutMin": 63,
+   "cutMax": 63
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.story-hub.rail",
+   "path": "div.story-hub-card-body > div.story-hub-card-link > p > a",
+   "text": "mehr entdecken",
+   "cutMin": 39,
+   "cutMax": 39
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.story-hub-card-title",
+   "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+   "text": "making the world run smoother with invisible intelligence",
+   "cutMin": 231,
+   "cutMax": 231
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.story-hub-card-type",
+   "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-type > p",
+   "text": "presseinformationen",
+   "cutMin": 124,
+   "cutMax": 124
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 3,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 4,
+   "offPage": 3,
+   "textNodes": 137,
+   "controls": 68,
+   "total": 0
+  }
+ }
+}

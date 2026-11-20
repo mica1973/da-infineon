@@ -1,0 +1,127 @@
+/* document-card: featured single document download (live .singledocumentdownload) */
+.document-card .document-card-inner {
+  padding-top: 40px;
+  padding-bottom: 32px;
+}
+
+.document-card .document-card-media :is(picture, img) {
+  display: block;
+  box-sizing: border-box;
+  width: 190px;
+  height: 266px;
+  border: 1px solid var(--ifx-border);
+  object-fit: contain;
+}
+
+.document-card .document-card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.document-card .document-card-head :is(h2, h3, h4) {
+  margin: 0;
+  color: var(--ifx-ink);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: -0.2px;
+}
+
+.document-card .document-card-desc p {
+  margin: 8px 0 0;
+  color: var(--ifx-stone-text);
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.document-card .document-card-meta {
+  margin-top: 24px;
+}
+
+.document-card .document-card-meta ul::before {
+  content: '\e98d';
+  margin-right: 8px;
+  color: var(--ifx-ink);
+  font-family: var(--ifx-icon-font);
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.document-card .document-card-meta ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  row-gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: var(--ifx-stone-text);
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.document-card .document-card-meta li {
+  display: flex;
+  align-items: center;
+}
+
+.document-card .document-card-meta li:not(:last-child)::after {
+  content: '\eab5';
+  margin: 0 16px;
+  color: var(--ifx-border);
+  font-family: var(--ifx-icon-font);
+  font-size: 4px;
+  line-height: 20px;
+}
+
+.document-card .document-card-meta li[data-role='type'] {
+  color: var(--ifx-ink);
+  font-weight: 600;
+}
+
+.document-card .document-card-meta li[data-role='access'] {
+  color: var(--ifx-ink);
+}
+
+.document-card .document-card-meta li[data-role='format'] {
+  text-transform: uppercase;
+}
+
+.document-card .document-card-link p {
+  margin: 24px 0 0;
+}
+
+.document-card .document-card-link a:any-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--ifx-teal);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.document-card .document-card-link a:any-link::before {
+  content: '\e96e';
+  font-family: var(--ifx-icon-font);
+  font-weight: 400;
+}
+
+@media (width >= 992px) {
+  .document-card .document-card-inner {
+    padding-bottom: 80px;
+  }
+
+  .document-card .document-card-row {
+    display: flex;
+    align-items: center;
+    gap: 64px;
+  }
+
+  .document-card .document-card-head :is(h2, h3, h4) {
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -0.24px;
+  }
+}

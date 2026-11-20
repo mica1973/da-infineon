@@ -1,0 +1,4971 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:37:54.878Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/emission-saving-potential-freight-transportation",
+  "at": "2026-11-18T23:37:33.030Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6745,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button#searchicon-items",
+    "x": 164,
+    "y": 14,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-0",
+    "x": 220,
+    "y": 15,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.usericon-item.d-block",
+    "x": 260,
+    "y": 17,
+    "w": 40,
+    "h": 25,
+    "text": "user profile"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav > div.articleBreadcrumb-mobileview.breadcrumb-item > a.text-decoration-none",
+    "x": 46,
+    "y": 77,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 0,
+    "y": 116,
+    "w": 360,
+    "h": 203,
+    "text": "man in a vehicle",
+    "file": "freight-transport-man-in-a-vehicle.jpg:a"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 32,
+    "y": 287,
+    "w": 296,
+    "h": 176,
+    "level": 1,
+    "text": "grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 32,
+    "y": 479,
+    "w": 296,
+    "h": 192,
+    "text": "Der Güterverkehr ist der Motor des Wohlstands in der modernen Gesellschaft. Er e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 32,
+    "y": 687,
+    "w": 111,
+    "h": 28,
+    "text": "Elektromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 56,
+    "y": 731,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 132,
+    "y": 731,
+    "w": 72,
+    "h": 20,
+    "level": 4,
+    "text": "juli 11, 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 841,
+    "w": 238,
+    "h": 48,
+    "text": "nutzfahrzeuge umweltfreundlicher gestalten: eine notwendige aufgabe",
+    "href": "/de/our-stories/emission-saving-potential-freight-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 901,
+    "w": 217,
+    "h": 48,
+    "text": "mobilitäts-tech-talk: intelligente lösungen mit halbleitern",
+    "href": "/de/our-stories/emission-saving-potential-freight-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 961,
+    "w": 208,
+    "h": 48,
+    "text": "infineon's position im markt für nutzfahrzeuge",
+    "href": "/de/our-stories/emission-saving-potential-freight-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 1021,
+    "w": 250,
+    "h": 48,
+    "text": "entdecken sie unser produktportfolio für nutzfahrzeuge:",
+    "href": "/de/our-stories/emission-saving-potential-freight-transportation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > p",
+    "x": 40,
+    "y": 807,
+    "w": 177,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-2ab0a9979c > h2#anch1",
+    "x": 16,
+    "y": 1119,
+    "w": 328,
+    "h": 90,
+    "level": 2,
+    "text": "nutzfahrzeuge umweltfreundlicher gestalten: eine notwendige aufgabe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-e91d9b3434 > p",
+    "x": 16,
+    "y": 1225,
+    "w": 328,
+    "h": 546,
+    "text": "Die Verkehrswirtschaft befindet sich in einem tiefgreifenden Wandel, der durch d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-25145c7e9f > h2#techtalk",
+    "x": 16,
+    "y": 1787,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "mobilitäts-tech-talk: intelligente lösungen mit halbleitern"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-0e27698992 > p",
+    "x": 16,
+    "y": 1863,
+    "w": 328,
+    "h": 156,
+    "text": "In einem 10-minütigen Interview spricht Vincent Usseglio, Director OEM Business "
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#ext_video_0_container_inner > div#ext_video_0_videoPlayer > div#IconEffect_s7classic_1B",
+    "x": 140,
+    "y": 2087,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-ddcb051582 > h2.dynamicAnchors.heading-05",
+    "x": 16,
+    "y": 2283,
+    "w": 328,
+    "h": 26,
+    "level": 2,
+    "text": "aktuelle trends"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-9e0aa69a83 > ul > li",
+    "x": 16,
+    "y": 2325,
+    "w": 328,
+    "h": 240,
+    "text": "nehmen immer mehr zu und sind bereits auf den Straßen der Innenstädte Europas un"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-9e0aa69a83 > ul > li",
+    "x": 16,
+    "y": 2565,
+    "w": 328,
+    "h": 162,
+    "text": "gewinnen zunehmend an Bedeutung. Für dieses Marktsegment besteht insbesondere im"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-9e0aa69a83 > ul > li",
+    "x": 16,
+    "y": 2727,
+    "w": 328,
+    "h": 396,
+    "text": "werden eine entscheidende Rolle bei der Flottensteuerung und den Transaktionspro"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-9e0aa69a83 > ul > li",
+    "x": 16,
+    "y": 3123,
+    "w": 328,
+    "h": 266,
+    "text": "hat das Potenzial, die Kosten zu senken, die Sicherheit zu erhöhen und die CO₂-E"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 3405,
+    "w": 328,
+    "h": 184,
+    "text": "commercial vehicles",
+    "file": "lowres-etruck-charging.png:asset-680-16x"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-f356595bc4 > h2#market",
+    "x": 16,
+    "y": 3605,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "infineon's position im markt für nutzfahrzeuge"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-75a94b33e3 > p",
+    "x": 16,
+    "y": 3681,
+    "w": 328,
+    "h": 416,
+    "text": "Infineon treibt die Transformation des Marktes für Nutzfahrzeuge mit zuverlässig"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-754551af86 > h2#vehicles",
+    "x": 40,
+    "y": 4137,
+    "w": 280,
+    "h": 90,
+    "level": 2,
+    "text": "entdecken sie unser produktportfolio für nutzfahrzeuge:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4245,
+    "w": 64,
+    "h": 22,
+    "text": "coolsic™",
+    "href": "/technology/silicon-carbide-sic"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4287,
+    "w": 133,
+    "h": 22,
+    "text": "hybridpack™ drive",
+    "href": "/products/power/igbt/automotive-qualified-igbts/coolsic-mosfet-modules/hybridpack-drive-dc6"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4329,
+    "w": 109,
+    "h": 22,
+    "text": "primepack™.xt",
+    "href": "/product-information/power/igbt/igbt-modules/primepack"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4371,
+    "w": 88,
+    "h": 22,
+    "text": "econodual™",
+    "href": "/product-information/power/igbt/igbt-modules/econo/econodual-3"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4413,
+    "w": 72,
+    "h": 22,
+    "text": "optireg™",
+    "href": "/products/power/power-supply-ics/linear-voltage-regulators"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4455,
+    "w": 110,
+    "h": 22,
+    "text": "optireg™ pmic",
+    "href": "/products/power/power-supply-ics/optireg-pmic"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4497,
+    "w": 66,
+    "h": 22,
+    "text": "profet™",
+    "href": "/products/power/smart-power-switches/high-side-switches"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4539,
+    "w": 53,
+    "h": 22,
+    "text": "aurix™",
+    "href": "/products/microcontroller/32-bit-tricore"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4581,
+    "w": 61,
+    "h": 22,
+    "text": "xensiv™",
+    "href": "/products/sensor/current-sensors"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4623,
+    "w": 157,
+    "h": 22,
+    "text": "automotive gate driver",
+    "href": "/products/power/gate-driver-ics/automotive"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4665,
+    "w": 140,
+    "h": 22,
+    "text": "automotive mosfet",
+    "href": "/products/power/mosfet/automotive-mosfet"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4707,
+    "w": 201,
+    "h": 22,
+    "text": "automotive can transceivers",
+    "href": "/products/transceivers/automotive/can-transceivers"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_ifxcontainer_1774085286_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 16,
+    "y": 4795,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "weiterführende inhalte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 20,
+    "y": 4855,
+    "w": 316,
+    "h": 160,
+    "text": "applikation",
+    "file": "young-woman-charging-an-fuell-cell-car.p"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 44,
+    "y": 5031,
+    "w": 268,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 44,
+    "y": 5075,
+    "w": 268,
+    "h": 52,
+    "text": "Fuel-cell electric vehicle (FCEV) powertrain system"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 44,
+    "y": 5151,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/automotive/electric-drivetrain/fuel-cell-ev-powertrain"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 356,
+    "y": 4855,
+    "w": 316,
+    "h": 160,
+    "text": "applikation",
+    "file": "lowres-freight.png:asset-680-2x1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 16,
+    "y": 5301,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 16,
+    "y": 5389,
+    "w": 328,
+    "h": 120,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 16,
+    "y": 5541,
+    "w": 328,
+    "h": 48,
+    "text": "abonnieren",
+    "href": "/de/our-stories/emission-saving-potential-freight-transportation"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 16,
+    "y": 5709,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 5803,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 5843,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 5885,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 5927,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 5969,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6011,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 196,
+    "y": 5803,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 5843,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 5885,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 5927,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 5995,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6037,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6079,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 6145,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6185,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6227,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6269,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 32,
+    "y": 6335,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 6375,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 6417,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 6459,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 6501,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 6567,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 192,
+    "y": 6567,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 6597,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 21,
+    "y": 6632,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 16,
+    "y": 6685,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 56,
+    "y": 6685,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 96,
+    "y": 6685,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 136,
+    "y": 6682,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 136,
+    "y": 6686,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 176,
+    "y": 6685,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 1,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 6,
+    "textNodes": 89,
+    "controls": 54,
+    "total": 1
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLIPPED",
+     "advisory": false,
+     "n": 1,
+     "clipper": "p.preheadline",
+     "path": "div.card > div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+     "text": "fuel-cell electric vehicle (fcev) powertrain system",
+     "cutMin": 4,
+     "cutMax": 4
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/emission-saving-potential-freight-transportation",
+  "at": "2026-11-18T23:37:54.755Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6807,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "label": "search",
+    "value": "search",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.article-hero-crumbs > div.article-hero-back > a",
+    "x": 36,
+    "y": 77,
+    "w": 63,
+    "h": 20,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 0,
+    "y": 116,
+    "w": 360,
+    "h": 203,
+    "text": "man in a vehicle",
+    "file": "media_16c5e8df4232348fbb37ab4e3bcdb510ab"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#grüner-güterverkehr-emissionsreduzierung-durch-intelligentere-transportlösungen",
+    "x": 32,
+    "y": 287,
+    "w": 296,
+    "h": 176,
+    "level": 1,
+    "text": "grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 32,
+    "y": 479,
+    "w": 296,
+    "h": 192,
+    "text": "Der Güterverkehr ist der Motor des Wohlstands in der modernen Gesellschaft. Er e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 32,
+    "y": 687,
+    "w": 111,
+    "h": 28,
+    "text": "Elektromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 56,
+    "y": 731,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#juli-11-2025",
+    "x": 132,
+    "y": 731,
+    "w": 72,
+    "h": 20,
+    "level": 4,
+    "text": "juli 11, 2025"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-toc.block > div.article-toc-label > p",
+    "x": 40,
+    "y": 807,
+    "w": 280,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 841,
+    "w": 238,
+    "h": 48,
+    "text": "nutzfahrzeuge umweltfreundlicher gestalten: eine notwendige aufgabe",
+    "href": "/de/our-stories/emission-saving-potential-freight-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 901,
+    "w": 217,
+    "h": 48,
+    "text": "mobilitäts-tech-talk: intelligente lösungen mit halbleitern",
+    "href": "/de/our-stories/emission-saving-potential-freight-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 961,
+    "w": 208,
+    "h": 48,
+    "text": "infineon's position im markt für nutzfahrzeuge",
+    "href": "/de/our-stories/emission-saving-potential-freight-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 1021,
+    "w": 250,
+    "h": 48,
+    "text": "entdecken sie unser produktportfolio für nutzfahrzeuge:",
+    "href": "/de/our-stories/emission-saving-potential-freight-transportation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32-x-32 > div.default-content-wrapper > h2#nutzfahrzeuge-umweltfreundlicher-gestalten-eine-notwendige-aufgabe",
+    "x": 16,
+    "y": 1119,
+    "w": 328,
+    "h": 90,
+    "level": 2,
+    "text": "nutzfahrzeuge umweltfreundlicher gestalten: eine notwendige aufgabe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 1225,
+    "w": 328,
+    "h": 546,
+    "text": "Die Verkehrswirtschaft befindet sich in einem tiefgreifenden Wandel, der durch d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32-x-32 > div.default-content-wrapper > h2#mobilitäts-tech-talk-intelligente-lösungen-mit-halbleitern",
+    "x": 16,
+    "y": 1787,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "mobilitäts-tech-talk: intelligente lösungen mit halbleitern"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 1863,
+    "w": 328,
+    "h": 156,
+    "text": "In einem 10-minütigen Interview spricht Vincent Usseglio, Director OEM Business "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 2035,
+    "w": 328,
+    "h": 185,
+    "text": "",
+    "file": "media_1675d6c3d08efc7bd11ab80ee94524d4c7"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-wrapper > div.story-hub.video > button.story-hub-video-play",
+    "x": 140,
+    "y": 2087,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32-x-32 > div.default-content-wrapper > h5#aktuelle-trends",
+    "x": 16,
+    "y": 2295,
+    "w": 328,
+    "h": 26,
+    "level": 5,
+    "text": "aktuelle trends"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 16,
+    "y": 2337,
+    "w": 328,
+    "h": 240,
+    "text": "nehmen immer mehr zu und sind bereits auf den Straßen der Innenstädte Europas un"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 16,
+    "y": 2577,
+    "w": 328,
+    "h": 162,
+    "text": "gewinnen zunehmend an Bedeutung. Für dieses Marktsegment besteht insbesondere im"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 16,
+    "y": 2739,
+    "w": 328,
+    "h": 396,
+    "text": "werden eine entscheidende Rolle bei der Flottensteuerung und den Transaktionspro"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 16,
+    "y": 3135,
+    "w": 328,
+    "h": 266,
+    "text": "hat das Potenzial, die Kosten zu senken, die Sicherheit zu erhöhen und die CO₂-E"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-32 > picture > img",
+    "x": 16,
+    "y": 3417,
+    "w": 328,
+    "h": 185,
+    "text": "commercial vehicles",
+    "file": "media_1c36db3165f5b981a78e8f104181290108"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32-x-32 > div.default-content-wrapper > h2#infineons-position-im-markt-für-nutzfahrzeuge",
+    "x": 16,
+    "y": 3617,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "infineon's position im markt für nutzfahrzeuge"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hg-x-32-x-32 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 3693,
+    "w": 328,
+    "h": 416,
+    "text": "Infineon treibt die Transformation des Marktes für Nutzfahrzeuge mit zuverlässig"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head > h2#entdecken-sie-unser-produktportfolio-für-nutzfahrzeuge",
+    "x": 40,
+    "y": 4157,
+    "w": 280,
+    "h": 90,
+    "level": 2,
+    "text": "entdecken sie unser produktportfolio für nutzfahrzeuge:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4265,
+    "w": 64,
+    "h": 22,
+    "text": "coolsic™",
+    "href": "/technology/silicon-carbide-sic"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4307,
+    "w": 133,
+    "h": 22,
+    "text": "hybridpack™ drive",
+    "href": "/products/power/igbt/automotive-qualified-igbts/coolsic-mosfet-modules/hybridpack-drive-dc6"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4349,
+    "w": 109,
+    "h": 22,
+    "text": "primepack™.xt",
+    "href": "/product-information/power/igbt/igbt-modules/primepack"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4391,
+    "w": 88,
+    "h": 22,
+    "text": "econodual™",
+    "href": "/product-information/power/igbt/igbt-modules/econo/econodual-3"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4433,
+    "w": 72,
+    "h": 22,
+    "text": "optireg™",
+    "href": "/products/power/power-supply-ics/linear-voltage-regulators"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4475,
+    "w": 110,
+    "h": 22,
+    "text": "optireg™ pmic",
+    "href": "/products/power/power-supply-ics/optireg-pmic"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4517,
+    "w": 66,
+    "h": 22,
+    "text": "profet™",
+    "href": "/products/power/smart-power-switches/high-side-switches"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4559,
+    "w": 53,
+    "h": 22,
+    "text": "aurix™",
+    "href": "/products/microcontroller/32-bit-tricore"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4601,
+    "w": 61,
+    "h": 22,
+    "text": "xensiv™",
+    "href": "/products/sensor/current-sensors"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4643,
+    "w": 157,
+    "h": 22,
+    "text": "automotive gate driver",
+    "href": "/products/power/gate-driver-ics/automotive"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4685,
+    "w": 140,
+    "h": 22,
+    "text": "automotive mosfet",
+    "href": "/products/power/mosfet/automotive-mosfet"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4727,
+    "w": 201,
+    "h": 22,
+    "text": "automotive can transceivers",
+    "href": "/products/transceivers/automotive/can-transceivers"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#weiterführende-inhalte",
+    "x": 16,
+    "y": 4847,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "weiterführende inhalte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 20,
+    "y": 4907,
+    "w": 316,
+    "h": 160,
+    "text": "applikation",
+    "file": "media_158265ed65be7448b929f189addf71353f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 44,
+    "y": 5083,
+    "w": 268,
+    "h": 28,
+    "text": "Applikation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 44,
+    "y": 5127,
+    "w": 268,
+    "h": 56,
+    "text": "Fuel-cell electric vehicle (FCEV) powertrain system"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 44,
+    "y": 5205,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/applications/automotive/electric-drivetrain/fuel-cell-ev-powertrain"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 356,
+    "y": 4907,
+    "w": 316,
+    "h": 160,
+    "text": "applikation",
+    "file": "media_1555ed865e4ea5ff7ce136715c51a7811a"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#abonnieren-sie-die-marketingkommunikation",
+    "x": 16,
+    "y": 5354,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 16,
+    "y": 5442,
+    "w": 328,
+    "h": 120,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 5594,
+    "w": 328,
+    "h": 50,
+    "text": "abonnieren",
+    "href": "/de/our-stories/emission-saving-potential-freight-transportation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 16,
+    "y": 5802,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 16,
+    "y": 5764,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 5865,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5905,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5947,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5989,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6031,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6073,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 196,
+    "y": 5865,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 5905,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 5947,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 5989,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6057,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6099,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6141,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 6207,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6247,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6289,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6331,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 32,
+    "y": 6397,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 6437,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 6479,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 6521,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 6563,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6629,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 192,
+    "y": 6629,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6659,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 188,
+    "y": 6659,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 21,
+    "y": 6694,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6747,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 6747,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 6747,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 136,
+    "y": 6744,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 136,
+    "y": 6744,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 176,
+    "y": 6747,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 8,
+    "textNodes": 90,
+    "controls": 59,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 18,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 14,
+    "textHidden": 0,
+    "image": 3,
+    "imageHidden": 1
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"nutzfahrzeuge umweltfreundlicher gestalten: eine notwendige aufgabe\" (y 1119) has no origin heading",
+   "text": "nutzfahrzeuge umweltfreundlicher gestalten: eine notwendige aufgabe"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"mobilitäts-tech-talk: intelligente lösungen mit halbleitern\" (y 1787) has no origin heading",
+   "text": "mobilitäts-tech-talk: intelligente lösungen mit halbleitern"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"infineon's position im markt für nutzfahrzeuge\" (y 3617) has no origin heading",
+   "text": "infineon's position im markt für nutzfahrzeuge"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"entdecken sie unser produktportfolio für nutzfahrzeuge:\" (y 4157) has no origin heading",
+   "text": "entdecken sie unser produktportfolio für nutzfahrzeuge:"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"weiterführende inhalte\" (y 4847) has no origin heading",
+   "text": "weiterführende inhalte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"abonnieren sie die marketingkommunikation!\" (y 5354) has no origin heading",
+   "text": "abonnieren sie die marketingkommunikation!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"nutzfahrzeuge umweltfreundlicher gestalten: eine notwendige aufgabe\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "nutzfahrzeuge umweltfreundlicher gestalten: eine notwendige aufgabe"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mobilitäts-tech-talk: intelligente lösungen mit halbleitern\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mobilitäts-tech-talk: intelligente lösungen mit halbleitern"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"infineon's position im markt für nutzfahrzeuge\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "infineon's position im markt für nutzfahrzeuge"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"entdecken sie unser produktportfolio für nutzfahrzeuge:\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "entdecken sie unser produktportfolio für nutzfahrzeuge:"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"play or pause video\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "play or pause video"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"coolsic™\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "coolsic™"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"hybridpack™ drive\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "hybridpack™ drive"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"primepack™.xt\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "primepack™.xt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"econodual™\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "econodual™"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"optireg™\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "optireg™"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"optireg™ pmic\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "optireg™ pmic"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"profet™\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "profet™"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"aurix™\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "aurix™"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"xensiv™\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "xensiv™"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"automotive gate driver\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "automotive gate driver"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"automotive mosfet\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "automotive mosfet"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"automotive can transceivers\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "automotive can transceivers"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr erfahren\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr erfahren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"abonnieren\" served in band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "abonnieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\": 3 origin → 14 served visible",
+   "band": 1,
+   "origin": 3,
+   "eds": 14,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"grüner güterverkehr: emissionsreduzierung durch intelligentere transportlösungen\": 0 origin → 3 served visible (+1 clipped away)",
+   "band": 1,
+   "origin": 0,
+   "eds": 3,
+   "hidden": 1
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 6,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 19,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 27,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 46,
+    "y": 77,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 286,
+    "w": 289,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 330,
+    "w": 298,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 374,
+    "w": 265,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 418,
+    "w": 255,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 480,
+    "w": 229,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 504,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 528,
+    "w": 286,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 552,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 576,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 600,
+    "w": 215,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 624,
+    "w": 227,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 648,
+    "w": 148,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 691,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 731,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 132,
+    "y": 731,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 60,
+    "y": 841,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 867,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 901,
+    "w": 217,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 927,
+    "w": 169,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 961,
+    "w": 208,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 987,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1021,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1047,
+    "w": 123,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 808,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1118,
+    "w": 324,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1148,
+    "w": 249,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1178,
+    "w": 76,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1225,
+    "w": 286,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1251,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1277,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1303,
+    "w": 284,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1329,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1355,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1381,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1407,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1433,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1459,
+    "w": 282,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1485,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1511,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1537,
+    "w": 217,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1563,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1589,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1615,
+    "w": 306,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1641,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1667,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1693,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1719,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1745,
+    "w": 200,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1786,
+    "w": 301,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1816,
+    "w": 234,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1863,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1889,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1915,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1941,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1967,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1993,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2283,
+    "w": 117,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2353,
+    "w": 172,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 2353,
+    "w": 103,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2379,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2405,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2431,
+    "w": 237,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2457,
+    "w": 282,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2483,
+    "w": 245,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2509,
+    "w": 262,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2567,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 246,
+    "y": 2567,
+    "w": 69,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2593,
+    "w": 251,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2619,
+    "w": 264,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2645,
+    "w": 263,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2671,
+    "w": 115,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2729,
+    "w": 148,
+    "h": 22
+   },
+   {
+    "x": 204,
+    "y": 2729,
+    "w": 85,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2755,
+    "w": 185,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2781,
+    "w": 173,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2807,
+    "w": 209,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2833,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2859,
+    "w": 251,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2885,
+    "w": 286,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2911,
+    "w": 172,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2937,
+    "w": 234,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2963,
+    "w": 266,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2989,
+    "w": 153,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3015,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3041,
+    "w": 230,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3067,
+    "w": 200,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3125,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 185,
+    "y": 3125,
+    "w": 145,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3151,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3177,
+    "w": 276,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3203,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3229,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3255,
+    "w": 281,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3281,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3307,
+    "w": 262,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3333,
+    "w": 269,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3604,
+    "w": 289,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3634,
+    "w": 135,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3681,
+    "w": 284,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3707,
+    "w": 226,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3733,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3759,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3785,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3811,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3837,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3863,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3889,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3915,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3941,
+    "w": 250,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3967,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3993,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4019,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4045,
+    "w": 171,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4071,
+    "w": 258,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 4136,
+    "w": 187,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 4166,
+    "w": 187,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 4196,
+    "w": 141,
+    "h": 32
+   },
+   {
+    "x": 56,
+    "y": 4245,
+    "w": 64,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4287,
+    "w": 133,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4329,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4371,
+    "w": 88,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4413,
+    "w": 72,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4455,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4497,
+    "w": 66,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4539,
+    "w": 53,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4581,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4623,
+    "w": 157,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4665,
+    "w": 140,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4707,
+    "w": 201,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4794,
+    "w": 253,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 5032,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 44,
+    "y": 5075,
+    "w": 259,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 5103,
+    "w": 157,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 5152,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5300,
+    "w": 204,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 5336,
+    "w": 293,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 5388,
+    "w": 228,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 5418,
+    "w": 275,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 5448,
+    "w": 312,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 5478,
+    "w": 106,
+    "h": 32
+   },
+   {
+    "x": 152,
+    "y": 5554,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5804,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5843,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5885,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5927,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5969,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6011,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5804,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 5843,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5885,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5927,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5953,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5995,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6037,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6079,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6146,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6185,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6227,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6269,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 6336,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 6375,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 6417,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 6459,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 6501,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 6572,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 6572,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 6602,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 6602,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 6632,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 6632,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 6632,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 36,
+    "y": 77,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 286,
+    "w": 289,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 330,
+    "w": 298,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 374,
+    "w": 265,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 418,
+    "w": 255,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 480,
+    "w": 229,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 504,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 528,
+    "w": 286,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 552,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 576,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 600,
+    "w": 215,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 624,
+    "w": 227,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 648,
+    "w": 148,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 691,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 731,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 132,
+    "y": 731,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 40,
+    "y": 808,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 841,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 867,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 901,
+    "w": 217,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 927,
+    "w": 169,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 961,
+    "w": 208,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 987,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1021,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1047,
+    "w": 123,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1118,
+    "w": 324,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1148,
+    "w": 249,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1178,
+    "w": 76,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1225,
+    "w": 286,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1251,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1277,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1303,
+    "w": 284,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1329,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1355,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1381,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1407,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1433,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1459,
+    "w": 282,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1485,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1511,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1537,
+    "w": 217,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1563,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1589,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1615,
+    "w": 306,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1641,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1667,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1693,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1719,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1745,
+    "w": 200,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1786,
+    "w": 301,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1816,
+    "w": 234,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1863,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1889,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1915,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1941,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1967,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1993,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2295,
+    "w": 117,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2365,
+    "w": 169,
+    "h": 22
+   },
+   {
+    "x": 225,
+    "y": 2365,
+    "w": 106,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2391,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2417,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2443,
+    "w": 237,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2469,
+    "w": 282,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2495,
+    "w": 245,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2521,
+    "w": 262,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2579,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 246,
+    "y": 2579,
+    "w": 69,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2605,
+    "w": 251,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2631,
+    "w": 264,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2657,
+    "w": 263,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2683,
+    "w": 115,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2741,
+    "w": 148,
+    "h": 22
+   },
+   {
+    "x": 204,
+    "y": 2741,
+    "w": 85,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2767,
+    "w": 185,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2793,
+    "w": 173,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2819,
+    "w": 209,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2845,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2871,
+    "w": 251,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2897,
+    "w": 286,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2923,
+    "w": 172,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2949,
+    "w": 234,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2975,
+    "w": 266,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3001,
+    "w": 153,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3027,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3053,
+    "w": 230,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3079,
+    "w": 200,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3137,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 185,
+    "y": 3137,
+    "w": 145,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3163,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3189,
+    "w": 276,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3215,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3241,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3267,
+    "w": 281,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3293,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3319,
+    "w": 262,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3345,
+    "w": 269,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3616,
+    "w": 289,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3646,
+    "w": 135,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3693,
+    "w": 284,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3719,
+    "w": 226,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3745,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3771,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3797,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3823,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3849,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3875,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3901,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3927,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3953,
+    "w": 250,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3979,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4005,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4031,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4057,
+    "w": 171,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4083,
+    "w": 258,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 4156,
+    "w": 187,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 4186,
+    "w": 187,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 4216,
+    "w": 141,
+    "h": 32
+   },
+   {
+    "x": 56,
+    "y": 4265,
+    "w": 64,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4307,
+    "w": 133,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4349,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4391,
+    "w": 88,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4433,
+    "w": 72,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4475,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4517,
+    "w": 66,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4559,
+    "w": 53,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4601,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4643,
+    "w": 157,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4685,
+    "w": 140,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 4727,
+    "w": 201,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4846,
+    "w": 253,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 5083,
+    "w": 110,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 5127,
+    "w": 259,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 5155,
+    "w": 157,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 5206,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5353,
+    "w": 204,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 5389,
+    "w": 293,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 5441,
+    "w": 228,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 5471,
+    "w": 275,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 5501,
+    "w": 312,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 5531,
+    "w": 106,
+    "h": 32
+   },
+   {
+    "x": 152,
+    "y": 5608,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5866,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5905,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5947,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5989,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6031,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6073,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5866,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 5905,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5947,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5989,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6015,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6057,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6099,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6141,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6208,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6247,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6289,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6331,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 6398,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 6437,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 6479,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 6521,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 6563,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 6634,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 6634,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 6664,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 6664,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 6694,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 6694,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 6694,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

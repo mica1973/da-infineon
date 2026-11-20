@@ -1,0 +1,126 @@
+{
+  "_provenance": {
+    "writtenBy": "gate-all.mjs",
+    "writtenAt": "2026-11-18T15:51:29.642Z",
+    "stage": "published",
+    "breakpoint": 360,
+    "threshold": 10,
+    "heightTolerance": 0.05,
+    "clipMax": 0,
+    "unitTol": 4,
+    "criteria": {
+      "pixel": true,
+      "height": true,
+      "clip": true,
+      "content": true
+    },
+    "verdict": "overlap pixel % ≤ 10 AND |Δh| ≤ 5% of origin height AND clipped ≤ 0 (+ documented allowance) AND content MISSING + HIDDEN links/headings = 0",
+    "origin": "https://www.infineon.com",
+    "eds": "https://main--938eead7--aemcoder.aem.live",
+    "edsHostOverride": null,
+    "only": [
+      "index"
+    ]
+  },
+  "totals": {
+    "pages": 1,
+    "pass": 0,
+    "pixelOnlyPass": 1,
+    "overridePass": 0,
+    "fail": 1,
+    "error": 0,
+    "failPixel": 0,
+    "failHeight": 0,
+    "failClip": 0,
+    "failContent": 0,
+    "failUnits": 1,
+    "fontsNotLoaded": 1,
+    "fontChecksSkipped": 0,
+    "contentNA": 0,
+    "asymmetricOrigins": 0,
+    "degradedTier": 0,
+    "passWithOverrides": 0
+  },
+  "rows": [
+    {
+      "slug": "index",
+      "path": "/",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 9.01,
+      "textPct": 10.67,
+      "heightDelta": -14,
+      "originH": 11066,
+      "edsH": 11080,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": false,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "failing": [
+        "units",
+        "fonts"
+      ],
+      "unwaived": [
+        "units"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [
+        "Arial Metrics Override"
+      ],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "units off 7 hidden 0 missing 2",
+        "font-not-loaded:Arial Metrics Override"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 32,
+        "variable": []
+      },
+      "units": {
+        "units": 16,
+        "within": 99,
+        "off": 7,
+        "hidden": 0,
+        "missing": 2,
+        "errors": 0,
+        "requiredOff": 9
+      },
+      "unitsRequired": true,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": {
+        "verdict": "pass",
+        "reason": "font-not-loaded is the LIVE origin's own metric-fallback face (Arial Metrics Override) failing in the capture env; build fontsFailed [] (all-360/index/eds.capture.json)",
+        "waives": [
+          "fonts"
+        ]
+      },
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "0-500:43.8%",
+        "5500-6000:15.1%",
+        "7000-7500:15.8%",
+        "8000-8500:18.3%",
+        "8500-9000:15.5%",
+        "9000-9500:16.3%"
+      ],
+      "error": null
+    }
+  ]
+}

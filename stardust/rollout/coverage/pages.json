@@ -1,0 +1,2687 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-18T05:53:56.457Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-18T23:44:49.485Z",
+  "pages": [
+    {
+      "slug": "de",
+      "path": "/de",
+      "title": "Halbleiter- & Systemlösungen | Infineon Technologies",
+      "templateId": "landing",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:e71c21dbc7d028b449fc22f7c1807b0eb0b572ab3da69fff92e4c9233f38ce58",
+        "currentStatePath": "stardust/current/pages/de.json",
+        "sourceUrl": "https://www.infineon.com/de"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de",
+        "deployedAt": "2026-11-18T07:50:33.809Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.45,
+          "heightDelta": -14,
+          "clipped": 0,
+          "content": {
+            "missing": 1,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 34,
+            "variable": []
+          },
+          "reasons": [
+            "content MISSING 1 / HIDDEN 0",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-about",
+      "path": "/de/about",
+      "title": "Über | Infineon Technologies",
+      "templateId": "de-about",
+      "source": {
+        "migratedHtml": "stardust/migrated/de/about/index.html",
+        "metaJson": "stardust/migrated/de/about/_meta.json",
+        "sourceHash": "sha256:23d809af85926dd81330865f82b46a7a992bfe89fd0f193029b8e5fe0bf2b5ed",
+        "sourceUrl": "https://www.infineon.com/de/about"
+      },
+      "blocks": [
+        "page-header",
+        "hub-band"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/about",
+        "deployedAt": "2026-11-18T06:56:28.718Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.92,
+          "heightDelta": -7,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 39,
+            "variable": []
+          },
+          "reasons": [],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-careers",
+      "path": "/de/careers",
+      "title": "Karriere | Infineon Technologies",
+      "templateId": "static",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:1a9f8d36822ab561e84461eb5e477343608decffe82a03080d96ac892e74ab08",
+        "currentStatePath": "stardust/current/pages/de-careers.json",
+        "sourceUrl": "https://www.infineon.com/de/careers"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/careers",
+        "deployedAt": "2026-11-18T07:33:46.436Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.48,
+          "heightDelta": -6,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 29,
+            "variable": []
+          },
+          "reasons": [],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-config",
+      "path": "/de/config",
+      "title": "Configuration Page | Infineon Technologies",
+      "templateId": "utility",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:f72ce5ecaada7ab5fb2faedee7ce1fa7def7b97fe3558a926b95dc7b4f2b76ac",
+        "currentStatePath": "stardust/current/pages/de-config.json",
+        "sourceUrl": "https://www.infineon.com/de/config"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/config",
+        "deployedAt": "2026-11-18T07:42:04.020Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.16,
+          "heightDelta": -66,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-contact-us",
+      "path": "/de/contact-us",
+      "title": "Kontakt | Infineon Technologies",
+      "templateId": "listing",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:4b41dad92d3501d9c882032dfc74d5d6867b6693d668fb2f074b3c8665c1f0cd",
+        "currentStatePath": "stardust/current/pages/de-contact-us.json",
+        "sourceUrl": "https://www.infineon.com/de/contact-us"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/contact-us",
+        "deployedAt": "2026-11-18T10:23:48.957Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.24,
+          "heightDelta": 93,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 36,
+            "variable": []
+          },
+          "reasons": [],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-event-techfor",
+      "path": "/de/event/techfor",
+      "title": "TechFor™ Event Serie | Infineon Technologies",
+      "templateId": "static",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:cd9c18ce4d9e9582c2886dca2b572326b253cdf3f3acb4f4b13970c4dbd56f4a",
+        "currentStatePath": "stardust/current/pages/de-event-techfor.json",
+        "sourceUrl": "https://www.infineon.com/de/event/techfor"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/event/techfor",
+        "deployedAt": "2026-11-18T07:33:46.485Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.06,
+          "heightDelta": -7,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 12,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-glossary",
+      "path": "/de/glossary",
+      "title": "Glossar | Infineon Technologies",
+      "templateId": "de-glossary",
+      "source": {
+        "migratedHtml": "stardust/migrated/de/glossary/index.html",
+        "metaJson": "stardust/migrated/de/glossary/_meta.json",
+        "sourceHash": "sha256:9a13e7e8a98494a3e68ae301ddb95a5f821ecf69a629c3e653f53956bcdc0067",
+        "sourceUrl": "https://www.infineon.com/de/glossary"
+      },
+      "blocks": [
+        "breadcrumb",
+        "page-header",
+        "glossary-accordion"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/glossary",
+        "deployedAt": "2026-11-18T09:03:19.276Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.68,
+          "heightDelta": -7,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 66,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-logout",
+      "path": "/de/logout",
+      "title": "Logout | Infineon Technologies",
+      "templateId": "utility",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:ae265ba19fcf80c17cf0eefc8fd380fec35c4086b921c134d47224b37df1ebef",
+        "currentStatePath": "stardust/current/pages/de-logout.json",
+        "sourceUrl": "https://www.infineon.com/de/logout"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/logout",
+        "deployedAt": "2026-11-18T07:42:03.974Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.02,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-opn",
+      "path": "/de/opn",
+      "title": "OPN | Infineon Technologies",
+      "templateId": "reference",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b3f4fd4f3829d344514fdda9df3428246e986cb9b254f8531971271cb5ab98e4",
+        "currentStatePath": "stardust/current/pages/de-opn.json",
+        "sourceUrl": "https://www.infineon.com/de/opn"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/opn",
+        "deployedAt": "2026-11-18T09:42:23.083Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8,
+          "heightDelta": -81,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 56,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-artificial-intelligence-in-everyday-life",
+      "path": "/de/our-stories/artificial-intelligence-in-everyday-life",
+      "title": "Künstliche Intelligenz in den Alltag bringen | Infineon Technologies",
+      "templateId": "pillar",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:7b96a6216f2face3e97df268d702334e1e68573a74d5f7bf56903410ef8f1a42",
+        "currentStatePath": "stardust/current/pages/de-our-stories-artificial-intelligence-in-everyday-life.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/artificial-intelligence-in-everyday-life"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/artificial-intelligence-in-everyday-life",
+        "deployedAt": "2026-11-18T09:56:09.553Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 14.98,
+          "heightDelta": 130,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 31,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 14.98% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-artificial-intelligence-semiconductors",
+      "path": "/de/our-stories/artificial-intelligence-semiconductors",
+      "title": "Willkommen in der Zukunft der effizienten | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:ae8fd682535c46e6545dcf25d1947b2a6da8108bdcc84c006b507e73c2cc6ccc",
+        "currentStatePath": "stardust/current/pages/de-our-stories-artificial-intelligence-semiconductors.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/artificial-intelligence-semiconductors"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/artificial-intelligence-semiconductors",
+        "deployedAt": "2026-11-18T11:12:24.362Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 19.82,
+          "heightDelta": 261,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 30,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 19.82% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-bi-directional-charging",
+      "path": "/de/our-stories/bi-directional-charging",
+      "title": "Bidirektionales Laden für eine effiziente | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:48ba49d9547830d6533483427597730c7e3f232f59400bd4b187b4215b4e9823",
+        "currentStatePath": "stardust/current/pages/de-our-stories-bi-directional-charging.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/bi-directional-charging"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/bi-directional-charging",
+        "deployedAt": "2026-11-18T11:12:24.639Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 11.52,
+          "heightDelta": 139,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 21,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 11.52% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-charging-infrastructure",
+      "path": "/de/our-stories/charging-infrastructure",
+      "title": "Die Zukunft des Ladens: Wegbereiter für nachhaltige | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:e3303e781a1d7167a167024ac76b0a12e95b1020d622a62a7cb35d0d6a04224c",
+        "currentStatePath": "stardust/current/pages/de-our-stories-charging-infrastructure.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/charging-infrastructure"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/charging-infrastructure",
+        "deployedAt": "2026-11-18T11:12:24.544Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.07,
+          "heightDelta": -42,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 27,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-ecosystem-summit",
+      "path": "/de/our-stories/ecosystem-summit",
+      "title": "Automotive Ecosystem Summit 2026 \"Mach dich bereit für | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:bd4bbcac5def2ae2e8c49508e5e9eebe598533fe6a882887a43dc0f921929440",
+        "currentStatePath": "stardust/current/pages/de-our-stories-ecosystem-summit.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/ecosystem-summit"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/ecosystem-summit",
+        "deployedAt": "2026-11-18T11:49:03.770Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 15.95,
+          "heightDelta": 40,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 11,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 15.95% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-efficient-energy-storage-systems-energy-transition",
+      "path": "/de/our-stories/efficient-energy-storage-systems-energy-transition",
+      "title": "Effiziente Batterie-Energiespeichersysteme für die | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:c631666f92108d67a76a91ddb293d7e9399b2d8a2ac8be91dac897d1b724a2a5",
+        "currentStatePath": "stardust/current/pages/de-our-stories-efficient-energy-storage-systems-energy-transition.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/efficient-energy-storage-systems-energy-transition"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/our-stories/efficient-energy-storage-systems-energy-transition",
+        "deployedAt": "2026-11-18T10:48:19.779Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 12.22,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 38,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 12.22% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-electric-cordless-power-tools",
+      "path": "/de/our-stories/electric-cordless-power-tools",
+      "title": "Kabellose Elektrowerkzeuge – handlich und | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:e16bf4fd8f43860bdd3921ab6f547251d60b543f86d08a87f167af36bd55307f",
+        "currentStatePath": "stardust/current/pages/de-our-stories-electric-cordless-power-tools.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/electric-cordless-power-tools"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/our-stories/electric-cordless-power-tools",
+        "deployedAt": "2026-11-18T10:48:19.874Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.41,
+          "heightDelta": -12,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 12,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-electromobility-greener-future",
+      "path": "/de/our-stories/electromobility-greener-future",
+      "title": "Die Zukunft der Mobilität gestalten | Infineon Technologies",
+      "templateId": "de-our-stories-electromobility-greener-future",
+      "source": {
+        "migratedHtml": "stardust/migrated/de/our-stories/electromobility-greener-future/index.html",
+        "metaJson": "stardust/migrated/de/our-stories/electromobility-greener-future/_meta.json",
+        "sourceHash": "sha256:b4ef5c4f0900259a6a1b126b0d570ca0ef356bcfd0142082a34aa39ab82a7f7e",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/electromobility-greener-future"
+      },
+      "blocks": [
+        "article-hero",
+        "story-hub",
+        "newsletter-offramp"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/our-stories/electromobility-greener-future",
+        "deployedAt": "2026-11-18T07:38:24.704Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.66,
+          "heightDelta": -9,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 31,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-emission-saving-potential-freight-transportation",
+      "path": "/de/our-stories/emission-saving-potential-freight-transportation",
+      "title": "Grüner Güterverkehr: Emissionsreduzierung durch | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:da8943968c2f7117c0d34bb8ddc0007d49c2d1ddcb83fee4d831f43067efa15f",
+        "currentStatePath": "stardust/current/pages/de-our-stories-emission-saving-potential-freight-transportation.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/emission-saving-potential-freight-transportation"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/emission-saving-potential-freight-transportation",
+        "deployedAt": "2026-11-18T11:12:24.684Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.62,
+          "heightDelta": -62,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 27,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors",
+      "path": "/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors",
+      "title": "Grüne Energie mit Wide-Bandgap-Halbleitern | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:1e14e55a1c24aec47e898acc73023fc908a093afb9e5b23bd60afc47c52a09a7",
+        "currentStatePath": "stardust/current/pages/de-our-stories-empowering-green-energy-wide-bandgap-semiconductors.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors",
+        "deployedAt": "2026-11-18T12:00:12.908Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.6,
+          "heightDelta": -60,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 24,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-enable-provide-ai-customer-innovation",
+      "path": "/de/our-stories/enable-provide-ai-customer-innovation",
+      "title": "Wir ermöglichen und bieten KI - für zuverlässige und | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:5b49fdad76643583de03fdb1c4a51fcbc97e605543cb88a587442c5f5154d974",
+        "currentStatePath": "stardust/current/pages/de-our-stories-enable-provide-ai-customer-innovation.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/enable-provide-ai-customer-innovation",
+        "deployedAt": "2026-11-18T11:12:24.409Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 10.61,
+          "heightDelta": -55,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 22,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 10.61% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-enabling-ethernet",
+      "path": "/de/our-stories/enabling-ethernet",
+      "title": "Inside the Mind of Tomorrow’s Car - wie das Auto von | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:60a143aa71cbed107da2b94f9e9414529edf7276241d953046eaa7e147b63332",
+        "currentStatePath": "stardust/current/pages/de-our-stories-enabling-ethernet.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/enabling-ethernet"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/enabling-ethernet",
+        "deployedAt": "2026-11-18T14:38:04.943Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.97,
+          "heightDelta": 103,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 28,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-essential-role-cybersecurity",
+      "path": "/de/our-stories/essential-role-cybersecurity",
+      "title": "Cybersicherheit – Schutz für die digitale Welt von | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:c68ef3cd9c2351bc00705ef6157d82ec54211d913bbcdfcff98e5ff52a54e4b9",
+        "currentStatePath": "stardust/current/pages/de-our-stories-essential-role-cybersecurity.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/essential-role-cybersecurity"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/essential-role-cybersecurity",
+        "deployedAt": "2026-11-18T11:49:03.565Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 18.39,
+          "heightDelta": 84,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 20,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 18.39% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-european-cyber-resilience-act",
+      "path": "/de/our-stories/european-cyber-resilience-act",
+      "title": "European Cyber Resilience Act: Mehr Vertrauen für | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:cca7181096729eb0a6c551ad51158db680ddd615040408b15dbb414eadaa6b14",
+        "currentStatePath": "stardust/current/pages/de-our-stories-european-cyber-resilience-act.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/european-cyber-resilience-act"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/european-cyber-resilience-act",
+        "deployedAt": "2026-11-18T14:38:04.999Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.35,
+          "heightDelta": 8,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 14,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-fast-charging-solutions",
+      "path": "/de/our-stories/fast-charging-solutions",
+      "title": "Innovative Schnellladelösungen für die Elektromobilität | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:97b333668c6c22bd941c8c147e50d2ee089514e1fd6b57cf4f90350d96f6b2eb",
+        "currentStatePath": "stardust/current/pages/de-our-stories-fast-charging-solutions.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/fast-charging-solutions"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/fast-charging-solutions",
+        "deployedAt": "2026-11-18T11:12:24.588Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.19,
+          "heightDelta": -33,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 18,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-green-buildings-rise",
+      "path": "/de/our-stories/green-buildings-rise",
+      "title": "Grüne Gebäude auf dem Vormarsch | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:1b29349c134565e8ad433f23417a1cf4ca3387c50ae7091931460744eb4b4c19",
+        "currentStatePath": "stardust/current/pages/de-our-stories-green-buildings-rise.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/green-buildings-rise"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/green-buildings-rise",
+        "deployedAt": "2026-11-18T11:49:03.507Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 18.16,
+          "heightDelta": -65,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 38,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 18.16% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-green-chargers-adapters",
+      "path": "/de/our-stories/green-chargers-adapters",
+      "title": "Ladegeräte und Adapter werden grün | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:e3713e08aad5d5a49b8fd9db13bf91535c65b4f48233dc4c353c07c09f6c00f7",
+        "currentStatePath": "stardust/current/pages/de-our-stories-green-chargers-adapters.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/green-chargers-adapters"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/our-stories/green-chargers-adapters",
+        "deployedAt": "2026-11-18T10:48:19.923Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.9,
+          "heightDelta": -38,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 21,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-green-hydrogen-fuel-future",
+      "path": "/de/our-stories/green-hydrogen-fuel-future",
+      "title": "Grüner Wasserstoff – Treibstoff der Zukunft | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:f5dd9bd38b6836d2054e65408f32eadab6d812070ee3cb8d34ef3399147a2660",
+        "currentStatePath": "stardust/current/pages/de-our-stories-green-hydrogen-fuel-future.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/green-hydrogen-fuel-future"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/our-stories/green-hydrogen-fuel-future",
+        "deployedAt": "2026-11-18T10:48:19.726Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.91,
+          "heightDelta": 28,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 36,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-green-iot",
+      "path": "/de/our-stories/green-iot",
+      "title": "Wir bringen das IoT zum Laufen - für eine bessere und | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:cf004dc4e2bea2059926610ca888a36647025a614d8e86513744fbf2422d0317",
+        "currentStatePath": "stardust/current/pages/de-our-stories-green-iot.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/green-iot"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/green-iot",
+        "deployedAt": "2026-11-18T12:00:13.208Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 11.73,
+          "heightDelta": -28,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 25,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 11.73% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-green-potential-data-centers",
+      "path": "/de/our-stories/green-potential-data-centers",
+      "title": "Das grüne Potenzial von Rechenzentren | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:d1d4d38320582ea0359a23a97a2ccd29b256c3e18174ff9c2279bf5eeb235718",
+        "currentStatePath": "stardust/current/pages/de-our-stories-green-potential-data-centers.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/green-potential-data-centers"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/our-stories/green-potential-data-centers",
+        "deployedAt": "2026-11-18T10:48:19.973Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.1,
+          "heightDelta": -30,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 31,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-how-microcontroller-enable-risc-v",
+      "path": "/de/our-stories/how-microcontroller-enable-risc-v",
+      "title": "Get ready for RISC-V | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:5b31701bab36bf899b3cff40112f6d6fded9070f198952124f7ecd2554bd5f81",
+        "currentStatePath": "stardust/current/pages/de-our-stories-how-microcontroller-enable-risc-v.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/how-microcontroller-enable-RISC-V"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/how-microcontroller-enable-risc-v",
+        "deployedAt": "2026-11-18T11:49:03.612Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.94,
+          "heightDelta": 7,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 22,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-microelectronics-connecting-real-digital-world",
+      "path": "/de/our-stories/microelectronics-connecting-real-digital-world",
+      "title": "Mikroelektronik – verbindet die reale mit der digitalen | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:191609ba2ea29cf42b360c8fe489ab5d239ed0351afff0f5142da7e08af87ba1",
+        "currentStatePath": "stardust/current/pages/de-our-stories-microelectronics-connecting-real-digital-world.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/microelectronics-connecting-real-digital-world"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/our-stories/microelectronics-connecting-real-digital-world",
+        "deployedAt": "2026-11-18T10:48:19.623Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.3,
+          "heightDelta": 44,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 32,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-micromobility",
+      "path": "/de/our-stories/micromobility",
+      "title": "Mikromobilität für grünere Städte | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:c6c3cd491dedab7f796e87578b2d54f9e61ff10600b510cde2912ccc0f414221",
+        "currentStatePath": "stardust/current/pages/de-our-stories-micromobility.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/micromobility"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/micromobility",
+        "deployedAt": "2026-11-18T11:12:24.452Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 12.23,
+          "heightDelta": -5,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 19,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 12.23% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-micromobility-battery-swapping",
+      "path": "/de/our-stories/micromobility-battery-swapping",
+      "title": "Batteriewechsel: Die Zukunft der urbanen Mikromobilität | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:571298786e37bbd235166cf84e286677b5cc0e2d6af133c7119ceeb0daf58d4e",
+        "currentStatePath": "stardust/current/pages/de-our-stories-micromobility-battery-swapping.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/micromobility-battery-swapping"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/micromobility-battery-swapping",
+        "deployedAt": "2026-11-18T11:12:24.500Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.13,
+          "heightDelta": -72,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 19,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-mobility-tech-talk-software-defined-vehicles",
+      "path": "/de/our-stories/mobility-tech-talk-software-defined-vehicles",
+      "title": "Mobility Tech Talk – Das software definierte Fahrzeug | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:6dd60c13871b7c0ebc74204e26c8badeb11058a7607e810a8b7a7abca526f18c",
+        "currentStatePath": "stardust/current/pages/de-our-stories-mobility-tech-talk-software-defined-vehicles.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/mobility-tech-talk-software-defined-vehicles"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/mobility-tech-talk-software-defined-vehicles",
+        "deployedAt": "2026-11-18T14:38:05.048Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.36,
+          "heightDelta": -2,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-power-infrastructure-renewables",
+      "path": "/de/our-stories/power-infrastructure-renewables",
+      "title": "Wir unterstützen die Energieinfrastruktur der Zukunft | Infineon Technologies",
+      "templateId": "pillar",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a1015b5c445f5ddf7ff0de3955accd41a075514a932b087c0dd48666cd36f8b9",
+        "currentStatePath": "stardust/current/pages/de-our-stories-power-infrastructure-renewables.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/power-infrastructure-renewables"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/power-infrastructure-renewables",
+        "deployedAt": "2026-11-18T09:56:09.493Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 12.9,
+          "heightDelta": -37,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 38,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 12.9% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-public-transportation",
+      "path": "/de/our-stories/public-transportation",
+      "title": "Öffentlicher Stadtverkehr neu gedacht | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a7dc67a747b34d11c34dc3a4cfdd606a63bfcc6d8548ffaa6764b9f70b653b10",
+        "currentStatePath": "stardust/current/pages/de-our-stories-public-transportation.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/public-transportation"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/public-transportation",
+        "deployedAt": "2026-11-18T11:49:03.441Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.57,
+          "heightDelta": -88,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 30,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-rc1-for-sdv-sdx-and-physical-ai",
+      "path": "/de/our-stories/rc1-for-sdv-sdx-and-physical-ai",
+      "title": "AURIX™ RC1: Echtzeit-Computing und -Steuerung neu | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:3e6c758d19a1d716c1cbdc290d23a268414d32e80dd0e4748f4a4f6fe3cf5dc4",
+        "currentStatePath": "stardust/current/pages/de-our-stories-rc1-for-sdv-sdx-and-physical-ai.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/rc1-for-sdv-sdx-and-physical-ai"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/rc1-for-sdv-sdx-and-physical-ai",
+        "deployedAt": "2026-11-18T14:38:05.100Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.64,
+          "heightDelta": -3,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 18,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-semiconductors-bring-heat-pumps-life",
+      "path": "/de/our-stories/semiconductors-bring-heat-pumps-life",
+      "title": "Halbleiter erwecken Wärmepumpen zum Leben | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:539313e49c984635ce7407257c466b03972401be57424fa8d752fe943fdb9899",
+        "currentStatePath": "stardust/current/pages/de-our-stories-semiconductors-bring-heat-pumps-life.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/semiconductors-bring-heat-pumps-life"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-bring-heat-pumps-life",
+        "deployedAt": "2026-11-18T10:48:19.825Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 5.74,
+          "heightDelta": -4,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 24,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-semiconductors-driving-decarbonization",
+      "path": "/de/our-stories/semiconductors-driving-decarbonization",
+      "title": "Wie Halbeiter die Dekarbonisierung voranbringen | Infineon Technologies",
+      "templateId": "de-our-stories-semiconductors-driving-decarbonization",
+      "source": {
+        "migratedHtml": "stardust/migrated/de/our-stories/semiconductors-driving-decarbonization/index.html",
+        "metaJson": "stardust/migrated/de/our-stories/semiconductors-driving-decarbonization/_meta.json",
+        "sourceHash": "sha256:b000beb6853207b02eac4d79057660df76f2236043a2502e69a222a04878e145",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization"
+      },
+      "blocks": [
+        "breadcrumb",
+        "article-hero",
+        "article-body",
+        "newsletter-offramp"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/our-stories/semiconductors-driving-decarbonization",
+        "deployedAt": "2026-11-18T09:13:35.586Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 4.92,
+          "heightDelta": -13,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 18,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-semiconductors-key-technology-software-defined-vehicles",
+      "path": "/de/our-stories/semiconductors-key-technology-software-defined-vehicles",
+      "title": "Halbleiter sind die Schlüsseltechnologie für | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:dd3c976fae1ed74026acfb0ddde264e1ec206066407ea01e232fb4c6804e2d8b",
+        "currentStatePath": "stardust/current/pages/de-our-stories-semiconductors-key-technology-software-defined-vehicles.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/semiconductors-key-technology-software-defined-vehicles"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/semiconductors-key-technology-software-defined-vehicles",
+        "deployedAt": "2026-11-18T11:49:03.661Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.27,
+          "heightDelta": -6,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-semiconductors-key-technology-sst-sscb",
+      "path": "/de/our-stories/semiconductors-key-technology-sst-sscb",
+      "title": "Halbleiter prägen das Zeitalter der Elektrizität | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:766d34f3b5f5b1fa1bef1b8d430ab103ac33427abffbbead758cdd99cdb57a16",
+        "currentStatePath": "stardust/current/pages/de-our-stories-semiconductors-key-technology-sst-sscb.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/semiconductors-key-technology-sst-sscb"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/semiconductors-key-technology-sst-sscb",
+        "deployedAt": "2026-11-18T14:38:05.152Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 13,
+          "heightDelta": -69,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 7,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 13% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-sensors-energy-efficient-smart-buildings",
+      "path": "/de/our-stories/sensors-energy-efficient-smart-buildings",
+      "title": "Sensoren für energieeffiziente, intelligente Gebäude | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:79752ad5dba303d3e60804d394ff29a767b077c3c7f0a2fc75a0a71119ac496e",
+        "currentStatePath": "stardust/current/pages/de-our-stories-sensors-energy-efficient-smart-buildings.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/sensors-energy-efficient-smart-buildings"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/sensors-energy-efficient-smart-buildings",
+        "deployedAt": "2026-11-18T12:00:12.954Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.93,
+          "heightDelta": -25,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 34,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-shaping-the-future-of-mobility",
+      "path": "/de/our-stories/shaping-the-future-of-mobility",
+      "title": "Die Zukunft der Mobilität aktiv mitgestalten | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:e88c7f48fbb06700a19973a03f25d6942a6c6fbf21cfda4169d7d1faed4b1eb9",
+        "currentStatePath": "stardust/current/pages/de-our-stories-shaping-the-future-of-mobility.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/shaping-the-future-of-mobility"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/shaping-the-future-of-mobility",
+        "deployedAt": "2026-11-18T11:49:03.343Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 15.73,
+          "heightDelta": -19,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 15,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 15.73% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-smart-factory-semiconductor-solutions",
+      "path": "/de/our-stories/smart-factory-semiconductor-solutions",
+      "title": "Wir treiben die smarte Fabrik voran | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:138d28f8bde7ebc2c51527c6edb544b4e0b6c27382ba0f5d8d9efb1f3ffcd6a6",
+        "currentStatePath": "stardust/current/pages/de-our-stories-smart-factory-semiconductor-solutions.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/smart-factory-semiconductor-solutions"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/smart-factory-semiconductor-solutions",
+        "deployedAt": "2026-11-18T12:00:13.252Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 10.97,
+          "heightDelta": -47,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 26,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 10.97% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-smart-factory-technologies",
+      "path": "/de/our-stories/smart-factory-technologies",
+      "title": "Wie kann eine Fabrik intelligent, digitalisiert | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:14f871b2a200b0239ae2a096907ffdfcdf8a04266073acd95e72c70f81a9865c",
+        "currentStatePath": "stardust/current/pages/de-our-stories-smart-factory-technologies.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/smart-factory-technologies"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/smart-factory-technologies",
+        "deployedAt": "2026-11-18T12:00:13.108Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 13.94,
+          "heightDelta": 399,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 22,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 13.94% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-smart-health-appliances",
+      "path": "/de/our-stories/smart-health-appliances",
+      "title": "Die Zukunft von Gesundheit und Wohlbefinden ist smart | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:fbeb8c5354fcfbc995d129af1cbb521bb4036e83dd0a0600cc2be026db2e3377",
+        "currentStatePath": "stardust/current/pages/de-our-stories-smart-health-appliances.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/smart-health-appliances"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/smart-health-appliances",
+        "deployedAt": "2026-11-18T12:00:13.058Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.28,
+          "heightDelta": -33,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 15,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-smart-home-building-technologies",
+      "path": "/de/our-stories/smart-home-building-technologies",
+      "title": "Smart-Home- und Gebäudelösungen für eine bessere | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:4911eee9a23a63bc41048bb1ccfa5ef56085dd279efe0acef56f44ccdbb9b4ee",
+        "currentStatePath": "stardust/current/pages/de-our-stories-smart-home-building-technologies.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/smart-home-building-technologies"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/smart-home-building-technologies",
+        "deployedAt": "2026-11-18T12:00:13.159Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 15.19,
+          "heightDelta": 153,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 22,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 15.19% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-smart-things-consumer-devices",
+      "path": "/de/our-stories/smart-things-consumer-devices",
+      "title": "Bequem, hilfreich und umweltfreundlich: Willkommen in | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:5d5f7570d75e40e3e31d8997c192ba6d6bc9dd52a7896afaa7695347443c83ef",
+        "currentStatePath": "stardust/current/pages/de-our-stories-smart-things-consumer-devices.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/smart-things-consumer-devices"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/smart-things-consumer-devices",
+        "deployedAt": "2026-11-18T12:00:13.009Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.37,
+          "heightDelta": -58,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 21,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-software-defined-vehicle-agm",
+      "path": "/de/our-stories/software-defined-vehicle-agm",
+      "title": "Wie Halbleiter das softwaredefinierte Fahrzeugdesign | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:ce8aa127a86fbeea1b6e329a63717d1f59497936236ca6581ad18426a4a1f8e1",
+        "currentStatePath": "stardust/current/pages/de-our-stories-software-defined-vehicle-agm.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/Software-defined-vehicle-AGM"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/software-defined-vehicle-agm",
+        "deployedAt": "2026-11-18T11:49:03.714Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.4,
+          "heightDelta": -6,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-software-defined-vehicles",
+      "path": "/de/our-stories/software-defined-vehicles",
+      "title": "Das innovative Potenzial softwaredefinierter Fahrzeuge | Infineon Technologies",
+      "templateId": "pillar",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:856f2fb700ea9feeda6f1bace62dbab9750ccf8d01b59f148759f53cead7c576",
+        "currentStatePath": "stardust/current/pages/de-our-stories-software-defined-vehicles.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/software-defined-vehicles"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/software-defined-vehicles",
+        "deployedAt": "2026-11-18T09:56:09.414Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 12.1,
+          "heightDelta": 86,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 44,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 12.1% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee",
+      "path": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee",
+      "title": "Wie aus einem Sonnenstrahl eine Tasse heißer Kaffee | Infineon Technologies",
+      "templateId": "article",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:ef86205351fea39c149d1200ad56b66201aef672382092fbe864962a948f3a74",
+        "currentStatePath": "stardust/current/pages/de-our-stories-turning-ray-sunshine-into-cup-hot-coffee.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee",
+        "deployedAt": "2026-11-18T10:48:19.674Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 19.64,
+          "heightDelta": 159,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 25,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 19.64% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-our-stories-we-power-ai",
+      "path": "/de/our-stories/we-power-ai",
+      "title": "Wir versorgen KI mit Strom: vom Stromnetz bis zum | Infineon Technologies",
+      "templateId": "pillar",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:5469da4501bb40f1fe6bd7c1808c295ecf9768c25ca774d73117bcb8ca29de82",
+        "currentStatePath": "stardust/current/pages/de-our-stories-we-power-ai.json",
+        "sourceUrl": "https://www.infineon.com/de/our-stories/we-power-ai"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.live/de/our-stories/we-power-ai",
+        "deployedAt": "2026-11-18T09:56:09.322Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 10.54,
+          "heightDelta": -33,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 35,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 10.54% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-package-overview",
+      "path": "/de/package-overview",
+      "title": "Packages | Infineon Technologies",
+      "templateId": "de-package-overview",
+      "source": {
+        "migratedHtml": "stardust/migrated/de/package-overview/index.html",
+        "metaJson": "stardust/migrated/de/package-overview/_meta.json",
+        "sourceHash": "sha256:793475964dd93e162fb226a905ae1e8ccfa1404bf92c543aa800965c787d7ec5",
+        "sourceUrl": "https://www.infineon.com/de/package-overview"
+      },
+      "blocks": [
+        "breadcrumb",
+        "product-hero",
+        "package-categories",
+        "document-list",
+        "teaser-cards",
+        "support-offramp"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/package-overview",
+        "deployedAt": "2026-11-18T09:29:42.678Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 10.14,
+          "heightDelta": -7,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 133,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 10.14% > 10%",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-partners",
+      "path": "/de/partners",
+      "title": "Partners | Infineon Technologies",
+      "templateId": "static",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:e7a68d217b401f46cb3f36efe35e483bfa764d9a059e9a017085d2f4cb79d75d",
+        "currentStatePath": "stardust/current/pages/de-partners.json",
+        "sourceUrl": "https://www.infineon.com/de/partners"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/partners",
+        "deployedAt": "2026-11-18T07:33:46.270Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.52,
+          "heightDelta": -24,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 14,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-support",
+      "path": "/de/support",
+      "title": "Support | Infineon Technologies",
+      "templateId": "static",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a1575c55c1d3615ac20c31dbd98c98db09b79eb7cbe04a723af49d70dcc6734b",
+        "currentStatePath": "stardust/current/pages/de-support.json",
+        "sourceUrl": "https://www.infineon.com/de/support"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/support",
+        "deployedAt": "2026-11-18T07:33:46.324Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.54,
+          "heightDelta": -57,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 30,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-support-faqs",
+      "path": "/de/support/faqs",
+      "title": "FAQs | Infineon Technologies",
+      "templateId": "listing",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:4c869d9583ba6bb7bc359254b52eb532cab763e5118fd203b0a2e65d9ca5a9c0",
+        "currentStatePath": "stardust/current/pages/de-support-faqs.json",
+        "sourceUrl": "https://www.infineon.com/de/support/faqs"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/support/faqs",
+        "deployedAt": "2026-11-18T10:23:49.032Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 4.84,
+          "heightDelta": -10,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 20,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-support-service-center",
+      "path": "/de/support/service-center",
+      "title": "Servicestelle | Infineon Technologies",
+      "templateId": "reference",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:269d8869fcd46dc5e068437aeb4ba83d4acd5415c8a2f3d76abfed6d90232ad3",
+        "currentStatePath": "stardust/current/pages/de-support-service-center.json",
+        "sourceUrl": "https://www.infineon.com/de/support/service-center"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/support/service-center",
+        "deployedAt": "2026-11-18T09:42:23.134Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.98,
+          "heightDelta": -7,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 12,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-thank-you",
+      "path": "/de/thank-you",
+      "title": "Danke | Infineon Technologies",
+      "templateId": "de-thank-you",
+      "source": {
+        "migratedHtml": "stardust/migrated/de/thank-you/index.html",
+        "metaJson": "stardust/migrated/de/thank-you/_meta.json",
+        "sourceHash": "sha256:9820f888073cf6673b95f89645eb0449876771c412ca928b77fc3744a865cc12",
+        "sourceUrl": "https://www.infineon.com/de/thank-you"
+      },
+      "blocks": [
+        "thank-you"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/thank-you",
+        "deployedAt": "2026-11-18T07:15:11.993Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 4.54,
+          "heightDelta": -7,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "de-training",
+      "path": "/de/training",
+      "title": "Training | Infineon Technologies",
+      "templateId": "static",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:033a2c02704bdca7083447f4336c7658078780b8a4c06f0b3127e7a56b8ddb32",
+        "currentStatePath": "stardust/current/pages/de-training.json",
+        "sourceUrl": "https://www.infineon.com/de/training"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/de/training",
+        "deployedAt": "2026-11-18T07:33:46.380Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.35,
+          "heightDelta": 90,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 27,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    },
+    {
+      "slug": "index",
+      "path": "/",
+      "title": "Semiconductor &amp; System Solutions | Infineon Technologies",
+      "templateId": "index",
+      "source": {
+        "migratedHtml": "stardust/migrated/index.html",
+        "metaJson": "stardust/migrated/_meta.json",
+        "sourceHash": "sha256:10cf4ba53047443387e0de5641f9542bf8dec25ee1b034c31e56f6ef05c30400",
+        "sourceUrl": "https://www.infineon.com/"
+      },
+      "blocks": [
+        "hero-carousel",
+        "market-cards",
+        "product-carousel",
+        "event-slider",
+        "partner-teaser",
+        "story-cards",
+        "career-offramp"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--938eead7--aemcoder.aem.page/",
+        "deployedAt": "2026-11-18T07:06:25.562Z",
+        "verifiedAt": "2026-11-18T23:44:49.485Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.01,
+          "heightDelta": -14,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 32,
+            "variable": []
+          },
+          "reasons": [
+            "units off 7 hidden 0 missing 2",
+            "font-not-loaded:Arial Metrics Override"
+          ],
+          "override": "pass",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-18T23:44:49.423Z"
+        }
+      }
+    }
+  ]
+}

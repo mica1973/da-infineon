@@ -1,0 +1,2093 @@
+{
+ "url": "http://localhost:8791/index-proposed.html",
+ "at": "2026-11-18T04:29:56.437Z",
+ "width": 1440,
+ "status": 200,
+ "settlePasses": 2,
+ "docH": 6630,
+ "pageW": 1440,
+ "counts": {
+  "textClipped": 1,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 14,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 6,
+  "offPage": 57,
+  "textNodes": 228,
+  "controls": 103,
+  "total": 1
+ },
+ "findings": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.markets__grid > article.mk-card > div.mk-card__body > p.mk-card__desc",
+   "text": "we support the transition to electromobility with semiconduc",
+   "clipper": "p.mk-card__desc",
+   "rect": {
+    "l": 128,
+    "t": 1090,
+    "r": 453,
+    "b": 1112,
+    "w": 325,
+    "h": 22
+   },
+   "clip": {
+    "l": 128,
+    "t": 1089,
+    "r": 494,
+    "b": 1161,
+    "w": 366,
+    "h": 72
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.markets__grid > article.mk-card > div.mk-card__body > p.mk-card__desc",
+   "text": "we enable software-defined vehicles with semiconductor innov",
+   "clipper": "p.mk-card__desc",
+   "rect": {
+    "l": 578,
+    "t": 1090,
+    "r": 855,
+    "b": 1112,
+    "w": 276,
+    "h": 22
+   },
+   "clip": {
+    "l": 578,
+    "t": 1089,
+    "r": 944,
+    "b": 1161,
+    "w": 366,
+    "h": 72
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.markets__grid > article.mk-card > div.mk-card__body > p.mk-card__desc",
+   "text": "we empower robots with semiconductor solutions that enable p",
+   "clipper": "p.mk-card__desc",
+   "rect": {
+    "l": 1029,
+    "t": 1090,
+    "r": 1394,
+    "b": 1112,
+    "w": 366,
+    "h": 22
+   },
+   "clip": {
+    "l": 1029,
+    "t": 1089,
+    "r": 1395,
+    "b": 1161,
+    "w": 366,
+    "h": 72
+   },
+   "lines": 5
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.markets__grid > article.mk-card > div.mk-card__body > p.mk-card__desc",
+   "text": "we power ai, from grid to the core, by enabling energy-effic",
+   "clipper": "p.mk-card__desc",
+   "rect": {
+    "l": 578,
+    "t": 1540,
+    "r": 943,
+    "b": 1562,
+    "w": 365,
+    "h": 22
+   },
+   "clip": {
+    "l": 578,
+    "t": 1539,
+    "r": 944,
+    "b": 1611,
+    "w": 366,
+    "h": 72
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLIPPED",
+   "cut": 18,
+   "hiddenLines": 0,
+   "path": "div.np__track > article.np-card > div.np-card__body > p.np-card__sub",
+   "text": "rad hard, 100 v, 9 a, r9 generation rad hard mosfet in smd-0",
+   "clipper": "p.np-card__sub",
+   "rect": {
+    "l": 783,
+    "t": 2097,
+    "r": 983,
+    "b": 2117,
+    "w": 200,
+    "h": 20
+   },
+   "clip": {
+    "l": 783,
+    "t": 2097,
+    "r": 999,
+    "b": 2139,
+    "w": 216,
+    "h": 42
+   },
+   "lines": 3
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "cut": 92,
+   "path": "div.np__track > article.np-card > div.np-card__body > p.np-card__sub",
+   "text": "50v hirel silicon pin diode for high speed switching of rf s",
+   "clipper": "p.np-card__sub",
+   "rect": {
+    "l": 1327,
+    "t": 2097,
+    "r": 1532,
+    "b": 2117,
+    "w": 205,
+    "h": 20
+   },
+   "clip": {
+    "l": 1327,
+    "t": 2097,
+    "r": 1543,
+    "b": 2139,
+    "w": 216,
+    "h": 42
+   },
+   "lines": 2
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "cut": 47,
+   "path": "article.np-card > div.np-card__body > div.np-card__links > a",
+   "text": "view family",
+   "clipper": "section.np.ifx-band-grey",
+   "rect": {
+    "l": 1420,
+    "t": 2155,
+    "r": 1487,
+    "b": 2176,
+    "w": 67,
+    "h": 21
+   },
+   "clip": {
+    "l": 0,
+    "t": 1769,
+    "r": 1440,
+    "b": 2344,
+    "w": 1440,
+    "h": 575
+   }
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "cut": 47,
+   "path": "article.np-card > div.np-card__body > div.np-card__links > a",
+   "text": "view family",
+   "clipper": "section.np.ifx-band-grey",
+   "rect": {
+    "l": 1420,
+    "t": 2155,
+    "r": 1487,
+    "b": 2175,
+    "w": 67,
+    "h": 20
+   },
+   "clip": {
+    "l": 0,
+    "t": 1769,
+    "r": 1440,
+    "b": 2344,
+    "w": 1440,
+    "h": 575
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "cut": 152,
+   "path": "div.ev__carousel > div.ev__track > div.ev-slide > a.ev-card",
+   "text": "nov 23rd, 2026master automotive battery management onlineweb",
+   "clipper": "section.ev",
+   "rect": {
+    "l": 1291,
+    "t": 2610,
+    "r": 1592,
+    "b": 2924,
+    "w": 301,
+    "h": 314
+   },
+   "clip": {
+    "l": 0,
+    "t": 2344,
+    "r": 1440,
+    "b": 3138,
+    "w": 1440,
+    "h": 794
+   }
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "cut": 99,
+   "path": "a.ev-card > div.ev-card__body > div.ev-card__head > h5.ev-card__title",
+   "text": "master automotive battery management",
+   "clipper": "h5.ev-card__title",
+   "rect": {
+    "l": 1315,
+    "t": 2776,
+    "r": 1539,
+    "b": 2804,
+    "w": 224,
+    "h": 28
+   },
+   "clip": {
+    "l": 1315,
+    "t": 2776,
+    "r": 1568,
+    "b": 2832,
+    "w": 253,
+    "h": 56
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "cut": 9,
+   "path": "div.ev-card__body > div.ev-card__foot > ul.ev-card__loc > li",
+   "text": "webinars",
+   "clipper": "section.ev",
+   "rect": {
+    "l": 1395,
+    "t": 2880,
+    "r": 1449,
+    "b": 2900,
+    "w": 55,
+    "h": 20
+   },
+   "clip": {
+    "l": 0,
+    "t": 2344,
+    "r": 1440,
+    "b": 3138,
+    "w": 1440,
+    "h": 794
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 6,
+   "path": "div.st__grid > article.st-card > div.st-card__body > p.st-card__desc",
+   "text": "your hand switches from a gentle grip on an egg to a firm ho",
+   "clipper": "p.st-card__desc",
+   "rect": {
+    "l": 124,
+    "t": 4356,
+    "r": 459,
+    "b": 4378,
+    "w": 335,
+    "h": 22
+   },
+   "clip": {
+    "l": 124,
+    "t": 4354,
+    "r": 467,
+    "b": 4432,
+    "w": 343,
+    "h": 78
+   },
+   "lines": 9
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 8,
+   "path": "div.st__grid > article.st-card > div.st-card__body > p.st-card__desc",
+   "text": "we are redefining real time compute and control for next-gen",
+   "clipper": "p.st-card__desc",
+   "rect": {
+    "l": 551,
+    "t": 4356,
+    "r": 872,
+    "b": 4378,
+    "w": 322,
+    "h": 22
+   },
+   "clip": {
+    "l": 551,
+    "t": 4354,
+    "r": 894,
+    "b": 4432,
+    "w": 343,
+    "h": 78
+   },
+   "lines": 12
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 6,
+   "path": "div.st__grid > article.st-card > div.st-card__body > p.st-card__desc",
+   "text": "smart living is about bringing artificial intelligence close",
+   "clipper": "p.st-card__desc",
+   "rect": {
+    "l": 977,
+    "t": 4356,
+    "r": 1312,
+    "b": 4378,
+    "w": 335,
+    "h": 22
+   },
+   "clip": {
+    "l": 977,
+    "t": 4354,
+    "r": 1320,
+    "b": 4432,
+    "w": 343,
+    "h": 78
+   },
+   "lines": 9
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 5,
+   "path": "div.st__grid > article.st-card > div.st-card__body > p.st-card__desc",
+   "text": "the age of electricity is here – and it demands advanced pow",
+   "clipper": "p.st-card__desc",
+   "rect": {
+    "l": 124,
+    "t": 4842,
+    "r": 427,
+    "b": 4864,
+    "w": 303,
+    "h": 22
+   },
+   "clip": {
+    "l": 124,
+    "t": 4840,
+    "r": 467,
+    "b": 4918,
+    "w": 343,
+    "h": 78
+   },
+   "lines": 8
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 4,
+   "path": "div.st__grid > article.st-card > div.st-card__body > p.st-card__desc",
+   "text": "mobility is undergoing one of the most profound transformati",
+   "clipper": "p.st-card__desc",
+   "rect": {
+    "l": 551,
+    "t": 4842,
+    "r": 872,
+    "b": 4864,
+    "w": 321,
+    "h": 22
+   },
+   "clip": {
+    "l": 551,
+    "t": 4840,
+    "r": 894,
+    "b": 4918,
+    "w": 343,
+    "h": 78
+   },
+   "lines": 7
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 4,
+   "path": "div.st__grid > article.st-card > div.st-card__body > p.st-card__desc",
+   "text": "we power ai by enabling todays and future generation of ener",
+   "clipper": "p.st-card__desc",
+   "rect": {
+    "l": 977,
+    "t": 4842,
+    "r": 1262,
+    "b": 4864,
+    "w": 284,
+    "h": 22
+   },
+   "clip": {
+    "l": 977,
+    "t": 4840,
+    "r": 1320,
+    "b": 4918,
+    "w": 343,
+    "h": 78
+   },
+   "lines": 7
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 5,
+   "path": "div.st__grid > article.st-card > div.st-card__body > p.st-card__desc",
+   "text": "mobility is undergoing a significant shift. the software-def",
+   "clipper": "p.st-card__desc",
+   "rect": {
+    "l": 124,
+    "t": 5328,
+    "r": 420,
+    "b": 5350,
+    "w": 296,
+    "h": 22
+   },
+   "clip": {
+    "l": 124,
+    "t": 5326,
+    "r": 467,
+    "b": 5404,
+    "w": 343,
+    "h": 78
+   },
+   "lines": 9
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.st__grid > article.st-card > div.st-card__body > p.st-card__desc",
+   "text": "ai data centers and modern industries are driving electricit",
+   "clipper": "p.st-card__desc",
+   "rect": {
+    "l": 551,
+    "t": 5328,
+    "r": 878,
+    "b": 5350,
+    "w": 327,
+    "h": 22
+   },
+   "clip": {
+    "l": 551,
+    "t": 5326,
+    "r": 894,
+    "b": 5404,
+    "w": 343,
+    "h": 78
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.st__grid > article.st-card > div.st-card__body > p.st-card__title",
+   "text": "the european cyber resilience act: strengthening trust in co",
+   "clipper": "p.st-card__title",
+   "rect": {
+    "l": 977,
+    "t": 5254,
+    "r": 1271,
+    "b": 5282,
+    "w": 294,
+    "h": 28
+   },
+   "clip": {
+    "l": 977,
+    "t": 5254,
+    "r": 1320,
+    "b": 5310,
+    "w": 343,
+    "h": 56
+   },
+   "lines": 3
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 5,
+   "path": "div.st__grid > article.st-card > div.st-card__body > p.st-card__desc",
+   "text": "trust is the foundation of the connected world. the european",
+   "clipper": "p.st-card__desc",
+   "rect": {
+    "l": 977,
+    "t": 5328,
+    "r": 1317,
+    "b": 5350,
+    "w": 340,
+    "h": 22
+   },
+   "clip": {
+    "l": 977,
+    "t": 5326,
+    "r": 1320,
+    "b": 5404,
+    "w": 343,
+    "h": 78
+   },
+   "lines": 8
+  }
+ ],
+ "textBoxes": [
+  {
+   "x": 166,
+   "y": 22,
+   "w": 60,
+   "h": 22
+  },
+  {
+   "x": 242,
+   "y": 22,
+   "w": 83,
+   "h": 22
+  },
+  {
+   "x": 341,
+   "y": 22,
+   "w": 116,
+   "h": 22
+  },
+  {
+   "x": 473,
+   "y": 22,
+   "w": 125,
+   "h": 22
+  },
+  {
+   "x": 614,
+   "y": 22,
+   "w": 40,
+   "h": 22
+  },
+  {
+   "x": 1186,
+   "y": 22,
+   "w": 137,
+   "h": 22
+  },
+  {
+   "x": 160,
+   "y": 198,
+   "w": 105,
+   "h": 20
+  },
+  {
+   "x": 96,
+   "y": 236,
+   "w": 587,
+   "h": 79
+  },
+  {
+   "x": 96,
+   "y": 333,
+   "w": 611,
+   "h": 22
+  },
+  {
+   "x": 96,
+   "y": 357,
+   "w": 485,
+   "h": 22
+  },
+  {
+   "x": 96,
+   "y": 404,
+   "w": 110,
+   "h": 25
+  },
+  {
+   "x": 100,
+   "y": 697,
+   "w": 1152,
+   "h": 63
+  },
+  {
+   "x": 123,
+   "y": 819,
+   "w": 61,
+   "h": 15
+  },
+  {
+   "x": 128,
+   "y": 1021,
+   "w": 148,
+   "h": 28
+  },
+  {
+   "x": 128,
+   "y": 1090,
+   "w": 325,
+   "h": 22
+  },
+  {
+   "x": 128,
+   "y": 1114,
+   "w": 362,
+   "h": 22
+  },
+  {
+   "x": 128,
+   "y": 1138,
+   "w": 319,
+   "h": 22
+  },
+  {
+   "x": 128,
+   "y": 1184,
+   "w": 171,
+   "h": 22
+  },
+  {
+   "x": 573,
+   "y": 819,
+   "w": 61,
+   "h": 15
+  },
+  {
+   "x": 578,
+   "y": 1021,
+   "w": 249,
+   "h": 28
+  },
+  {
+   "x": 578,
+   "y": 1090,
+   "w": 276,
+   "h": 22
+  },
+  {
+   "x": 578,
+   "y": 1114,
+   "w": 328,
+   "h": 22
+  },
+  {
+   "x": 578,
+   "y": 1138,
+   "w": 348,
+   "h": 22
+  },
+  {
+   "x": 578,
+   "y": 1184,
+   "w": 241,
+   "h": 22
+  },
+  {
+   "x": 1024,
+   "y": 819,
+   "w": 61,
+   "h": 15
+  },
+  {
+   "x": 1029,
+   "y": 1021,
+   "w": 83,
+   "h": 28
+  },
+  {
+   "x": 1029,
+   "y": 1090,
+   "w": 366,
+   "h": 22
+  },
+  {
+   "x": 1029,
+   "y": 1114,
+   "w": 356,
+   "h": 22
+  },
+  {
+   "x": 1029,
+   "y": 1138,
+   "w": 354,
+   "h": 22
+  },
+  {
+   "x": 1029,
+   "y": 1138,
+   "w": 347,
+   "h": 22
+  },
+  {
+   "x": 1029,
+   "y": 1184,
+   "w": 121,
+   "h": 22
+  },
+  {
+   "x": 123,
+   "y": 1269,
+   "w": 61,
+   "h": 15
+  },
+  {
+   "x": 128,
+   "y": 1471,
+   "w": 116,
+   "h": 28
+  },
+  {
+   "x": 128,
+   "y": 1540,
+   "w": 311,
+   "h": 22
+  },
+  {
+   "x": 128,
+   "y": 1564,
+   "w": 366,
+   "h": 22
+  },
+  {
+   "x": 128,
+   "y": 1588,
+   "w": 271,
+   "h": 22
+  },
+  {
+   "x": 128,
+   "y": 1634,
+   "w": 146,
+   "h": 22
+  },
+  {
+   "x": 573,
+   "y": 1269,
+   "w": 61,
+   "h": 15
+  },
+  {
+   "x": 578,
+   "y": 1471,
+   "w": 113,
+   "h": 28
+  },
+  {
+   "x": 578,
+   "y": 1540,
+   "w": 365,
+   "h": 22
+  },
+  {
+   "x": 578,
+   "y": 1564,
+   "w": 285,
+   "h": 22
+  },
+  {
+   "x": 578,
+   "y": 1588,
+   "w": 339,
+   "h": 22
+  },
+  {
+   "x": 578,
+   "y": 1634,
+   "w": 147,
+   "h": 22
+  },
+  {
+   "x": 1024,
+   "y": 1269,
+   "w": 61,
+   "h": 15
+  },
+  {
+   "x": 1029,
+   "y": 1471,
+   "w": 198,
+   "h": 28
+  },
+  {
+   "x": 1029,
+   "y": 1540,
+   "w": 332,
+   "h": 22
+  },
+  {
+   "x": 1029,
+   "y": 1564,
+   "w": 366,
+   "h": 22
+  },
+  {
+   "x": 1029,
+   "y": 1588,
+   "w": 271,
+   "h": 22
+  },
+  {
+   "x": 1029,
+   "y": 1634,
+   "w": 207,
+   "h": 22
+  },
+  {
+   "x": 96,
+   "y": 1815,
+   "w": 163,
+   "h": 40
+  },
+  {
+   "x": 121,
+   "y": 1897,
+   "w": 26,
+   "h": 14
+  },
+  {
+   "x": 112,
+   "y": 2093,
+   "w": 187,
+   "h": 20
+  },
+  {
+   "x": 112,
+   "y": 2114,
+   "w": 90,
+   "h": 22
+  },
+  {
+   "x": 112,
+   "y": 2137,
+   "w": 329,
+   "h": 20
+  },
+  {
+   "x": 112,
+   "y": 2157,
+   "w": 151,
+   "h": 20
+  },
+  {
+   "x": 112,
+   "y": 2195,
+   "w": 77,
+   "h": 20
+  },
+  {
+   "x": 205,
+   "y": 2195,
+   "w": 67,
+   "h": 20
+  },
+  {
+   "x": 520,
+   "y": 1897,
+   "w": 26,
+   "h": 14
+  },
+  {
+   "x": 511,
+   "y": 2053,
+   "w": 81,
+   "h": 20
+  },
+  {
+   "x": 511,
+   "y": 2074,
+   "w": 138,
+   "h": 22
+  },
+  {
+   "x": 511,
+   "y": 2097,
+   "w": 194,
+   "h": 20
+  },
+  {
+   "x": 511,
+   "y": 2155,
+   "w": 77,
+   "h": 20
+  },
+  {
+   "x": 604,
+   "y": 2155,
+   "w": 67,
+   "h": 20
+  },
+  {
+   "x": 792,
+   "y": 1897,
+   "w": 26,
+   "h": 14
+  },
+  {
+   "x": 783,
+   "y": 2053,
+   "w": 209,
+   "h": 20
+  },
+  {
+   "x": 783,
+   "y": 2074,
+   "w": 128,
+   "h": 22
+  },
+  {
+   "x": 783,
+   "y": 2097,
+   "w": 200,
+   "h": 20
+  },
+  {
+   "x": 783,
+   "y": 2117,
+   "w": 166,
+   "h": 20
+  },
+  {
+   "x": 783,
+   "y": 2137,
+   "w": 192,
+   "h": 20
+  },
+  {
+   "x": 783,
+   "y": 2155,
+   "w": 77,
+   "h": 20
+  },
+  {
+   "x": 876,
+   "y": 2155,
+   "w": 67,
+   "h": 20
+  },
+  {
+   "x": 1064,
+   "y": 1897,
+   "w": 26,
+   "h": 14
+  },
+  {
+   "x": 1055,
+   "y": 2074,
+   "w": 90,
+   "h": 22
+  },
+  {
+   "x": 1055,
+   "y": 2097,
+   "w": 201,
+   "h": 20
+  },
+  {
+   "x": 1055,
+   "y": 2117,
+   "w": 183,
+   "h": 20
+  },
+  {
+   "x": 1055,
+   "y": 2155,
+   "w": 77,
+   "h": 20
+  },
+  {
+   "x": 1148,
+   "y": 2155,
+   "w": 67,
+   "h": 20
+  },
+  {
+   "x": 1336,
+   "y": 1897,
+   "w": 26,
+   "h": 14
+  },
+  {
+   "x": 1327,
+   "y": 2074,
+   "w": 90,
+   "h": 22
+  },
+  {
+   "x": 1327,
+   "y": 2097,
+   "w": 205,
+   "h": 20
+  },
+  {
+   "x": 1327,
+   "y": 2117,
+   "w": 170,
+   "h": 20
+  },
+  {
+   "x": 1327,
+   "y": 2155,
+   "w": 77,
+   "h": 20
+  },
+  {
+   "x": 1420,
+   "y": 2155,
+   "w": 67,
+   "h": 20
+  },
+  {
+   "x": 136,
+   "y": 2265,
+   "w": 117,
+   "h": 22
+  },
+  {
+   "x": 160,
+   "y": 2426,
+   "w": 248,
+   "h": 20
+  },
+  {
+   "x": 96,
+   "y": 2460,
+   "w": 739,
+   "h": 63
+  },
+  {
+   "x": 96,
+   "y": 2538,
+   "w": 995,
+   "h": 22
+  },
+  {
+   "x": 120,
+   "y": 2619,
+   "w": 46,
+   "h": 22
+  },
+  {
+   "x": 120,
+   "y": 2660,
+   "w": 94,
+   "h": 22
+  },
+  {
+   "x": 120,
+   "y": 2702,
+   "w": 116,
+   "h": 22
+  },
+  {
+   "x": 120,
+   "y": 2782,
+   "w": 103,
+   "h": 25
+  },
+  {
+   "x": 120,
+   "y": 2824,
+   "w": 114,
+   "h": 25
+  },
+  {
+   "x": 470,
+   "y": 2826,
+   "w": 86,
+   "h": 20
+  },
+  {
+   "x": 470,
+   "y": 2846,
+   "w": 266,
+   "h": 28
+  },
+  {
+   "x": 494,
+   "y": 2882,
+   "w": 64,
+   "h": 20
+  },
+  {
+   "x": 575,
+   "y": 2882,
+   "w": 155,
+   "h": 20
+  },
+  {
+   "x": 470,
+   "y": 2910,
+   "w": 397,
+   "h": 22
+  },
+  {
+   "x": 470,
+   "y": 2936,
+   "w": 376,
+   "h": 22
+  },
+  {
+   "x": 470,
+   "y": 2962,
+   "w": 84,
+   "h": 22
+  },
+  {
+   "x": 978,
+   "y": 2756,
+   "w": 86,
+   "h": 20
+  },
+  {
+   "x": 978,
+   "y": 2776,
+   "w": 231,
+   "h": 28
+  },
+  {
+   "x": 978,
+   "y": 2804,
+   "w": 104,
+   "h": 28
+  },
+  {
+   "x": 1002,
+   "y": 2880,
+   "w": 39,
+   "h": 20
+  },
+  {
+   "x": 1058,
+   "y": 2880,
+   "w": 24,
+   "h": 20
+  },
+  {
+   "x": 1315,
+   "y": 2756,
+   "w": 86,
+   "h": 20
+  },
+  {
+   "x": 1315,
+   "y": 2776,
+   "w": 224,
+   "h": 28
+  },
+  {
+   "x": 1315,
+   "y": 2804,
+   "w": 110,
+   "h": 28
+  },
+  {
+   "x": 1339,
+   "y": 2880,
+   "w": 39,
+   "h": 20
+  },
+  {
+   "x": 1395,
+   "y": 2880,
+   "w": 55,
+   "h": 20
+  },
+  {
+   "x": 112,
+   "y": 3260,
+   "w": 219,
+   "h": 28
+  },
+  {
+   "x": 112,
+   "y": 3296,
+   "w": 271,
+   "h": 20
+  },
+  {
+   "x": 112,
+   "y": 3316,
+   "w": 205,
+   "h": 20
+  },
+  {
+   "x": 112,
+   "y": 3434,
+   "w": 159,
+   "h": 28
+  },
+  {
+   "x": 112,
+   "y": 3470,
+   "w": 276,
+   "h": 20
+  },
+  {
+   "x": 112,
+   "y": 3490,
+   "w": 179,
+   "h": 20
+  },
+  {
+   "x": 112,
+   "y": 3608,
+   "w": 189,
+   "h": 28
+  },
+  {
+   "x": 112,
+   "y": 3644,
+   "w": 249,
+   "h": 20
+  },
+  {
+   "x": 456,
+   "y": 3216,
+   "w": 393,
+   "h": 51
+  },
+  {
+   "x": 456,
+   "y": 3291,
+   "w": 591,
+   "h": 22
+  },
+  {
+   "x": 542,
+   "y": 3457,
+   "w": 123,
+   "h": 22
+  },
+  {
+   "x": 842,
+   "y": 3457,
+   "w": 115,
+   "h": 22
+  },
+  {
+   "x": 1092,
+   "y": 3457,
+   "w": 208,
+   "h": 22
+  },
+  {
+   "x": 558,
+   "y": 3583,
+   "w": 93,
+   "h": 22
+  },
+  {
+   "x": 848,
+   "y": 3583,
+   "w": 105,
+   "h": 22
+  },
+  {
+   "x": 1141,
+   "y": 3583,
+   "w": 110,
+   "h": 22
+  },
+  {
+   "x": 472,
+   "y": 3695,
+   "w": 176,
+   "h": 22
+  },
+  {
+   "x": 101,
+   "y": 3888,
+   "w": 116,
+   "h": 20
+  },
+  {
+   "x": 96,
+   "y": 3924,
+   "w": 861,
+   "h": 51
+  },
+  {
+   "x": 96,
+   "y": 3998,
+   "w": 878,
+   "h": 25
+  },
+  {
+   "x": 96,
+   "y": 4024,
+   "w": 244,
+   "h": 25
+  },
+  {
+   "x": 124,
+   "y": 4282,
+   "w": 322,
+   "h": 28
+  },
+  {
+   "x": 124,
+   "y": 4310,
+   "w": 174,
+   "h": 28
+  },
+  {
+   "x": 124,
+   "y": 4356,
+   "w": 335,
+   "h": 22
+  },
+  {
+   "x": 124,
+   "y": 4382,
+   "w": 322,
+   "h": 22
+  },
+  {
+   "x": 124,
+   "y": 4408,
+   "w": 307,
+   "h": 22
+  },
+  {
+   "x": 133,
+   "y": 4453,
+   "w": 51,
+   "h": 20
+  },
+  {
+   "x": 148,
+   "y": 4492,
+   "w": 39,
+   "h": 20
+  },
+  {
+   "x": 211,
+   "y": 4492,
+   "w": 86,
+   "h": 20
+  },
+  {
+   "x": 551,
+   "y": 4282,
+   "w": 282,
+   "h": 28
+  },
+  {
+   "x": 551,
+   "y": 4310,
+   "w": 175,
+   "h": 28
+  },
+  {
+   "x": 551,
+   "y": 4356,
+   "w": 322,
+   "h": 22
+  },
+  {
+   "x": 551,
+   "y": 4382,
+   "w": 293,
+   "h": 22
+  },
+  {
+   "x": 551,
+   "y": 4408,
+   "w": 342,
+   "h": 22
+  },
+  {
+   "x": 551,
+   "y": 4408,
+   "w": 326,
+   "h": 22
+  },
+  {
+   "x": 560,
+   "y": 4453,
+   "w": 112,
+   "h": 20
+  },
+  {
+   "x": 575,
+   "y": 4492,
+   "w": 39,
+   "h": 20
+  },
+  {
+   "x": 638,
+   "y": 4492,
+   "w": 80,
+   "h": 20
+  },
+  {
+   "x": 977,
+   "y": 4282,
+   "w": 284,
+   "h": 28
+  },
+  {
+   "x": 977,
+   "y": 4310,
+   "w": 107,
+   "h": 28
+  },
+  {
+   "x": 977,
+   "y": 4356,
+   "w": 335,
+   "h": 22
+  },
+  {
+   "x": 977,
+   "y": 4382,
+   "w": 315,
+   "h": 22
+  },
+  {
+   "x": 977,
+   "y": 4408,
+   "w": 283,
+   "h": 22
+  },
+  {
+   "x": 986,
+   "y": 4453,
+   "w": 70,
+   "h": 20
+  },
+  {
+   "x": 1001,
+   "y": 4492,
+   "w": 39,
+   "h": 20
+  },
+  {
+   "x": 1064,
+   "y": 4492,
+   "w": 83,
+   "h": 20
+  },
+  {
+   "x": 124,
+   "y": 4768,
+   "w": 316,
+   "h": 28
+  },
+  {
+   "x": 124,
+   "y": 4796,
+   "w": 46,
+   "h": 28
+  },
+  {
+   "x": 124,
+   "y": 4842,
+   "w": 303,
+   "h": 22
+  },
+  {
+   "x": 124,
+   "y": 4868,
+   "w": 301,
+   "h": 22
+  },
+  {
+   "x": 124,
+   "y": 4894,
+   "w": 316,
+   "h": 22
+  },
+  {
+   "x": 133,
+   "y": 4939,
+   "w": 106,
+   "h": 20
+  },
+  {
+   "x": 265,
+   "y": 4939,
+   "w": 59,
+   "h": 20
+  },
+  {
+   "x": 148,
+   "y": 4978,
+   "w": 39,
+   "h": 20
+  },
+  {
+   "x": 211,
+   "y": 4978,
+   "w": 79,
+   "h": 20
+  },
+  {
+   "x": 551,
+   "y": 4768,
+   "w": 243,
+   "h": 28
+  },
+  {
+   "x": 551,
+   "y": 4842,
+   "w": 321,
+   "h": 22
+  },
+  {
+   "x": 551,
+   "y": 4868,
+   "w": 312,
+   "h": 22
+  },
+  {
+   "x": 551,
+   "y": 4894,
+   "w": 311,
+   "h": 22
+  },
+  {
+   "x": 560,
+   "y": 4939,
+   "w": 90,
+   "h": 20
+  },
+  {
+   "x": 575,
+   "y": 4978,
+   "w": 39,
+   "h": 20
+  },
+  {
+   "x": 638,
+   "y": 4978,
+   "w": 82,
+   "h": 20
+  },
+  {
+   "x": 977,
+   "y": 4768,
+   "w": 257,
+   "h": 28
+  },
+  {
+   "x": 977,
+   "y": 4842,
+   "w": 284,
+   "h": 22
+  },
+  {
+   "x": 977,
+   "y": 4868,
+   "w": 341,
+   "h": 22
+  },
+  {
+   "x": 977,
+   "y": 4894,
+   "w": 323,
+   "h": 22
+  },
+  {
+   "x": 986,
+   "y": 4939,
+   "w": 69,
+   "h": 20
+  },
+  {
+   "x": 1001,
+   "y": 4978,
+   "w": 39,
+   "h": 20
+  },
+  {
+   "x": 1064,
+   "y": 4978,
+   "w": 76,
+   "h": 20
+  },
+  {
+   "x": 124,
+   "y": 5254,
+   "w": 337,
+   "h": 28
+  },
+  {
+   "x": 124,
+   "y": 5282,
+   "w": 128,
+   "h": 28
+  },
+  {
+   "x": 124,
+   "y": 5328,
+   "w": 296,
+   "h": 22
+  },
+  {
+   "x": 124,
+   "y": 5354,
+   "w": 313,
+   "h": 22
+  },
+  {
+   "x": 124,
+   "y": 5380,
+   "w": 337,
+   "h": 22
+  },
+  {
+   "x": 124,
+   "y": 5380,
+   "w": 320,
+   "h": 22
+  },
+  {
+   "x": 133,
+   "y": 5425,
+   "w": 112,
+   "h": 20
+  },
+  {
+   "x": 148,
+   "y": 5464,
+   "w": 39,
+   "h": 20
+  },
+  {
+   "x": 211,
+   "y": 5464,
+   "w": 85,
+   "h": 20
+  },
+  {
+   "x": 551,
+   "y": 5254,
+   "w": 243,
+   "h": 28
+  },
+  {
+   "x": 551,
+   "y": 5282,
+   "w": 134,
+   "h": 28
+  },
+  {
+   "x": 551,
+   "y": 5328,
+   "w": 327,
+   "h": 22
+  },
+  {
+   "x": 551,
+   "y": 5354,
+   "w": 295,
+   "h": 22
+  },
+  {
+   "x": 551,
+   "y": 5380,
+   "w": 303,
+   "h": 22
+  },
+  {
+   "x": 560,
+   "y": 5425,
+   "w": 106,
+   "h": 20
+  },
+  {
+   "x": 575,
+   "y": 5464,
+   "w": 34,
+   "h": 20
+  },
+  {
+   "x": 633,
+   "y": 5464,
+   "w": 85,
+   "h": 20
+  },
+  {
+   "x": 977,
+   "y": 5254,
+   "w": 294,
+   "h": 28
+  },
+  {
+   "x": 977,
+   "y": 5282,
+   "w": 274,
+   "h": 28
+  },
+  {
+   "x": 977,
+   "y": 5328,
+   "w": 340,
+   "h": 22
+  },
+  {
+   "x": 977,
+   "y": 5354,
+   "w": 296,
+   "h": 22
+  },
+  {
+   "x": 977,
+   "y": 5380,
+   "w": 309,
+   "h": 22
+  },
+  {
+   "x": 986,
+   "y": 5425,
+   "w": 48,
+   "h": 20
+  },
+  {
+   "x": 1001,
+   "y": 5464,
+   "w": 39,
+   "h": 20
+  },
+  {
+   "x": 1064,
+   "y": 5464,
+   "w": 78,
+   "h": 20
+  },
+  {
+   "x": 671,
+   "y": 5613,
+   "w": 98,
+   "h": 22
+  },
+  {
+   "x": 562,
+   "y": 5802,
+   "w": 317,
+   "h": 51
+  },
+  {
+   "x": 398,
+   "y": 5902,
+   "w": 258,
+   "h": 20
+  },
+  {
+   "x": 439,
+   "y": 5961,
+   "w": 176,
+   "h": 22
+  },
+  {
+   "x": 785,
+   "y": 5902,
+   "w": 230,
+   "h": 20
+  },
+  {
+   "x": 846,
+   "y": 5961,
+   "w": 107,
+   "h": 22
+  },
+  {
+   "x": 389,
+   "y": 6157,
+   "w": 96,
+   "h": 22
+  },
+  {
+   "x": 389,
+   "y": 6212,
+   "w": 72,
+   "h": 25
+  },
+  {
+   "x": 389,
+   "y": 6254,
+   "w": 80,
+   "h": 25
+  },
+  {
+   "x": 389,
+   "y": 6296,
+   "w": 50,
+   "h": 25
+  },
+  {
+   "x": 389,
+   "y": 6338,
+   "w": 40,
+   "h": 25
+  },
+  {
+   "x": 389,
+   "y": 6380,
+   "w": 61,
+   "h": 25
+  },
+  {
+   "x": 654,
+   "y": 6157,
+   "w": 118,
+   "h": 22
+  },
+  {
+   "x": 654,
+   "y": 6212,
+   "w": 88,
+   "h": 25
+  },
+  {
+   "x": 654,
+   "y": 6254,
+   "w": 61,
+   "h": 25
+  },
+  {
+   "x": 654,
+   "y": 6296,
+   "w": 99,
+   "h": 25
+  },
+  {
+   "x": 654,
+   "y": 6338,
+   "w": 123,
+   "h": 25
+  },
+  {
+   "x": 654,
+   "y": 6380,
+   "w": 54,
+   "h": 25
+  },
+  {
+   "x": 654,
+   "y": 6422,
+   "w": 132,
+   "h": 25
+  },
+  {
+   "x": 956,
+   "y": 6157,
+   "w": 120,
+   "h": 22
+  },
+  {
+   "x": 956,
+   "y": 6212,
+   "w": 61,
+   "h": 25
+  },
+  {
+   "x": 956,
+   "y": 6254,
+   "w": 100,
+   "h": 25
+  },
+  {
+   "x": 956,
+   "y": 6296,
+   "w": 61,
+   "h": 25
+  },
+  {
+   "x": 1245,
+   "y": 6157,
+   "w": 85,
+   "h": 22
+  },
+  {
+   "x": 1245,
+   "y": 6212,
+   "w": 71,
+   "h": 25
+  },
+  {
+   "x": 1245,
+   "y": 6254,
+   "w": 83,
+   "h": 25
+  },
+  {
+   "x": 1245,
+   "y": 6296,
+   "w": 49,
+   "h": 25
+  },
+  {
+   "x": 1245,
+   "y": 6338,
+   "w": 99,
+   "h": 25
+  },
+  {
+   "x": 101,
+   "y": 6565,
+   "w": 74,
+   "h": 20
+  },
+  {
+   "x": 218,
+   "y": 6565,
+   "w": 44,
+   "h": 20
+  },
+  {
+   "x": 304,
+   "y": 6565,
+   "w": 81,
+   "h": 20
+  },
+  {
+   "x": 428,
+   "y": 6565,
+   "w": 46,
+   "h": 20
+  },
+  {
+   "x": 517,
+   "y": 6565,
+   "w": 45,
+   "h": 20
+  },
+  {
+   "x": 563,
+   "y": 6565,
+   "w": 28,
+   "h": 20
+  },
+  {
+   "x": 590,
+   "y": 6565,
+   "w": 156,
+   "h": 20
+  },
+  {
+   "x": 1013,
+   "y": 750,
+   "w": 310,
+   "h": 20
+  },
+  {
+   "x": 1359,
+   "y": 802,
+   "w": 46,
+   "h": 25
+  }
+ ],
+ "groups": [
+  {
+   "kind": "TEXT CLIPPED",
+   "advisory": false,
+   "n": 1,
+   "clipper": "p.np-card__sub",
+   "path": "div.np__track > article.np-card > div.np-card__body > p.np-card__sub",
+   "text": "rad hard, 100 v, 9 a, r9 generation rad hard mosfet in smd-0",
+   "cutMin": 18,
+   "cutMax": 18
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 9,
+   "clipper": "p.st-card__desc",
+   "path": "div.st__grid > article.st-card > div.st-card__body > p.st-card__desc",
+   "text": "your hand switches from a gentle grip on an egg to a firm ho",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 4,
+   "clipper": "p.mk-card__desc",
+   "path": "div.markets__grid > article.mk-card > div.mk-card__body > p.mk-card__desc",
+   "text": "we support the transition to electromobility with semiconduc",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "p.np-card__sub",
+   "path": "div.np__track > article.np-card > div.np-card__body > p.np-card__sub",
+   "text": "50v hirel silicon pin diode for high speed switching of rf s",
+   "cutMin": 92,
+   "cutMax": 92
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "section.np.ifx-band-grey",
+   "path": "article.np-card > div.np-card__body > div.np-card__links > a",
+   "text": "view family",
+   "cutMin": 47,
+   "cutMax": 47
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "section.np.ifx-band-grey",
+   "path": "article.np-card > div.np-card__body > div.np-card__links > a",
+   "text": "view family",
+   "cutMin": 47,
+   "cutMax": 47
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "section.ev",
+   "path": "div.ev__carousel > div.ev__track > div.ev-slide > a.ev-card",
+   "text": "nov 23rd, 2026master automotive battery management onlineweb",
+   "cutMin": 152,
+   "cutMax": 152
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "h5.ev-card__title",
+   "path": "a.ev-card > div.ev-card__body > div.ev-card__head > h5.ev-card__title",
+   "text": "master automotive battery management",
+   "cutMin": 99,
+   "cutMax": 99
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "section.ev",
+   "path": "div.ev-card__body > div.ev-card__foot > ul.ev-card__loc > li",
+   "text": "webinars",
+   "cutMin": 9,
+   "cutMax": 9
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 1,
+   "clipper": "p.st-card__title",
+   "path": "div.st__grid > article.st-card > div.st-card__body > p.st-card__title",
+   "text": "the european cyber resilience act: strengthening trust in co",
+   "cutMin": null,
+   "cutMax": null
+  }
+ ],
+ "tier": "chrome"
+}

@@ -1,0 +1,57 @@
+{
+  "a": "stardust/replica/gates/all-1440/de-event-techfor/origin.png",
+  "b": "stardust/replica/gates/all-1440/de-event-techfor/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 3424,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 41045,
+  "pct": 0.83,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/de-event-techfor/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 1.87,
+  "textBoxes": 92,
+  "textPixels": 542322,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.5
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0.4
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 3.3
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 1.1
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 0.3
+    },
+    {
+      "y0": 3000,
+      "y1": 3424,
+      "pct": 0.1
+    }
+  ]
+}

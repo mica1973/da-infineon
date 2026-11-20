@@ -1,0 +1,5098 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:19:16.926Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/essential-role-cybersecurity",
+  "at": "2026-11-18T23:18:55.126Z",
+  "status": 200,
+  "settlePasses": 3,
+  "docH": 7087,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems0",
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems1",
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems2",
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems3",
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems4",
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 714,
+    "y": 16,
+    "w": 197,
+    "h": 36,
+    "label": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die suche zu aktivieren.",
+    "value": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die ",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "text": "navbardropdown"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "label": "navbardropdown",
+    "value": "navbardropdown",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-1",
+    "x": 1072,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.nav-item.desktopProfile > div.login-dropdown > button.login-button",
+    "x": 1132,
+    "y": 14,
+    "w": 248,
+    "h": 40,
+    "text": "anmeldung zu myinfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 254,
+    "y": 86,
+    "w": 419,
+    "h": 20,
+    "text": "cybersicherheit – schutz für die digitale welt von heute und von morgen",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "woman with airconditioning",
+    "file": "paginafoto-2.png:asset-2000-25x9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 112,
+    "level": 1,
+    "text": "cybersicherheit – schutz für die digitale welt von heute und von morgen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 242,
+    "y": 611,
+    "w": 956,
+    "h": 72,
+    "text": "Wir leben heute in einer Welt, in der immer mehr Geräte miteinander vernetzt sin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 242,
+    "y": 699,
+    "w": 75,
+    "h": 28,
+    "text": "Sicherheit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 266,
+    "y": 743,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 342,
+    "y": 743,
+    "w": 76,
+    "h": 20,
+    "level": 4,
+    "text": "feb. 19, 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 877,
+    "w": 448,
+    "h": 22,
+    "text": "sicherheitslösungen für eine vernetzte und vertrauenswürdige welt",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 911,
+    "w": 263,
+    "h": 22,
+    "text": "vorbereitung auf die post‑quantum‑ära",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 945,
+    "w": 292,
+    "h": 22,
+    "text": "regulierungen ermöglichen cybersicherheit",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > p",
+    "x": 224,
+    "y": 843,
+    "w": 177,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-3f43e59d22 > p",
+    "x": 200,
+    "y": 1057,
+    "w": 1040,
+    "h": 130,
+    "text": "Doch je stärker unsere Welt vernetzt ist, desto bedeutender wird der Schutz dies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 1219,
+    "w": 504,
+    "h": 284,
+    "text": "controlling air con",
+    "file": "6413060a2fd77.jpg:asset-2000-16x9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-3ab32fc0dd > p",
+    "x": 200,
+    "y": 1535,
+    "w": 504,
+    "h": 208,
+    "text": "Im Smart Home sorgen wie Kameras, Thermostate, vernetzte Stromzähler und Spracha"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 376,
+    "y": 1535,
+    "w": 79,
+    "h": 25,
+    "text": "iot-geräte",
+    "href": "/applications/security-solutions/security-for-iot"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 736,
+    "y": 1219,
+    "w": 504,
+    "h": 284,
+    "text": "klkök",
+    "file": "67d9341a30918-size-final.png:asset-2000-"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-280ff0f65f > p",
+    "x": 736,
+    "y": 1535,
+    "w": 504,
+    "h": 286,
+    "text": "Im sind heutige Fahrzeuge mit fortschrittlichen Technologien ausgestattet. Dazu "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-280ff0f65f > p > a",
+    "x": 759,
+    "y": 1535,
+    "w": 139,
+    "h": 25,
+    "text": "automobilbereich",
+    "href": "/applications/automotive"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 1885,
+    "w": 504,
+    "h": 284,
+    "text": "energy supply networks and power grids",
+    "file": "63285947d1f81.tif:asset-2000-16x9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-4cd0a4ac70 > p",
+    "x": 200,
+    "y": 2200,
+    "w": 504,
+    "h": 182,
+    "text": "Cybersicherheit spielt nicht nur für einzelne Haushalte und Fahrzeuge eine wicht"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 347,
+    "y": 2252,
+    "w": 345,
+    "h": 25,
+    "text": "energieversorgungsnetze und stromsysteme",
+    "href": "/de/about/our-stories/power-infrastructure"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 736,
+    "y": 1885,
+    "w": 504,
+    "h": 284,
+    "text": "energy supply networks and power grids",
+    "file": "61f118386c49f.tif:asset-2000-16x9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-ea94b25d91 > p",
+    "x": 736,
+    "y": 2200,
+    "w": 504,
+    "h": 390,
+    "text": "entwickeln sich stetig weiter und eröffnen spannende neue Möglichkeiten. Gleichz"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 736,
+    "y": 2200,
+    "w": 330,
+    "h": 25,
+    "text": "robotertechnologien und automatisierung",
+    "href": "/de/about/our-stories/robotics"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 2654,
+    "w": 504,
+    "h": 284,
+    "text": "government-issued digital ids,",
+    "file": "65b0ec64846f4.jpg:asset-2000-16x9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-9ff8a44a35 > p",
+    "x": 200,
+    "y": 2954,
+    "w": 504,
+    "h": 234,
+    "text": "Gerade im großen Maßstab ist es von zentraler Bedeutung, dass , Bankensysteme un"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-9ff8a44a35 > p > a",
+    "x": 238,
+    "y": 2980,
+    "w": 148,
+    "h": 25,
+    "text": "digitale identitäten",
+    "href": "/applications/security-solutions/government-identification"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-41904d6580 > h2#Security",
+    "x": 224,
+    "y": 3292,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "sicherheitslösungen für eine vernetzte und vertrauenswürdige welt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-33e0476b9b > p",
+    "x": 224,
+    "y": 3344,
+    "w": 992,
+    "h": 156,
+    "text": "Wir bieten vertrauenswürdige Sicherheits­technologien, die Menschen, Daten und G"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 224,
+    "y": 3448,
+    "w": 922,
+    "h": 51,
+    "text": "mehr über unsere sicherheitslösungen erfahren sie hier.",
+    "href": "/applications/security-solutions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 3604,
+    "w": 1040,
+    "h": 625,
+    "text": "government-issued digital ids,",
+    "file": "68da4b43a6a45"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-d1a884ddd1 > h2#Prepare",
+    "x": 200,
+    "y": 4292,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "vorbereitung auf die post‑quantum‑ära"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-ace94cf316 > p",
+    "x": 200,
+    "y": 4344,
+    "w": 1040,
+    "h": 208,
+    "text": "Quantencomputer basieren auf den Prinzipien der Quantenphysik und sind in der La"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 406,
+    "y": 4526,
+    "w": 351,
+    "h": 25,
+    "text": "weitere informationen zu pqc finden sie hier.",
+    "href": "/promo/postquantumcryptography"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 4568,
+    "w": 1040,
+    "h": 585,
+    "text": "government-issued digital ids,",
+    "file": "5ad457407b772.tif:asset-880-16x9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-d452aea702 > h2#Regulation",
+    "x": 200,
+    "y": 5217,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "regulierungen ermöglichen cybersicherheit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-226080c927 > p",
+    "x": 200,
+    "y": 5269,
+    "w": 1040,
+    "h": 208,
+    "text": "Internationale Vorschriften und Standardisierungen sind entscheidend für den Erf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-226080c927 > p > a",
+    "x": 685,
+    "y": 5295,
+    "w": 201,
+    "h": 25,
+    "text": "cyber resilience act (cra)",
+    "href": "/quality/security/security-standards/eu-cra"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-226080c927 > p",
+    "x": 200,
+    "y": 5493,
+    "w": 1040,
+    "h": 130,
+    "text": "Darüber hinaus arbeiten wir mit internationalen Organisationen, Fachkonsortien u"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_copy_ifxcontainer_1166875233_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 5663,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 5759,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "ai-keyvisual.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 5975,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 124,
+    "y": 6043,
+    "w": 323,
+    "h": 56,
+    "text": "Die Rolle von Halbleitern für die künstliche Intelligenz"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 6121,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/artificial-intelligence-semiconductors"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 507,
+    "y": 5759,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "roof-top-urban-green-building-1.jpg:asse"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 531,
+    "y": 5975,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 531,
+    "y": 6043,
+    "w": 323,
+    "h": 56,
+    "text": "Wir bringen das IoT zum Laufen - für eine bessere und grünere Zukunft"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 531,
+    "y": 6121,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 203,
+    "y": 6321,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 732,
+    "y": 6321,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 732,
+    "y": 6405,
+    "w": 136,
+    "h": 48,
+    "text": "abonnieren",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 96,
+    "y": 6613,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 367,
+    "y": 6613,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6669,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6711,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6753,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6795,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 6837,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 619,
+    "y": 6613,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6669,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6711,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6753,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6795,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6837,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 6879,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 926,
+    "y": 6613,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 6669,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 6711,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 6753,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 1193,
+    "y": 6613,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6669,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6711,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6753,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 6795,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 96,
+    "y": 7017,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 272,
+    "y": 7017,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 380,
+    "y": 7017,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 647,
+    "y": 7022,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 1168,
+    "y": 7021,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 1208,
+    "y": 7021,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 1248,
+    "y": 7021,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 1288,
+    "y": 7018,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 1288,
+    "y": 7023,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 1328,
+    "y": 7021,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 83,
+    "controls": 54,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/essential-role-cybersecurity",
+  "at": "2026-11-18T23:19:16.819Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7106,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 166,
+    "y": 21,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/products"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 243,
+    "y": 21,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/applications"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 353,
+    "y": 21,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/design-resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 487,
+    "y": 21,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 629,
+    "y": 21,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/about"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "sprache"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "sprache",
+    "value": "sprache",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-login > p > a",
+    "x": 1132,
+    "y": 13,
+    "w": 207,
+    "h": 40,
+    "text": "anmeldung zu myinfineon",
+    "href": "/de/login.login.de.json"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 254,
+    "y": 85,
+    "w": 419,
+    "h": 20,
+    "text": "cybersicherheit – schutz für die digitale welt von heute und von morgen",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "woman with airconditioning",
+    "file": "media_194278a24aa6cb9b6187ac3cc0b84567ce"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#cybersicherheit--schutz-für-die-digitale-welt-von-heute-und-von-morgen",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 112,
+    "level": 1,
+    "text": "cybersicherheit – schutz für die digitale welt von heute und von morgen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 242,
+    "y": 611,
+    "w": 956,
+    "h": 72,
+    "text": "Wir leben heute in einer Welt, in der immer mehr Geräte miteinander vernetzt sin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 242,
+    "y": 699,
+    "w": 75,
+    "h": 28,
+    "text": "Sicherheit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 266,
+    "y": 743,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#feb-19-2026",
+    "x": 342,
+    "y": 743,
+    "w": 76,
+    "h": 20,
+    "level": 4,
+    "text": "feb. 19, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-toc.block > div.article-toc-label > p",
+    "x": 224,
+    "y": 843,
+    "w": 992,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 877,
+    "w": 448,
+    "h": 22,
+    "text": "sicherheitslösungen für eine vernetzte und vertrauenswürdige welt",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 911,
+    "w": 263,
+    "h": 22,
+    "text": "vorbereitung auf die post‑quantum‑ära",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 945,
+    "w": 292,
+    "h": 22,
+    "text": "regulierungen ermöglichen cybersicherheit",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-40 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1057,
+    "w": 1040,
+    "h": 130,
+    "text": "Doch je stärker unsere Welt vernetzt ist, desto bedeutender wird der Schutz dies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 1219,
+    "w": 504,
+    "h": 284,
+    "text": "controlling air con",
+    "file": "media_1fe34751da616af1933868fc875c61743d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col.is-plain > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 1535,
+    "w": 504,
+    "h": 208,
+    "text": "Im Smart Home sorgen wie Kameras, Thermostate, vernetzte Stromzähler und Spracha"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > a",
+    "x": 376,
+    "y": 1535,
+    "w": 79,
+    "h": 25,
+    "text": "iot-geräte",
+    "href": "/applications/security-solutions/security-for-iot"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 736,
+    "y": 1219,
+    "w": 504,
+    "h": 284,
+    "text": "klkök",
+    "file": "media_1c1f1ca3c6be35802d32c031e37b46f7fc"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col.is-plain > div.story-hub-rt.is-end > p",
+    "x": 736,
+    "y": 1535,
+    "w": 504,
+    "h": 286,
+    "text": "Im sind heutige Fahrzeuge mit fortschrittlichen Technologien ausgestattet. Dazu "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > a",
+    "x": 759,
+    "y": 1535,
+    "w": 139,
+    "h": 25,
+    "text": "automobilbereich",
+    "href": "/applications/automotive"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 1885,
+    "w": 504,
+    "h": 284,
+    "text": "energy supply networks and power grids",
+    "file": "media_14d21a2d4d412a46313862e1638938a0d5"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col.is-plain > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 2200,
+    "w": 504,
+    "h": 182,
+    "text": "Cybersicherheit spielt nicht nur für einzelne Haushalte und Fahrzeuge eine wicht"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > a",
+    "x": 347,
+    "y": 2252,
+    "w": 345,
+    "h": 25,
+    "text": "energieversorgungsnetze und stromsysteme",
+    "href": "/de/about/our-stories/power-infrastructure"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 736,
+    "y": 1885,
+    "w": 504,
+    "h": 284,
+    "text": "energy supply networks and power grids",
+    "file": "media_1c6f9be9d3e6e583aa2cec4a24f4e0a9a7"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col.is-plain > div.story-hub-rt.is-end > p",
+    "x": 736,
+    "y": 2200,
+    "w": 504,
+    "h": 390,
+    "text": "entwickeln sich stetig weiter und eröffnen spannende neue Möglichkeiten. Gleichz"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > a",
+    "x": 736,
+    "y": 2200,
+    "w": 330,
+    "h": 25,
+    "text": "robotertechnologien und automatisierung",
+    "href": "/de/about/our-stories/robotics"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 2654,
+    "w": 504,
+    "h": 284,
+    "text": "government-issued digital ids,",
+    "file": "media_1e4cf9edf24d3ab965eec60a12ba18c3d7"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col.is-plain > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 2970,
+    "w": 504,
+    "h": 234,
+    "text": "Gerade im großen Maßstab ist es von zentraler Bedeutung, dass , Bankensysteme un"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > a",
+    "x": 238,
+    "y": 2996,
+    "w": 148,
+    "h": 25,
+    "text": "digitale identitäten",
+    "href": "/applications/security-solutions/government-identification"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head > h2#sicherheitslösungen-für-eine-vernetzte-und-vertrauenswürdige-welt",
+    "x": 224,
+    "y": 3292,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "sicherheitslösungen für eine vernetzte und vertrauenswürdige welt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 3344,
+    "w": 992,
+    "h": 156,
+    "text": "Wir bieten vertrauenswürdige Sicherheits­technologien, die Menschen, Daten und G"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > a",
+    "x": 224,
+    "y": 3448,
+    "w": 922,
+    "h": 51,
+    "text": "mehr über unsere sicherheitslösungen erfahren sie hier.",
+    "href": "/applications/security-solutions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 3604,
+    "w": 1040,
+    "h": 625,
+    "text": "government-issued digital ids,",
+    "file": "media_1e5e30c359f9e984f7b661a0b0d1dec648"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-40 > div.default-content-wrapper > h2#vorbereitung-auf-die-postquantumära",
+    "x": 200,
+    "y": 4293,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "vorbereitung auf die post‑quantum‑ära"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-40 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 4345,
+    "w": 1040,
+    "h": 208,
+    "text": "Quantencomputer basieren auf den Prinzipien der Quantenphysik und sind in der La"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > a",
+    "x": 406,
+    "y": 4527,
+    "w": 351,
+    "h": 25,
+    "text": "weitere informationen zu pqc finden sie hier.",
+    "href": "/promo/postquantumcryptography"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 4585,
+    "w": 1040,
+    "h": 585,
+    "text": "government-issued digital ids,",
+    "file": "media_152a8c38650ffbf8b62830c55d39584dd6"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-40 > div.default-content-wrapper > h2#regulierungen-ermöglichen-cybersicherheit",
+    "x": 200,
+    "y": 5234,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "regulierungen ermöglichen cybersicherheit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-40 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 5286,
+    "w": 1040,
+    "h": 208,
+    "text": "Internationale Vorschriften und Standardisierungen sind entscheidend für den Erf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 685,
+    "y": 5312,
+    "w": 201,
+    "h": 25,
+    "text": "cyber resilience act (cra)",
+    "href": "/quality/security/security-standards/eu-cra"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-40 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 5510,
+    "w": 1040,
+    "h": 130,
+    "text": "Darüber hinaus arbeiten wir mit internationalen Organisationen, Fachkonsortien u"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#weitere-geschichten",
+    "x": 96,
+    "y": 5680,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 5776,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_1268748f864201c8f825d41b147289c09c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 5992,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 6060,
+    "w": 323,
+    "h": 56,
+    "text": "Die Rolle von Halbleitern für die künstliche Intelligenz"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 128,
+    "y": 6138,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/artificial-intelligence-semiconductors"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 507,
+    "y": 5776,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_14466e4d23baec2a7885f0e8aaa9abdb3a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 531,
+    "y": 5992,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 531,
+    "y": 6060,
+    "w": 323,
+    "h": 56,
+    "text": "Wir bringen das IoT zum Laufen - für eine bessere und grünere Zukunft"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 535,
+    "y": 6138,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#abonnieren-sie-die-marketingkommunikation",
+    "x": 203,
+    "y": 6338,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 732,
+    "y": 6338,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 732,
+    "y": 6422,
+    "w": 138,
+    "h": 50,
+    "text": "abonnieren",
+    "href": "/de/our-stories/essential-role-cybersecurity"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 96,
+    "y": 6670,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 96,
+    "y": 6632,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 367,
+    "y": 6632,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6688,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6730,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6772,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6814,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 6856,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 619,
+    "y": 6632,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6688,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6730,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6772,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6814,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6856,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 6898,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 926,
+    "y": 6632,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 6688,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 6730,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 6772,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 1193,
+    "y": 6632,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6688,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6730,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6772,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 6814,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 7036,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 272,
+    "y": 7036,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 380,
+    "y": 7036,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 7036,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 647,
+    "y": 7041,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 7040,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1208,
+    "y": 7040,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1248,
+    "y": 7040,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1288,
+    "y": 7037,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 1288,
+    "y": 7037,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1328,
+    "y": 7040,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 83,
+    "controls": 57,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "cybersicherheit – schutz für die digitale welt von heute und von morgen",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 14,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 19,
+    "textHidden": 0,
+    "image": 9,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"sicherheitslösungen für eine vernetzte und vertrauenswürdige welt\" (y 3292) has no origin heading",
+   "text": "sicherheitslösungen für eine vernetzte und vertrauenswürdige welt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"vorbereitung auf die post‑quantum‑ära\" (y 4293) has no origin heading",
+   "text": "vorbereitung auf die post‑quantum‑ära"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"regulierungen ermöglichen cybersicherheit\" (y 5234) has no origin heading",
+   "text": "regulierungen ermöglichen cybersicherheit"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"weitere geschichten\" (y 5680) has no origin heading",
+   "text": "weitere geschichten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"abonnieren sie die marketingkommunikation!\" (y 6338) has no origin heading",
+   "text": "abonnieren sie die marketingkommunikation!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"sicherheitslösungen für eine vernetzte und vertrauenswürdige welt\" served in band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "sicherheitslösungen für eine vernetzte und vertrauenswürdige welt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"vorbereitung auf die post‑quantum‑ära\" served in band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "vorbereitung auf die post‑quantum‑ära"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"regulierungen ermöglichen cybersicherheit\" served in band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "regulierungen ermöglichen cybersicherheit"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"iot-geräte\" served in band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "iot-geräte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"automobilbereich\" served in band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "automobilbereich"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"energieversorgungsnetze und stromsysteme\" served in band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "energieversorgungsnetze und stromsysteme"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"robotertechnologien und automatisierung\" served in band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "robotertechnologien und automatisierung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"digitale identitäten\" served in band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "digitale identitäten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr über unsere sicherheitslösungen erfahren sie hier.\" served in band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr über unsere sicherheitslösungen erfahren sie hier."
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"weitere informationen zu pqc finden sie hier.\" served in band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "weitere informationen zu pqc finden sie hier."
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"cyber resilience act (cra)\" served in band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "cyber resilience act (cra)"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"mehr entdecken\" served in band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\", no origin link or button",
+   "band": 1,
+   "n": 2,
+   "text": "mehr entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"abonnieren\" served in band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "abonnieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\": 3 origin → 19 served visible",
+   "band": 1,
+   "origin": 3,
+   "eds": 19,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"cybersicherheit – schutz für die digitale welt von heute und von morgen\": 0 origin → 9 served visible",
+   "band": 1,
+   "origin": 0,
+   "eds": 9,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 5,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 14,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 20,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 166,
+    "y": 23,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 23,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 23,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 23,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 23,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 23,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 86,
+    "w": 419,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 899,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 535,
+    "w": 417,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 612,
+    "w": 894,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 636,
+    "w": 870,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 660,
+    "w": 415,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 703,
+    "w": 59,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 743,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 743,
+    "w": 76,
+    "h": 20
+   },
+   {
+    "x": 252,
+    "y": 877,
+    "w": 448,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 911,
+    "w": 263,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 945,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 224,
+    "y": 844,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1057,
+    "w": 976,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1083,
+    "w": 987,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1109,
+    "w": 983,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1135,
+    "w": 981,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1161,
+    "w": 732,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1535,
+    "w": 176,
+    "h": 25
+   },
+   {
+    "x": 376,
+    "y": 1535,
+    "w": 79,
+    "h": 25
+   },
+   {
+    "x": 456,
+    "y": 1535,
+    "w": 208,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1561,
+    "w": 479,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1587,
+    "w": 484,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1613,
+    "w": 404,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1639,
+    "w": 449,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1665,
+    "w": 413,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1691,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1717,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1535,
+    "w": 23,
+    "h": 25
+   },
+   {
+    "x": 759,
+    "y": 1535,
+    "w": 139,
+    "h": 25
+   },
+   {
+    "x": 898,
+    "y": 1535,
+    "w": 330,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1561,
+    "w": 477,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1587,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1613,
+    "w": 355,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1639,
+    "w": 466,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1665,
+    "w": 504,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1691,
+    "w": 455,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1717,
+    "w": 452,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1743,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1769,
+    "w": 467,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1795,
+    "w": 148,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2200,
+    "w": 439,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2226,
+    "w": 447,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2252,
+    "w": 147,
+    "h": 25
+   },
+   {
+    "x": 347,
+    "y": 2252,
+    "w": 345,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2278,
+    "w": 448,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2304,
+    "w": 497,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2330,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2356,
+    "w": 361,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2200,
+    "w": 330,
+    "h": 25
+   },
+   {
+    "x": 1066,
+    "y": 2200,
+    "w": 165,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2226,
+    "w": 481,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2252,
+    "w": 487,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2278,
+    "w": 414,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2304,
+    "w": 483,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2330,
+    "w": 484,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2356,
+    "w": 492,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2382,
+    "w": 456,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2408,
+    "w": 413,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2434,
+    "w": 463,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2460,
+    "w": 443,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2486,
+    "w": 432,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2512,
+    "w": 453,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2538,
+    "w": 433,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2564,
+    "w": 211,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2954,
+    "w": 437,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2980,
+    "w": 38,
+    "h": 25
+   },
+   {
+    "x": 238,
+    "y": 2980,
+    "w": 148,
+    "h": 25
+   },
+   {
+    "x": 386,
+    "y": 2980,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3006,
+    "w": 469,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3032,
+    "w": 482,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3058,
+    "w": 450,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3084,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3110,
+    "w": 492,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3136,
+    "w": 477,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3162,
+    "w": 225,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 3290,
+    "w": 791,
+    "h": 40
+   },
+   {
+    "x": 224,
+    "y": 3344,
+    "w": 932,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 3370,
+    "w": 970,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 3396,
+    "w": 866,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 3422,
+    "w": 951,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 3448,
+    "w": 787,
+    "h": 25
+   },
+   {
+    "x": 1011,
+    "y": 3448,
+    "w": 135,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 3474,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4290,
+    "w": 464,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 4344,
+    "w": 1004,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4370,
+    "w": 1010,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4396,
+    "w": 880,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4422,
+    "w": 990,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4448,
+    "w": 1031,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4474,
+    "w": 1014,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4500,
+    "w": 950,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4526,
+    "w": 206,
+    "h": 25
+   },
+   {
+    "x": 406,
+    "y": 4526,
+    "w": 351,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5215,
+    "w": 516,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 5269,
+    "w": 984,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5295,
+    "w": 485,
+    "h": 25
+   },
+   {
+    "x": 685,
+    "y": 5295,
+    "w": 201,
+    "h": 25
+   },
+   {
+    "x": 886,
+    "y": 5295,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5321,
+    "w": 999,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5347,
+    "w": 1020,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5373,
+    "w": 993,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5399,
+    "w": 1030,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5425,
+    "w": 955,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5451,
+    "w": 161,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5493,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5519,
+    "w": 997,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5545,
+    "w": 1028,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5571,
+    "w": 1018,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5597,
+    "w": 1003,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 5661,
+    "w": 309,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 5975,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6043,
+    "w": 265,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6071,
+    "w": 179,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6122,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 5975,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6043,
+    "w": 300,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6071,
+    "w": 281,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6122,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 6319,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 6367,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 6320,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 6350,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 772,
+    "y": 6418,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6614,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6669,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6711,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6753,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6795,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6837,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6614,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 6669,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6711,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6753,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6795,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6837,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6879,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6614,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 6669,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6711,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6753,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6614,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 6669,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6711,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6753,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6795,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 7022,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 7022,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 7022,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 7022,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 7022,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 7022,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 7022,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 22,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 85,
+    "w": 419,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 899,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 535,
+    "w": 417,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 612,
+    "w": 894,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 636,
+    "w": 870,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 660,
+    "w": 415,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 703,
+    "w": 59,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 743,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 743,
+    "w": 76,
+    "h": 20
+   },
+   {
+    "x": 224,
+    "y": 844,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 877,
+    "w": 448,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 911,
+    "w": 263,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 945,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1057,
+    "w": 976,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1083,
+    "w": 987,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1109,
+    "w": 983,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1135,
+    "w": 981,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1161,
+    "w": 732,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1535,
+    "w": 176,
+    "h": 25
+   },
+   {
+    "x": 376,
+    "y": 1535,
+    "w": 79,
+    "h": 25
+   },
+   {
+    "x": 456,
+    "y": 1535,
+    "w": 208,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1561,
+    "w": 479,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1587,
+    "w": 484,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1613,
+    "w": 404,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1639,
+    "w": 449,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1665,
+    "w": 413,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1691,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1717,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1535,
+    "w": 23,
+    "h": 25
+   },
+   {
+    "x": 759,
+    "y": 1535,
+    "w": 139,
+    "h": 25
+   },
+   {
+    "x": 898,
+    "y": 1535,
+    "w": 330,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1561,
+    "w": 477,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1587,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1613,
+    "w": 355,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1639,
+    "w": 466,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1665,
+    "w": 504,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1691,
+    "w": 455,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1717,
+    "w": 452,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1743,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1769,
+    "w": 467,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 1795,
+    "w": 148,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2200,
+    "w": 439,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2226,
+    "w": 447,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2252,
+    "w": 147,
+    "h": 25
+   },
+   {
+    "x": 347,
+    "y": 2252,
+    "w": 345,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2278,
+    "w": 448,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2304,
+    "w": 497,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2330,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2356,
+    "w": 361,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2200,
+    "w": 330,
+    "h": 25
+   },
+   {
+    "x": 1066,
+    "y": 2200,
+    "w": 165,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2226,
+    "w": 481,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2252,
+    "w": 487,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2278,
+    "w": 414,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2304,
+    "w": 483,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2330,
+    "w": 484,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2356,
+    "w": 492,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2382,
+    "w": 456,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2408,
+    "w": 413,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2434,
+    "w": 463,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2460,
+    "w": 443,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2486,
+    "w": 432,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2512,
+    "w": 453,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2538,
+    "w": 433,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 2564,
+    "w": 211,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2970,
+    "w": 437,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2996,
+    "w": 38,
+    "h": 25
+   },
+   {
+    "x": 238,
+    "y": 2996,
+    "w": 148,
+    "h": 25
+   },
+   {
+    "x": 386,
+    "y": 2996,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3022,
+    "w": 469,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3048,
+    "w": 482,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3074,
+    "w": 450,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3100,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3126,
+    "w": 492,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3152,
+    "w": 477,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3178,
+    "w": 225,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 3290,
+    "w": 791,
+    "h": 40
+   },
+   {
+    "x": 224,
+    "y": 3344,
+    "w": 932,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 3370,
+    "w": 970,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 3396,
+    "w": 866,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 3422,
+    "w": 951,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 3448,
+    "w": 787,
+    "h": 25
+   },
+   {
+    "x": 1011,
+    "y": 3448,
+    "w": 135,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 3474,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4291,
+    "w": 464,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 4345,
+    "w": 1004,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4371,
+    "w": 1010,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4397,
+    "w": 880,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4423,
+    "w": 990,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4449,
+    "w": 1031,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4475,
+    "w": 1014,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4501,
+    "w": 950,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4527,
+    "w": 206,
+    "h": 25
+   },
+   {
+    "x": 406,
+    "y": 4527,
+    "w": 351,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5232,
+    "w": 516,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 5286,
+    "w": 984,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5312,
+    "w": 485,
+    "h": 25
+   },
+   {
+    "x": 685,
+    "y": 5312,
+    "w": 201,
+    "h": 25
+   },
+   {
+    "x": 886,
+    "y": 5312,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5338,
+    "w": 999,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5364,
+    "w": 1020,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5390,
+    "w": 993,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5416,
+    "w": 1030,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5442,
+    "w": 955,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5468,
+    "w": 161,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5510,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5536,
+    "w": 997,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5562,
+    "w": 1028,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5588,
+    "w": 1018,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5614,
+    "w": 1003,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 5678,
+    "w": 309,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 5992,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6060,
+    "w": 265,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6088,
+    "w": 179,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 6139,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 5992,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6060,
+    "w": 300,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6088,
+    "w": 281,
+    "h": 28
+   },
+   {
+    "x": 535,
+    "y": 6139,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 6336,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 6384,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 6337,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 6367,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 773,
+    "y": 6436,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6633,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 6688,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6730,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6772,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6814,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 6856,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6633,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 6688,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6730,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6772,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6814,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6856,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 6898,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6633,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 6688,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6730,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 6772,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6633,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 6688,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6730,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6772,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 6814,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 7041,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 7041,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 7041,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 7041,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 7041,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 7041,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 7041,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

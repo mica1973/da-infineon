@@ -1,0 +1,57 @@
+{
+  "a": "stardust/replica/gates/all-360/de-our-stories-mobility-tech-talk-software-defined-vehicles/origin.png",
+  "b": "stardust/replica/gates/all-360/de-our-stories-mobility-tech-talk-software-defined-vehicles/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 3193,
+    "mode": "overlap"
+  },
+  "heightDelta": -2,
+  "differingPixels": 73094,
+  "pct": 6.36,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/de-our-stories-mobility-tech-talk-software-defined-vehicles/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 7,
+  "textBoxes": 66,
+  "textPixels": 268636,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.5
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 25.8
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 6.6
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 4.6
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 1.8
+    },
+    {
+      "y0": 3000,
+      "y1": 3193,
+      "pct": 3.6
+    }
+  ]
+}

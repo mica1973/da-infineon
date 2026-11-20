@@ -1,0 +1,929 @@
+[live-session] waiting to pace live navigations to www.infineon.com (1000 ms apart, 1 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 580 ms
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/index-1440/vdiff-iter2/
+
+build red flags (advisory): 
+  • IMAGE DID NOT LOAD: mcu-keyvisual.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0 rendered 307x130 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: coolsic-jfet-datacenter.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0 rendered 301x130 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 554,
+  "textLen": 609,
+  "images": [
+   {
+    "src": "spinner-48.svg",
+    "natural": "48x48",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo.svg",
+    "natural": "91x40",
+    "rendered": "82x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "1x1",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lowres-lowres-woman-using-laptop.png?$IMG-1400%E2%80%8A-933-D$&qlt=55",
+    "natural": "1280x875",
+    "rendered": "688x492",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stage-banner-electronica-2024-768x432px-01.jpg?$IMG-1400%E2%80%8A-933-D$&qlt=55",
+    "natural": "768x432",
+    "rendered": "688x492",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wafer-stage-banner.jpg?$IMG-1400%E2%80%8A-933-D$&qlt=55",
+    "natural": "1280x854",
+    "rendered": "688x492",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lowres-lowres-woman-using-laptop.png?$IMG-1400%E2%80%8A-933-D$&qlt=55",
+    "natural": "1280x875",
+    "rendered": "688x492",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "electromobility-rz-5000px-label.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "414x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "software-defined-vehicles-rz-5000px-label.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "414x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "robotics-rz-5000px-label.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "414x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "edge-ai-rz-5000px-label.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "414x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "powering-ai-rz-5000px-label.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "414x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "power-infrastructure-rz-5000px-label.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "414x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "infineon-igc016k10s2.jpeg",
+    "natural": "1280x849",
+    "rendered": "343x168",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "df120r12w2h3-b27.jpeg",
+    "natural": "460x400",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "smd-0.1-solder-dipped-vb.png",
+    "natural": "1280x1054",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "t1-va-package-hirel-bxy42-03p.jpeg",
+    "natural": "306x255",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "t1-va-package-hirel-bxy42-03p.jpeg",
+    "natural": "306x255",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "t1-va-package-hirel-bxy42-03p.jpeg",
+    "natural": "306x255",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "coolsic-jfet-1200v-g1-q-dpak.png",
+    "natural": "1169x1280",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "coolsic-jfet-1200v-g1-q-dpak.png",
+    "natural": "1169x1280",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "coolsic-jfet-1200v-g1-q-dpak.png",
+    "natural": "1169x1280",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "payment-with-sportswatch.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "472x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ai-we-power-ai.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "301x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lowres-gettyimages.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "301x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "coolsic-jfet-visual-industrial.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "301x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ai-we-power-ai.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "301x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mcu-keyvisual.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "301x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "coolsic-jfet-datacenter.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "301x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "robotics-1.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "aurix-rc1-visual-hi-res.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "edge-ai.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "power-line-forest-1.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "electromobility.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ai-we-power-ai.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "software-defined-vehicles-3.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "keyvisual-energy-infrastructure.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "european-union-flags.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Infineon_Logo_Inverted.svg",
+    "natural": "182x80",
+    "rendered": "124x54",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "tiktok.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "0?ti=12013328&tm=gtm002&Ver=2&mid=8e514cc1-9e1f-401e-8be2-8b65fcb770b3&bo=3&sid=a18713a0e30111f1ac0bcfe0e4b4e6c7&vid=a1874ef0e30111f18ffe158064f1848b&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1440&sh=1000&sc=24&tl=Semiconductor%20%26%20System%20Solutions%20%7C%20Infineon%20Technologies&p=https%3A%2F%2Fwww.infineon.com%2F&r=&lt=2829&evt=pageLoad&sv=2&asc=G&cdb=AQET&rn=804576",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [],
+  "eyebrows": [
+   {
+    "text": "Ease of Use",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "10 November 2026",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "300-mm SiC wafer",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "NEW",
+    "color": "rgb(10, 130, 118)"
+   },
+   {
+    "text": "NEW",
+    "color": "rgb(10, 130, 118)"
+   },
+   {
+    "text": "NEW",
+    "color": "rgb(10, 130, 118)"
+   },
+   {
+    "text": "NEW",
+    "color": "rgb(10, 130, 118)"
+   },
+   {
+    "text": "NEW",
+    "color": "rgb(10, 130, 118)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "herobanner",
+    "width": 1400,
+    "left": 20
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 554,
+  "textLen": 609,
+  "images": [
+   {
+    "src": "logo.svg",
+    "natural": "91x40",
+    "rendered": "82x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "lowres-lowres-woman-using-laptop.png?$IMG-1400%E2%80%8A-933-D$&qlt=55",
+    "natural": "1280x875",
+    "rendered": "688x492",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stage-banner-electronica-2024-768x432px-01.jpg?$IMG-1400%E2%80%8A-933-D$&qlt=55",
+    "natural": "768x432",
+    "rendered": "688x492",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wafer-stage-banner.jpg?$IMG-1400%E2%80%8A-933-D$&qlt=55",
+    "natural": "1280x854",
+    "rendered": "688x492",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "electromobility-rz-5000px-label.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "414x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "software-defined-vehicles-rz-5000px-label.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "414x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "robotics-rz-5000px-label.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "414x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "edge-ai-rz-5000px-label.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "414x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "powering-ai-rz-5000px-label.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "414x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "power-infrastructure-rz-5000px-label.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "414x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "infineon-igc016k10s2.jpeg",
+    "natural": "1280x849",
+    "rendered": "343x168",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "df120r12w2h3-b27.jpeg",
+    "natural": "460x400",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "smd-0.1-solder-dipped-vb.png",
+    "natural": "1280x1054",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "t1-va-package-hirel-bxy42-03p.jpeg",
+    "natural": "306x255",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "t1-va-package-hirel-bxy42-03p.jpeg",
+    "natural": "306x255",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "t1-va-package-hirel-bxy42-03p.jpeg",
+    "natural": "306x255",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "coolsic-jfet-1200v-g1-q-dpak.png",
+    "natural": "1169x1280",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "coolsic-jfet-1200v-g1-q-dpak.png",
+    "natural": "1169x1280",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "coolsic-jfet-1200v-g1-q-dpak.png",
+    "natural": "1169x1280",
+    "rendered": "216x128",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "payment-with-sportswatch.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "472x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ai-we-power-ai.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "301x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lowres-gettyimages.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "301x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "coolsic-jfet-visual-industrial.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "301x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ai-we-power-ai.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "301x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mcu-keyvisual.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "0x0",
+    "rendered": "307x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "coolsic-jfet-datacenter.png:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "0x0",
+    "rendered": "301x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "app-car.svg",
+    "natural": "48x48",
+    "rendered": "48x48",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app-industrial.svg",
+    "natural": "48x48",
+    "rendered": "48x48",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app-ai-communication.svg",
+    "natural": "48x48",
+    "rendered": "48x48",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app-security.svg",
+    "natural": "48x48",
+    "rendered": "48x48",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app-consumer.svg",
+    "natural": "48x48",
+    "rendered": "48x48",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app-solutions.svg",
+    "natural": "48x48",
+    "rendered": "48x48",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "app-car.svg",
+    "natural": "48x48",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app-industrial.svg",
+    "natural": "48x48",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app-ai-communication.svg",
+    "natural": "48x48",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app-security.svg",
+    "natural": "48x48",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app-consumer.svg",
+    "natural": "48x48",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app-solutions.svg",
+    "natural": "48x48",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "robotics-1.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "aurix-rc1-visual-hi-res.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "edge-ai.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "power-line-forest-1.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "electromobility.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ai-we-power-ai.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "software-defined-vehicles-3.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "keyvisual-energy-infrastructure.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "european-union-flags.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "391x200",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Infineon_Logo_Inverted.svg",
+    "natural": "182x80",
+    "rendered": "124x54",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "tiktok.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "da-chat.svg",
+    "natural": "32x30",
+    "rendered": "32x30",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [],
+  "eyebrows": [
+   {
+    "text": "Ease of Use",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "10 November 2026",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "300-mm SiC wafer",
+    "color": "rgb(29, 29, 29)"
+   },
+   {
+    "text": "NEW",
+    "color": "rgb(10, 130, 118)"
+   },
+   {
+    "text": "NEW",
+    "color": "rgb(10, 130, 118)"
+   },
+   {
+    "text": "NEW",
+    "color": "rgb(10, 130, 118)"
+   },
+   {
+    "text": "NEW",
+    "color": "rgb(10, 130, 118)"
+   },
+   {
+    "text": "NEW",
+    "color": "rgb(10, 130, 118)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero__section",
+    "width": 1400,
+    "left": 20
+   }
+  ]
+ }
+}

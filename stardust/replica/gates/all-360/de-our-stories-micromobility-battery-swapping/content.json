@@ -1,0 +1,5797 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:36:24.989Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/micromobility-battery-swapping",
+  "at": "2026-11-18T23:36:01.092Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8715,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button#searchicon-items",
+    "x": 164,
+    "y": 14,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-0",
+    "x": 220,
+    "y": 15,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.usericon-item.d-block",
+    "x": 260,
+    "y": 17,
+    "w": 40,
+    "h": 25,
+    "text": "user profile"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav > div.articleBreadcrumb-mobileview.breadcrumb-item > a.text-decoration-none",
+    "x": 46,
+    "y": 77,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 0,
+    "y": 116,
+    "w": 360,
+    "h": 203,
+    "text": "company-01",
+    "file": "woman-charging-bike-battery.png:asset-68"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 32,
+    "y": 287,
+    "w": 296,
+    "h": 132,
+    "level": 1,
+    "text": "batteriewechsel: die zukunft der urbanen mikromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 32,
+    "y": 435,
+    "w": 296,
+    "h": 264,
+    "text": "Elektro-Leichtfahrzeuge (LEV) wie E-Scooter oder E-Bikes revolutionieren den stä"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 32,
+    "y": 715,
+    "w": 111,
+    "h": 28,
+    "text": "Elektromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 56,
+    "y": 759,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 132,
+    "y": 759,
+    "w": 76,
+    "h": 20,
+    "level": 4,
+    "text": "juni 30, 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 869,
+    "w": 238,
+    "h": 48,
+    "text": "e-bikes und e-scooter: die stars der urbanen mobilität",
+    "href": "/de/our-stories/micromobility-battery-swapping"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 929,
+    "w": 205,
+    "h": 48,
+    "text": "branchenlösungen für mehr ladeflexibilität und reichweite",
+    "href": "/de/our-stories/micromobility-battery-swapping"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 989,
+    "w": 250,
+    "h": 48,
+    "text": "zukunftstrend: batteriewechsel in der mikromobilität",
+    "href": "/de/our-stories/micromobility-battery-swapping"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 1049,
+    "w": 232,
+    "h": 22,
+    "text": "batteriewechsel: ein gamechanger",
+    "href": "/de/our-stories/micromobility-battery-swapping"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 1083,
+    "w": 250,
+    "h": 22,
+    "text": "entdecken sie unser produktportfolio",
+    "href": "/de/our-stories/micromobility-battery-swapping"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > p",
+    "x": 40,
+    "y": 835,
+    "w": 177,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-8d0a758c21 > h2#anch1",
+    "x": 16,
+    "y": 1155,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "e-bikes und e-scooter: die stars der urbanen mobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-ba65a4f15b > p",
+    "x": 16,
+    "y": 1231,
+    "w": 328,
+    "h": 234,
+    "text": "E-Bikes machen inzwischen einen bedeutenden Anteil am gesamten Fahrradmarkt aus "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-b740e98796 > p > b",
+    "x": 40,
+    "y": 1505,
+    "w": 255,
+    "h": 51,
+    "text": "Haupttreiber für den Boom bei E-Bikes und E-Scootern"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li.icon.icon-c-check > div.richtext-align",
+    "x": 72,
+    "y": 1573,
+    "w": 248,
+    "h": 208,
+    "text": "Günstige Anschaffung und geringe Betriebskosten dank sinkender Lithium-Ionen-Bat"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li.icon.icon-c-check > div.richtext-align",
+    "x": 72,
+    "y": 1813,
+    "w": 248,
+    "h": 156,
+    "text": "Weniger körperliche Anstrengung als beim Fahrradfahren und einfaches Laden zu Ha"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li.icon.icon-c-check > div.richtext-align",
+    "x": 72,
+    "y": 2001,
+    "w": 248,
+    "h": 130,
+    "text": "Leichte, umweltfreundliche Lithium-Ionen-Batterien, die sich herausnehmen und se"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li.icon.icon-c-check > div.richtext-align",
+    "x": 72,
+    "y": 2163,
+    "w": 248,
+    "h": 156,
+    "text": "E-Bikes und E-Scooter fördern durch neue Mobilitätskonzepte umweltfreundliche Lö"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-ff85c8f0b6 > h2#anch3",
+    "x": 16,
+    "y": 2407,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "branchenlösungen für mehr ladeflexibilität und reichweite"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-54b684f566 > p",
+    "x": 16,
+    "y": 2483,
+    "w": 328,
+    "h": 494,
+    "text": "Derzeit gibt es zwei zentrale Bedenken, die potenzielle Nutzer von Elektro-Leich"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-54b684f566 > p",
+    "x": 16,
+    "y": 2993,
+    "w": 328,
+    "h": 286,
+    "text": "Unser LEV-Portfolio umfasst verschiedene Funktionsblöcke für Anwendungen in E-Sk"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-67870525bf > p > b",
+    "x": 40,
+    "y": 3319,
+    "w": 245,
+    "h": 25,
+    "text": "Herausforderungen beim Laden"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-67870525bf > p",
+    "x": 40,
+    "y": 3361,
+    "w": 280,
+    "h": 390,
+    "text": "Herkömmliche Lademethoden über gewöhnliche Steckdosen stoßen in der Mikromobilit"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-e0e2c0eb46 > h2#anch4",
+    "x": 16,
+    "y": 3815,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "zukunftstrend: batteriewechsel in der mikromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-2f9fb1087a > p",
+    "x": 16,
+    "y": 3891,
+    "w": 328,
+    "h": 130,
+    "text": "Der Batteriewechsel bezeichnet das schnelle Austauschen einer entleerten Batteri"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-2f9fb1087a > p",
+    "x": 16,
+    "y": 4037,
+    "w": 328,
+    "h": 312,
+    "text": "Einer der größten Vorteile des Batteriewechsels in der Mikromobilität liegt in d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-2f9fb1087a > p",
+    "x": 16,
+    "y": 4365,
+    "w": 328,
+    "h": 338,
+    "text": "Der Komfort wird zusätzlich gesteigert, da die Suche nach Ladestationen und das "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 4719,
+    "w": 328,
+    "h": 184,
+    "text": "smiling business colleagues cycling",
+    "file": "smiling-business-colleagues-cycling-in-c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-90ee940089 > p",
+    "x": 16,
+    "y": 4919,
+    "w": 328,
+    "h": 312,
+    "text": "Der Batteriewechsel bietet nicht nur Komfort, sondern leistet auch einen entsche"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-90ee940089 > p",
+    "x": 16,
+    "y": 5247,
+    "w": 328,
+    "h": 338,
+    "text": "Skalierbarkeit und Kosteneffizienz sind zentrale Vorteile des Batteriewechsels i"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-90ee940089 > p",
+    "x": 16,
+    "y": 5601,
+    "w": 328,
+    "h": 364,
+    "text": "Die Einführung des Batteriewechsels treibt eine Kultur der kontinuierlichen Inno"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-6024f0d083 > h2#anch5",
+    "x": 16,
+    "y": 5989,
+    "w": 328,
+    "h": 30,
+    "level": 2,
+    "text": "batteriewechsel: ein gamechanger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-9336301010 > p",
+    "x": 16,
+    "y": 6035,
+    "w": 328,
+    "h": 416,
+    "text": "Der Batteriewechsel hat das Potenzial, die Mikromobilität grundlegend zu verände"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-b9b1e010b3 > h2#anch6",
+    "x": 40,
+    "y": 6499,
+    "w": 280,
+    "h": 60,
+    "level": 2,
+    "text": "entdecken sie unser produktportfolio"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 6577,
+    "w": 63,
+    "h": 22,
+    "text": "mosfets",
+    "href": "/products/power/mosfet"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 6619,
+    "w": 100,
+    "h": 22,
+    "text": "gate driver ics",
+    "href": "/products/power/gate-driver-ics"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 6661,
+    "w": 113,
+    "h": 22,
+    "text": "microcontrollers",
+    "href": "/products/microcontroller"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 6703,
+    "w": 113,
+    "h": 22,
+    "text": "optiga™ trust b",
+    "href": "/products/security-smart-card-solutions/optiga-embedded-security-solutions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_copy__ifxcontainer_1322930348_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 16,
+    "y": 6791,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 20,
+    "y": 6851,
+    "w": 316,
+    "h": 160,
+    "text": "artikel",
+    "file": "mobilty-banner-micromobility.jpg:asset-6"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 44,
+    "y": 7027,
+    "w": 268,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 44,
+    "y": 7071,
+    "w": 268,
+    "h": 26,
+    "text": "Mikromobilität für grünere Städte"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 44,
+    "y": 7121,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 16,
+    "y": 7271,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 16,
+    "y": 7359,
+    "w": 328,
+    "h": 120,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 16,
+    "y": 7511,
+    "w": 328,
+    "h": 48,
+    "text": "abonnieren",
+    "href": "/de/our-stories/micromobility-battery-swapping"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 16,
+    "y": 7679,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 7773,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7813,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7855,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7897,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7939,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7981,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 196,
+    "y": 7773,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 7813,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 7855,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 7897,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 7965,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 8007,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 8049,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 8115,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 8155,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 8197,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 8239,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 32,
+    "y": 8305,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 8345,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 8387,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 8429,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 8471,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 8537,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 192,
+    "y": 8537,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 8567,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 21,
+    "y": 8602,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 16,
+    "y": 8655,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 56,
+    "y": 8655,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 96,
+    "y": 8655,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 136,
+    "y": 8652,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 136,
+    "y": 8656,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 176,
+    "y": 8655,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 85,
+    "controls": 44,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p.preheadline",
+     "path": "div.card > div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+     "text": "mikromobilität für grünere städte",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/micromobility-battery-swapping",
+  "at": "2026-11-18T23:36:24.894Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8787,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "label": "search",
+    "value": "search",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.article-hero-crumbs > div.article-hero-back > a",
+    "x": 36,
+    "y": 77,
+    "w": 63,
+    "h": 20,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 322,
+    "y": 77,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 0,
+    "y": 116,
+    "w": 360,
+    "h": 203,
+    "text": "company-01",
+    "file": "media_1345db7ac7ca4e261c28ff1ad7865ce217"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#batteriewechsel-die-zukunft-der-urbanen-mikromobilität",
+    "x": 32,
+    "y": 287,
+    "w": 296,
+    "h": 132,
+    "level": 1,
+    "text": "batteriewechsel: die zukunft der urbanen mikromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 32,
+    "y": 435,
+    "w": 296,
+    "h": 264,
+    "text": "Elektro-Leichtfahrzeuge (LEV) wie E-Scooter oder E-Bikes revolutionieren den stä"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 32,
+    "y": 715,
+    "w": 111,
+    "h": 28,
+    "text": "Elektromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 56,
+    "y": 759,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#juni-30-2025",
+    "x": 132,
+    "y": 759,
+    "w": 76,
+    "h": 20,
+    "level": 4,
+    "text": "juni 30, 2025"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-toc.block > div.article-toc-label > p",
+    "x": 40,
+    "y": 835,
+    "w": 280,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 869,
+    "w": 238,
+    "h": 48,
+    "text": "e-bikes und e-scooter: die stars der urbanen mobilität",
+    "href": "/de/our-stories/micromobility-battery-swapping"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 929,
+    "w": 205,
+    "h": 48,
+    "text": "branchenlösungen für mehr ladeflexibilität und reichweite",
+    "href": "/de/our-stories/micromobility-battery-swapping"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 989,
+    "w": 250,
+    "h": 48,
+    "text": "zukunftstrend: batteriewechsel in der mikromobilität",
+    "href": "/de/our-stories/micromobility-battery-swapping"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 1049,
+    "w": 232,
+    "h": 22,
+    "text": "batteriewechsel: ein gamechanger",
+    "href": "/de/our-stories/micromobility-battery-swapping"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 60,
+    "y": 1083,
+    "w": 250,
+    "h": 22,
+    "text": "entdecken sie unser produktportfolio",
+    "href": "/de/our-stories/micromobility-battery-swapping"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hm-16-16-16-16 > div.default-content-wrapper > h2#e-bikes-und-e-scooter-die-stars-der-urbanen-mobilität",
+    "x": 16,
+    "y": 1155,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "e-bikes und e-scooter: die stars der urbanen mobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hm-16-16-16-16 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 1231,
+    "w": 328,
+    "h": 234,
+    "text": "E-Bikes machen inzwischen einen bedeutenden Anteil am gesamten Fahrradmarkt aus "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p > strong",
+    "x": 40,
+    "y": 1513,
+    "w": 255,
+    "h": 51,
+    "text": "Haupttreiber für den Boom bei E-Bikes und E-Scootern"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 56,
+    "y": 1581,
+    "w": 264,
+    "h": 198,
+    "text": "Günstige Anschaffung und geringe Betriebskosten dank sinkender Lithium-Ionen-Bat"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 56,
+    "y": 1811,
+    "w": 264,
+    "h": 146,
+    "text": "Weniger körperliche Anstrengung als beim Fahrradfahren und einfaches Laden zu Ha"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 56,
+    "y": 1989,
+    "w": 264,
+    "h": 146,
+    "text": "Leichte, umweltfreundliche Lithium-Ionen-Batterien, die sich herausnehmen und se"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > ul > li",
+    "x": 56,
+    "y": 2167,
+    "w": 264,
+    "h": 172,
+    "text": "E-Bikes und E-Scooter fördern durch neue Mobilitätskonzepte umweltfreundliche Lö"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hm-16-16-16-16 > div.default-content-wrapper > h2#branchenlösungen-für-mehr-ladeflexibilität-und-reichweite",
+    "x": 16,
+    "y": 2403,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "branchenlösungen für mehr ladeflexibilität und reichweite"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hm-16-16-16-16 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 2479,
+    "w": 328,
+    "h": 494,
+    "text": "Derzeit gibt es zwei zentrale Bedenken, die potenzielle Nutzer von Elektro-Leich"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hm-16-16-16-16 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 2989,
+    "w": 328,
+    "h": 286,
+    "text": "Unser LEV-Portfolio umfasst verschiedene Funktionsblöcke für Anwendungen in E-Sk"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p > strong",
+    "x": 40,
+    "y": 3323,
+    "w": 245,
+    "h": 25,
+    "text": "Herausforderungen beim Laden"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 40,
+    "y": 3365,
+    "w": 280,
+    "h": 390,
+    "text": "Herkömmliche Lademethoden über gewöhnliche Steckdosen stoßen in der Mikromobilit"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hm-16-16-16-16 > div.default-content-wrapper > h2#zukunftstrend-batteriewechsel-in-der-mikromobilität",
+    "x": 16,
+    "y": 3819,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "zukunftstrend: batteriewechsel in der mikromobilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hm-16-16-16-16 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 3895,
+    "w": 328,
+    "h": 130,
+    "text": "Der Batteriewechsel bezeichnet das schnelle Austauschen einer entleerten Batteri"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hm-16-16-16-16 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 4041,
+    "w": 328,
+    "h": 312,
+    "text": "Einer der größten Vorteile des Batteriewechsels in der Mikromobilität liegt in d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hm-16-16-16-16 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 4369,
+    "w": 328,
+    "h": 338,
+    "text": "Der Komfort wird zusätzlich gesteigert, da die Suche nach Ladestationen und das "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-32 > picture > img",
+    "x": 16,
+    "y": 4723,
+    "w": 328,
+    "h": 185,
+    "text": "smiling business colleagues cycling",
+    "file": "media_1475aa0d78e3bff29640818bd2b8cf35fb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hm-16-16-16-16 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 4923,
+    "w": 328,
+    "h": 312,
+    "text": "Der Batteriewechsel bietet nicht nur Komfort, sondern leistet auch einen entsche"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hm-16-16-16-16 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 5251,
+    "w": 328,
+    "h": 338,
+    "text": "Skalierbarkeit und Kosteneffizienz sind zentrale Vorteile des Batteriewechsels i"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hm-16-16-16-16 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 5605,
+    "w": 328,
+    "h": 364,
+    "text": "Die Einführung des Batteriewechsels treibt eine Kultur der kontinuierlichen Inno"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hm-16-16-16-16 > div.default-content-wrapper > h2#batteriewechsel-ein-gamechanger",
+    "x": 16,
+    "y": 5993,
+    "w": 328,
+    "h": 30,
+    "level": 2,
+    "text": "batteriewechsel: ein gamechanger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.hm-16-16-16-16 > div.default-content-wrapper > p",
+    "x": 16,
+    "y": 6039,
+    "w": 328,
+    "h": 416,
+    "text": "Der Batteriewechsel hat das Potenzial, die Mikromobilität grundlegend zu verände"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head > h2#entdecken-sie-unser-produktportfolio",
+    "x": 40,
+    "y": 6503,
+    "w": 280,
+    "h": 60,
+    "level": 2,
+    "text": "entdecken sie unser produktportfolio"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 6581,
+    "w": 63,
+    "h": 22,
+    "text": "mosfets",
+    "href": "/products/power/mosfet"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 6623,
+    "w": 100,
+    "h": 22,
+    "text": "gate driver ics",
+    "href": "/products/power/gate-driver-ics"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 6665,
+    "w": 113,
+    "h": 22,
+    "text": "microcontrollers",
+    "href": "/products/microcontroller"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 6707,
+    "w": 113,
+    "h": 22,
+    "text": "optiga™ trust b",
+    "href": "/products/security-smart-card-solutions/optiga-embedded-security-solutions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#weitere-geschichten",
+    "x": 16,
+    "y": 6827,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 20,
+    "y": 6887,
+    "w": 316,
+    "h": 160,
+    "text": "artikel",
+    "file": "media_1c1c249b058b12ce769024ca5cb38d045d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 44,
+    "y": 7063,
+    "w": 268,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 44,
+    "y": 7107,
+    "w": 268,
+    "h": 56,
+    "text": "Mikromobilität für grünere Städte"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 44,
+    "y": 7185,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/micromobility"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#abonnieren-sie-die-marketingkommunikation",
+    "x": 16,
+    "y": 7334,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 16,
+    "y": 7422,
+    "w": 328,
+    "h": 120,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 7574,
+    "w": 328,
+    "h": 50,
+    "text": "abonnieren",
+    "href": "/de/our-stories/micromobility-battery-swapping"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 16,
+    "y": 7782,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 16,
+    "y": 7744,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 7845,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7885,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7927,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7969,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 8011,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 8053,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 196,
+    "y": 7845,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 7885,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 7927,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 7969,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 8037,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 8079,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 8121,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 8187,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 8227,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 8269,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 8311,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 32,
+    "y": 8377,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 8417,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 8459,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 8501,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 8543,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 8609,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 192,
+    "y": 8609,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 8639,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 188,
+    "y": 8639,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 21,
+    "y": 8674,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 8727,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 8727,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 8727,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 136,
+    "y": 8724,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 136,
+    "y": 8724,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 176,
+    "y": 8727,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 85,
+    "controls": 48,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "batteriewechsel: die zukunft der urbanen mikromobilität",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 11,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 24,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"e-bikes und e-scooter: die stars der urbanen mobilität\" (y 1155) has no origin heading",
+   "text": "e-bikes und e-scooter: die stars der urbanen mobilität"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"branchenlösungen für mehr ladeflexibilität und reichweite\" (y 2403) has no origin heading",
+   "text": "branchenlösungen für mehr ladeflexibilität und reichweite"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"zukunftstrend: batteriewechsel in der mikromobilität\" (y 3819) has no origin heading",
+   "text": "zukunftstrend: batteriewechsel in der mikromobilität"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"batteriewechsel: ein gamechanger\" (y 5993) has no origin heading",
+   "text": "batteriewechsel: ein gamechanger"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"entdecken sie unser produktportfolio\" (y 6503) has no origin heading",
+   "text": "entdecken sie unser produktportfolio"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"weitere geschichten\" (y 6827) has no origin heading",
+   "text": "weitere geschichten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"abonnieren sie die marketingkommunikation!\" (y 7334) has no origin heading",
+   "text": "abonnieren sie die marketingkommunikation!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"e-bikes und e-scooter: die stars der urbanen mobilität\" served in band \"batteriewechsel: die zukunft der urbanen mikromobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "e-bikes und e-scooter: die stars der urbanen mobilität"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"branchenlösungen für mehr ladeflexibilität und reichweite\" served in band \"batteriewechsel: die zukunft der urbanen mikromobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "branchenlösungen für mehr ladeflexibilität und reichweite"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"zukunftstrend: batteriewechsel in der mikromobilität\" served in band \"batteriewechsel: die zukunft der urbanen mikromobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "zukunftstrend: batteriewechsel in der mikromobilität"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"batteriewechsel: ein gamechanger\" served in band \"batteriewechsel: die zukunft der urbanen mikromobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "batteriewechsel: ein gamechanger"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"entdecken sie unser produktportfolio\" served in band \"batteriewechsel: die zukunft der urbanen mikromobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "entdecken sie unser produktportfolio"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mosfets\" served in band \"batteriewechsel: die zukunft der urbanen mikromobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mosfets"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"gate driver ics\" served in band \"batteriewechsel: die zukunft der urbanen mikromobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "gate driver ics"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"microcontrollers\" served in band \"batteriewechsel: die zukunft der urbanen mikromobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "microcontrollers"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"optiga™ trust b\" served in band \"batteriewechsel: die zukunft der urbanen mikromobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "optiga™ trust b"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr entdecken\" served in band \"batteriewechsel: die zukunft der urbanen mikromobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"abonnieren\" served in band \"batteriewechsel: die zukunft der urbanen mikromobilität\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "abonnieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"batteriewechsel: die zukunft der urbanen mikromobilität\": 3 origin → 24 served visible",
+   "band": 1,
+   "origin": 3,
+   "eds": 24,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 7,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 11,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 1,
+  "findings": 19,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 46,
+    "y": 77,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 286,
+    "w": 275,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 330,
+    "w": 277,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 374,
+    "w": 200,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 436,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 460,
+    "w": 218,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 484,
+    "w": 267,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 508,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 532,
+    "w": 240,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 556,
+    "w": 257,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 580,
+    "w": 232,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 604,
+    "w": 296,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 628,
+    "w": 239,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 652,
+    "w": 260,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 676,
+    "w": 103,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 719,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 759,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 132,
+    "y": 759,
+    "w": 76,
+    "h": 20
+   },
+   {
+    "x": 60,
+    "y": 869,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 895,
+    "w": 119,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 929,
+    "w": 186,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 955,
+    "w": 205,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 989,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1015,
+    "w": 99,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1049,
+    "w": 232,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1083,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 836,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1154,
+    "w": 328,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1184,
+    "w": 165,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1231,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1257,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1283,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1309,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1335,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1361,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1387,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1413,
+    "w": 221,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1439,
+    "w": 110,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 1505,
+    "w": 255,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 1531,
+    "w": 163,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 1573,
+    "w": 208,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 1599,
+    "w": 116,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 1625,
+    "w": 197,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 1651,
+    "w": 214,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 1677,
+    "w": 190,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 1703,
+    "w": 210,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 1729,
+    "w": 213,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 1755,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 1813,
+    "w": 116,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 1839,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 1865,
+    "w": 162,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 1891,
+    "w": 215,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 1917,
+    "w": 207,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 1943,
+    "w": 156,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 2001,
+    "w": 225,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 2027,
+    "w": 206,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 2053,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 2079,
+    "w": 206,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 2105,
+    "w": 98,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 2163,
+    "w": 196,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 2189,
+    "w": 224,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 2215,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 2241,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 2267,
+    "w": 213,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 2293,
+    "w": 53,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2406,
+    "w": 258,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 2436,
+    "w": 285,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 2483,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2509,
+    "w": 231,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2535,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2561,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2587,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2613,
+    "w": 293,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2639,
+    "w": 263,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2665,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2691,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2717,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2743,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2769,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2795,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2821,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2847,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2873,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2899,
+    "w": 282,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2925,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2951,
+    "w": 173,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2993,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3019,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3045,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3071,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3097,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3123,
+    "w": 235,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3149,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3175,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3201,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3227,
+    "w": 239,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3253,
+    "w": 203,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3319,
+    "w": 245,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3361,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3387,
+    "w": 260,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3413,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3439,
+    "w": 200,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3465,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3491,
+    "w": 277,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3517,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3543,
+    "w": 243,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3569,
+    "w": 215,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3595,
+    "w": 139,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3621,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3647,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3673,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3699,
+    "w": 239,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3725,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3814,
+    "w": 313,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3844,
+    "w": 173,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3891,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3917,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3943,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3969,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3995,
+    "w": 72,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4037,
+    "w": 222,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4063,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4089,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4115,
+    "w": 225,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4141,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4167,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4193,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4219,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4245,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4271,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4297,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4323,
+    "w": 221,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4365,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4391,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4417,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4443,
+    "w": 284,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4469,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4495,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4521,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4547,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4573,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4599,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4625,
+    "w": 174,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4651,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4677,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4919,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4945,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4971,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4997,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5023,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5049,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5075,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5101,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5127,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5153,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5179,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5205,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5247,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5273,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5299,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5325,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5351,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5377,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5403,
+    "w": 258,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5429,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5455,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5481,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5507,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5533,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5559,
+    "w": 223,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5601,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5627,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5653,
+    "w": 239,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5679,
+    "w": 306,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5705,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5731,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5757,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5783,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5809,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5835,
+    "w": 255,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5861,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5887,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5913,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5939,
+    "w": 95,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5988,
+    "w": 321,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 6035,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6061,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6087,
+    "w": 281,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6113,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6139,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6165,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6191,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6217,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6243,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6269,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6295,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6321,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6347,
+    "w": 238,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6373,
+    "w": 211,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6399,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6425,
+    "w": 134,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 6498,
+    "w": 187,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 6528,
+    "w": 156,
+    "h": 32
+   },
+   {
+    "x": 56,
+    "y": 6577,
+    "w": 63,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 6619,
+    "w": 100,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 6661,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 6703,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6790,
+    "w": 223,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 7028,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 44,
+    "y": 7071,
+    "w": 223,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 7122,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7270,
+    "w": 204,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 7306,
+    "w": 293,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 7358,
+    "w": 228,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 7388,
+    "w": 275,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 7418,
+    "w": 312,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 7448,
+    "w": 106,
+    "h": 32
+   },
+   {
+    "x": 152,
+    "y": 7524,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7774,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7813,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7855,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7897,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7939,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7981,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7774,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 7813,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7855,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7897,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7923,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7965,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 8007,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 8049,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8116,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 8155,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8197,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8239,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8306,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 8345,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8387,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8429,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8471,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 8542,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 8542,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 8572,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 8572,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 8602,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 8602,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 8602,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 36,
+    "y": 77,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 286,
+    "w": 275,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 330,
+    "w": 277,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 374,
+    "w": 200,
+    "h": 46
+   },
+   {
+    "x": 32,
+    "y": 436,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 460,
+    "w": 218,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 484,
+    "w": 267,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 508,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 532,
+    "w": 240,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 556,
+    "w": 257,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 580,
+    "w": 232,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 604,
+    "w": 296,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 628,
+    "w": 239,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 652,
+    "w": 260,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 676,
+    "w": 103,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 719,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 759,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 132,
+    "y": 759,
+    "w": 76,
+    "h": 20
+   },
+   {
+    "x": 40,
+    "y": 836,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 869,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 895,
+    "w": 119,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 929,
+    "w": 186,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 955,
+    "w": 205,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 989,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1015,
+    "w": 99,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1049,
+    "w": 232,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 1083,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1154,
+    "w": 328,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1184,
+    "w": 165,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1231,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1257,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1283,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1309,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1335,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1361,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1387,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1413,
+    "w": 221,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1439,
+    "w": 110,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 1513,
+    "w": 255,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 1539,
+    "w": 163,
+    "h": 25
+   },
+   {
+    "x": 88,
+    "y": 1583,
+    "w": 184,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1609,
+    "w": 103,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1635,
+    "w": 228,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1661,
+    "w": 206,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1687,
+    "w": 223,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1713,
+    "w": 169,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1739,
+    "w": 133,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1813,
+    "w": 103,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1839,
+    "w": 222,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1865,
+    "w": 184,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1891,
+    "w": 229,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1917,
+    "w": 161,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1991,
+    "w": 200,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 2017,
+    "w": 183,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 2043,
+    "w": 219,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 2069,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 2095,
+    "w": 46,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 2169,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 2195,
+    "w": 199,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 2221,
+    "w": 206,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 2247,
+    "w": 217,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 2273,
+    "w": 189,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 2299,
+    "w": 47,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2402,
+    "w": 258,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 2432,
+    "w": 285,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 2479,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2505,
+    "w": 231,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2531,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2557,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2583,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2609,
+    "w": 293,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2635,
+    "w": 263,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2661,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2687,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2713,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2739,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2765,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2791,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2817,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2843,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2869,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2895,
+    "w": 282,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2921,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2947,
+    "w": 173,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2989,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3015,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3041,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3067,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3093,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3119,
+    "w": 235,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3145,
+    "w": 272,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3171,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3197,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3223,
+    "w": 239,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3249,
+    "w": 203,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3323,
+    "w": 245,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3365,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3391,
+    "w": 260,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3417,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3443,
+    "w": 200,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3469,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3495,
+    "w": 277,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3521,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3547,
+    "w": 243,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3573,
+    "w": 215,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3599,
+    "w": 139,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3625,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3651,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3677,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3703,
+    "w": 239,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 3729,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3818,
+    "w": 313,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3848,
+    "w": 173,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3895,
+    "w": 266,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3921,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3947,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3973,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3999,
+    "w": 72,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4041,
+    "w": 222,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4067,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4093,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4119,
+    "w": 225,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4145,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4171,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4197,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4223,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4249,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4275,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4301,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4327,
+    "w": 221,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4369,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4395,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4421,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4447,
+    "w": 284,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4473,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4499,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4525,
+    "w": 246,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4551,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4577,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4603,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4629,
+    "w": 174,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4655,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4681,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4923,
+    "w": 269,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4949,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4975,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5001,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5027,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5053,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5079,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5105,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5131,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5157,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5183,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5209,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5251,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5277,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5303,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5329,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5355,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5381,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5407,
+    "w": 258,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5433,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5459,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5485,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5511,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5537,
+    "w": 317,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5563,
+    "w": 223,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5605,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5631,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5657,
+    "w": 239,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5683,
+    "w": 306,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5709,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5735,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5761,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5787,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5813,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5839,
+    "w": 255,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5865,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5891,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5917,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5943,
+    "w": 95,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5992,
+    "w": 321,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 6039,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6065,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6091,
+    "w": 281,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6117,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6143,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6169,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6195,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6221,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6247,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6273,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6299,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6325,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6351,
+    "w": 238,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6377,
+    "w": 211,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6403,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6429,
+    "w": 134,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 6502,
+    "w": 187,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 6532,
+    "w": 156,
+    "h": 32
+   },
+   {
+    "x": 56,
+    "y": 6581,
+    "w": 63,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 6623,
+    "w": 100,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 6665,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 6707,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6826,
+    "w": 223,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 7063,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 7107,
+    "w": 223,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 7135,
+    "w": 55,
+    "h": 28
+   },
+   {
+    "x": 44,
+    "y": 7186,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7333,
+    "w": 204,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 7369,
+    "w": 293,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 7421,
+    "w": 228,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 7451,
+    "w": 275,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 7481,
+    "w": 312,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 7511,
+    "w": 106,
+    "h": 32
+   },
+   {
+    "x": 152,
+    "y": 7588,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7846,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7885,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7927,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7969,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8011,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8053,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7846,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 7885,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7927,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7969,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7995,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 8037,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 8079,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 8121,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8188,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 8227,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8269,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8311,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8378,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 8417,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8459,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8501,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8543,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 8614,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 8614,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 8644,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 8644,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 8674,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 8674,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 8674,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

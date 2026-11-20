@@ -1,0 +1,310 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-18T02:21:38.892Z",
+    "sources": [
+      "_computed-styles.json",
+      "_computed-styles-2.json"
+    ]
+  },
+  "origins": [
+    {
+      "origin": "https://www.infineon.com",
+      "role": "primary",
+      "pages": 60
+    }
+  ],
+  "logo": {
+    "path": "stardust/current/assets/logo.svg",
+    "source": "img#infiLogo",
+    "url": "https://www.infineon.com/etc.clientlibs/ifx/components/common/mainnavigation/clientlibs/resources/logo.svg"
+  },
+  "favicon": {
+    "path": "stardust/current/assets/favicon.ico",
+    "alt": "stardust/current/assets/favicon.png"
+  },
+  "palette": [
+    {
+      "hex": "#ffffff",
+      "roles": [
+        "background"
+      ],
+      "weight": 4862,
+      "sources": [
+        {
+          "url": "https://www.infineon.com/de/glossary",
+          "selector": null,
+          "prop": "background"
+        },
+        {
+          "url": "https://www.infineon.com/de/careers",
+          "selector": "#searchButtonCoveoCareerHero",
+          "prop": "text"
+        }
+      ]
+    },
+    {
+      "hex": "#1d1d1d",
+      "roles": [
+        "text",
+        "heading"
+      ],
+      "weight": 4075,
+      "sources": [
+        {
+          "url": "https://www.infineon.com/de/config",
+          "selector": "#navItems0",
+          "prop": "text"
+        },
+        {
+          "url": "https://www.infineon.com/de/config",
+          "selector": "#react-currency-icon-mobile > div > button:nth-of-type(2) > span:nth-of-type(2)",
+          "prop": "text"
+        }
+      ]
+    },
+    {
+      "hex": "#0a8276",
+      "roles": [
+        "surface",
+        "primary"
+      ],
+      "weight": 1967,
+      "sources": [
+        {
+          "url": "https://www.infineon.com/de/our-stories/microelectronics-connecting-real-digital-world",
+          "selector": "div > div > div:nth-of-type(6) > div > div > div > p > a",
+          "prop": "text"
+        },
+        {
+          "url": "https://www.infineon.com/de/our-stories/microelectronics-connecting-real-digital-world",
+          "selector": "div > div > div:nth-of-type(6) > div > div > div > p > a",
+          "prop": "link"
+        }
+      ]
+    },
+    {
+      "hex": "#bfbbbb",
+      "roles": [
+        "border"
+      ],
+      "weight": 353,
+      "sources": [
+        {
+          "url": "https://www.infineon.com/de/our-stories/artificial-intelligence-semiconductors",
+          "selector": "div:nth-of-type(1) > div > div > div > div:nth-of-type(1) > div > div > div",
+          "prop": "border"
+        },
+        {
+          "url": "https://www.infineon.com/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors",
+          "selector": "div > div > div > div > div:nth-of-type(1) > div > div > div",
+          "prop": "border"
+        }
+      ]
+    },
+    {
+      "hex": "#107456",
+      "roles": [
+        "accent"
+      ],
+      "weight": 14,
+      "sources": [
+        {
+          "url": "https://www.infineon.com/de/about",
+          "selector": "div:nth-of-type(2) > div > div > div:nth-of-type(1) > div:nth-of-type(2) > span > span > span:nth-of-type(2)",
+          "prop": "text"
+        },
+        {
+          "url": "https://www.infineon.com/de/about",
+          "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > span > a",
+          "prop": "link"
+        }
+      ]
+    },
+    {
+      "hex": "#575352",
+      "roles": [],
+      "weight": 1736,
+      "sources": [
+        {
+          "url": "https://www.infineon.com/de/our-stories/artificial-intelligence-in-everyday-life",
+          "selector": "div > div > div:nth-of-type(2) > div > div > div > div > p",
+          "prop": "text"
+        },
+        {
+          "url": "https://www.infineon.com/de/our-stories/enabling-ethernet",
+          "selector": "div > div > div:nth-of-type(2) > div > div > div > div > p",
+          "prop": "text"
+        }
+      ]
+    },
+    {
+      "hex": "#cccccc",
+      "roles": [],
+      "weight": 252,
+      "sources": [
+        {
+          "url": "https://www.infineon.com/de/config",
+          "selector": "div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div:nth-of-type(11) > div > table",
+          "prop": "border"
+        }
+      ]
+    },
+    {
+      "hex": "#eeeded",
+      "roles": [],
+      "weight": 241,
+      "sources": [
+        {
+          "url": "https://www.infineon.com/de/glossary",
+          "selector": "header > div",
+          "prop": "border"
+        },
+        {
+          "url": "https://www.infineon.com/de/opn",
+          "selector": "header > div",
+          "prop": "border"
+        }
+      ]
+    },
+    {
+      "hex": "#d63384",
+      "roles": [],
+      "weight": 96,
+      "sources": [
+        {
+          "url": "https://www.infineon.com/de/config",
+          "selector": "div > div:nth-of-type(11) > div > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3) > code",
+          "prop": "text"
+        }
+      ]
+    },
+    {
+      "hex": "#ffffff4d",
+      "roles": [],
+      "weight": 28,
+      "sources": [
+        {
+          "url": "https://www.infineon.com/de/careers",
+          "selector": "nav > ul > li:nth-of-type(1)",
+          "prop": "border"
+        },
+        {
+          "url": "https://www.infineon.com/de/contact-us",
+          "selector": "nav > ul > li:nth-of-type(1)",
+          "prop": "border"
+        }
+      ]
+    },
+    {
+      "hex": "#000000",
+      "roles": [],
+      "weight": 18,
+      "sources": [
+        {
+          "url": "https://www.infineon.com/de/careers",
+          "selector": "#ifx-career-hero > div > div > div > div:nth-of-type(1) > div > h1",
+          "prop": "text"
+        },
+        {
+          "url": "https://www.infineon.com/de/contact-us",
+          "selector": "div:nth-of-type(1) > div > div > div:nth-of-type(3) > div:nth-of-type(3) > div > div:nth-of-type(1) > button",
+          "prop": "text"
+        }
+      ]
+    },
+    {
+      "hex": "#8d8786",
+      "roles": [],
+      "weight": 9,
+      "sources": [
+        {
+          "url": "https://www.infineon.com/de/careers",
+          "selector": "#CareerHeroRole",
+          "prop": "border"
+        },
+        {
+          "url": "https://www.infineon.com/de/about",
+          "selector": "div > div > div > div > div > div:nth-of-type(2) > div > div",
+          "prop": "border"
+        }
+      ]
+    },
+    {
+      "hex": "#08665c",
+      "roles": [],
+      "weight": 2,
+      "sources": [
+        {
+          "url": "https://www.infineon.com/de/our-stories/ecosystem-summit",
+          "selector": "div > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > picture > img",
+          "prop": "border"
+        },
+        {
+          "url": "https://www.infineon.com/de/our-stories/microelectronics-connecting-real-digital-world",
+          "selector": "div > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > picture > img",
+          "prop": "border"
+        }
+      ]
+    },
+    {
+      "hex": "#e5e3df",
+      "roles": [],
+      "weight": 1,
+      "sources": [
+        {
+          "url": "https://www.infineon.com/de/contact-us",
+          "selector": "div > div > react-component > div > div > div:nth-of-type(1) > div > div",
+          "prop": "background"
+        }
+      ]
+    }
+  ],
+  "type": {
+    "families": [
+      "Source Sans 3",
+      "infineon-icons",
+      "Roboto"
+    ],
+    "files": [
+      {
+        "file": "stardust/current/assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+        "licence": "Google Fonts (Apache 2.0)"
+      },
+      {
+        "file": "stardust/current/assets/fonts/SourceSans3-Black.ttf.woff2",
+        "licence": "OFL"
+      },
+      {
+        "file": "stardust/current/assets/fonts/SourceSans3-Regular.ttf.woff2",
+        "licence": "OFL"
+      },
+      {
+        "file": "stardust/current/assets/fonts/SourceSans3-Semibold.ttf.woff2",
+        "licence": "OFL"
+      },
+      {
+        "file": "stardust/current/assets/fonts/infineon-icons.woff2",
+        "licence": "brand-owned"
+      }
+    ]
+  },
+  "iconFont": {
+    "family": "infineon-icons",
+    "file": "stardust/current/assets/fonts/infineon-icons.woff2"
+  },
+  "systemComponents": [
+    "mainnavigation (header)",
+    "footerstandard (footer)",
+    "offrampnewsletter (newsletter band, stories)",
+    "genericbreadcrumb"
+  ],
+  "voice": {
+    "heroHeadline": "We shape key markets with advanced semiconductor solutions",
+    "ctas": [
+      "Discover more",
+      "Read more",
+      "Learn more"
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+/* market-cards — key markets teaser row. Mobile first; desktop at 992px. */
+.market-cards .markets {
+  margin-top: 32px;
+}
+
+.market-cards .markets-wrap {
+  padding: 64px 16px;
+}
+
+.market-cards .markets-title :is(h1, h2, h3, h4, h5, h6, p) {
+  margin-bottom: 24px;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 44px;
+  letter-spacing: -0.32px;
+}
+
+.market-cards .markets-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  padding-bottom: 16px;
+}
+
+.market-cards .mk-card {
+  position: relative;
+  flex: 0 0 100%;
+  max-width: 100%;
+  padding-bottom: 16px;
+  border-left: 4px solid var(--ifx-border);
+}
+
+.market-cards .mk-card-media {
+  position: relative;
+  display: block;
+  height: 160px;
+}
+
+.market-cards .mk-card-media picture {
+  display: block;
+}
+
+.market-cards .mk-card-media img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.market-cards .mk-card-ai {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 2;
+  color: rgb(255 255 255 / 78%);
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-shadow: 0 1px 2px rgb(0 0 0 / 35%);
+}
+
+.market-cards .mk-card-ai p {
+  padding: 3px 7px;
+  font-size: inherit;
+}
+
+.market-cards .mk-card-body {
+  padding: 16px 24px 0;
+}
+
+.market-cards .mk-card-title :is(h1, h2, h3, h4, h5, h6, p) {
+  height: 52px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 1px;
+}
+
+.market-cards .mk-card-desc {
+  margin-top: 16px;
+}
+
+.market-cards .mk-card-desc :is(p, h2, h3, h4, h5, h6) {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  height: 72px;
+  overflow: hidden;
+  color: var(--ifx-stone-text);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: normal;
+}
+
+.market-cards .mk-card-link {
+  display: flex;
+  margin-top: 22px;
+}
+
+.market-cards .mk-card-link p {
+  color: var(--ifx-teal);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.market-cards .mk-card-link a:any-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--ifx-teal);
+}
+
+.market-cards .mk-card-link a:any-link::after {
+  content: '\e90b';
+  margin-bottom: 4px;
+  font-family: var(--ifx-icon-font);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.market-cards .mk-card-link a:any-link:hover {
+  text-decoration: underline;
+}
+
+@media (width >= 992px) {
+  .market-cards .markets {
+    margin-top: 80px;
+  }
+
+  .market-cards .markets-wrap {
+    padding: 0 0 80px 80px;
+  }
+
+  .market-cards .markets-title :is(h1, h2, h3, h4, h5, h6, p) {
+    margin-bottom: 48px;
+    font-size: 44px;
+    line-height: 56px;
+    letter-spacing: -0.44px;
+  }
+
+  .market-cards .mk-card {
+    flex: 1 0 calc(33.33% - 21.6px);
+    max-width: calc(33.33% - 21.6px);
+  }
+
+  .market-cards .mk-card-media,
+  .market-cards .mk-card-media img {
+    height: 200px;
+  }
+
+  .market-cards .mk-card-title :is(h1, h2, h3, h4, h5, h6, p) {
+    font-size: 20px;
+  }
+}
+
+/* variant `flow` (live /de default experience, no Target offer): the row sits in page flow
+   below the products rail — no top margin, padding on top instead of below */
+.market-cards.flow .markets {
+  margin-top: 0;
+}
+
+.market-cards.flow .markets-wrap {
+  padding-bottom: 0;
+}
+
+@media (width >= 992px) {
+  .market-cards.flow .markets-wrap {
+    padding: 80px 0 0 80px;
+  }
+}

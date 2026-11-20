@@ -1,0 +1,46 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://www.infineon.com/de/glossary (live side from cache stardust/replica/gates/de-glossary-360/chrome-live.json, probed 2026-11-18T05:10:08.323Z — delete the file to re-probe)
+  build: http://localhost:8791/de-glossary-proposed.html
+
+■ header: 7 delta(s) — 5 paired of 7/5 texts, 1/1 icons
+  PAIR         "Produkte"  Δx -125px (141→16); Δy -12px (50→38); Δh +24px (0→24)
+  PAIR         "Applikationen"  Δx -40px (125→85); Δy -20px (58→38); Δh +24px (0→24)
+  PAIR         "Designressourcen"  Δx +74px (113→187); Δy -28px (66→38); Δh +24px (0→24)
+  PAIR         "Support & Training"  Δx +204px (109→313); Δy -36px (74→38); Δh +24px (0→24)
+  PAIR         "Über uns"  Δx +305px (142→447); Δy -44px (82→38); Δh +24px (0→24)
+  MISSING      "Deutsch"  live <span> "Deutsch" has no build element with the same text
+  MISSING      "$ US-Dollar"  live <span> "$ US-Dollar" has no build element with the same text
+
+■ footer: 30 delta(s) — 28 paired of 28/28 texts, 2/2 icons
+  REGION BOX   Δh +54px (1022→1076)
+  PAIR         "Über uns"  Δy +54px (6636→6690)
+  PAIR         "Unternehmen"  Δy +54px (6676→6730)
+  PAIR         "Kontakt"  Δy +54px (6718→6772)
+  PAIR         "Events"  Δy +54px (6760→6814)
+  PAIR         "Presse"  Δy +54px (6802→6856)
+  PAIR         "Investor"  Δy +54px (6844→6898)
+  PAIR         "Quicklinks"  Δy +54px (6636→6690)
+  PAIR         "Community"  Δy +54px (6676→6730)
+  PAIR         "Support"  Δy +54px (6718→6772)
+  PAIR         "Distributoren Partner"  Δy +54px (6760→6814)
+  PAIR         "Online sampling"  Δy +54px (6828→6882)
+  PAIR         "Qualität"  Δy +54px (6870→6924)
+  PAIR         "Website feedback"  Δy +54px (6912→6966)
+  PAIR         "myInfineon"  Δy +54px (6978→7032)
+  PAIR         "Vorteile"  Δy +54px (7018→7072)
+  PAIR         "Profil"  Δy +54px (7060→7114)
+  PAIR         "Registrierung"  Δy +54px (7102→7156)
+  PAIR         "Karriere"  Δy +54px (7168→7222)
+  PAIR         "Übersicht"  Δy +54px (7208→7262)
+  PAIR         "Jobsuche"  Δy +54px (7250→7304)
+  PAIR         "Teams"  Δy +54px (7292→7346)
+  PAIR         "Bewerbungsprozess"  Δy +54px (7334→7388)
+  PAIR         "Nutzungsbedingungen"  Δy +54px (7400→7454)
+  PAIR         "Impressum"  Δy +54px (7400→7454)
+  PAIR         "Datenschutzerklärung"  Δy +54px (7430→7484)
+  PAIR         "Cookies"  Δy +54px (7430→7484)
+  PAIR         "© 1999- Infineon Technologies AG"  Δy +54px (7465→7519)
+  PAIR         "2026"  Δy +54px (7465→7519)
+  ICON         icon #0: Δh +54px (0→54)
+
+✗ 37 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

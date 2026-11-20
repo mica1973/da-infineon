@@ -1,0 +1,1709 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:prototype",
+    "writtenAt": "2026-11-18T05:46:29Z",
+    "stardustVersion": "0.39.4"
+  },
+  "site": {
+    "originUrl": "https://www.infineon.com/",
+    "deployUrl": null,
+    "extractedAt": "2026-11-18T01:57:00.475Z",
+    "pageCap": null,
+    "totalDiscovered": 61,
+    "crawled": 60,
+    "captureGaps": [
+      {
+        "root": "/de",
+        "slug": "de",
+        "linked": 50,
+        "uncaptured": [
+          "/de/about/company",
+          "/de/about/company/leadership-team",
+          "/de/about/company/our-divisions",
+          "/de/about/company/sustainability",
+          "/de/about/events",
+          "/de/about/investor",
+          "/de/about/investor/annual-general-meeting",
+          "/de/about/investor/contact",
+          "/de/about/investor/corporate-governance",
+          "/de/about/investor/fixed-income/rating",
+          "/de/about/investor/infineon-at-a-glance",
+          "/de/about/investor/infineon-share",
+          "/de/about/investor/news",
+          "/de/about/investor/reports-presentations/financial-results",
+          "/de/about/our-stories",
+          "/de/about/our-stories/ai",
+          "/de/about/our-stories/electromobility",
+          "/de/about/our-stories/power-infrastructure",
+          "/de/about/our-stories/robotics",
+          "/de/about/our-stories/smart-living",
+          "/de/about/our-stories/software-defined-vehicle",
+          "/de/about/press",
+          "/de/about/press/contacts",
+          "/de/about/press/media-pool",
+          "/de/about/press/press-kits",
+          "/de/about/press/press-releases",
+          "/de/about/press/technology-news",
+          "/de/benefits",
+          "/de/careers/diversity-inclusion",
+          "/de/careers/how-to-apply",
+          "/de/careers/hr-contacts",
+          "/de/careers/our-locations",
+          "/de/careers/students-graduates",
+          "/de/careers/teams",
+          "/de/legal/imprint",
+          "/de/legal/privacy-policy",
+          "/de/legal/usage-terms",
+          "/de/login/dashboard/profile",
+          "/de/press-release/2026/infpr202611-025",
+          "/de/press-release/2026/infpr202611-026",
+          "/de/press-release/2026/infpr202611-028",
+          "/de/press-release/2026/infpr202611-029",
+          "/de/quality"
+        ]
+      },
+      {
+        "root": "/de/opn",
+        "slug": "de-opn",
+        "linked": 0,
+        "uncaptured": []
+      }
+    ]
+  },
+  "direction": null,
+  "handsOff": true,
+  "flow": "replica",
+  "flowChosenAt": "2026-11-18T01:57:00.475Z",
+  "flowSource": "user-phrase",
+  "pages": [
+    {
+      "slug": "index",
+      "url": "https://www.infineon.com/",
+      "title": "Semiconductor & System Solutions | Infineon Technologies",
+      "type": "landing",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:44:34.074Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-18T04:41:22Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/index.json",
+      "prototypePath": "stardust/prototypes/index-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "de",
+      "url": "https://www.infineon.com/de",
+      "title": "Halbleiter- & Systemlösungen | Infineon Technologies",
+      "type": "landing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:44:35.567Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-logout",
+      "url": "https://www.infineon.com/de/logout",
+      "title": "Logout | Infineon Technologies",
+      "type": "utility",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:44:34.250Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-logout.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-config",
+      "url": "https://www.infineon.com/de/config",
+      "title": "Configuration Page | Infineon Technologies",
+      "type": "utility",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:44:41.759Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-config.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-partners",
+      "url": "https://www.infineon.com/de/partners",
+      "title": "Partners | Infineon Technologies",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:44:44.543Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-partners.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-support",
+      "url": "https://www.infineon.com/de/support",
+      "title": "Support | Infineon Technologies",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:44:43.695Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-support.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-opn",
+      "url": "https://www.infineon.com/de/opn",
+      "title": "OPN | Infineon Technologies",
+      "type": "reference",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:44:49.154Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-opn.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-package-overview",
+      "url": "https://www.infineon.com/de/package-overview",
+      "title": "Packages | Infineon Technologies",
+      "type": "listing",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:44:52.290Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-18T05:46:29Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-package-overview.json",
+      "prototypePath": "stardust/prototypes/de-package-overview-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "de-contact-us",
+      "url": "https://www.infineon.com/de/contact-us",
+      "title": "Kontakt | Infineon Technologies",
+      "type": "listing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:44:51.718Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-contact-us.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-glossary",
+      "url": "https://www.infineon.com/de/glossary",
+      "title": "Glossar | Infineon Technologies",
+      "type": "reference",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:44:56.272Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-18T05:21:10Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-glossary.json",
+      "prototypePath": "stardust/prototypes/de-glossary-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "de-training",
+      "url": "https://www.infineon.com/de/training",
+      "title": "Training | Infineon Technologies",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:00.331Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-training.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-thank-you",
+      "url": "https://www.infineon.com/de/thank-you",
+      "title": "Danke | Infineon Technologies",
+      "type": "utility",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:03.358Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-18T05:03:54Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-thank-you.json",
+      "prototypePath": "stardust/prototypes/de-thank-you-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "de-about",
+      "url": "https://www.infineon.com/de/about",
+      "title": "Über | Infineon Technologies",
+      "type": "static",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:05.334Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-18T04:57:02Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-about.json",
+      "prototypePath": "stardust/prototypes/de-about-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "de-careers",
+      "url": "https://www.infineon.com/de/careers",
+      "title": "Karriere | Infineon Technologies",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:08.576Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-careers.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-microelectronics-connecting-real-digital-world",
+      "url": "https://www.infineon.com/de/our-stories/microelectronics-connecting-real-digital-world",
+      "title": "Mikroelektronik – verbindet die reale mit der digitalen | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:12.303Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-microelectronics-connecting-real-digital-world.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee",
+      "url": "https://www.infineon.com/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee",
+      "title": "Wie aus einem Sonnenstrahl eine Tasse heißer Kaffee | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:14.591Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-turning-ray-sunshine-into-cup-hot-coffee.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-green-hydrogen-fuel-future",
+      "url": "https://www.infineon.com/de/our-stories/green-hydrogen-fuel-future",
+      "title": "Grüner Wasserstoff – Treibstoff der Zukunft | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:18.179Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-green-hydrogen-fuel-future.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-efficient-energy-storage-systems-energy-transition",
+      "url": "https://www.infineon.com/de/our-stories/efficient-energy-storage-systems-energy-transition",
+      "title": "Effiziente Batterie-Energiespeichersysteme für die | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:21.929Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-efficient-energy-storage-systems-energy-transition.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-semiconductors-bring-heat-pumps-life",
+      "url": "https://www.infineon.com/de/our-stories/semiconductors-bring-heat-pumps-life",
+      "title": "Halbleiter erwecken Wärmepumpen zum Leben | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:23.865Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-semiconductors-bring-heat-pumps-life.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-electric-cordless-power-tools",
+      "url": "https://www.infineon.com/de/our-stories/electric-cordless-power-tools",
+      "title": "Kabellose Elektrowerkzeuge – handlich und | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:26.552Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-electric-cordless-power-tools.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-green-chargers-adapters",
+      "url": "https://www.infineon.com/de/our-stories/green-chargers-adapters",
+      "title": "Ladegeräte und Adapter werden grün | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:30.248Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-green-chargers-adapters.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-green-potential-data-centers",
+      "url": "https://www.infineon.com/de/our-stories/green-potential-data-centers",
+      "title": "Das grüne Potenzial von Rechenzentren | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:32.049Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-green-potential-data-centers.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors",
+      "url": "https://www.infineon.com/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors",
+      "title": "Grüne Energie mit Wide-Bandgap-Halbleitern | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:36.731Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-empowering-green-energy-wide-bandgap-semiconductors.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-semiconductors-driving-decarbonization",
+      "url": "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+      "title": "Wie Halbeiter die Dekarbonisierung voranbringen | Infineon Technologies",
+      "type": "article",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:42.198Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-18T05:03:54Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-semiconductors-driving-decarbonization.json",
+      "prototypePath": "stardust/prototypes/de-our-stories-semiconductors-driving-decarbonization-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-sensors-energy-efficient-smart-buildings",
+      "url": "https://www.infineon.com/de/our-stories/sensors-energy-efficient-smart-buildings",
+      "title": "Sensoren für energieeffiziente, intelligente Gebäude | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:42.194Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-sensors-energy-efficient-smart-buildings.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-smart-things-consumer-devices",
+      "url": "https://www.infineon.com/de/our-stories/smart-things-consumer-devices",
+      "title": "Bequem, hilfreich und umweltfreundlich: Willkommen in | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:46.896Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-smart-things-consumer-devices.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-smart-health-appliances",
+      "url": "https://www.infineon.com/de/our-stories/smart-health-appliances",
+      "title": "Die Zukunft von Gesundheit und Wohlbefinden ist smart | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:50.863Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-smart-health-appliances.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-smart-factory-technologies",
+      "url": "https://www.infineon.com/de/our-stories/smart-factory-technologies",
+      "title": "Wie kann eine Fabrik intelligent, digitalisiert | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:51.750Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-smart-factory-technologies.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-smart-home-building-technologies",
+      "url": "https://www.infineon.com/de/our-stories/smart-home-building-technologies",
+      "title": "Smart-Home- und Gebäudelösungen für eine bessere | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:45:55.233Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-smart-home-building-technologies.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-green-iot",
+      "url": "https://www.infineon.com/de/our-stories/green-iot",
+      "title": "Wir bringen das IoT zum Laufen - für eine bessere und | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:00.265Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-green-iot.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-smart-factory-semiconductor-solutions",
+      "url": "https://www.infineon.com/de/our-stories/smart-factory-semiconductor-solutions",
+      "title": "Wir treiben die smarte Fabrik voran | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:00.878Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-smart-factory-semiconductor-solutions.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-artificial-intelligence-semiconductors",
+      "url": "https://www.infineon.com/de/our-stories/artificial-intelligence-semiconductors",
+      "title": "Willkommen in der Zukunft der effizienten | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:04.996Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-artificial-intelligence-semiconductors.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-we-power-ai",
+      "url": "https://www.infineon.com/de/our-stories/we-power-ai",
+      "title": "Wir versorgen KI mit Strom: vom Stromnetz bis zum | Infineon Technologies",
+      "type": "pillar",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:09.388Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-we-power-ai.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-enable-provide-ai-customer-innovation",
+      "url": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation",
+      "title": "Wir ermöglichen und bieten KI - für zuverlässige und | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:11.034Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-enable-provide-ai-customer-innovation.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-micromobility",
+      "url": "https://www.infineon.com/de/our-stories/micromobility",
+      "title": "Mikromobilität für grünere Städte | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:14.219Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-micromobility.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-micromobility-battery-swapping",
+      "url": "https://www.infineon.com/de/our-stories/micromobility-battery-swapping",
+      "title": "Batteriewechsel: Die Zukunft der urbanen Mikromobilität | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:18.559Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-micromobility-battery-swapping.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-charging-infrastructure",
+      "url": "https://www.infineon.com/de/our-stories/charging-infrastructure",
+      "title": "Die Zukunft des Ladens: Wegbereiter für nachhaltige | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:20.215Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-charging-infrastructure.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-fast-charging-solutions",
+      "url": "https://www.infineon.com/de/our-stories/fast-charging-solutions",
+      "title": "Innovative Schnellladelösungen für die Elektromobilität | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:22.740Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-fast-charging-solutions.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-bi-directional-charging",
+      "url": "https://www.infineon.com/de/our-stories/bi-directional-charging",
+      "title": "Bidirektionales Laden für eine effiziente | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:26.906Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-bi-directional-charging.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-software-defined-vehicles",
+      "url": "https://www.infineon.com/de/our-stories/software-defined-vehicles",
+      "title": "Das innovative Potenzial softwaredefinierter Fahrzeuge | Infineon Technologies",
+      "type": "pillar",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:30.943Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-software-defined-vehicles.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-emission-saving-potential-freight-transportation",
+      "url": "https://www.infineon.com/de/our-stories/emission-saving-potential-freight-transportation",
+      "title": "Grüner Güterverkehr: Emissionsreduzierung durch | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:31.811Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-emission-saving-potential-freight-transportation.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-shaping-the-future-of-mobility",
+      "url": "https://www.infineon.com/de/our-stories/shaping-the-future-of-mobility",
+      "title": "Die Zukunft der Mobilität aktiv mitgestalten | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:36.216Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-shaping-the-future-of-mobility.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-public-transportation",
+      "url": "https://www.infineon.com/de/our-stories/public-transportation",
+      "title": "Öffentlicher Stadtverkehr neu gedacht | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:40.448Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-public-transportation.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-electromobility-greener-future",
+      "url": "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+      "title": "Die Zukunft der Mobilität gestalten | Infineon Technologies",
+      "type": "pillar",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:42.659Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-18T05:10:59Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-electromobility-greener-future.json",
+      "prototypePath": "stardust/prototypes/de-our-stories-electromobility-greener-future-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-green-buildings-rise",
+      "url": "https://www.infineon.com/de/our-stories/green-buildings-rise",
+      "title": "Grüne Gebäude auf dem Vormarsch | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:45.690Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-green-buildings-rise.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-power-infrastructure-renewables",
+      "url": "https://www.infineon.com/de/our-stories/power-infrastructure-renewables",
+      "title": "Wir unterstützen die Energieinfrastruktur der Zukunft | Infineon Technologies",
+      "type": "pillar",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:50.462Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-power-infrastructure-renewables.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-essential-role-cybersecurity",
+      "url": "https://www.infineon.com/de/our-stories/essential-role-cybersecurity",
+      "title": "Cybersicherheit – Schutz für die digitale Welt von | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:51.745Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-essential-role-cybersecurity.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-how-microcontroller-enable-risc-v",
+      "url": "https://www.infineon.com/de/our-stories/how-microcontroller-enable-RISC-V",
+      "title": "Get ready for RISC-V | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:55.490Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-how-microcontroller-enable-risc-v.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-semiconductors-key-technology-software-defined-vehicles",
+      "url": "https://www.infineon.com/de/our-stories/semiconductors-key-technology-software-defined-vehicles",
+      "title": "Halbleiter sind die Schlüsseltechnologie für | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:46:59.147Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-semiconductors-key-technology-software-defined-vehicles.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-software-defined-vehicle-agm",
+      "url": "https://www.infineon.com/de/our-stories/Software-defined-vehicle-AGM",
+      "title": "Wie Halbleiter das softwaredefinierte Fahrzeugdesign | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:47:01.187Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-software-defined-vehicle-agm.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-ecosystem-summit",
+      "url": "https://www.infineon.com/de/our-stories/ecosystem-summit",
+      "title": "Automotive Ecosystem Summit 2026 \"Mach dich bereit für | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:47:03.242Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-ecosystem-summit.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-enabling-ethernet",
+      "url": "https://www.infineon.com/de/our-stories/enabling-ethernet",
+      "title": "Inside the Mind of Tomorrow’s Car - wie das Auto von | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:47:07.846Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-enabling-ethernet.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-european-cyber-resilience-act",
+      "url": "https://www.infineon.com/de/our-stories/european-cyber-resilience-act",
+      "title": "European Cyber Resilience Act: Mehr Vertrauen für | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:47:09.971Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-european-cyber-resilience-act.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-semiconductors-key-technology-sst-sscb",
+      "url": "https://www.infineon.com/de/our-stories/semiconductors-key-technology-sst-sscb",
+      "title": "Halbleiter prägen das Zeitalter der Elektrizität | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:47:11.531Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-semiconductors-key-technology-sst-sscb.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-mobility-tech-talk-software-defined-vehicles",
+      "url": "https://www.infineon.com/de/our-stories/mobility-tech-talk-software-defined-vehicles",
+      "title": "Mobility Tech Talk – Das software definierte Fahrzeug | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:47:16.463Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-mobility-tech-talk-software-defined-vehicles.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-rc1-for-sdv-sdx-and-physical-ai",
+      "url": "https://www.infineon.com/de/our-stories/rc1-for-sdv-sdx-and-physical-ai",
+      "title": "AURIX™ RC1: Echtzeit-Computing und -Steuerung neu | Infineon Technologies",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:47:19.481Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-rc1-for-sdv-sdx-and-physical-ai.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-our-stories-artificial-intelligence-in-everyday-life",
+      "url": "https://www.infineon.com/de/our-stories/artificial-intelligence-in-everyday-life",
+      "title": "Künstliche Intelligenz in den Alltag bringen | Infineon Technologies",
+      "type": "pillar",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:47:21.765Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-our-stories-artificial-intelligence-in-everyday-life.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-event-techfor",
+      "url": "https://www.infineon.com/de/event/techfor",
+      "title": "TechFor™ Event Serie | Infineon Technologies",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:47:24.933Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-event-techfor.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-support-service-center",
+      "url": "https://www.infineon.com/de/support/service-center",
+      "title": "Servicestelle | Infineon Technologies",
+      "type": "reference",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:47:27.694Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-support-service-center.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "de-support-faqs",
+      "url": "https://www.infineon.com/de/support/faqs",
+      "title": "FAQs | Infineon Technologies",
+      "type": "listing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-18T01:47:29.092Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/de-support-faqs.json",
+      "prototypePath": null,
+      "migratedPath": null
+    }
+  ],
+  "migrate": {
+    "at": "2026-11-18T09:44:05Z",
+    "outputDir": "stardust/migrated/",
+    "selfContained": true,
+    "pageMap": [
+      {
+        "sourceUrl": "/",
+        "outputPath": "index.html",
+        "slug": "index",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/de",
+        "outputPath": "de/index.html",
+        "slug": "de",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/logout",
+        "outputPath": "de/logout/index.html",
+        "slug": "de-logout",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/config",
+        "outputPath": "de/config/index.html",
+        "slug": "de-config",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/partners",
+        "outputPath": "de/partners/index.html",
+        "slug": "de-partners",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/support",
+        "outputPath": "de/support/index.html",
+        "slug": "de-support",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/opn",
+        "outputPath": "de/opn/index.html",
+        "slug": "de-opn",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/package-overview",
+        "outputPath": "de/package-overview/index.html",
+        "slug": "de-package-overview",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/contact-us",
+        "outputPath": "de/contact-us/index.html",
+        "slug": "de-contact-us",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/glossary",
+        "outputPath": "de/glossary/index.html",
+        "slug": "de-glossary",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/training",
+        "outputPath": "de/training/index.html",
+        "slug": "de-training",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/thank-you",
+        "outputPath": "de/thank-you/index.html",
+        "slug": "de-thank-you",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/about",
+        "outputPath": "de/about/index.html",
+        "slug": "de-about",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/careers",
+        "outputPath": "de/careers/index.html",
+        "slug": "de-careers",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/microelectronics-connecting-real-digital-world",
+        "outputPath": "de/our-stories/microelectronics-connecting-real-digital-world/index.html",
+        "slug": "de-our-stories-microelectronics-connecting-real-digital-world",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee",
+        "outputPath": "de/our-stories/turning-ray-sunshine-into-cup-hot-coffee/index.html",
+        "slug": "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/green-hydrogen-fuel-future",
+        "outputPath": "de/our-stories/green-hydrogen-fuel-future/index.html",
+        "slug": "de-our-stories-green-hydrogen-fuel-future",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/efficient-energy-storage-systems-energy-transition",
+        "outputPath": "de/our-stories/efficient-energy-storage-systems-energy-transition/index.html",
+        "slug": "de-our-stories-efficient-energy-storage-systems-energy-transition",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/semiconductors-bring-heat-pumps-life",
+        "outputPath": "de/our-stories/semiconductors-bring-heat-pumps-life/index.html",
+        "slug": "de-our-stories-semiconductors-bring-heat-pumps-life",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/electric-cordless-power-tools",
+        "outputPath": "de/our-stories/electric-cordless-power-tools/index.html",
+        "slug": "de-our-stories-electric-cordless-power-tools",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/green-chargers-adapters",
+        "outputPath": "de/our-stories/green-chargers-adapters/index.html",
+        "slug": "de-our-stories-green-chargers-adapters",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/green-potential-data-centers",
+        "outputPath": "de/our-stories/green-potential-data-centers/index.html",
+        "slug": "de-our-stories-green-potential-data-centers",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/empowering-green-energy-wide-bandgap-semiconductors",
+        "outputPath": "de/our-stories/empowering-green-energy-wide-bandgap-semiconductors/index.html",
+        "slug": "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/semiconductors-driving-decarbonization",
+        "outputPath": "de/our-stories/semiconductors-driving-decarbonization/index.html",
+        "slug": "de-our-stories-semiconductors-driving-decarbonization",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/sensors-energy-efficient-smart-buildings",
+        "outputPath": "de/our-stories/sensors-energy-efficient-smart-buildings/index.html",
+        "slug": "de-our-stories-sensors-energy-efficient-smart-buildings",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/smart-things-consumer-devices",
+        "outputPath": "de/our-stories/smart-things-consumer-devices/index.html",
+        "slug": "de-our-stories-smart-things-consumer-devices",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/smart-health-appliances",
+        "outputPath": "de/our-stories/smart-health-appliances/index.html",
+        "slug": "de-our-stories-smart-health-appliances",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/smart-factory-technologies",
+        "outputPath": "de/our-stories/smart-factory-technologies/index.html",
+        "slug": "de-our-stories-smart-factory-technologies",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/smart-home-building-technologies",
+        "outputPath": "de/our-stories/smart-home-building-technologies/index.html",
+        "slug": "de-our-stories-smart-home-building-technologies",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/green-iot",
+        "outputPath": "de/our-stories/green-iot/index.html",
+        "slug": "de-our-stories-green-iot",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/smart-factory-semiconductor-solutions",
+        "outputPath": "de/our-stories/smart-factory-semiconductor-solutions/index.html",
+        "slug": "de-our-stories-smart-factory-semiconductor-solutions",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/artificial-intelligence-semiconductors",
+        "outputPath": "de/our-stories/artificial-intelligence-semiconductors/index.html",
+        "slug": "de-our-stories-artificial-intelligence-semiconductors",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/we-power-ai",
+        "outputPath": "de/our-stories/we-power-ai/index.html",
+        "slug": "de-our-stories-we-power-ai",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/enable-provide-ai-customer-innovation",
+        "outputPath": "de/our-stories/enable-provide-ai-customer-innovation/index.html",
+        "slug": "de-our-stories-enable-provide-ai-customer-innovation",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/micromobility",
+        "outputPath": "de/our-stories/micromobility/index.html",
+        "slug": "de-our-stories-micromobility",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/micromobility-battery-swapping",
+        "outputPath": "de/our-stories/micromobility-battery-swapping/index.html",
+        "slug": "de-our-stories-micromobility-battery-swapping",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/charging-infrastructure",
+        "outputPath": "de/our-stories/charging-infrastructure/index.html",
+        "slug": "de-our-stories-charging-infrastructure",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/fast-charging-solutions",
+        "outputPath": "de/our-stories/fast-charging-solutions/index.html",
+        "slug": "de-our-stories-fast-charging-solutions",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/bi-directional-charging",
+        "outputPath": "de/our-stories/bi-directional-charging/index.html",
+        "slug": "de-our-stories-bi-directional-charging",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/software-defined-vehicles",
+        "outputPath": "de/our-stories/software-defined-vehicles/index.html",
+        "slug": "de-our-stories-software-defined-vehicles",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/emission-saving-potential-freight-transportation",
+        "outputPath": "de/our-stories/emission-saving-potential-freight-transportation/index.html",
+        "slug": "de-our-stories-emission-saving-potential-freight-transportation",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/shaping-the-future-of-mobility",
+        "outputPath": "de/our-stories/shaping-the-future-of-mobility/index.html",
+        "slug": "de-our-stories-shaping-the-future-of-mobility",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/public-transportation",
+        "outputPath": "de/our-stories/public-transportation/index.html",
+        "slug": "de-our-stories-public-transportation",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/electromobility-greener-future",
+        "outputPath": "de/our-stories/electromobility-greener-future/index.html",
+        "slug": "de-our-stories-electromobility-greener-future",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/green-buildings-rise",
+        "outputPath": "de/our-stories/green-buildings-rise/index.html",
+        "slug": "de-our-stories-green-buildings-rise",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/power-infrastructure-renewables",
+        "outputPath": "de/our-stories/power-infrastructure-renewables/index.html",
+        "slug": "de-our-stories-power-infrastructure-renewables",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/essential-role-cybersecurity",
+        "outputPath": "de/our-stories/essential-role-cybersecurity/index.html",
+        "slug": "de-our-stories-essential-role-cybersecurity",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/how-microcontroller-enable-RISC-V",
+        "outputPath": "de/our-stories/how-microcontroller-enable-RISC-V/index.html",
+        "slug": "de-our-stories-how-microcontroller-enable-risc-v",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/semiconductors-key-technology-software-defined-vehicles",
+        "outputPath": "de/our-stories/semiconductors-key-technology-software-defined-vehicles/index.html",
+        "slug": "de-our-stories-semiconductors-key-technology-software-defined-vehicles",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/Software-defined-vehicle-AGM",
+        "outputPath": "de/our-stories/Software-defined-vehicle-AGM/index.html",
+        "slug": "de-our-stories-software-defined-vehicle-agm",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/ecosystem-summit",
+        "outputPath": "de/our-stories/ecosystem-summit/index.html",
+        "slug": "de-our-stories-ecosystem-summit",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/enabling-ethernet",
+        "outputPath": "de/our-stories/enabling-ethernet/index.html",
+        "slug": "de-our-stories-enabling-ethernet",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/european-cyber-resilience-act",
+        "outputPath": "de/our-stories/european-cyber-resilience-act/index.html",
+        "slug": "de-our-stories-european-cyber-resilience-act",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/semiconductors-key-technology-sst-sscb",
+        "outputPath": "de/our-stories/semiconductors-key-technology-sst-sscb/index.html",
+        "slug": "de-our-stories-semiconductors-key-technology-sst-sscb",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/mobility-tech-talk-software-defined-vehicles",
+        "outputPath": "de/our-stories/mobility-tech-talk-software-defined-vehicles/index.html",
+        "slug": "de-our-stories-mobility-tech-talk-software-defined-vehicles",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/rc1-for-sdv-sdx-and-physical-ai",
+        "outputPath": "de/our-stories/rc1-for-sdv-sdx-and-physical-ai/index.html",
+        "slug": "de-our-stories-rc1-for-sdv-sdx-and-physical-ai",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/our-stories/artificial-intelligence-in-everyday-life",
+        "outputPath": "de/our-stories/artificial-intelligence-in-everyday-life/index.html",
+        "slug": "de-our-stories-artificial-intelligence-in-everyday-life",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/event/techfor",
+        "outputPath": "de/event/techfor/index.html",
+        "slug": "de-event-techfor",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/support/service-center",
+        "outputPath": "de/support/service-center/index.html",
+        "slug": "de-support-service-center",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/de/support/faqs",
+        "outputPath": "de/support/faqs/index.html",
+        "slug": "de-support-faqs",
+        "outputPathDefault": "trailing-slash"
+      }
+    ],
+    "totalAssetsBundled": 33,
+    "bundledAssets": [
+      "canon.css",
+      "canon.js",
+      "de-about.css",
+      "de-about.js",
+      "de-glossary.css",
+      "de-glossary.js",
+      "de-our-stories-electromobility-greener-future.css",
+      "de-our-stories-semiconductors-driving-decarbonization.css",
+      "de-our-stories-semiconductors-driving-decarbonization.js",
+      "de-package-overview.css",
+      "de-package-overview.js",
+      "de-thank-you.css",
+      "favicon.ico",
+      "fonts/SourceSans3-Black.ttf.woff2",
+      "fonts/SourceSans3-Regular.ttf.woff2",
+      "fonts/SourceSans3-Semibold.ttf.woff2",
+      "fonts/infineon-icons.woff2",
+      "icons/Infineon_Logo_Inverted.svg",
+      "icons/app-ai-communication.svg",
+      "icons/app-car.svg",
+      "icons/app-consumer.svg",
+      "icons/app-industrial.svg",
+      "icons/app-security.svg",
+      "icons/app-solutions.svg",
+      "icons/da-chat.svg",
+      "icons/logo.svg",
+      "icons/online-event.svg",
+      "icons/tiktok.svg",
+      "img/package/grey-bg-crystals-bottom.svg",
+      "img/package/grey-bg-crystals-top.svg",
+      "img/package/shape.png",
+      "index.css",
+      "index.js"
+    ],
+    "pages": [
+      {
+        "slug": "index",
+        "file": "stardust/migrated/index.html",
+        "assetsBundled": 20
+      },
+      {
+        "slug": "de-about",
+        "file": "stardust/migrated/de/about/index.html",
+        "assetsBundled": 11
+      },
+      {
+        "slug": "de-our-stories-semiconductors-driving-decarbonization",
+        "file": "stardust/migrated/de/our-stories/semiconductors-driving-decarbonization/index.html",
+        "assetsBundled": 11
+      },
+      {
+        "slug": "de-our-stories-electromobility-greener-future",
+        "file": "stardust/migrated/de/our-stories/electromobility-greener-future/index.html",
+        "assetsBundled": 10
+      },
+      {
+        "slug": "de-thank-you",
+        "file": "stardust/migrated/de/thank-you/index.html",
+        "assetsBundled": 10
+      },
+      {
+        "slug": "de-glossary",
+        "file": "stardust/migrated/de/glossary/index.html",
+        "assetsBundled": 11
+      },
+      {
+        "slug": "de-package-overview",
+        "file": "stardust/migrated/de/package-overview/index.html",
+        "assetsBundled": 14
+      },
+      {
+        "slug": "de-logout",
+        "file": "stardust/migrated/de/logout/index.html",
+        "assetsBundled": 9
+      },
+      {
+        "slug": "de-config",
+        "file": "stardust/migrated/de/config/index.html",
+        "assetsBundled": 10
+      },
+      {
+        "slug": "de",
+        "file": "stardust/migrated/de/index.html",
+        "assetsBundled": 6
+      },
+      {
+        "slug": "de-our-stories-electric-cordless-power-tools",
+        "file": "stardust/migrated/de/our-stories/electric-cordless-power-tools/index.html",
+        "assetsBundled": 6
+      },
+      {
+        "slug": "de-our-stories-microelectronics-connecting-real-digital-world",
+        "file": "stardust/migrated/de/our-stories/microelectronics-connecting-real-digital-world/index.html",
+        "assetsBundled": 6
+      },
+      {
+        "slug": "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee",
+        "file": "stardust/migrated/de/our-stories/turning-ray-sunshine-into-cup-hot-coffee/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "de-our-stories-green-hydrogen-fuel-future",
+        "file": "stardust/migrated/de/our-stories/green-hydrogen-fuel-future/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "de-our-stories-efficient-energy-storage-systems-energy-transition",
+        "file": "stardust/migrated/de/our-stories/efficient-energy-storage-systems-energy-transition/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "de-our-stories-semiconductors-bring-heat-pumps-life",
+        "file": "stardust/migrated/de/our-stories/semiconductors-bring-heat-pumps-life/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "de-our-stories-green-chargers-adapters",
+        "file": "stardust/migrated/de/our-stories/green-chargers-adapters/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "de-our-stories-green-potential-data-centers",
+        "file": "stardust/migrated/de/our-stories/green-potential-data-centers/index.html",
+        "assetsBundled": 1
+      }
+    ],
+    "missingAssets": [],
+    "cleanedAssets": [],
+    "lastRun": {
+      "at": "2026-11-18T09:44:05Z",
+      "rendered": [
+        "de-our-stories-microelectronics-connecting-real-digital-world",
+        "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee",
+        "de-our-stories-green-hydrogen-fuel-future",
+        "de-our-stories-efficient-energy-storage-systems-energy-transition",
+        "de-our-stories-semiconductors-bring-heat-pumps-life",
+        "de-our-stories-green-chargers-adapters",
+        "de-our-stories-green-potential-data-centers"
+      ],
+      "unchanged": [
+        "de-our-stories-electric-cordless-power-tools"
+      ],
+      "refused": [],
+      "passthrough": []
+    }
+  }
+}

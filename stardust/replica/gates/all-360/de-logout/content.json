@@ -1,0 +1,293 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:24:06.535Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/logout",
+  "at": "2026-11-18T23:23:52.100Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 900,
+  "root": "main",
+  "items": [
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.row > div.wrapper.col-md-6 > img.image-class",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 360,
+    "text": "logout image",
+    "file": "error-image.png:asset-680-1x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.m-auto > div.pre.d-flex > div.pre-head",
+    "x": 33,
+    "y": 464,
+    "w": 98,
+    "h": 21,
+    "text": "Thank you"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.col-md-6.col-sm-4 > div.m-auto > h1.head",
+    "x": 9,
+    "y": 485,
+    "w": 343,
+    "h": 76,
+    "level": 1,
+    "text": "you have been logged out"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.block-cont > div.atag > a",
+    "x": 9,
+    "y": 599,
+    "w": 343,
+    "h": 22,
+    "text": "start page",
+    "href": "/aem/start.html"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.atag > a > button.testbutton.standard",
+    "x": 9,
+    "y": 585,
+    "w": 343,
+    "h": 50,
+    "text": "start page"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 3,
+    "controls": 2,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/logout",
+  "at": "2026-11-18T23:24:06.427Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 900,
+  "root": "main",
+  "items": [
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.thank-you-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 360,
+    "text": "logout image",
+    "file": "media_11376da15b7a02b15240882aef4f4641f0"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.thank-you-content > div.thank-you-pre > p",
+    "x": 33,
+    "y": 464,
+    "w": 98,
+    "h": 21,
+    "text": "Thank you"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.thank-you-content > div.thank-you-head > h1#you-have-been-logged-out",
+    "x": 9,
+    "y": 485,
+    "w": 343,
+    "h": 76,
+    "level": 1,
+    "text": "you have been logged out"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.thank-you-actions > p.button-wrapper > a.button.primary",
+    "x": 9,
+    "y": 585,
+    "w": 343,
+    "h": 50,
+    "text": "start page",
+    "href": "/aem/start"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 3,
+    "controls": 1,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "you have been logged out",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 33,
+    "y": 464,
+    "w": 98,
+    "h": 20
+   },
+   {
+    "x": 9,
+    "y": 500,
+    "w": 343,
+    "h": 46
+   },
+   {
+    "x": 145,
+    "y": 599,
+    "w": 70,
+    "h": 22
+   }
+  ],
+  "eds": [
+   {
+    "x": 33,
+    "y": 464,
+    "w": 98,
+    "h": 20
+   },
+   {
+    "x": 9,
+    "y": 500,
+    "w": 343,
+    "h": 46
+   },
+   {
+    "x": 145,
+    "y": 599,
+    "w": 70,
+    "h": 22
+   }
+  ]
+ }
+}

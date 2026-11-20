@@ -1,0 +1,16 @@
+cap-probe  base 1440 → probe 2560 (from stardust/current/DESIGN.json)
+live   https://www.infineon.com/de/package-overview
+  shell     1400px  max-width div.ifxcontainer.responsivegrid > div > div.cmp-container.tablet-margin0 > div.ifxcontainer.responsivegrid  (tier -3, holds 100% of the text)
+  other    16 capped box(es) outside the section tier (in the JSON) — e.g. 1400px div.ifxcontainer.responsivegrid > div > div.cmp-container.tablet-margin0 > div.ifxcontainer.responsivegrid
+  modules  2 sections: none capped · full-bleed ×2
+  contentMaxWidth 1400px (shell) · shellMaxWidth 1400px · root div.ifxcontainer.responsivegrid > div > div.cmp-container.tablet-margin0 > div.genericbreadcrumb
+build  http://localhost:8791/de-package-overview-proposed.html
+  shell     1400px  max-width body > main.root > div.cmp-container  (tier 1, holds 100% of the text)
+  modules  6 sections: capped 384 ×2, 662 ×1, 534 ×1 · full-bleed ×2
+  contentMaxWidth 1400px (shell) · shellMaxWidth 1400px · root body > main.root
+rows
+  ✓ wrapper cap: live 1400px = build 1400px (±20)
+  ⚠ sections: live 2 vs build 6 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches
+  ✓ module 1/2: full-bleed on both
+  ⚠ module 2/2: live full-bleed (div.cmp-container.tablet-margin0 > div.genericbreadcrumb > nav.genericBreadcrumb-component.add-gaps > div.breadcrumb-icons) → build 662px (div.ifxcontainer.ifx-fluid > section.phero > div.phero__row > div.phero__info)
+cap-probe: PASS at 2560 — 0 of 4 rows failed (evidence stardust/replica/gates/de-package-overview-2560/cap-iter.json)

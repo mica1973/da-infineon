@@ -1,0 +1,180 @@
+/* tabs: numbered vertical tabs on the teal band (live .functionTabbedContent) */
+.tabs {
+  background: var(--ifx-teal);
+  color: #fff;
+}
+
+.tabs .tabs-inner {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.tabs :is(h1, h2, h3, h4, h5, h6, p) {
+  margin: 0;
+}
+
+.tabs .tabs-head p,
+.tabs .tabs-head :is(h2, h3) {
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: -0.22px;
+}
+
+.tabs .tabs-list {
+  display: none;
+}
+
+.tabs button {
+  font: inherit;
+  cursor: pointer;
+}
+
+.tabs .tabs-bar {
+  display: flex;
+  gap: 16px;
+  width: 100%;
+  padding: 20px 0;
+  border: 0;
+  border-bottom: 1px solid rgb(255 255 255 / 40%);
+  background: none;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
+  text-align: left;
+}
+
+.tabs .tabs-panel.active .tabs-bar {
+  border-bottom: 0;
+}
+
+.tabs .tabs-panel-content {
+  display: none;
+}
+
+.tabs .tabs-panel.active .tabs-panel-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  padding-bottom: 64px;
+}
+
+.tabs .tabs-panel-media img {
+  display: block;
+  width: 100%;
+  height: 246px;
+  object-fit: cover;
+}
+
+.tabs .tabs-panel-text h3,
+.tabs .tabs-panel-text :is(h2, h4) {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 26px;
+}
+
+.tabs .tabs-panel-text p {
+  margin-top: 8px;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+@media (width >= 992px) {
+  .tabs .tabs-inner {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .tabs .tabs-head p,
+  .tabs .tabs-head :is(h2, h3) {
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.28px;
+  }
+
+  .tabs .tabs-body {
+    display: flex;
+    gap: 39px;
+    margin-top: 48px;
+    padding-left: 70px;
+  }
+
+  .tabs .tabs-list {
+    display: flex;
+    flex: 0 0 368px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 36px;
+    padding-top: 12px;
+    padding-bottom: 23px;
+  }
+
+  .tabs .tabs-tab {
+    display: flex;
+    max-width: 368px;
+    padding: 4px 32px 4px 16px;
+    border: 0;
+    background: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    clip-path: polygon(0 0, 100% 0, 95% 100%, 0 100%);
+  }
+
+  .tabs .tabs-tab .tabs-num {
+    flex: none;
+    width: 33px;
+    padding: 4px 0;
+  }
+
+  .tabs .tabs-tab .tabs-label {
+    padding: 4px 12px 4px 0;
+  }
+
+  .tabs .tabs-tab[aria-selected='true'] {
+    background: #fff;
+    color: var(--ifx-teal);
+  }
+
+  .tabs .tabs-panels {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .tabs .tabs-bar {
+    display: none;
+  }
+
+  .tabs .tabs-panel.active .tabs-panel-content {
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    gap: 32px;
+    padding: 0;
+  }
+
+  .tabs .tabs-panel-text {
+    flex: 0 0 498px;
+  }
+
+  .tabs .tabs-panel-text h3,
+  .tabs .tabs-panel-text :is(h2, h4) {
+    font-size: 20px;
+    line-height: 28px;
+  }
+
+  .tabs .tabs-panel-text p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .tabs .tabs-panel-media {
+    flex: 0 0 241px;
+  }
+
+  .tabs .tabs-panel-media img {
+    height: 181px;
+  }
+}

@@ -1,0 +1,1555 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-18T05:09:53.948Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+      "http://localhost:8791/de-our-stories-electromobility-greener-future-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from stardust/current/DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+    "http://localhost:8791/de-our-stories-electromobility-greener-future-proposed.html"
+  ],
+  "probeNote": "from stardust/current/DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "main > article > div.root.container > div.cmp-container",
+      "isBody": false,
+      "leaves": 140,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+        "tier": 1,
+        "share": 0.06,
+        "section": 1,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 1036,
+        "via": "max-width",
+        "selector": "div.articlehero-component.add-gaps > div.aricle-hero > div.container-article-box.ifx-fixed > div.article-box",
+        "tier": 9,
+        "share": 0.04,
+        "section": 1,
+        "w1": 1036,
+        "maxWidth": "1036px"
+      },
+      {
+        "kind": "module",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "div.ifxcontainer.responsivegrid > div > div.cmp-container.tablet-margin0 > div.ifxcontainer.responsivegrid",
+        "tier": 4,
+        "share": 0.66,
+        "section": 2,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 1040,
+        "via": "fixed",
+        "selector": "div > div.ifx-container.tablet-margin0 > div.aem-Grid.aem-Grid--12 > div.ifxcontainer.responsivegrid",
+        "tier": 11,
+        "share": 0.51,
+        "section": 2,
+        "w1": 1040,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 456,
+        "via": "fixed",
+        "selector": "#anch1 > a.cmp-title__link",
+        "tier": 20,
+        "share": 0.01,
+        "section": 2,
+        "w1": 456,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 924,
+        "via": "fixed",
+        "selector": "div.quote-comp.add-gaps > div.quote-comp-wrapper > div.quote-wrapper-desktop.desktop-view > div.quote-right-side",
+        "tier": 20,
+        "share": 0.01,
+        "section": 2,
+        "w1": 924,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 549,
+        "via": "fixed",
+        "selector": "div.title-component.add-gaps > div.title > h2.dynamicAnchors.heading-03 > a.cmp-title__link",
+        "tier": 23,
+        "share": 0.01,
+        "section": 2,
+        "w1": 549,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 248,
+        "via": "fixed",
+        "selector": "div > div.ifx-container.tablet-margin0 > div.aem-Grid.aem-Grid--12 > div.ifxcontainer.responsivegrid",
+        "tier": 22,
+        "share": 0,
+        "section": 2,
+        "w1": 248,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 579,
+        "via": "fixed",
+        "selector": "div > div.ifx-container.tablet-margin0 > div.aem-Grid.aem-Grid--12 > div.ifxcontainer.responsivegrid",
+        "tier": 22,
+        "share": 0.01,
+        "section": 2,
+        "w1": 579,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 563,
+        "via": "fixed",
+        "selector": "div.aem-Grid.aem-Grid--12 > div.ifxcontainer.responsivegrid > div > div.ifx-container.tablet-margin0",
+        "tier": 24,
+        "share": 0.01,
+        "section": 2,
+        "w1": 563,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 382,
+        "via": "fixed",
+        "selector": "div.title-component.add-gaps > div.title.text-start > h4.dynamicAnchors.heading-04 > a.cmp-title__link",
+        "tier": 31,
+        "share": 0.01,
+        "section": 2,
+        "w1": 382,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 248,
+        "via": "fixed",
+        "selector": "div > div.ifx-container.tablet-margin0 > div.aem-Grid.aem-Grid--12 > div.ifxcontainer.responsivegrid",
+        "tier": 22,
+        "share": 0,
+        "section": 2,
+        "w1": 248,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 579,
+        "via": "fixed",
+        "selector": "div > div.ifx-container.tablet-margin0 > div.aem-Grid.aem-Grid--12 > div.ifxcontainer.responsivegrid",
+        "tier": 22,
+        "share": 0.02,
+        "section": 2,
+        "w1": 579,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 563,
+        "via": "fixed",
+        "selector": "div.aem-Grid.aem-Grid--12 > div.ifxcontainer.responsivegrid > div > div.ifx-container.tablet-margin0",
+        "tier": 24,
+        "share": 0.02,
+        "section": 2,
+        "w1": 563,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 555,
+        "via": "fixed",
+        "selector": "div.aem-Grid.aem-Grid--7 > div.title.aem-GridColumn--tablet--12 > section > div.title-component.add-gaps",
+        "tier": 28,
+        "share": 0.01,
+        "section": 2,
+        "w1": 555,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 513,
+        "via": "fixed",
+        "selector": "div.title-component.add-gaps > div.title.text-start > h2.dynamicAnchors.heading-04 > a.cmp-title__link",
+        "tier": 31,
+        "share": 0.01,
+        "section": 2,
+        "w1": 513,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1037,
+        "via": "fixed",
+        "selector": "div.title-component.add-gaps > div.title > h2.dynamicAnchors.heading-03 > a.cmp-title__link",
+        "tier": 24,
+        "share": 0.01,
+        "section": 2,
+        "w1": 1037,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 520,
+        "via": "fixed",
+        "selector": "div > div.ifx-container.tablet-margin0 > div.aem-Grid.aem-Grid--10 > div.ifxcontainer.responsivegrid",
+        "tier": 19,
+        "share": 0.04,
+        "section": 2,
+        "w1": 520,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 504,
+        "via": "fixed",
+        "selector": "div.aem-Grid.aem-Grid--10 > div.ifxcontainer.responsivegrid > div > div.ifx-container.tablet-margin0",
+        "tier": 21,
+        "share": 0.04,
+        "section": 2,
+        "w1": 504,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 430,
+        "via": "fixed",
+        "selector": "div.title-component.add-gaps > div.title > h2.dynamicAnchors.heading-04 > a.cmp-title__link",
+        "tier": 28,
+        "share": 0.01,
+        "section": 2,
+        "w1": 430,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 293,
+        "via": "fixed",
+        "selector": "div.tertiary-comp.add-gaps > div.btn-col.row > div.selected-icon.col-lg-12 > div.subitem-link",
+        "tier": 27,
+        "share": 0.01,
+        "section": 2,
+        "w1": 293,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 520,
+        "via": "fixed",
+        "selector": "div > div.ifx-container.tablet-margin0 > div.aem-Grid.aem-Grid--10 > div.ifxcontainer.responsivegrid",
+        "tier": 19,
+        "share": 0.05,
+        "section": 2,
+        "w1": 520,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 504,
+        "via": "fixed",
+        "selector": "div.aem-Grid.aem-Grid--10 > div.ifxcontainer.responsivegrid > div > div.ifx-container.tablet-margin0",
+        "tier": 21,
+        "share": 0.05,
+        "section": 2,
+        "w1": 504,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 435,
+        "via": "fixed",
+        "selector": "div.title-component.add-gaps > div.title > h2.dynamicAnchors.heading-04 > a.cmp-title__link",
+        "tier": 28,
+        "share": 0.01,
+        "section": 2,
+        "w1": 435,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 342,
+        "via": "fixed",
+        "selector": "div.tertiary-comp.add-gaps > div.btn-col.row > div.selected-icon.col-lg-12 > div.subitem-link",
+        "tier": 27,
+        "share": 0.01,
+        "section": 2,
+        "w1": 342,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 252,
+        "via": "fixed",
+        "selector": "div.tertiary-comp.add-gaps > div.btn-col.row > div.selected-icon.col-lg-12 > div.subitem-link",
+        "tier": 27,
+        "share": 0.01,
+        "section": 2,
+        "w1": 252,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 245,
+        "via": "fixed",
+        "selector": "div.btn-col.row > div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+        "tier": 28,
+        "share": 0.01,
+        "section": 2,
+        "w1": 245,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 520,
+        "via": "fixed",
+        "selector": "div > div.ifx-container.tablet-margin0 > div.aem-Grid.aem-Grid--10 > div.ifxcontainer.responsivegrid",
+        "tier": 19,
+        "share": 0.04,
+        "section": 2,
+        "w1": 520,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 504,
+        "via": "fixed",
+        "selector": "div.aem-Grid.aem-Grid--10 > div.ifxcontainer.responsivegrid > div > div.ifx-container.tablet-margin0",
+        "tier": 21,
+        "share": 0.04,
+        "section": 2,
+        "w1": 504,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 475,
+        "via": "fixed",
+        "selector": "div.title-component.add-gaps > div.title > h2.dynamicAnchors.heading-04 > a.cmp-title__link",
+        "tier": 28,
+        "share": 0.01,
+        "section": 2,
+        "w1": 475,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 360,
+        "via": "fixed",
+        "selector": "div.tertiary-comp.add-gaps > div.btn-col.row > div.selected-icon.col-lg-12 > div.subitem-link",
+        "tier": 27,
+        "share": 0.01,
+        "section": 2,
+        "w1": 360,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 520,
+        "via": "fixed",
+        "selector": "div > div.ifx-container.tablet-margin0 > div.aem-Grid.aem-Grid--10 > div.ifxcontainer.responsivegrid",
+        "tier": 19,
+        "share": 0.04,
+        "section": 2,
+        "w1": 520,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 504,
+        "via": "fixed",
+        "selector": "div.aem-Grid.aem-Grid--10 > div.ifxcontainer.responsivegrid > div > div.ifx-container.tablet-margin0",
+        "tier": 21,
+        "share": 0.04,
+        "section": 2,
+        "w1": 504,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 439,
+        "via": "fixed",
+        "selector": "#title-0e38dcd7e0 > h2.dynamicAnchors.heading-04 > a.cmp-title__link",
+        "tier": 28,
+        "share": 0.01,
+        "section": 2,
+        "w1": 439,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 310,
+        "via": "fixed",
+        "selector": "div.tertiary-comp.add-gaps > div.btn-col.row > div.selected-icon.col-lg-12 > div.subitem-link",
+        "tier": 27,
+        "share": 0.01,
+        "section": 2,
+        "w1": 310,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 346,
+        "via": "fixed",
+        "selector": "#innovation > a.cmp-title__link",
+        "tier": 20,
+        "share": 0.01,
+        "section": 2,
+        "w1": 346,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 520,
+        "via": "fixed",
+        "selector": "div > div.ifx-container.tablet-margin0 > div.aem-Grid.aem-Grid--10 > div.ifxcontainer.responsivegrid",
+        "tier": 19,
+        "share": 0.02,
+        "section": 2,
+        "w1": 520,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 504,
+        "via": "fixed",
+        "selector": "div.aem-Grid.aem-Grid--10 > div.ifxcontainer.responsivegrid > div > div.ifx-container.tablet-margin0",
+        "tier": 21,
+        "share": 0.02,
+        "section": 2,
+        "w1": 504,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 293,
+        "via": "fixed",
+        "selector": "div.tertiary-comp.add-gaps > div.btn-col.row > div.selected-icon.col-lg-12 > div.subitem-link",
+        "tier": 27,
+        "share": 0.01,
+        "section": 2,
+        "w1": 293,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 520,
+        "via": "fixed",
+        "selector": "div > div.ifx-container.tablet-margin0 > div.aem-Grid.aem-Grid--10 > div.ifxcontainer.responsivegrid",
+        "tier": 19,
+        "share": 0,
+        "section": 2,
+        "w1": 520,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 504,
+        "via": "fixed",
+        "selector": "div.aem-Grid.aem-Grid--10 > div.ifxcontainer.responsivegrid > div > div.ifx-container.tablet-margin0",
+        "tier": 21,
+        "share": 0,
+        "section": 2,
+        "w1": 504,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 469,
+        "via": "fixed",
+        "selector": "#title-d61b4fdd8b > h2.dynamicAnchors.heading-04 > a.cmp-title__link",
+        "tier": 20,
+        "share": 0.01,
+        "section": 2,
+        "w1": 469,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 268,
+        "via": "fixed",
+        "selector": "#innovation > a.cmp-title__link",
+        "tier": 20,
+        "share": 0.01,
+        "section": 2,
+        "w1": 268,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 363,
+        "via": "fixed",
+        "selector": "div.custom-verticle > div.cmp-text.richtext > p > b",
+        "tier": 23,
+        "share": 0.01,
+        "section": 2,
+        "w1": 363,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 410,
+        "via": "fixed",
+        "selector": "div.custom-verticle > div.cmp-text.richtext > p > b",
+        "tier": 23,
+        "share": 0.01,
+        "section": 2,
+        "w1": 410,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 537,
+        "via": "fixed",
+        "selector": "div.custom-verticle > div.cmp-text.richtext > p > b",
+        "tier": 23,
+        "share": 0.01,
+        "section": 2,
+        "w1": 537,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 491,
+        "via": "fixed",
+        "selector": "div.custom-verticle > div.cmp-text.richtext > p > b",
+        "tier": 23,
+        "share": 0.01,
+        "section": 2,
+        "w1": 491,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 554,
+        "via": "fixed",
+        "selector": "div.custom-verticle > div.cmp-text.richtext > p > b",
+        "tier": 23,
+        "share": 0.01,
+        "section": 2,
+        "w1": 554,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 347,
+        "via": "fixed",
+        "selector": "#anch1 > a.cmp-title__link",
+        "tier": 16,
+        "share": 0.01,
+        "section": 2,
+        "w1": 347,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards-component.teaserrowcards-carousel > div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide.swiper-slide-active",
+        "tier": 17,
+        "share": 0.02,
+        "section": 2,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide.swiper-slide-active > div.card",
+        "tier": 18,
+        "share": 0.02,
+        "section": 2,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards-component.teaserrowcards-carousel > div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide.swiper-slide-next",
+        "tier": 17,
+        "share": 0.02,
+        "section": 2,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide.swiper-slide-next > div.card",
+        "tier": 18,
+        "share": 0.02,
+        "section": 2,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards-component.teaserrowcards-carousel > div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide",
+        "tier": 17,
+        "share": 0.02,
+        "section": 2,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide > div.card",
+        "tier": 18,
+        "share": 0.02,
+        "section": 2,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards-component.teaserrowcards-carousel > div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide.swiper-slide-active",
+        "tier": 17,
+        "share": 0.02,
+        "section": 2,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide.swiper-slide-active > div.card",
+        "tier": 18,
+        "share": 0.02,
+        "section": 2,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards-component.teaserrowcards-carousel > div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide.swiper-slide-next",
+        "tier": 17,
+        "share": 0.02,
+        "section": 2,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide.swiper-slide-next > div.card",
+        "tier": 18,
+        "share": 0.02,
+        "section": 2,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.teaserrowcards-component.teaserrowcards-carousel > div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide",
+        "tier": 17,
+        "share": 0.02,
+        "section": 2,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "div.swiper-container.scrollType > div.swiper-wrapper > div.swiper-slide > div.card",
+        "tier": 18,
+        "share": 0.02,
+        "section": 2,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1186,
+        "via": "fixed",
+        "selector": "#ds-offRampnewsletter > div.offrampnewsletter-comp.add-gaps > div.container-fluid > div.container-flexed.ifx-fixed",
+        "tier": 9,
+        "share": 0.02,
+        "section": 3,
+        "w1": 1186,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 505,
+        "via": "fixed",
+        "selector": "div.offrampnewsletter-comp.add-gaps > div.container-fluid > div.container-flexed.ifx-fixed > div.headblock",
+        "tier": 10,
+        "share": 0.01,
+        "section": 3,
+        "w1": 505,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 505,
+        "via": "fixed",
+        "selector": "div.offrampnewsletter-comp.add-gaps > div.container-fluid > div.container-flexed.ifx-fixed > div.subblock",
+        "tier": 10,
+        "share": 0.01,
+        "section": 3,
+        "w1": 505,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "article > div.root.container > div.cmp-container > div.aem-Grid.aem-Grid--12",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+        "px": 1400,
+        "capSelector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid"
+      },
+      {
+        "index": 2,
+        "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+        "px": 1400,
+        "capSelector": "div.ifxcontainer.responsivegrid > div > div.cmp-container.tablet-margin0 > div.ifxcontainer.responsivegrid"
+      },
+      {
+        "index": 3,
+        "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+        "px": 1186,
+        "capSelector": "#ds-offRampnewsletter > div.offrampnewsletter-comp.add-gaps > div.container-fluid > div.container-flexed.ifx-fixed"
+      },
+      {
+        "index": 4,
+        "selector": "article > div.root.container > div.cmp-container > div.experiencefragment.aem-GridColumn",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1400,
+    "contentFrom": "module",
+    "maxCap": 1400,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 549
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body > main.root",
+      "isBody": false,
+      "leaves": 103,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-fluid",
+        "tier": 2,
+        "share": 0.08,
+        "section": 0,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 1036,
+        "via": "max-width",
+        "selector": "div.cmp-container > div.ifxcontainer.ifx-fluid > section.ahero > div.ahero__box",
+        "tier": 4,
+        "share": 0.05,
+        "section": 0,
+        "w1": 1036,
+        "maxWidth": "1036px"
+      },
+      {
+        "kind": "module",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer",
+        "tier": 2,
+        "share": 0.88,
+        "section": 1,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 1040,
+        "via": "fixed",
+        "selector": "div.ifxcontainer > div.row-gap64.ifx-shell > div.ifx-fixed > div.story",
+        "tier": 5,
+        "share": 0.67,
+        "section": 1,
+        "w1": 1040,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 456,
+        "via": "fixed",
+        "selector": "#anch1 > a.tlink",
+        "tier": 7,
+        "share": 0.01,
+        "section": 1,
+        "w1": 456,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 924,
+        "via": "fixed",
+        "selector": "div.row-gap64.ifx-shell > div.ifx-fixed > div.story > figure.quote.mb32",
+        "tier": 6,
+        "share": 0.02,
+        "section": 1,
+        "w1": 924,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 549,
+        "via": "fixed",
+        "selector": "div.tbox.mb64 > div.tbox__in > h2.h-28.mb32 > a.tlink",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 549,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 248,
+        "via": "fixed",
+        "selector": "div.tbox.mb64 > div.tbox__in > div.fact.mb32 > div.fact__icon",
+        "tier": 9,
+        "share": 0,
+        "section": 1,
+        "w1": 248,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 579,
+        "via": "fixed",
+        "selector": "div.tbox.mb64 > div.tbox__in > div.fact.mb32 > div.fact__body",
+        "tier": 9,
+        "share": 0.02,
+        "section": 1,
+        "w1": 579,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 382,
+        "via": "fixed",
+        "selector": "div.fact.mb32 > div.fact__body > h4.h-24.mb8 > a.tlink",
+        "tier": 11,
+        "share": 0.01,
+        "section": 1,
+        "w1": 382,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 248,
+        "via": "fixed",
+        "selector": "div.tbox.mb64 > div.tbox__in > div.fact.mb16 > div.fact__icon",
+        "tier": 9,
+        "share": 0,
+        "section": 1,
+        "w1": 248,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 579,
+        "via": "fixed",
+        "selector": "div.tbox.mb64 > div.tbox__in > div.fact.mb16 > div.fact__body",
+        "tier": 9,
+        "share": 0.03,
+        "section": 1,
+        "w1": 579,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 513,
+        "via": "fixed",
+        "selector": "div.fact.mb16 > div.fact__body > h2.h-24.mb8 > a.tlink",
+        "tier": 11,
+        "share": 0.01,
+        "section": 1,
+        "w1": 513,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1037,
+        "via": "fixed",
+        "selector": "div.story > div.blk.mb48 > h2.h-28.mb32 > a.tlink",
+        "tier": 8,
+        "share": 0.01,
+        "section": 1,
+        "w1": 1037,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 520,
+        "via": "fixed",
+        "selector": "div.story > div.blk.mb48 > div.cols > div.cols__col",
+        "tier": 8,
+        "share": 0.06,
+        "section": 1,
+        "w1": 520,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 430,
+        "via": "fixed",
+        "selector": "div.cols > div.cols__col > h2.h-24.mb16 > a.tlink",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 430,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 292,
+        "via": "fixed",
+        "selector": "div.cols > div.cols__col > p.ilink-row.mb8 > a.ilink",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 292,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 268,
+        "via": "fixed",
+        "selector": "div.cols__col > p.ilink-row.mb8 > a.ilink > span",
+        "tier": 11,
+        "share": 0.01,
+        "section": 1,
+        "w1": 268,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 520,
+        "via": "fixed",
+        "selector": "div.story > div.blk.mb48 > div.cols > div.cols__col",
+        "tier": 8,
+        "share": 0.07,
+        "section": 1,
+        "w1": 520,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 435,
+        "via": "fixed",
+        "selector": "div.cols > div.cols__col > h2.h-24.mb16 > a.tlink",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 435,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 341,
+        "via": "fixed",
+        "selector": "div.cols > div.cols__col > p.ilink-row.mb8 > a.ilink",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 341,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 317,
+        "via": "fixed",
+        "selector": "div.cols__col > p.ilink-row.mb8 > a.ilink > span",
+        "tier": 11,
+        "share": 0.01,
+        "section": 1,
+        "w1": 317,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 243,
+        "via": "fixed",
+        "selector": "div.cols > div.cols__col > p.ilink-row.mb8 > a.ilink",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 243,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 520,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > div.story > div.cols.mb48 > div.cols__col",
+        "tier": 7,
+        "share": 0.06,
+        "section": 1,
+        "w1": 520,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 475,
+        "via": "fixed",
+        "selector": "div.cols.mb48 > div.cols__col > h2.h-24.mb16 > a.tlink",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 475,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 359,
+        "via": "fixed",
+        "selector": "div.cols.mb48 > div.cols__col > p.ilink-row.mb8 > a.ilink",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 359,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 335,
+        "via": "fixed",
+        "selector": "div.cols__col > p.ilink-row.mb8 > a.ilink > span",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 335,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 520,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > div.story > div.cols.mb48 > div.cols__col",
+        "tier": 7,
+        "share": 0.06,
+        "section": 1,
+        "w1": 520,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 439,
+        "via": "fixed",
+        "selector": "div.cols.mb48 > div.cols__col > h2.h-24.mb16 > a.tlink",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 439,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 309,
+        "via": "fixed",
+        "selector": "div.cols.mb48 > div.cols__col > p.ilink-row.mb8 > a.ilink",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 309,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 285,
+        "via": "fixed",
+        "selector": "div.cols__col > p.ilink-row.mb8 > a.ilink > span",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 285,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 346,
+        "via": "fixed",
+        "selector": "#innovation > a.tlink",
+        "tier": 7,
+        "share": 0.01,
+        "section": 1,
+        "w1": 346,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 520,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > div.story > div.cols.mb16 > div.cols__col",
+        "tier": 7,
+        "share": 0.03,
+        "section": 1,
+        "w1": 520,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 292,
+        "via": "fixed",
+        "selector": "div.cols.mb16 > div.cols__col > p.ilink-row.mb16 > a.ilink",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 292,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 268,
+        "via": "fixed",
+        "selector": "div.cols__col > p.ilink-row.mb16 > a.ilink > span",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 268,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 520,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > div.story > div.cols.mb16 > div.cols__col",
+        "tier": 7,
+        "share": 0,
+        "section": 1,
+        "w1": 520,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 469,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > div.story > h2.h-24.mb16 > a.tlink",
+        "tier": 7,
+        "share": 0.01,
+        "section": 1,
+        "w1": 469,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 347,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > div.story > div.lcol.mb64 > div.lcol__item",
+        "tier": 7,
+        "share": 0.03,
+        "section": 1,
+        "w1": 347,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 246,
+        "via": "fixed",
+        "selector": "div.lcol.mb64 > div.lcol__item > a.ilink.lcol__link > span",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 246,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 347,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > div.story > div.lcol.mb64 > div.lcol__item",
+        "tier": 7,
+        "share": 0.03,
+        "section": 1,
+        "w1": 347,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 269,
+        "via": "fixed",
+        "selector": "div.lcol.mb64 > div.lcol__item > a.ilink.lcol__link > span",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 269,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 347,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > div.story > div.lcol.mb64 > div.lcol__item",
+        "tier": 7,
+        "share": 0.03,
+        "section": 1,
+        "w1": 347,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 268,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > div.story > h2.h-28.mb16 > a.tlink",
+        "tier": 7,
+        "share": 0.01,
+        "section": 1,
+        "w1": 268,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 363,
+        "via": "fixed",
+        "selector": "div.tbox__in > div.rt.mb64 > p > b",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 363,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 410,
+        "via": "fixed",
+        "selector": "div.tbox__in > div.rt.mb64 > p > b",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 410,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 537,
+        "via": "fixed",
+        "selector": "div.tbox__in > div.rt.mb64 > p > b",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 537,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 491,
+        "via": "fixed",
+        "selector": "div.tbox__in > div.rt.mb64 > p > b",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 491,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 554,
+        "via": "fixed",
+        "selector": "div.tbox__in > div.rt.mb64 > p > b",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 554,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 347,
+        "via": "fixed",
+        "selector": "div.row-gap64.ifx-shell > div.ifx-fixed > h2.h-36.mb32 > a.tlink",
+        "tier": 6,
+        "share": 0.01,
+        "section": 1,
+        "w1": 347,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > section.trc.mb0 > div.trc__track > article.trc-card",
+        "tier": 7,
+        "share": 0.03,
+        "section": 1,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "section.trc.mb0 > div.trc__track > article.trc-card > div.trc-card__body",
+        "tier": 8,
+        "share": 0.03,
+        "section": 1,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > section.trc.mb0 > div.trc__track > article.trc-card",
+        "tier": 7,
+        "share": 0.03,
+        "section": 1,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "section.trc.mb0 > div.trc__track > article.trc-card > div.trc-card__body",
+        "tier": 8,
+        "share": 0.03,
+        "section": 1,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > section.trc.mb0 > div.trc__track > article.trc-card",
+        "tier": 7,
+        "share": 0.03,
+        "section": 1,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "section.trc.mb0 > div.trc__track > article.trc-card > div.trc-card__body",
+        "tier": 8,
+        "share": 0.03,
+        "section": 1,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > section.trc.mb80 > div.trc__track > article.trc-card",
+        "tier": 7,
+        "share": 0.03,
+        "section": 1,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "section.trc.mb80 > div.trc__track > article.trc-card > div.trc-card__body",
+        "tier": 8,
+        "share": 0.03,
+        "section": 1,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > section.trc.mb80 > div.trc__track > article.trc-card",
+        "tier": 7,
+        "share": 0.03,
+        "section": 1,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "section.trc.mb80 > div.trc__track > article.trc-card > div.trc-card__body",
+        "tier": 8,
+        "share": 0.03,
+        "section": 1,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 375,
+        "via": "fixed",
+        "selector": "div.ifx-fixed > section.trc.mb80 > div.trc__track > article.trc-card",
+        "tier": 7,
+        "share": 0.03,
+        "section": 1,
+        "w1": 375,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 371,
+        "via": "fixed",
+        "selector": "section.trc.mb80 > div.trc__track > article.trc-card > div.trc-card__body",
+        "tier": 8,
+        "share": 0.03,
+        "section": 1,
+        "w1": 371,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1186,
+        "via": "max-width",
+        "selector": "div.cmp-container > div.ifxcontainer.ifx-extra-fluid > section.nlo > div.nlo__in",
+        "tier": 4,
+        "share": 0.03,
+        "section": 2,
+        "w1": 1186,
+        "maxWidth": "1186px"
+      },
+      {
+        "kind": "module",
+        "px": 505,
+        "via": "fixed",
+        "selector": "div.ifxcontainer.ifx-extra-fluid > section.nlo > div.nlo__in > div.nlo__head",
+        "tier": 5,
+        "share": 0.01,
+        "section": 2,
+        "w1": 505,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 505,
+        "via": "fixed",
+        "selector": "div.ifxcontainer.ifx-extra-fluid > section.nlo > div.nlo__in > div.nlo__sub",
+        "tier": 5,
+        "share": 0.02,
+        "section": 2,
+        "w1": 505,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-fluid",
+        "px": 1400,
+        "capSelector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-fluid"
+      },
+      {
+        "index": 1,
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer",
+        "px": 1400,
+        "capSelector": "body > main.root > div.cmp-container > div.ifxcontainer"
+      },
+      {
+        "index": 2,
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-extra-fluid",
+        "px": 1186,
+        "capSelector": "div.cmp-container > div.ifxcontainer.ifx-extra-fluid > section.nlo > div.nlo__in"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1400,
+    "contentFrom": "module",
+    "maxCap": 1400,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 244
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "live 1400px = build 1400px (±20, shared module cap)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "sections",
+        "detail": "live 5 vs build 3 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 1/5",
+        "detail": "live full-bleed (article > div.root.container > div.cmp-container > div.aem-Grid.aem-Grid--12) → build 1400px (body > main.root > div.cmp-container > div.ifxcontainer.ifx-fluid)",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 2/5",
+        "detail": "1400px = 1400px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 3/5",
+        "detail": "live 1400px → build 1186px, Δ-214px (div.cmp-container > div.ifxcontainer.ifx-extra-fluid > section.nlo > div.nlo__in)",
+        "advisory": true
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/de-our-stories-electromobility-greener-future-2560/cap-iter.json"
+}

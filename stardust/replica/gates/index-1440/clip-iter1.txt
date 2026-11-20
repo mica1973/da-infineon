@@ -1,0 +1,5 @@
+clip-probe http://localhost:8791/index-proposed.html @ 1440px — docH 6598, 227 text nodes, 101 controls (HTTP 200, chrome)
+  🔴 TEXT CLIPPED           ×1     in p.hero__title  div.hero__left > div.hero__slide.is-showing > div.hero__content > p.hero__title  "psoc developer journey"  cut 15px
+  🔴 TEXT CLIPPED           ×1     in p.np-card__sub  div.np__track > article.np-card > div.np-card__body > p.np-card__sub  "rad hard, 100 v, 9 a, r9 generation rad hard mosfet in smd-0"  cut 18px
+Clipped: 2 (text clipped 2, text hidden 0, controls hidden 0, controls clipped 0; advisory: clamped 14, collapsed 0, scroll-hidden 0, horizontal 6)
+json → stardust/replica/gates/index-1440/clip-iter1.json

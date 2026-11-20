@@ -1,0 +1,392 @@
+/* teaser-cards: image teaser cards (live .teaserrowcards; variant carousel = slider row) */
+.teaser-cards .teaser-cards-inner {
+  padding-top: 0;
+  padding-bottom: 48px;
+}
+
+.teaser-cards :is(h2, h3, p, ul) {
+  margin: 0;
+}
+
+.teaser-cards .teaser-cards-head :is(h2, h3) {
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 36px;
+  letter-spacing: -0.26px;
+}
+
+.teaser-cards .teaser-cards-track {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 32px;
+  margin-top: 24px;
+  padding: 0;
+  list-style: none;
+}
+
+.teaser-cards .teaser-cards-card {
+  display: flex;
+  flex-direction: column;
+  border-left: 4px solid var(--ifx-border);
+  border-radius: 4px;
+  background: #fff;
+}
+
+.teaser-cards .teaser-cards-media picture {
+  display: block;
+}
+
+.teaser-cards .teaser-cards-media img {
+  display: block;
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.teaser-cards .teaser-cards-body {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  padding: 16px 24px;
+}
+
+.teaser-cards .teaser-cards-title p {
+  color: var(--ifx-ink);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+/* live mobile: title box clamped to 26px (one visible line, overflow cut) */
+@media (width < 992px) {
+  /* live: last card + 16 component padding + 24 margin to the next band */
+  .teaser-cards:not(.carousel, .tech) .teaser-cards-inner {
+    padding-bottom: 40px;
+  }
+
+  .teaser-cards:not(.carousel, .tech) .teaser-cards-title p {
+    display: -webkit-box;
+    height: 26px;
+    overflow: hidden;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+  }
+}
+
+.teaser-cards .teaser-cards-title strong {
+  font-weight: 600;
+}
+
+.teaser-cards .teaser-cards-desc p {
+  margin-top: 16px;
+  color: var(--ifx-stone-text);
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.teaser-cards .teaser-cards-link {
+  margin-top: auto;
+  padding-top: 8px;
+}
+
+.teaser-cards .teaser-cards-link a:any-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--ifx-teal);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.teaser-cards .teaser-cards-link a:any-link::after {
+  content: '\e90b';
+  font-family: var(--ifx-icon-font);
+  font-weight: 400;
+}
+
+/* carousel */
+.teaser-cards.carousel .teaser-cards-inner {
+  padding-top: 24px;
+  padding-bottom: 56px;
+}
+
+.teaser-cards.carousel .teaser-cards-track {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+
+.teaser-cards.carousel .teaser-cards-card {
+  flex: 0 0 320px;
+  border-left: 0;
+  min-height: 392px;
+  scroll-snap-align: start;
+}
+
+.teaser-cards.carousel .teaser-cards-body {
+  padding-left: 28px;
+  box-shadow: inset 4px 0 0 var(--ifx-border);
+}
+
+/* live .swiper-slide .card-title: 1px tracking, 2-line box 52px; description 3 lines 72px */
+.teaser-cards.carousel .teaser-cards-title p {
+  display: -webkit-box;
+  height: 52px;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+.teaser-cards.carousel .teaser-cards-desc p {
+  display: -webkit-box;
+  max-height: 72px;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.teaser-cards .teaser-cards-nav {
+  display: none;
+}
+
+@media (width >= 992px) {
+  .teaser-cards .teaser-cards-inner {
+    padding-bottom: 80px;
+  }
+
+  .teaser-cards .teaser-cards-head :is(h2, h3) {
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.36px;
+  }
+
+  .teaser-cards:not(.carousel) .teaser-cards-inner > * {
+    max-width: 1224px;
+  }
+
+  .teaser-cards .teaser-cards-track {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+    margin-top: 48px;
+  }
+
+  .teaser-cards .teaser-cards-media img {
+    height: 200px;
+  }
+
+  .teaser-cards .teaser-cards-card {
+    min-height: 320px;
+  }
+
+  .teaser-cards .teaser-cards-title p {
+    min-height: 56px;
+  }
+
+  .teaser-cards.carousel .teaser-cards-inner {
+    padding-top: 40px;
+    padding-bottom: 104px;
+  }
+
+  .teaser-cards.carousel .teaser-cards-track {
+    gap: 32px;
+    padding-left: 4px;
+  }
+
+  .teaser-cards.carousel .teaser-cards-card {
+    flex: 0 0 375px;
+    min-height: 432px;
+  }
+
+  .teaser-cards.carousel .teaser-cards-title p {
+    min-height: 52px;
+    font-size: 20px;
+    line-height: 26px;
+  }
+
+  .teaser-cards .teaser-cards-nav {
+    display: flex;
+    justify-content: flex-end;
+    gap: 16px;
+    margin-top: 32px;
+  }
+
+  .teaser-cards .teaser-cards-nav button {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border: 1px solid var(--ifx-teal);
+    border-radius: 50%;
+    background: #fff;
+    color: var(--ifx-teal);
+    font-family: var(--ifx-icon-font);
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .teaser-cards .teaser-cards-prev::before {
+    content: '\e94c';
+  }
+
+  .teaser-cards .teaser-cards-next::before {
+    content: '\e94d';
+  }
+}
+
+/* tech: package-technologies slider (live .teaserrowcards on listing pages) */
+.teaser-cards.tech .teaser-cards-inner {
+  padding-top: 0;
+  padding-bottom: 0;
+  overflow: hidden;
+}
+
+.teaser-cards.tech .teaser-cards-head :is(h2, h3) {
+  margin-bottom: 8px;
+}
+
+.teaser-cards.tech .teaser-cards-head p {
+  margin-bottom: 24px;
+  color: var(--ifx-stone-text);
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.teaser-cards.tech .teaser-cards-track {
+  display: flex;
+  gap: 16px;
+  margin-top: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.teaser-cards.tech .teaser-cards-card {
+  flex: 0 0 320px;
+  width: 320px;
+  min-height: 0;
+  border-radius: 0;
+}
+
+.teaser-cards.tech :is(.teaser-cards-title, .teaser-cards-pre, .teaser-cards-desc) p {
+  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+}
+
+.teaser-cards.tech .teaser-cards-title p {
+  min-height: 0;
+  margin-bottom: 12px;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 1px;
+  -webkit-line-clamp: 2;
+}
+
+.teaser-cards.tech .teaser-cards-pre p {
+  height: 56px;
+  margin-bottom: 16px;
+  color: var(--ifx-ink);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: -0.2px;
+  -webkit-line-clamp: 2;
+}
+
+.teaser-cards.tech .teaser-cards-desc p {
+  height: 72px;
+  margin: 0 0 30px;
+  -webkit-line-clamp: 3;
+}
+
+.teaser-cards.tech .teaser-cards-link {
+  margin-top: 6px;
+  padding-top: 0;
+}
+
+.teaser-cards.tech .teaser-cards-link a:any-link::after {
+  content: '\e94d';
+}
+
+.teaser-cards.tech .teaser-cards-nav {
+  display: none;
+}
+
+@media (width >= 992px) {
+  .teaser-cards.tech .teaser-cards-inner {
+    padding-right: 0;
+    padding-bottom: 0;
+  }
+
+  .teaser-cards.tech .teaser-cards-inner > * {
+    max-width: none;
+  }
+
+  .teaser-cards.tech .teaser-cards-head :is(h2, h3) {
+    margin-bottom: 16px;
+  }
+
+  .teaser-cards.tech .teaser-cards-head p {
+    margin-bottom: 48px;
+  }
+
+  .teaser-cards.tech .teaser-cards-track {
+    gap: 32px;
+    margin-top: 0;
+    padding-left: 0;
+  }
+
+  .teaser-cards.tech .teaser-cards-card {
+    flex: 0 0 375px;
+    width: 375px;
+    min-height: 0;
+  }
+
+  .teaser-cards.tech .teaser-cards-title p {
+    min-height: 0;
+    font-size: 20px;
+  }
+
+  .teaser-cards.tech .teaser-cards-nav {
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+    margin-top: 32px;
+    padding-right: 40px;
+  }
+
+  .teaser-cards.tech .teaser-cards-nav button {
+    width: 40px;
+    height: 40px;
+    border: 0;
+    border-radius: 0;
+    background: none;
+    color: var(--ifx-teal);
+    font-size: 40px;
+    line-height: 40px;
+  }
+
+  .teaser-cards.tech .teaser-cards-nav button:disabled {
+    color: var(--ifx-border);
+    cursor: default;
+  }
+
+  .teaser-cards.tech .teaser-cards-prev::before {
+    content: '\ea99';
+  }
+
+  .teaser-cards.tech .teaser-cards-next::before {
+    content: '\ea9f';
+  }
+}
+
+/* live 1440: the slider row runs past the 1248 column to the frame edge (4th card peeks) */
+@media (width >= 1440px) {
+  .teaser-cards.carousel .teaser-cards-track {
+    margin-right: -76px;
+  }
+}

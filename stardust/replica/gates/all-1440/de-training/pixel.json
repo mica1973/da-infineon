@@ -1,0 +1,62 @@
+{
+  "a": "stardust/replica/gates/all-1440/de-training/origin.png",
+  "b": "stardust/replica/gates/all-1440/de-training/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 3969,
+    "mode": "overlap"
+  },
+  "heightDelta": 56,
+  "differingPixels": 161257,
+  "pct": 2.82,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/de-training/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 5.92,
+  "textBoxes": 73,
+  "textPixels": 356296,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 1.1
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0.2
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.2
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 1.1
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 3.3
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 0.7
+    },
+    {
+      "y0": 3000,
+      "y1": 3500,
+      "pct": 14.1
+    },
+    {
+      "y0": 3500,
+      "y1": 3969,
+      "pct": 1.8
+    }
+  ]
+}

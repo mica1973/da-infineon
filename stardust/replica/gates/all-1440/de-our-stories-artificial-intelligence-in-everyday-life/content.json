@@ -1,0 +1,9241 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:22:56.990Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/artificial-intelligence-in-everyday-life",
+  "at": "2026-11-18T23:22:30.810Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 10416,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems0",
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/de/our-stories/artificial-intelligence-in-everyday-life"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems1",
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/de/our-stories/artificial-intelligence-in-everyday-life"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems2",
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/de/our-stories/artificial-intelligence-in-everyday-life"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems3",
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/our-stories/artificial-intelligence-in-everyday-life"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems4",
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/our-stories/artificial-intelligence-in-everyday-life"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 714,
+    "y": 16,
+    "w": 197,
+    "h": 36,
+    "label": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die suche zu aktivieren.",
+    "value": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die ",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "text": "navbardropdown"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "label": "navbardropdown",
+    "value": "navbardropdown",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-1",
+    "x": 1072,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.nav-item.desktopProfile > div.login-dropdown > button.login-button",
+    "x": 1132,
+    "y": 14,
+    "w": 248,
+    "h": 40,
+    "text": "anmeldung zu myinfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 254,
+    "y": 86,
+    "w": 248,
+    "h": 20,
+    "text": "künstliche intelligenz in den alltag bringen",
+    "href": "/de/our-stories/artificial-intelligence-in-everyday-life"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "woman in front of a house opening smart door",
+    "file": "edge-ai.jpg:asset-2000-25x9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 56,
+    "level": 1,
+    "text": "künstliche intelligenz in den alltag bringen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 242,
+    "y": 555,
+    "w": 956,
+    "h": 96,
+    "text": "Bei Smart Living geht es darum, künstliche Intelligenz weiter in den Alltag der "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-box > div.filter-label > div.filter-lable-text",
+    "x": 242,
+    "y": 667,
+    "w": 89,
+    "h": 28,
+    "text": "Smart Living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 266,
+    "y": 711,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 342,
+    "y": 711,
+    "w": 77,
+    "h": 20,
+    "level": 4,
+    "text": "nov. 12, 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-de31bdc80d > h2#anch1",
+    "x": 200,
+    "y": 787,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "eine neue ära des smart living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-7bdfe87657 > p",
+    "x": 200,
+    "y": 855,
+    "w": 1040,
+    "h": 104,
+    "text": "Stellen Sie sich vor, Sie wachen in einem Zuhause auf, das sich automatisch an I"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.quote-right-side > div.quote-right-description > p.mb-0.heading-04",
+    "x": 200,
+    "y": 1032,
+    "w": 924,
+    "h": 128,
+    "text": "Technologie entfaltet ihre größte Wirkung, wenn sie sich mühelos nutzen lässt. W"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.quote-right-side > div.quote-right-name > h4.mb-0.body-03",
+    "x": 200,
+    "y": 1168,
+    "w": 403,
+    "h": 24,
+    "level": 4,
+    "text": "stephan zizala, leiter der division edge systems bei infineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-74b759a184 > p",
+    "x": 200,
+    "y": 1224,
+    "w": 1040,
+    "h": 104,
+    "text": "Intelligenz hält zunehmend Einzug in die Geräte, die wir täglich nutzen. Statt D"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-74b759a184 > p",
+    "x": 200,
+    "y": 1344,
+    "w": 1040,
+    "h": 130,
+    "text": "Und schon heute gibt es unzählige Anwendungsfälle, in denen künstliche Intellige"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#ext_video_0_container_inner > div#ext_video_0_videoPlayer > div#IconEffect_s7classic_1B",
+    "x": 680,
+    "y": 1759,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-f0d4fe2ad2 > h2.dynamicAnchors.heading-03",
+    "x": 224,
+    "y": 2179,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "einige interessante fakten über smart-living-geräte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 280,
+    "y": 2247,
+    "w": 112,
+    "h": 112,
+    "text": "",
+    "file": "icon-growth-areas-iot"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-a18cfbdc9e > h4.dynamicAnchors.heading-04",
+    "x": 488,
+    "y": 2247,
+    "w": 563,
+    "h": 32,
+    "level": 4,
+    "text": "39 milliarden"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-fc7091fffb > p",
+    "x": 488,
+    "y": 2287,
+    "w": 563,
+    "h": 78,
+    "text": "vernetzte IoT-Geräte werden bis 2030 weltweit erwartet, bis 2035 sollen es mehr "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-fc7091fffb > p > sup",
+    "x": 488,
+    "y": 2378,
+    "w": 376,
+    "h": 19,
+    "text": "Quelle:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > sup > a",
+    "x": 533,
+    "y": 2378,
+    "w": 330,
+    "h": 19,
+    "text": "https://iot-analytics.com/number-connected-iot-devices/",
+    "href": "/number-connected-iot-devices/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 280,
+    "y": 2455,
+    "w": 112,
+    "h": 112,
+    "text": "",
+    "file": "icon-smarthome-02"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-96d95aa6c6 > h2.dynamicAnchors.heading-04",
+    "x": 488,
+    "y": 2455,
+    "w": 555,
+    "h": 32,
+    "level": 2,
+    "text": "300 twh"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-425cef41c1 > p",
+    "x": 488,
+    "y": 2495,
+    "w": 563,
+    "h": 104,
+    "text": "Strom könnten durch KI-gestützte Gebäude und Energiemanagementsysteme jährlich e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-425cef41c1 > p > sup",
+    "x": 488,
+    "y": 2612,
+    "w": 561,
+    "h": 45,
+    "text": "Quelle:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > sup > a",
+    "x": 488,
+    "y": 2612,
+    "w": 561,
+    "h": 45,
+    "text": "https://build-up.ec.europa.eu/en/resources-and-tools/publications/ai-transforms-",
+    "href": "/en/resources-and-tools/publications/ai-transforms-energy-management-buildings"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 280,
+    "y": 2699,
+    "w": 112,
+    "h": 112,
+    "text": "",
+    "file": "icon-health"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-f2cd35e366 > h2.dynamicAnchors.heading-04",
+    "x": 488,
+    "y": 2699,
+    "w": 555,
+    "h": 32,
+    "level": 2,
+    "text": "2,2 milliarden"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-25518f1dbb > p",
+    "x": 488,
+    "y": 2739,
+    "w": 563,
+    "h": 78,
+    "text": "Menschen weltweit im Alter von 65 Jahren und älter bis Ende der 2070er Jahre, di"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-25518f1dbb > p > sup",
+    "x": 488,
+    "y": 2830,
+    "w": 300,
+    "h": 19,
+    "text": "Quelle:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > sup > a",
+    "x": 531,
+    "y": 2830,
+    "w": 257,
+    "h": 19,
+    "text": "https://www.un.org/en/global-issues/ageing",
+    "href": "/en/global-issues/ageing"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-b6fef5953d > h2.dynamicAnchors.heading-03",
+    "x": 200,
+    "y": 2979,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "welche herausforderungen helfen smart-living-technologien zu lösen?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-b6ee9d7906 > p",
+    "x": 200,
+    "y": 3047,
+    "w": 1040,
+    "h": 104,
+    "text": "Vernetzte Geräte werden Teil unseres Alltags, doch Vernetzung allein reicht nich"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-d98e7eae46 > h2.dynamicAnchors.heading-04",
+    "x": 200,
+    "y": 3183,
+    "w": 504,
+    "h": 64,
+    "level": 2,
+    "text": "wie kann unser zuhause komfortabler, sicherer und energieeffizienter werden?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 3263,
+    "w": 504,
+    "h": 284,
+    "text": "graphic hvdc",
+    "file": "smart-home-6.png:asset-2000-16x9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-6ad8e0a736 > p",
+    "x": 200,
+    "y": 3579,
+    "w": 504,
+    "h": 260,
+    "text": "Moderne Haushalte sind voller smarter Geräte: Thermostate, Sicherheitskameras, B"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-f65a7c7838 > p",
+    "x": 200,
+    "y": 3871,
+    "w": 504,
+    "h": 260,
+    "text": "Smart Homes entwickeln sich von einer Ansammlung vernetzter Geräte zu intelligen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 4147,
+    "w": 232,
+    "h": 24,
+    "text": "erfahren sie mehr über matter",
+    "href": "/technology/matter"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 4187,
+    "w": 354,
+    "h": 24,
+    "text": "entdecken sie smarte technologien für zuhause",
+    "href": "/de/our-stories/smart-home-building-technologies"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-5d85397c3a > h2.dynamicAnchors.heading-04",
+    "x": 736,
+    "y": 3183,
+    "w": 504,
+    "h": 64,
+    "level": 2,
+    "text": "wie können hersteller intelligentere und sicherere smart-home-geräte schneller entwickeln?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 736,
+    "y": 3263,
+    "w": 504,
+    "h": 284,
+    "text": "data center",
+    "file": "setting-up-intelligent-home-system-1.png"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5564668b2e > p",
+    "x": 736,
+    "y": 3579,
+    "w": 504,
+    "h": 208,
+    "text": "Mit den steigenden Anforderungen an smarte Haushaltsgeräte wachsen auch die Hera"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-0a4c84a0f4 > p",
+    "x": 736,
+    "y": 3819,
+    "w": 504,
+    "h": 390,
+    "text": "Erfolg hängt nicht mehr von einzelnen Chips ab, sondern von der nahtlosen Integr"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 4225,
+    "w": 232,
+    "h": 24,
+    "text": "erfahren sie mehr über matter",
+    "href": "/technology/matter"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 4265,
+    "w": 354,
+    "h": 24,
+    "text": "entdecken sie smarte technologien für zuhause",
+    "href": "/de/our-stories/smart-home-building-technologies"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-c55a5aa059 > h2.dynamicAnchors.heading-04",
+    "x": 200,
+    "y": 4345,
+    "w": 504,
+    "h": 64,
+    "level": 2,
+    "text": "wie kann technologie menschen helfen, gesünder und selbstständiger zu leben?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 4425,
+    "w": 504,
+    "h": 284,
+    "text": "bidirectional energy flow",
+    "file": "iot-woman-smartwatch.png:asset-2000-16x9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-a53e70c9c8 > p",
+    "x": 200,
+    "y": 4740,
+    "w": 504,
+    "h": 364,
+    "text": "Angesichts der alternden Bevölkerung und der zunehmenden Verbreitung chronischer"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-ad92dacd6c > p",
+    "x": 200,
+    "y": 5136,
+    "w": 504,
+    "h": 364,
+    "text": "Die Gesundheitsversorgung wird persönlicher, präventiver und datenbasierter. Sma"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 5516,
+    "w": 376,
+    "h": 24,
+    "text": "erfahren sie mehr über die zukunft von gesundheit",
+    "href": "/de/our-stories/smart-health-appliances"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-85f6b6a50a > h2.dynamicAnchors.heading-04",
+    "x": 736,
+    "y": 4345,
+    "w": 504,
+    "h": 96,
+    "level": 2,
+    "text": "4. wie können hersteller vertrauenswürdige, intelligente und energieeffiziente gesundheitsgeräte entwickeln?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 736,
+    "y": 4457,
+    "w": 504,
+    "h": 284,
+    "text": "private green energy generation",
+    "file": "medical-healthcare-man-2.png:asset-2000-"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-45435e293b > p",
+    "x": 736,
+    "y": 4772,
+    "w": 504,
+    "h": 312,
+    "text": "Smarte Gesundheitsgeräte können einen wichtigen Beitrag zur Versorgung der Bevöl"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-a3af78822d > p",
+    "x": 736,
+    "y": 5100,
+    "w": 504,
+    "h": 286,
+    "text": "Für Hersteller von Gesundheitsgeräten braucht es mehr als einzelne Komponenten, "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 5402,
+    "w": 376,
+    "h": 24,
+    "text": "erfahren sie mehr über die zukunft von gesundheit",
+    "href": "/de/our-stories/smart-health-appliances"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 5442,
+    "w": 316,
+    "h": 24,
+    "text": "mehr zur digitalen gesundheitsversorgung",
+    "href": "/applications/industrial/digital-health"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-01bee1ebe2 > h2.dynamicAnchors.heading-04",
+    "x": 200,
+    "y": 5596,
+    "w": 504,
+    "h": 96,
+    "level": 2,
+    "text": "wie können hersteller die wachsende komplexität bei der produktion von smart-living-geräten bewältigen?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 5708,
+    "w": 504,
+    "h": 284,
+    "text": "bidirectional energy flow",
+    "file": "woman-walking-outdoors-and-checking-mess"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-baaf70be8a > p",
+    "x": 200,
+    "y": 6024,
+    "w": 504,
+    "h": 234,
+    "text": "Sofort reagieren, den Kontext verstehen, hohe Sicherheit und eine lange Batterie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-6c5ec215b5 > p",
+    "x": 200,
+    "y": 6290,
+    "w": 504,
+    "h": 234,
+    "text": "Smart-Living-Geräte verändern den Alltag. Verbraucher erwarten dabei eine intuit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 6540,
+    "w": 349,
+    "h": 24,
+    "text": "entdecken sie die welt der smart-living-geräte",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-2ebac23939 > h2.dynamicAnchors.heading-04",
+    "x": 736,
+    "y": 5596,
+    "w": 504,
+    "h": 96,
+    "level": 2,
+    "text": "wie können wir das potenzial künstlicher intelligenz in smart-living-geräten bestmöglich nutzen?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 736,
+    "y": 5708,
+    "w": 504,
+    "h": 284,
+    "text": "private green energy generation",
+    "file": "ai-visual-edge-ai-new.jpg:asset-2000-16x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-2ec6836330 > p",
+    "x": 736,
+    "y": 6024,
+    "w": 504,
+    "h": 312,
+    "text": "KI verändert Smart Homes, Wearables, Smartphones und Gesundheitsgeräte mit beisp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-68ffc340ab > p",
+    "x": 736,
+    "y": 6352,
+    "w": 504,
+    "h": 260,
+    "text": "Infineon hilft Herstellern, das Potenzial von KI in intelligente Produkte umzuse"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-68ffc340ab > p > b",
+    "x": 736,
+    "y": 6628,
+    "w": 426,
+    "h": 51,
+    "text": "Wenn Sie die nächste Generation intelligenter Produkte entwickeln, lassen Sie si"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 6696,
+    "w": 261,
+    "h": 24,
+    "text": "entdecken sie die welt der edge ai",
+    "href": "/de/our-stories/enable-provide-ai-customer-innovation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-c9e4424d9f > h2#anch1",
+    "x": 200,
+    "y": 6776,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "die zukunft ist bereits da"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5cd7bc7b7c > p",
+    "x": 200,
+    "y": 6844,
+    "w": 1040,
+    "h": 52,
+    "text": "Die nächste Stufe von Smart Living steht erst am Anfang. Es geht um mehr als nur"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5cd7bc7b7c > p",
+    "x": 200,
+    "y": 6912,
+    "w": 1040,
+    "h": 52,
+    "text": "Indem wir Intelligenz näher an den Alltag bringen, verändern wir die Art, wie Me"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5cd7bc7b7c > p",
+    "x": 200,
+    "y": 6980,
+    "w": 1040,
+    "h": 26,
+    "text": "Wir gestalten, was als Nächstes kommt: eine Zukunft, in der Technologie unsere W"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5cd7bc7b7c > p",
+    "x": 200,
+    "y": 7022,
+    "w": 1040,
+    "h": 26,
+    "text": "Das ist Smart Living. So verbessern wir den Alltag."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-bc7e28d75d > h2#demand",
+    "x": 224,
+    "y": 7104,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "faq"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 224,
+    "y": 7156,
+    "w": 122,
+    "h": 25,
+    "text": "Was ist Edge AI?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-5e17f75e7c > p",
+    "x": 224,
+    "y": 7198,
+    "w": 992,
+    "h": 78,
+    "text": "Edge AI ist künstliche Intelligenz, die Daten direkt auf einem Gerät verarbeitet"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 224,
+    "y": 7292,
+    "w": 162,
+    "h": 25,
+    "text": "Was ist Smart Living?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-5e17f75e7c > p",
+    "x": 224,
+    "y": 7334,
+    "w": 992,
+    "h": 78,
+    "text": "Smart Living ist Infineons Ansatz, Intelligenz in Alltagsgeräte, unser Zuhause, "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 224,
+    "y": 7454,
+    "w": 426,
+    "h": 25,
+    "text": "Was ist der Unterschied zwischen Smart Living und IoT?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-5e17f75e7c > p",
+    "x": 224,
+    "y": 7496,
+    "w": 992,
+    "h": 78,
+    "text": "Das klassische IoT vernetzt Geräte und sendet Daten zur Verarbeitung in die Clou"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 224,
+    "y": 7590,
+    "w": 469,
+    "h": 25,
+    "text": "Welche Rolle spielen Halbleiter bei Edge AI und Smart Living?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-5e17f75e7c > p",
+    "x": 224,
+    "y": 7632,
+    "w": 992,
+    "h": 78,
+    "text": "Halbleiter, darunter Sensoren, Mikrocontroller sowie Konnektivitäts- und Sicherh"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > u",
+    "x": 224,
+    "y": 7726,
+    "w": 644,
+    "h": 25,
+    "text": "Warum ist die Datenverarbeitung direkt auf dem Gerät wichtig für den Datenschutz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.custom-verticle > div#text-5e17f75e7c > p",
+    "x": 224,
+    "y": 7768,
+    "w": 992,
+    "h": 78,
+    "text": "Die durch Edge AI ermöglichte Datenverarbeitung direkt auf dem Gerät sorgt dafür"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-1df4fdbee5 > h2#anch1",
+    "x": 96,
+    "y": 7998,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "profitieren sie von maximaler designflexibilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-272d9975ec > p",
+    "x": 96,
+    "y": 8078,
+    "w": 1248,
+    "h": 78,
+    "text": "Mit einem der branchenweit breitesten Portfolios an Sensoren, Mikrocontrollern, "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_copy__1913859987_ifxcontainer_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 8188,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "finden sie die richtige lösung für ihre designherausforderung"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 8284,
+    "w": 371,
+    "h": 200,
+    "text": "edge ai technology",
+    "file": "8a85b41f0018.png:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 8500,
+    "w": 323,
+    "h": 52,
+    "text": "Edge AI Technology"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.description",
+    "x": 124,
+    "y": 8568,
+    "w": 323,
+    "h": 72,
+    "text": "High‑performance edge devices with ML‑enhanced sensing, low‑power operation, rob"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 8676,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/technology/ai/edge-ai"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 507,
+    "y": 8284,
+    "w": 371,
+    "h": 200,
+    "text": "the “brains” behind ai: microcontrollers from infineon",
+    "file": "lowres-winding-road-through-the-forest.p"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 531,
+    "y": 8500,
+    "w": 323,
+    "h": 52,
+    "text": "The “brains” behind AI: Microcontrollers from Infineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.description",
+    "x": 531,
+    "y": 8568,
+    "w": 323,
+    "h": 72,
+    "text": "Artificial intelligence has evolved beyond compute-hungry, resource-intensive, c"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 531,
+    "y": 8676,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/technology/ai/ai-microcontroller"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 914,
+    "y": 8284,
+    "w": 371,
+    "h": 200,
+    "text": "technology news",
+    "file": "deepcraft-model-converter-on-laptop.png:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 938,
+    "y": 8500,
+    "w": 323,
+    "h": 52,
+    "text": "Technology News"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.description",
+    "x": 938,
+    "y": 8568,
+    "w": 323,
+    "h": 72,
+    "text": "DEEPCRAFT™ AI Suite und PSOC™ Edge-Mikrocontroller – Infineon definiert Edge AI "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 938,
+    "y": 8676,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/de/technology-news/2025/INFCSS202510-008"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.article-container > div.container-title-left > div.container-preheading",
+    "x": 96,
+    "y": 8820,
+    "w": 272,
+    "h": 24,
+    "text": "Mehr Smart Living Insights"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.article-container > div.container-title-left > h2.container-heading",
+    "x": 96,
+    "y": 8860,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "wie unsere technologien die grundlage für intelligente systeme bilden"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card.column > div.card-body > p.card-title",
+    "x": 124,
+    "y": 9164,
+    "w": 343,
+    "h": 56,
+    "text": "Künstliche Intelligenz in den Alltag bringen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.card-description-and-filter > p.card-description",
+    "x": 124,
+    "y": 9236,
+    "w": 343,
+    "h": 78,
+    "text": "Bei Smart Living geht es darum, künstliche Intelligenz weiter in den Alltag der "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 124,
+    "y": 9330,
+    "w": 91,
+    "h": 30,
+    "text": "Smart Living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-type",
+    "x": 124,
+    "y": 9374,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-publish-date",
+    "x": 176,
+    "y": 9374,
+    "w": 98,
+    "h": 20,
+    "text": "Nov 12th, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card.column > div.card-body > p.card-title",
+    "x": 551,
+    "y": 9164,
+    "w": 343,
+    "h": 56,
+    "text": "Bequem, hilfreich und umweltfreundlich: Willkommen in der faszinierenden Welt de"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.card-description-and-filter > p.card-description",
+    "x": 551,
+    "y": 9236,
+    "w": 343,
+    "h": 78,
+    "text": "Smarte Verbrauchergeräte wie smarte Lautsprecher, mobile Geräte, Home-Entertainm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 551,
+    "y": 9330,
+    "w": 91,
+    "h": 30,
+    "text": "Smart Living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-type",
+    "x": 551,
+    "y": 9374,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-publish-date",
+    "x": 602,
+    "y": 9374,
+    "w": 97,
+    "h": 20,
+    "text": "Mar 13th, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card.column > div.card-body > p.card-title",
+    "x": 977,
+    "y": 9164,
+    "w": 343,
+    "h": 56,
+    "text": "Die Zukunft von Gesundheit und Wohlbefinden ist smart"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.card-description-and-filter > p.card-description",
+    "x": 977,
+    "y": 9236,
+    "w": 343,
+    "h": 78,
+    "text": "Da es bei der Zukunft der Gesundheit immer mehr um Selbstfürsorge geht, geben di"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-description-and-filter > div.related-topic > span.filter-label-text",
+    "x": 977,
+    "y": 9330,
+    "w": 91,
+    "h": 30,
+    "text": "Smart Living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-type",
+    "x": 977,
+    "y": 9374,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.article-metadata > span.article-publish-date",
+    "x": 1029,
+    "y": 9374,
+    "w": 97,
+    "h": 20,
+    "text": "Mar 13th, 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 203,
+    "y": 9650,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "subscribe to marketing communications!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 732,
+    "y": 9650,
+    "w": 505,
+    "h": 60,
+    "text": "You will receive interesting information and articles. You may withdraw consent "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 732,
+    "y": 9734,
+    "w": 124,
+    "h": 48,
+    "text": "subscribe",
+    "href": "/de/our-stories/artificial-intelligence-in-everyday-life"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 96,
+    "y": 9942,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 367,
+    "y": 9942,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 9998,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 10040,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 10082,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 10124,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 10166,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 619,
+    "y": 9942,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 9998,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 10040,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 10082,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 10124,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 10166,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 10208,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 926,
+    "y": 9942,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 9998,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 10040,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 10082,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 1193,
+    "y": 9942,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 9998,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 10040,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 10082,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 10124,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 96,
+    "y": 10346,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 272,
+    "y": 10346,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 380,
+    "y": 10346,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 647,
+    "y": 10351,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 1168,
+    "y": 10350,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 1208,
+    "y": 10350,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 1248,
+    "y": 10350,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 1288,
+    "y": 10347,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 1288,
+    "y": 10351,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 1328,
+    "y": 10350,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 1,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 5,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 156,
+    "controls": 57,
+    "total": 1
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLIPPED",
+     "advisory": false,
+     "n": 1,
+     "clipper": "p.card-title",
+     "path": "div.card > div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+     "text": "the “brains” behind ai: microcontrollers from infineon",
+     "cutMin": 4,
+     "cutMax": 4
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 3,
+     "clipper": "p.card-description",
+     "path": "div.card.column > div.card-body > div.card-description-and-filter > p.card-description",
+     "text": "bei smart living geht es darum, künstliche intelligenz weite",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p.description",
+     "path": "div.card > div.image-container-swiper.row-link-container > div.card-body > p.description",
+     "text": "artificial intelligence has evolved beyond compute-hungry, r",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p.card-title",
+     "path": "div.row > div.card.column > div.card-body > p.card-title",
+     "text": "bequem, hilfreich und umweltfreundlich: willkommen in der fa",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/artificial-intelligence-in-everyday-life",
+  "at": "2026-11-18T23:22:56.851Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 10290,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 166,
+    "y": 21,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/products"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 243,
+    "y": 21,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/applications"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 353,
+    "y": 21,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/design-resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 487,
+    "y": 21,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 629,
+    "y": 21,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/about"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "sprache"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "sprache",
+    "value": "sprache",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-login > p > a",
+    "x": 1132,
+    "y": 13,
+    "w": 207,
+    "h": 40,
+    "text": "anmeldung zu myinfineon",
+    "href": "/de/login.login.de.json"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 254,
+    "y": 85,
+    "w": 248,
+    "h": 20,
+    "text": "künstliche intelligenz in den alltag bringen",
+    "href": "/de/our-stories/artificial-intelligence-in-everyday-life"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "woman in front of a house opening smart door",
+    "file": "media_1cc9c7452be56e03283f64e84b6eb0ed43"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#künstliche-intelligenz-in-den-alltag-bringen",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 56,
+    "level": 1,
+    "text": "künstliche intelligenz in den alltag bringen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 242,
+    "y": 555,
+    "w": 956,
+    "h": 96,
+    "text": "Bei Smart Living geht es darum, künstliche Intelligenz weiter in den Alltag der "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-tags > ul > li",
+    "x": 242,
+    "y": 667,
+    "w": 89,
+    "h": 28,
+    "text": "Smart Living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 266,
+    "y": 711,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#nov-12-2026",
+    "x": 342,
+    "y": 711,
+    "w": 77,
+    "h": 20,
+    "level": 4,
+    "text": "nov. 12, 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > h2#eine-neue-ära-des-smart-living",
+    "x": 200,
+    "y": 787,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "eine neue ära des smart living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 839,
+    "w": 1040,
+    "h": 104,
+    "text": "Stellen Sie sich vor, Sie wachen in einem Zuhause auf, das sich automatisch an I"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-quote-text > blockquote > p",
+    "x": 200,
+    "y": 1016,
+    "w": 924,
+    "h": 128,
+    "text": "Technologie entfaltet ihre größte Wirkung, wenn sie sich mühelos nutzen lässt. W"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.quote > div.story-hub-quote-name > h4#stephan-zizala-leiter-der-division-edge-systems-bei-infineon",
+    "x": 200,
+    "y": 1152,
+    "w": 924,
+    "h": 24,
+    "level": 4,
+    "text": "stephan zizala, leiter der division edge systems bei infineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1208,
+    "w": 1040,
+    "h": 104,
+    "text": "Intelligenz hält zunehmend Einzug in die Geräte, die wir täglich nutzen. Statt D"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1328,
+    "w": 1040,
+    "h": 130,
+    "text": "Und schon heute gibt es unzählige Anwendungsfälle, in denen künstliche Intellige"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 1490,
+    "w": 1040,
+    "h": 585,
+    "text": "",
+    "file": "media_16f9aaa6edbe2bbc1094dd30ded6399103"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-wrapper > div.story-hub.video > button.story-hub-video-play",
+    "x": 680,
+    "y": 1743,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head.is-lead > h2#einige-interessante-fakten-über-smart-living-geräte",
+    "x": 224,
+    "y": 2163,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "einige interessante fakten über smart-living-geräte"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-pic > picture > img",
+    "x": 280,
+    "y": 2231,
+    "w": 112,
+    "h": 112,
+    "text": "",
+    "file": "media_17cc7db9fbcb93929d62d24da562fb4c75"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-body > div.story-hub-fact-title > h4#milliarden",
+    "x": 488,
+    "y": 2231,
+    "w": 579,
+    "h": 32,
+    "level": 4,
+    "text": "39 milliarden"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-body > div.story-hub-rt > p",
+    "x": 488,
+    "y": 2271,
+    "w": 579,
+    "h": 78,
+    "text": "vernetzte IoT-Geräte werden bis 2030 weltweit erwartet, bis 2035 sollen es mehr "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p > sup",
+    "x": 488,
+    "y": 2362,
+    "w": 367,
+    "h": 19,
+    "text": "Quelle:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a",
+    "x": 533,
+    "y": 2362,
+    "w": 322,
+    "h": 19,
+    "text": "https://iot-analytics.com/number-connected-iot-devices/",
+    "href": "/number-connected-iot-devices/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-pic > picture > img",
+    "x": 280,
+    "y": 2439,
+    "w": 112,
+    "h": 112,
+    "text": "",
+    "file": "media_1ad64d506730e856a41094882a7e6ceabf"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-body > div.story-hub-fact-title > h2#twh",
+    "x": 488,
+    "y": 2439,
+    "w": 579,
+    "h": 32,
+    "level": 2,
+    "text": "300 twh"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-body > div.story-hub-rt > p",
+    "x": 488,
+    "y": 2479,
+    "w": 579,
+    "h": 104,
+    "text": "Strom könnten durch KI-gestützte Gebäude und Energiemanagementsysteme jährlich e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p > sup",
+    "x": 488,
+    "y": 2596,
+    "w": 546,
+    "h": 45,
+    "text": "Quelle:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a",
+    "x": 488,
+    "y": 2596,
+    "w": 546,
+    "h": 45,
+    "text": "https://build-up.ec.europa.eu/en/resources-and-tools/publications/ai-transforms-",
+    "href": "/en/resources-and-tools/publications/ai-transforms-energy-management-buildings"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-pic > picture > img",
+    "x": 280,
+    "y": 2699,
+    "w": 112,
+    "h": 112,
+    "text": "",
+    "file": "media_1b75e27ae718808be792d6058c52d3afd3"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-body > div.story-hub-fact-title > h2#milliarden-1",
+    "x": 488,
+    "y": 2699,
+    "w": 579,
+    "h": 32,
+    "level": 2,
+    "text": "2,2 milliarden"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-fact-body > div.story-hub-rt > p",
+    "x": 488,
+    "y": 2739,
+    "w": 579,
+    "h": 78,
+    "text": "Menschen weltweit im Alter von 65 Jahren und älter bis Ende der 2070er Jahre, di"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt > p > sup",
+    "x": 488,
+    "y": 2830,
+    "w": 293,
+    "h": 19,
+    "text": "Quelle:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a",
+    "x": 531,
+    "y": 2830,
+    "w": 250,
+    "h": 19,
+    "text": "https://www.un.org/en/global-issues/ageing",
+    "href": "/en/global-issues/ageing"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-cols-head > div.story-hub-cols-title > h2#welche-herausforderungen-helfen-smart-living-technologien-zu-lösen",
+    "x": 200,
+    "y": 2979,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "welche herausforderungen helfen smart-living-technologien zu lösen?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-cols-head > div.story-hub-rt > p",
+    "x": 200,
+    "y": 3047,
+    "w": 1040,
+    "h": 104,
+    "text": "Vernetzte Geräte werden Teil unseres Alltags, doch Vernetzung allein reicht nich"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#wie-kann-unser-zuhause-komfortabler-sicherer-und-energieeffizienter-werden",
+    "x": 200,
+    "y": 3183,
+    "w": 504,
+    "h": 64,
+    "level": 2,
+    "text": "wie kann unser zuhause komfortabler, sicherer und energieeffizienter werden?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 3263,
+    "w": 504,
+    "h": 284,
+    "text": "graphic hvdc",
+    "file": "media_16fd357b391361fb61319d88eea2961d17"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 200,
+    "y": 3579,
+    "w": 504,
+    "h": 260,
+    "text": "Moderne Haushalte sind voller smarter Geräte: Thermostate, Sicherheitskameras, B"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 3871,
+    "w": 504,
+    "h": 260,
+    "text": "Smart Homes entwickeln sich von einer Ansammlung vernetzter Geräte zu intelligen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 200,
+    "y": 4147,
+    "w": 231,
+    "h": 24,
+    "text": "erfahren sie mehr über matter",
+    "href": "/technology/matter"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 200,
+    "y": 4179,
+    "w": 353,
+    "h": 24,
+    "text": "entdecken sie smarte technologien für zuhause",
+    "href": "/de/our-stories/smart-home-building-technologies"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#wie-können-hersteller-intelligentere-und-sicherere-smart-home-geräte-schneller-entwickeln",
+    "x": 736,
+    "y": 3183,
+    "w": 504,
+    "h": 64,
+    "level": 2,
+    "text": "wie können hersteller intelligentere und sicherere smart-home-geräte schneller entwickeln?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 736,
+    "y": 3263,
+    "w": 504,
+    "h": 284,
+    "text": "data center",
+    "file": "media_10a575e2260a72b5546ec13dd969649670"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 736,
+    "y": 3579,
+    "w": 504,
+    "h": 208,
+    "text": "Mit den steigenden Anforderungen an smarte Haushaltsgeräte wachsen auch die Hera"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 736,
+    "y": 3819,
+    "w": 504,
+    "h": 390,
+    "text": "Erfolg hängt nicht mehr von einzelnen Chips ab, sondern von der nahtlosen Integr"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 4225,
+    "w": 231,
+    "h": 24,
+    "text": "erfahren sie mehr über matter",
+    "href": "/technology/matter"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 4257,
+    "w": 353,
+    "h": 24,
+    "text": "entdecken sie smarte technologien für zuhause",
+    "href": "/de/our-stories/smart-home-building-technologies"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#wie-kann-technologie-menschen-helfen-gesünder-und-selbstständiger-zu-leben",
+    "x": 200,
+    "y": 4337,
+    "w": 504,
+    "h": 64,
+    "level": 2,
+    "text": "wie kann technologie menschen helfen, gesünder und selbstständiger zu leben?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 4417,
+    "w": 504,
+    "h": 284,
+    "text": "bidirectional energy flow",
+    "file": "media_1e79b4cafa5c9322d2758bd58839464066"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 200,
+    "y": 4732,
+    "w": 504,
+    "h": 364,
+    "text": "Angesichts der alternden Bevölkerung und der zunehmenden Verbreitung chronischer"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 5128,
+    "w": 504,
+    "h": 364,
+    "text": "Die Gesundheitsversorgung wird persönlicher, präventiver und datenbasierter. Sma"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 200,
+    "y": 5508,
+    "w": 375,
+    "h": 24,
+    "text": "erfahren sie mehr über die zukunft von gesundheit",
+    "href": "/de/our-stories/smart-health-appliances"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#wie-können-hersteller-vertrauenswürdige-intelligente-und-energieeffiziente-gesundheitsgeräte-entwickeln",
+    "x": 736,
+    "y": 4337,
+    "w": 504,
+    "h": 96,
+    "level": 2,
+    "text": "4. wie können hersteller vertrauenswürdige, intelligente und energieeffiziente gesundheitsgeräte entwickeln?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 736,
+    "y": 4449,
+    "w": 504,
+    "h": 284,
+    "text": "private green energy generation",
+    "file": "media_16af0d89a3f7e7fa84532143e6b1200eac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 736,
+    "y": 4764,
+    "w": 504,
+    "h": 312,
+    "text": "Smarte Gesundheitsgeräte können einen wichtigen Beitrag zur Versorgung der Bevöl"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 736,
+    "y": 5108,
+    "w": 504,
+    "h": 286,
+    "text": "Für Hersteller von Gesundheitsgeräten braucht es mehr als einzelne Komponenten, "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 5410,
+    "w": 375,
+    "h": 24,
+    "text": "erfahren sie mehr über die zukunft von gesundheit",
+    "href": "/de/our-stories/smart-health-appliances"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 5442,
+    "w": 315,
+    "h": 24,
+    "text": "mehr zur digitalen gesundheitsversorgung",
+    "href": "/applications/industrial/digital-health"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#wie-können-hersteller-die-wachsende-komplexität-bei-der-produktion-von-smart-living-geräten-bewältigen",
+    "x": 200,
+    "y": 5588,
+    "w": 504,
+    "h": 96,
+    "level": 2,
+    "text": "wie können hersteller die wachsende komplexität bei der produktion von smart-living-geräten bewältigen?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 5700,
+    "w": 504,
+    "h": 284,
+    "text": "bidirectional energy flow",
+    "file": "media_19080e19a13774862957b7f2bc01d7d8f2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 200,
+    "y": 6016,
+    "w": 504,
+    "h": 234,
+    "text": "Sofort reagieren, den Kontext verstehen, hohe Sicherheit und eine lange Batterie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 6282,
+    "w": 504,
+    "h": 234,
+    "text": "Smart-Living-Geräte verändern den Alltag. Verbraucher erwarten dabei eine intuit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 200,
+    "y": 6532,
+    "w": 348,
+    "h": 24,
+    "text": "entdecken sie die welt der smart-living-geräte",
+    "href": "/de/our-stories/smart-things-consumer-devices"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h2#wie-können-wir-das-potenzial-künstlicher-intelligenz-in-smart-living-geräten-bestmöglich-nutzen",
+    "x": 736,
+    "y": 5588,
+    "w": 504,
+    "h": 96,
+    "level": 2,
+    "text": "wie können wir das potenzial künstlicher intelligenz in smart-living-geräten bestmöglich nutzen?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 736,
+    "y": 5700,
+    "w": 504,
+    "h": 284,
+    "text": "private green energy generation",
+    "file": "media_1e703cc3ed1a2cdf992b86e2c609051799"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 736,
+    "y": 6016,
+    "w": 504,
+    "h": 312,
+    "text": "KI verändert Smart Homes, Wearables, Smartphones und Gesundheitsgeräte mit beisp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt > p",
+    "x": 736,
+    "y": 6360,
+    "w": 504,
+    "h": 260,
+    "text": "Infineon hilft Herstellern, das Potenzial von KI in intelligente Produkte umzuse"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-rt.is-end > p > strong",
+    "x": 736,
+    "y": 6652,
+    "w": 426,
+    "h": 51,
+    "text": "Wenn Sie die nächste Generation intelligenter Produkte entwickeln, lassen Sie si"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 6720,
+    "w": 259,
+    "h": 24,
+    "text": "entdecken sie die welt der edge ai",
+    "href": "/de/our-stories/enable-provide-ai-customer-innovation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > h2#die-zukunft-ist-bereits-da",
+    "x": 200,
+    "y": 6800,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "die zukunft ist bereits da"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 6852,
+    "w": 1040,
+    "h": 52,
+    "text": "Die nächste Stufe von Smart Living steht erst am Anfang. Es geht um mehr als nur"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 6920,
+    "w": 1040,
+    "h": 52,
+    "text": "Indem wir Intelligenz näher an den Alltag bringen, verändern wir die Art, wie Me"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 6988,
+    "w": 1040,
+    "h": 26,
+    "text": "Wir gestalten, was als Nächstes kommt: eine Zukunft, in der Technologie unsere W"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.story-hub-container > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 7030,
+    "w": 1040,
+    "h": 26,
+    "text": "Das ist Smart Living. So verbessern wir den Alltag."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head > h2#faq",
+    "x": 224,
+    "y": 7112,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "faq"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 224,
+    "y": 7164,
+    "w": 122,
+    "h": 25,
+    "text": "Was ist Edge AI?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 7206,
+    "w": 992,
+    "h": 78,
+    "text": "Edge AI ist künstliche Intelligenz, die Daten direkt auf einem Gerät verarbeitet"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 224,
+    "y": 7300,
+    "w": 162,
+    "h": 25,
+    "text": "Was ist Smart Living?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 7342,
+    "w": 992,
+    "h": 78,
+    "text": "Smart Living ist Infineons Ansatz, Intelligenz in Alltagsgeräte, unser Zuhause, "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 224,
+    "y": 7436,
+    "w": 426,
+    "h": 25,
+    "text": "Was ist der Unterschied zwischen Smart Living und IoT?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 7478,
+    "w": 992,
+    "h": 78,
+    "text": "Das klassische IoT vernetzt Geräte und sendet Daten zur Verarbeitung in die Clou"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 224,
+    "y": 7572,
+    "w": 469,
+    "h": 25,
+    "text": "Welche Rolle spielen Halbleiter bei Edge AI und Smart Living?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 7614,
+    "w": 992,
+    "h": 78,
+    "text": "Halbleiter, darunter Sensoren, Mikrocontroller sowie Konnektivitäts- und Sicherh"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 224,
+    "y": 7708,
+    "w": 644,
+    "h": 25,
+    "text": "Warum ist die Datenverarbeitung direkt auf dem Gerät wichtig für den Datenschutz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 7750,
+    "w": 992,
+    "h": 78,
+    "text": "Die durch Edge AI ermöglichte Datenverarbeitung direkt auf dem Gerät sorgt dafür"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.wide.section > div.default-content-wrapper > h2#profitieren-sie-von-maximaler-designflexibilität",
+    "x": 96,
+    "y": 7948,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "profitieren sie von maximaler designflexibilität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.wide.section > div.default-content-wrapper > p",
+    "x": 96,
+    "y": 8028,
+    "w": 1248,
+    "h": 78,
+    "text": "Mit einem der branchenweit breitesten Portfolios an Sensoren, Mikrocontrollern, "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#finden-sie-die-richtige-lösung-für-ihre-designherausforderung",
+    "x": 96,
+    "y": 8138,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "finden sie die richtige lösung für ihre designherausforderung"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 8234,
+    "w": 371,
+    "h": 200,
+    "text": "edge ai technology",
+    "file": "media_1da8792b4a1a3003cf8f647760fcff6898"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 8450,
+    "w": 323,
+    "h": 28,
+    "text": "Edge AI Technology"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 8518,
+    "w": 323,
+    "h": 72,
+    "text": "High‑performance edge devices with ML‑enhanced sensing, low‑power operation, rob"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 124,
+    "y": 8596,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/technology/ai/edge-ai"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 507,
+    "y": 8234,
+    "w": 371,
+    "h": 200,
+    "text": "the “brains” behind ai: microcontrollers from infineon",
+    "file": "media_147c739cd4c473ca7e05c799ba71b73b1b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 531,
+    "y": 8450,
+    "w": 323,
+    "h": 56,
+    "text": "The “brains” behind AI: Microcontrollers from Infineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 531,
+    "y": 8522,
+    "w": 323,
+    "h": 72,
+    "text": "Artificial intelligence has evolved beyond compute-hungry, resource-intensive, c"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 531,
+    "y": 8596,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/technology/ai/ai-microcontroller"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 914,
+    "y": 8234,
+    "w": 371,
+    "h": 200,
+    "text": "technology news",
+    "file": "media_14f2ceb7af2ea60c295b38f15530f82551"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 938,
+    "y": 8450,
+    "w": 323,
+    "h": 28,
+    "text": "Technology News"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 938,
+    "y": 8518,
+    "w": 323,
+    "h": 48,
+    "text": "DEEPCRAFT™ AI Suite und PSOC™ Edge-Mikrocontroller – Infineon definiert Edge AI "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 938,
+    "y": 8596,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/de/technology-news/2025/INFCSS202510-008"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-articles-head > div.story-hub-articles-eyebrow > p",
+    "x": 96,
+    "y": 8740,
+    "w": 1248,
+    "h": 24,
+    "text": "Mehr Smart Living Insights"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-articles-head > div.story-hub-articles-title > h2#wie-unsere-technologien-die-grundlage-für-intelligente-systeme-bilden",
+    "x": 96,
+    "y": 8780,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "wie unsere technologien die grundlage für intelligente systeme bilden"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-img > picture > img",
+    "x": 100,
+    "y": 8884,
+    "w": 391,
+    "h": 200,
+    "text": "woman in front of a house opening smart door",
+    "file": "media_1849cc334bb95249befd75e86081db9f3d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-title > p",
+    "x": 124,
+    "y": 9084,
+    "w": 343,
+    "h": 56,
+    "text": "Künstliche Intelligenz in den Alltag bringen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-desc > p",
+    "x": 124,
+    "y": 9156,
+    "w": 343,
+    "h": 78,
+    "text": "Bei Smart Living geht es darum, künstliche Intelligenz weiter in den Alltag der "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-topic > p",
+    "x": 124,
+    "y": 9250,
+    "w": 89,
+    "h": 30,
+    "text": "Smart Living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-meta > p",
+    "x": 124,
+    "y": 9294,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-meta > p",
+    "x": 172,
+    "y": 9294,
+    "w": 99,
+    "h": 20,
+    "text": "Nov 12th, 2026"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-img > picture > img",
+    "x": 527,
+    "y": 8884,
+    "w": 391,
+    "h": 200,
+    "text": "iot smart things",
+    "file": "media_163f2562da1012006d7d64c24b4e49cb71"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-title > p",
+    "x": 551,
+    "y": 9084,
+    "w": 343,
+    "h": 56,
+    "text": "Bequem, hilfreich und umweltfreundlich: Willkommen in der faszinierenden Welt de"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-desc > p",
+    "x": 551,
+    "y": 9156,
+    "w": 343,
+    "h": 78,
+    "text": "Smarte Verbrauchergeräte wie smarte Lautsprecher, mobile Geräte, Home-Entertainm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-topic > p",
+    "x": 551,
+    "y": 9250,
+    "w": 89,
+    "h": 30,
+    "text": "Smart Living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-meta > p",
+    "x": 551,
+    "y": 9294,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-meta > p",
+    "x": 598,
+    "y": 9294,
+    "w": 98,
+    "h": 20,
+    "text": "Mar 13th, 2026"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-img > picture > img",
+    "x": 953,
+    "y": 8884,
+    "w": 391,
+    "h": 200,
+    "text": "smart health working woman",
+    "file": "media_140d789a1f45197838768ec670aab8ec04"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-title > p",
+    "x": 977,
+    "y": 9084,
+    "w": 343,
+    "h": 56,
+    "text": "Die Zukunft von Gesundheit und Wohlbefinden ist smart"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-desc > p",
+    "x": 977,
+    "y": 9156,
+    "w": 343,
+    "h": 78,
+    "text": "Da es bei der Zukunft der Gesundheit immer mehr um Selbstfürsorge geht, geben di"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-topic > p",
+    "x": 977,
+    "y": 9250,
+    "w": 89,
+    "h": 30,
+    "text": "Smart Living"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-meta > p",
+    "x": 977,
+    "y": 9294,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-article-body > div.story-hub-article-meta > p",
+    "x": 1025,
+    "y": 9294,
+    "w": 98,
+    "h": 20,
+    "text": "Mar 13th, 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#subscribe-to-marketing-communications",
+    "x": 203,
+    "y": 9522,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "subscribe to marketing communications!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 732,
+    "y": 9522,
+    "w": 505,
+    "h": 60,
+    "text": "You will receive interesting information and articles. You may withdraw consent "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 732,
+    "y": 9606,
+    "w": 126,
+    "h": 50,
+    "text": "subscribe",
+    "href": "/de/our-stories/artificial-intelligence-in-everyday-life"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 96,
+    "y": 9854,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 96,
+    "y": 9816,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 367,
+    "y": 9816,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 9872,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 9914,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 9956,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 9998,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 10040,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 619,
+    "y": 9816,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 9872,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 9914,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 9956,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 9998,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 10040,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 10082,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 926,
+    "y": 9816,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 9872,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 9914,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 9956,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 1193,
+    "y": 9816,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 9872,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 9914,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 9956,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 9998,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 10220,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 272,
+    "y": 10220,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 380,
+    "y": 10220,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 10220,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 647,
+    "y": 10225,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 10224,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1208,
+    "y": 10224,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1248,
+    "y": 10224,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1288,
+    "y": 10221,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 1288,
+    "y": 10221,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1328,
+    "y": 10224,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 5,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 154,
+    "controls": 61,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 4,
+     "clipper": "p",
+     "path": "div.story-hub-article > div.story-hub-article-body > div.story-hub-article-desc > p",
+     "text": "bei smart living geht es darum, künstliche intelligenz weite",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.story-hub-card-title",
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "artificial intelligence has evolved beyond compute-hungry, r",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 1,
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "artificial intelligence has evolved beyond compute-hungry, r",
+     "clipper": "div.story-hub-card-title",
+     "rect": {
+      "l": 531,
+      "t": 8523,
+      "r": 803,
+      "b": 8545,
+      "w": 272,
+      "h": 22
+     },
+     "clip": {
+      "l": 531,
+      "t": 8522,
+      "r": 854,
+      "b": 8594,
+      "w": 323,
+      "h": 72
+     },
+     "lines": 4
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 8,
+     "path": "div.story-hub-article > div.story-hub-article-body > div.story-hub-article-desc > p",
+     "text": "bei smart living geht es darum, künstliche intelligenz weite",
+     "clipper": "p",
+     "rect": {
+      "l": 124,
+      "t": 9158,
+      "r": 407,
+      "b": 9180,
+      "w": 283,
+      "h": 22
+     },
+     "clip": {
+      "l": 124,
+      "t": 9156,
+      "r": 467,
+      "b": 9234,
+      "w": 343,
+      "h": 78
+     },
+     "lines": 12
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 1,
+     "path": "div.story-hub-article > div.story-hub-article-body > div.story-hub-article-title > p",
+     "text": "bequem, hilfreich und umweltfreundlich: willkommen in der fa",
+     "clipper": "p",
+     "rect": {
+      "l": 551,
+      "t": 9084,
+      "r": 736,
+      "b": 9112,
+      "w": 186,
+      "h": 28
+     },
+     "clip": {
+      "l": 551,
+      "t": 9084,
+      "r": 894,
+      "b": 9140,
+      "w": 343,
+      "h": 56
+     },
+     "lines": 3
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 5,
+     "path": "div.story-hub-article > div.story-hub-article-body > div.story-hub-article-desc > p",
+     "text": "smarte verbrauchergeräte wie smarte lautsprecher, mobile ger",
+     "clipper": "p",
+     "rect": {
+      "l": 551,
+      "t": 9158,
+      "r": 802,
+      "b": 9180,
+      "w": 252,
+      "h": 22
+     },
+     "clip": {
+      "l": 551,
+      "t": 9156,
+      "r": 894,
+      "b": 9234,
+      "w": 343,
+      "h": 78
+     },
+     "lines": 8
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 7,
+     "path": "div.story-hub-article > div.story-hub-article-body > div.story-hub-article-desc > p",
+     "text": "da es bei der zukunft der gesundheit immer mehr um selbstfür",
+     "clipper": "p",
+     "rect": {
+      "l": 977,
+      "t": 9158,
+      "r": 1309,
+      "b": 9180,
+      "w": 331,
+      "h": 22
+     },
+     "clip": {
+      "l": 977,
+      "t": 9156,
+      "r": 1320,
+      "b": 9234,
+      "w": 343,
+      "h": 78
+     },
+     "lines": 11
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "künstliche intelligenz in den alltag bringen",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 16,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 65,
+    "textHidden": 0,
+    "image": 16,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"eine neue ära des smart living\" (y 787) has no origin heading",
+   "text": "eine neue ära des smart living"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"einige interessante fakten über smart-living-geräte\" (y 2163) has no origin heading",
+   "text": "einige interessante fakten über smart-living-geräte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"300 twh\" (y 2439) has no origin heading",
+   "text": "300 twh"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"2,2 milliarden\" (y 2699) has no origin heading",
+   "text": "2,2 milliarden"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"welche herausforderungen helfen smart-living-technologien zu lösen?\" (y 2979) has no origin heading",
+   "text": "welche herausforderungen helfen smart-living-technologien zu lösen?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie kann unser zuhause komfortabler, sicherer und energieeffizienter werden?\" (y 3183) has no origin heading",
+   "text": "wie kann unser zuhause komfortabler, sicherer und energieeffizienter werden?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie können hersteller intelligentere und sicherere smart-home-geräte schneller entwickeln?\" (y 3183) has no origin heading",
+   "text": "wie können hersteller intelligentere und sicherere smart-home-geräte schneller entwickeln?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie kann technologie menschen helfen, gesünder und selbstständiger zu leben?\" (y 4337) has no origin heading",
+   "text": "wie kann technologie menschen helfen, gesünder und selbstständiger zu leben?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"4. wie können hersteller vertrauenswürdige, intelligente und energieeffiziente gesundheitsgeräte entwickeln?\" (y 4337) has no origin heading",
+   "text": "4. wie können hersteller vertrauenswürdige, intelligente und energieeffiziente gesundheitsgeräte entwickeln?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie können hersteller die wachsende komplexität bei der produktion von smart-living-geräten bewältigen?\" (y 5588) has no origin heading",
+   "text": "wie können hersteller die wachsende komplexität bei der produktion von smart-living-geräten bewältigen?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie können wir das potenzial künstlicher intelligenz in smart-living-geräten bestmöglich nutzen?\" (y 5588) has no origin heading",
+   "text": "wie können wir das potenzial künstlicher intelligenz in smart-living-geräten bestmöglich nutzen?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"die zukunft ist bereits da\" (y 6800) has no origin heading",
+   "text": "die zukunft ist bereits da"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"faq\" (y 7112) has no origin heading",
+   "text": "faq"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"profitieren sie von maximaler designflexibilität\" (y 7948) has no origin heading",
+   "text": "profitieren sie von maximaler designflexibilität"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"finden sie die richtige lösung für ihre designherausforderung\" (y 8138) has no origin heading",
+   "text": "finden sie die richtige lösung für ihre designherausforderung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wie unsere technologien die grundlage für intelligente systeme bilden\" (y 8780) has no origin heading",
+   "text": "wie unsere technologien die grundlage für intelligente systeme bilden"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"subscribe to marketing communications!\" (y 9522) has no origin heading",
+   "text": "subscribe to marketing communications!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"play or pause video\" served in band \"künstliche intelligenz in den alltag bringen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "play or pause video"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"https://iot-analytics.com/number-connected-iot-devices/\" served in band \"künstliche intelligenz in den alltag bringen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "https://iot-analytics.com/number-connected-iot-devices/"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"https://build-up.ec.europa.eu/en/resources-and-tools/publications/ai-transforms-\" served in band \"künstliche intelligenz in den alltag bringen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "https://build-up.ec.europa.eu/en/resources-and-tools/publications/ai-transforms-"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"https://www.un.org/en/global-issues/ageing\" served in band \"künstliche intelligenz in den alltag bringen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "https://www.un.org/en/global-issues/ageing"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"erfahren sie mehr über matter\" served in band \"künstliche intelligenz in den alltag bringen\", no origin link or button",
+   "band": 1,
+   "n": 2,
+   "text": "erfahren sie mehr über matter"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"entdecken sie smarte technologien für zuhause\" served in band \"künstliche intelligenz in den alltag bringen\", no origin link or button",
+   "band": 1,
+   "n": 2,
+   "text": "entdecken sie smarte technologien für zuhause"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"erfahren sie mehr über die zukunft von gesundheit\" served in band \"künstliche intelligenz in den alltag bringen\", no origin link or button",
+   "band": 1,
+   "n": 2,
+   "text": "erfahren sie mehr über die zukunft von gesundheit"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr zur digitalen gesundheitsversorgung\" served in band \"künstliche intelligenz in den alltag bringen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "mehr zur digitalen gesundheitsversorgung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"entdecken sie die welt der smart-living-geräte\" served in band \"künstliche intelligenz in den alltag bringen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "entdecken sie die welt der smart-living-geräte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"entdecken sie die welt der edge ai\" served in band \"künstliche intelligenz in den alltag bringen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "entdecken sie die welt der edge ai"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×3 \"mehr erfahren\" served in band \"künstliche intelligenz in den alltag bringen\", no origin link or button",
+   "band": 1,
+   "n": 3,
+   "text": "mehr erfahren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"subscribe\" served in band \"künstliche intelligenz in den alltag bringen\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "subscribe"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"künstliche intelligenz in den alltag bringen\": 3 origin → 65 served visible",
+   "band": 1,
+   "origin": 3,
+   "eds": 65,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"künstliche intelligenz in den alltag bringen\": 0 origin → 16 served visible",
+   "band": 1,
+   "origin": 0,
+   "eds": 16,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 17,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 17,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 31,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 166,
+    "y": 23,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 23,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 23,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 23,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 23,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 23,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 86,
+    "w": 248,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 786,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 556,
+    "w": 946,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 580,
+    "w": 908,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 604,
+    "w": 924,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 628,
+    "w": 617,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 671,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 711,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 711,
+    "w": 77,
+    "h": 20
+   },
+   {
+    "x": 200,
+    "y": 785,
+    "w": 360,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 855,
+    "w": 1026,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 881,
+    "w": 993,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 907,
+    "w": 1021,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 933,
+    "w": 974,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1030,
+    "w": 923,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1062,
+    "w": 828,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1094,
+    "w": 877,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1126,
+    "w": 837,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1169,
+    "w": 403,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1224,
+    "w": 988,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1250,
+    "w": 1021,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1276,
+    "w": 1012,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1302,
+    "w": 209,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1344,
+    "w": 1013,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1370,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1396,
+    "w": 999,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1422,
+    "w": 964,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1448,
+    "w": 383,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 2177,
+    "w": 611,
+    "h": 40
+   },
+   {
+    "x": 488,
+    "y": 2245,
+    "w": 130,
+    "h": 35
+   },
+   {
+    "x": 488,
+    "y": 2287,
+    "w": 551,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2313,
+    "w": 537,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2339,
+    "w": 442,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2378,
+    "w": 45,
+    "h": 19
+   },
+   {
+    "x": 533,
+    "y": 2378,
+    "w": 330,
+    "h": 19
+   },
+   {
+    "x": 488,
+    "y": 2453,
+    "w": 86,
+    "h": 35
+   },
+   {
+    "x": 488,
+    "y": 2495,
+    "w": 358,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2521,
+    "w": 539,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2547,
+    "w": 484,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2573,
+    "w": 94,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2612,
+    "w": 43,
+    "h": 19
+   },
+   {
+    "x": 531,
+    "y": 2612,
+    "w": 519,
+    "h": 19
+   },
+   {
+    "x": 488,
+    "y": 2638,
+    "w": 135,
+    "h": 19
+   },
+   {
+    "x": 488,
+    "y": 2697,
+    "w": 136,
+    "h": 35
+   },
+   {
+    "x": 488,
+    "y": 2739,
+    "w": 538,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2765,
+    "w": 560,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2791,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2830,
+    "w": 43,
+    "h": 19
+   },
+   {
+    "x": 531,
+    "y": 2830,
+    "w": 257,
+    "h": 19
+   },
+   {
+    "x": 200,
+    "y": 2977,
+    "w": 835,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 3047,
+    "w": 1035,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3073,
+    "w": 1024,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3099,
+    "w": 1032,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3125,
+    "w": 55,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3181,
+    "w": 473,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 3213,
+    "w": 314,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 3579,
+    "w": 137,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3605,
+    "w": 452,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3631,
+    "w": 484,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3657,
+    "w": 479,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3683,
+    "w": 486,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3709,
+    "w": 497,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3735,
+    "w": 436,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3761,
+    "w": 483,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3787,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3813,
+    "w": 194,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3871,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3897,
+    "w": 479,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3923,
+    "w": 441,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3949,
+    "w": 488,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3975,
+    "w": 488,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4001,
+    "w": 461,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4027,
+    "w": 481,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4053,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4079,
+    "w": 492,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4105,
+    "w": 170,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4148,
+    "w": 210,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 4188,
+    "w": 332,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 3181,
+    "w": 503,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 3213,
+    "w": 427,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 3579,
+    "w": 137,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3605,
+    "w": 463,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3631,
+    "w": 471,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3657,
+    "w": 488,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3683,
+    "w": 423,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3709,
+    "w": 440,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3735,
+    "w": 443,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3761,
+    "w": 138,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3819,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3845,
+    "w": 484,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3871,
+    "w": 396,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3897,
+    "w": 459,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3923,
+    "w": 469,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3949,
+    "w": 450,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3975,
+    "w": 500,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4001,
+    "w": 484,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4027,
+    "w": 485,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4053,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4079,
+    "w": 496,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4105,
+    "w": 421,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4131,
+    "w": 504,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4157,
+    "w": 495,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4183,
+    "w": 110,
+    "h": 25
+   },
+   {
+    "x": 846,
+    "y": 4183,
+    "w": 5,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4226,
+    "w": 210,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 4266,
+    "w": 332,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 4343,
+    "w": 499,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 4375,
+    "w": 297,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 4740,
+    "w": 137,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4766,
+    "w": 459,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4792,
+    "w": 350,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4818,
+    "w": 485,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4844,
+    "w": 434,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4870,
+    "w": 501,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4896,
+    "w": 485,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4922,
+    "w": 479,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4948,
+    "w": 403,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4974,
+    "w": 455,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5000,
+    "w": 462,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5026,
+    "w": 448,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5052,
+    "w": 470,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5078,
+    "w": 431,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5136,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5162,
+    "w": 468,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5188,
+    "w": 486,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5214,
+    "w": 439,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5240,
+    "w": 477,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5266,
+    "w": 359,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5292,
+    "w": 381,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5318,
+    "w": 450,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5344,
+    "w": 496,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5370,
+    "w": 472,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5396,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5422,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5448,
+    "w": 468,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5474,
+    "w": 234,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5517,
+    "w": 354,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 4343,
+    "w": 447,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 4375,
+    "w": 333,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 4407,
+    "w": 315,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 4772,
+    "w": 137,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4798,
+    "w": 467,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4824,
+    "w": 483,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4850,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4876,
+    "w": 479,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4902,
+    "w": 473,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4928,
+    "w": 474,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4954,
+    "w": 455,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4980,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5006,
+    "w": 453,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5032,
+    "w": 479,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5058,
+    "w": 389,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5100,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5126,
+    "w": 438,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5152,
+    "w": 486,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5178,
+    "w": 486,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5204,
+    "w": 494,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5230,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5256,
+    "w": 468,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5282,
+    "w": 435,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5308,
+    "w": 475,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5334,
+    "w": 397,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5360,
+    "w": 440,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5403,
+    "w": 354,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 5443,
+    "w": 294,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 5594,
+    "w": 504,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 5626,
+    "w": 452,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 5658,
+    "w": 123,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 6024,
+    "w": 137,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6050,
+    "w": 493,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6076,
+    "w": 444,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6102,
+    "w": 462,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6128,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6154,
+    "w": 394,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6180,
+    "w": 462,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6206,
+    "w": 456,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6232,
+    "w": 495,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6290,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6316,
+    "w": 482,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6342,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6368,
+    "w": 469,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6394,
+    "w": 455,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6420,
+    "w": 459,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6446,
+    "w": 463,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6472,
+    "w": 416,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6498,
+    "w": 451,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6541,
+    "w": 327,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 5594,
+    "w": 411,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 5626,
+    "w": 480,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 5658,
+    "w": 80,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 6024,
+    "w": 137,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6050,
+    "w": 427,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6076,
+    "w": 448,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6102,
+    "w": 501,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6128,
+    "w": 485,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6154,
+    "w": 442,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6180,
+    "w": 447,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6206,
+    "w": 406,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6232,
+    "w": 443,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6258,
+    "w": 460,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6284,
+    "w": 468,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6310,
+    "w": 214,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6352,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6378,
+    "w": 447,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6404,
+    "w": 478,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6430,
+    "w": 490,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6456,
+    "w": 464,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6482,
+    "w": 486,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6508,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6534,
+    "w": 497,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6560,
+    "w": 473,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6586,
+    "w": 383,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6628,
+    "w": 426,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6654,
+    "w": 400,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6697,
+    "w": 239,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 6774,
+    "w": 291,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 6844,
+    "w": 1026,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6870,
+    "w": 887,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6912,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6938,
+    "w": 755,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6980,
+    "w": 994,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 7022,
+    "w": 375,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7102,
+    "w": 47,
+    "h": 40
+   },
+   {
+    "x": 224,
+    "y": 7156,
+    "w": 122,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7198,
+    "w": 968,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7224,
+    "w": 962,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7250,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7292,
+    "w": 162,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7334,
+    "w": 979,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7360,
+    "w": 975,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7386,
+    "w": 575,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7454,
+    "w": 426,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7496,
+    "w": 976,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7522,
+    "w": 938,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7548,
+    "w": 482,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7590,
+    "w": 469,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7632,
+    "w": 959,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7658,
+    "w": 961,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7684,
+    "w": 374,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7726,
+    "w": 644,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7768,
+    "w": 861,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7794,
+    "w": 946,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7820,
+    "w": 586,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 7996,
+    "w": 711,
+    "h": 51
+   },
+   {
+    "x": 96,
+    "y": 8078,
+    "w": 1117,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 8104,
+    "w": 1203,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 8130,
+    "w": 158,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 8186,
+    "w": 931,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 8500,
+    "w": 184,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 8569,
+    "w": 244,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 8593,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 8617,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 8677,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 8500,
+    "w": 222,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 8528,
+    "w": 292,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 8569,
+    "w": 272,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 8593,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 8617,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 8677,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 8500,
+    "w": 165,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 8569,
+    "w": 265,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 8593,
+    "w": 314,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 8677,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 101,
+    "y": 8822,
+    "w": 267,
+    "h": 20
+   },
+   {
+    "x": 96,
+    "y": 8858,
+    "w": 1063,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 9164,
+    "w": 288,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 9192,
+    "w": 65,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 9238,
+    "w": 283,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 9264,
+    "w": 316,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 9290,
+    "w": 341,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 9290,
+    "w": 321,
+    "h": 22
+   },
+   {
+    "x": 133,
+    "y": 9335,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 124,
+    "y": 9374,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 188,
+    "y": 9374,
+    "w": 86,
+    "h": 20
+   },
+   {
+    "x": 551,
+    "y": 9164,
+    "w": 186,
+    "h": 28
+   },
+   {
+    "x": 551,
+    "y": 9192,
+    "w": 318,
+    "h": 28
+   },
+   {
+    "x": 551,
+    "y": 9238,
+    "w": 252,
+    "h": 22
+   },
+   {
+    "x": 551,
+    "y": 9264,
+    "w": 343,
+    "h": 22
+   },
+   {
+    "x": 551,
+    "y": 9290,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 560,
+    "y": 9335,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 551,
+    "y": 9374,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 614,
+    "y": 9374,
+    "w": 85,
+    "h": 20
+   },
+   {
+    "x": 977,
+    "y": 9164,
+    "w": 270,
+    "h": 28
+   },
+   {
+    "x": 977,
+    "y": 9192,
+    "w": 195,
+    "h": 28
+   },
+   {
+    "x": 977,
+    "y": 9238,
+    "w": 332,
+    "h": 22
+   },
+   {
+    "x": 977,
+    "y": 9264,
+    "w": 340,
+    "h": 22
+   },
+   {
+    "x": 977,
+    "y": 9290,
+    "w": 332,
+    "h": 22
+   },
+   {
+    "x": 977,
+    "y": 9290,
+    "w": 327,
+    "h": 22
+   },
+   {
+    "x": 986,
+    "y": 9335,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 977,
+    "y": 9374,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 1041,
+    "y": 9374,
+    "w": 85,
+    "h": 20
+   },
+   {
+    "x": 1173,
+    "y": 9476,
+    "w": 7,
+    "h": 20
+   },
+   {
+    "x": 1212,
+    "y": 9476,
+    "w": 7,
+    "h": 20
+   },
+   {
+    "x": 1247,
+    "y": 9476,
+    "w": 7,
+    "h": 20
+   },
+   {
+    "x": 203,
+    "y": 9648,
+    "w": 348,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 9696,
+    "w": 269,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 9649,
+    "w": 473,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 9679,
+    "w": 359,
+    "h": 32
+   },
+   {
+    "x": 772,
+    "y": 9747,
+    "w": 68,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 9943,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 9998,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 10040,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 10082,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 10124,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 10166,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 9943,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 9998,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 10040,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 10082,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 10124,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 10166,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 10208,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 9943,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 9998,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 10040,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 10082,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 9943,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 9998,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 10040,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 10082,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 10124,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 10351,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 10351,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 10351,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 10351,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 10351,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 10351,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 10351,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 22,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 85,
+    "w": 248,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 786,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 556,
+    "w": 946,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 580,
+    "w": 908,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 604,
+    "w": 924,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 628,
+    "w": 617,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 671,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 266,
+    "y": 711,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 711,
+    "w": 77,
+    "h": 20
+   },
+   {
+    "x": 200,
+    "y": 785,
+    "w": 360,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 839,
+    "w": 1026,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 865,
+    "w": 993,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 891,
+    "w": 1021,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 917,
+    "w": 971,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1014,
+    "w": 923,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1046,
+    "w": 828,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1078,
+    "w": 877,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1110,
+    "w": 837,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 1153,
+    "w": 403,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1208,
+    "w": 988,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1234,
+    "w": 1021,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1260,
+    "w": 1012,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1286,
+    "w": 209,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1328,
+    "w": 1013,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1354,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1380,
+    "w": 999,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1406,
+    "w": 964,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1432,
+    "w": 383,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 2161,
+    "w": 611,
+    "h": 40
+   },
+   {
+    "x": 488,
+    "y": 2229,
+    "w": 130,
+    "h": 35
+   },
+   {
+    "x": 488,
+    "y": 2271,
+    "w": 551,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2297,
+    "w": 537,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2323,
+    "w": 442,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2362,
+    "w": 45,
+    "h": 19
+   },
+   {
+    "x": 533,
+    "y": 2362,
+    "w": 322,
+    "h": 19
+   },
+   {
+    "x": 488,
+    "y": 2437,
+    "w": 86,
+    "h": 35
+   },
+   {
+    "x": 488,
+    "y": 2479,
+    "w": 358,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2505,
+    "w": 539,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2531,
+    "w": 484,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2557,
+    "w": 94,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2596,
+    "w": 43,
+    "h": 19
+   },
+   {
+    "x": 531,
+    "y": 2596,
+    "w": 504,
+    "h": 19
+   },
+   {
+    "x": 488,
+    "y": 2622,
+    "w": 131,
+    "h": 19
+   },
+   {
+    "x": 488,
+    "y": 2697,
+    "w": 136,
+    "h": 35
+   },
+   {
+    "x": 488,
+    "y": 2739,
+    "w": 538,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2765,
+    "w": 560,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2791,
+    "w": 260,
+    "h": 25
+   },
+   {
+    "x": 488,
+    "y": 2830,
+    "w": 43,
+    "h": 19
+   },
+   {
+    "x": 531,
+    "y": 2830,
+    "w": 250,
+    "h": 19
+   },
+   {
+    "x": 200,
+    "y": 2977,
+    "w": 835,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 3047,
+    "w": 1035,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3073,
+    "w": 1024,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3099,
+    "w": 1032,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3125,
+    "w": 55,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3181,
+    "w": 473,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 3213,
+    "w": 314,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 3579,
+    "w": 137,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3605,
+    "w": 452,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3631,
+    "w": 484,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3657,
+    "w": 479,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3683,
+    "w": 486,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3709,
+    "w": 497,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3735,
+    "w": 436,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3761,
+    "w": 483,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3787,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3813,
+    "w": 194,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3871,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3897,
+    "w": 479,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3923,
+    "w": 441,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3949,
+    "w": 488,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3975,
+    "w": 488,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4001,
+    "w": 461,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4027,
+    "w": 481,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4053,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4079,
+    "w": 492,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4105,
+    "w": 170,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4148,
+    "w": 207,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 4180,
+    "w": 329,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 3181,
+    "w": 503,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 3213,
+    "w": 427,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 3579,
+    "w": 137,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3605,
+    "w": 463,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3631,
+    "w": 471,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3657,
+    "w": 488,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3683,
+    "w": 423,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3709,
+    "w": 440,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3735,
+    "w": 443,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3761,
+    "w": 138,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3819,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3845,
+    "w": 484,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3871,
+    "w": 396,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3897,
+    "w": 459,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3923,
+    "w": 469,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3949,
+    "w": 450,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3975,
+    "w": 500,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4001,
+    "w": 484,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4027,
+    "w": 485,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4053,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4079,
+    "w": 496,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4105,
+    "w": 421,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4131,
+    "w": 504,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4157,
+    "w": 495,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4183,
+    "w": 110,
+    "h": 25
+   },
+   {
+    "x": 846,
+    "y": 4183,
+    "w": 5,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4226,
+    "w": 207,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 4258,
+    "w": 329,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 4335,
+    "w": 499,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 4367,
+    "w": 297,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 4732,
+    "w": 137,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4758,
+    "w": 459,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4784,
+    "w": 350,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4810,
+    "w": 485,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4836,
+    "w": 434,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4862,
+    "w": 501,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4888,
+    "w": 485,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4914,
+    "w": 479,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4940,
+    "w": 403,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4966,
+    "w": 455,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4992,
+    "w": 462,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5018,
+    "w": 448,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5044,
+    "w": 470,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5070,
+    "w": 431,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5128,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5154,
+    "w": 468,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5180,
+    "w": 486,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5206,
+    "w": 439,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5232,
+    "w": 477,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5258,
+    "w": 359,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5284,
+    "w": 381,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5310,
+    "w": 450,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5336,
+    "w": 496,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5362,
+    "w": 472,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5388,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5414,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5440,
+    "w": 468,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5466,
+    "w": 234,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5509,
+    "w": 351,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 4335,
+    "w": 447,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 4367,
+    "w": 333,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 4399,
+    "w": 315,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 4764,
+    "w": 137,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4790,
+    "w": 467,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4816,
+    "w": 483,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4842,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4868,
+    "w": 479,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4894,
+    "w": 473,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4920,
+    "w": 474,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4946,
+    "w": 455,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4972,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 4998,
+    "w": 453,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5024,
+    "w": 479,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5050,
+    "w": 389,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5108,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5134,
+    "w": 438,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5160,
+    "w": 486,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5186,
+    "w": 486,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5212,
+    "w": 494,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5238,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5264,
+    "w": 468,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5290,
+    "w": 435,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5316,
+    "w": 475,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5342,
+    "w": 397,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5368,
+    "w": 440,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5411,
+    "w": 351,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 5443,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 5586,
+    "w": 504,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 5618,
+    "w": 452,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 5650,
+    "w": 123,
+    "h": 35
+   },
+   {
+    "x": 200,
+    "y": 6016,
+    "w": 137,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6042,
+    "w": 493,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6068,
+    "w": 444,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6094,
+    "w": 462,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6120,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6146,
+    "w": 394,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6172,
+    "w": 462,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6198,
+    "w": 456,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6224,
+    "w": 495,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6282,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6308,
+    "w": 482,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6334,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6360,
+    "w": 469,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6386,
+    "w": 455,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6412,
+    "w": 459,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6438,
+    "w": 463,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6464,
+    "w": 416,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6490,
+    "w": 451,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6533,
+    "w": 324,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 5586,
+    "w": 411,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 5618,
+    "w": 480,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 5650,
+    "w": 80,
+    "h": 35
+   },
+   {
+    "x": 736,
+    "y": 6016,
+    "w": 137,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6042,
+    "w": 427,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6068,
+    "w": 448,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6094,
+    "w": 501,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6120,
+    "w": 485,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6146,
+    "w": 442,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6172,
+    "w": 447,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6198,
+    "w": 406,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6224,
+    "w": 443,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6250,
+    "w": 460,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6276,
+    "w": 468,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6302,
+    "w": 214,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6360,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6386,
+    "w": 447,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6412,
+    "w": 478,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6438,
+    "w": 490,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6464,
+    "w": 464,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6490,
+    "w": 486,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6516,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6542,
+    "w": 497,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6568,
+    "w": 473,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6594,
+    "w": 383,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6652,
+    "w": 426,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6678,
+    "w": 400,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6721,
+    "w": 235,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 6798,
+    "w": 291,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 6852,
+    "w": 1026,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6878,
+    "w": 887,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6920,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6946,
+    "w": 755,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6988,
+    "w": 994,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 7030,
+    "w": 371,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7110,
+    "w": 47,
+    "h": 40
+   },
+   {
+    "x": 224,
+    "y": 7164,
+    "w": 122,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7206,
+    "w": 968,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7232,
+    "w": 962,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7258,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7300,
+    "w": 162,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7342,
+    "w": 979,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7368,
+    "w": 975,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7394,
+    "w": 575,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7436,
+    "w": 426,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7478,
+    "w": 976,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7504,
+    "w": 938,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7530,
+    "w": 482,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7572,
+    "w": 469,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7614,
+    "w": 959,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7640,
+    "w": 961,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7666,
+    "w": 374,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7708,
+    "w": 644,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7750,
+    "w": 861,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7776,
+    "w": 946,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 7802,
+    "w": 586,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 7946,
+    "w": 711,
+    "h": 51
+   },
+   {
+    "x": 96,
+    "y": 8028,
+    "w": 1117,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 8054,
+    "w": 1203,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 8080,
+    "w": 158,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 8136,
+    "w": 931,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 8450,
+    "w": 162,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 8519,
+    "w": 244,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 8543,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 8567,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 8597,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 8450,
+    "w": 195,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 8478,
+    "w": 256,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 8523,
+    "w": 272,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 8547,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 8571,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 8597,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 8450,
+    "w": 147,
+    "h": 28
+   },
+   {
+    "x": 938,
+    "y": 8519,
+    "w": 265,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 8543,
+    "w": 314,
+    "h": 22
+   },
+   {
+    "x": 938,
+    "y": 8597,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 8742,
+    "w": 267,
+    "h": 20
+   },
+   {
+    "x": 96,
+    "y": 8778,
+    "w": 1063,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 9084,
+    "w": 288,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 9112,
+    "w": 65,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 9158,
+    "w": 283,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 9184,
+    "w": 316,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 9210,
+    "w": 341,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 9210,
+    "w": 321,
+    "h": 22
+   },
+   {
+    "x": 132,
+    "y": 9255,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 124,
+    "y": 9294,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 184,
+    "y": 9294,
+    "w": 86,
+    "h": 20
+   },
+   {
+    "x": 551,
+    "y": 9084,
+    "w": 186,
+    "h": 28
+   },
+   {
+    "x": 551,
+    "y": 9112,
+    "w": 318,
+    "h": 28
+   },
+   {
+    "x": 551,
+    "y": 9158,
+    "w": 252,
+    "h": 22
+   },
+   {
+    "x": 551,
+    "y": 9184,
+    "w": 343,
+    "h": 22
+   },
+   {
+    "x": 551,
+    "y": 9210,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 559,
+    "y": 9255,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 551,
+    "y": 9294,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 611,
+    "y": 9294,
+    "w": 85,
+    "h": 20
+   },
+   {
+    "x": 977,
+    "y": 9084,
+    "w": 270,
+    "h": 28
+   },
+   {
+    "x": 977,
+    "y": 9112,
+    "w": 195,
+    "h": 28
+   },
+   {
+    "x": 977,
+    "y": 9158,
+    "w": 331,
+    "h": 22
+   },
+   {
+    "x": 977,
+    "y": 9184,
+    "w": 340,
+    "h": 22
+   },
+   {
+    "x": 977,
+    "y": 9210,
+    "w": 332,
+    "h": 22
+   },
+   {
+    "x": 977,
+    "y": 9210,
+    "w": 327,
+    "h": 22
+   },
+   {
+    "x": 985,
+    "y": 9255,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 977,
+    "y": 9294,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 1037,
+    "y": 9294,
+    "w": 85,
+    "h": 20
+   },
+   {
+    "x": 203,
+    "y": 9520,
+    "w": 348,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 9568,
+    "w": 269,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 9521,
+    "w": 473,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 9551,
+    "w": 359,
+    "h": 32
+   },
+   {
+    "x": 773,
+    "y": 9620,
+    "w": 68,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 9817,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 9872,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 9914,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 9956,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 9998,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 10040,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 9817,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 9872,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 9914,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 9956,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 9998,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 10040,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 10082,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 9817,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 9872,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 9914,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 9956,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 9817,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 9872,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 9914,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 9956,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 9998,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 10225,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 10225,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 10225,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 10225,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 10225,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 10225,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 10225,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

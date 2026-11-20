@@ -1,0 +1,6520 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:24:53.539Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/config",
+  "at": "2026-11-18T23:24:32.640Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5757,
+  "root": "div.shareplatformlist.aem-GridColumn",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button#searchicon-items",
+    "x": 164,
+    "y": 14,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-0",
+    "x": 220,
+    "y": 15,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.usericon-item.d-block",
+    "x": 260,
+    "y": 17,
+    "w": 40,
+    "h": 25,
+    "text": "user profile"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#container-bc2c903195 > div.aem-Grid.aem-Grid--12 > div.shareplatformlist.aem-GridColumn",
+    "x": 0,
+    "y": 61,
+    "w": 360,
+    "h": 160,
+    "text": "Configured Items are : Excluded Configured Items are for China :"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#container-bc2c903195 > div.aem-Grid.aem-Grid--12 > div.socialmediachannels.aem-GridColumn",
+    "x": 0,
+    "y": 221,
+    "w": 360,
+    "h": 328,
+    "text": "Configured Items are : Excluded Configured Items are for China :"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#container-bc2c903195 > div.aem-Grid.aem-Grid--12 > div.dateformats.aem-GridColumn",
+    "x": 0,
+    "y": 549,
+    "w": 360,
+    "h": 24,
+    "text": "Configured Date Type is: MMM dd, YYYY"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#container-bc2c903195 > div.aem-Grid.aem-Grid--12 > div.pageconfigurations.aem-GridColumn",
+    "x": 0,
+    "y": 573,
+    "w": 360,
+    "h": 552,
+    "text": "Configured Pages are :"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#container-bc2c903195 > div.aem-Grid.aem-Grid--12 > div.sitemapurl.aem-GridColumn",
+    "x": 0,
+    "y": 1141,
+    "w": 360,
+    "h": 1140,
+    "text": "About Coveo Sitemap Page Paths: Press Coveo Sitemap Page Paths: Dynamic Sitemap "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.aem-Grid.aem-Grid--12 > div.sitemapurl.aem-GridColumn > h1",
+    "x": 0,
+    "y": 1141,
+    "w": 360,
+    "h": 44,
+    "level": 1,
+    "text": "/en/part/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.aem-Grid.aem-Grid--12 > div.assetlocations.aem-GridColumn > div",
+    "x": 0,
+    "y": 2297,
+    "w": 360,
+    "h": 688,
+    "text": "Document Root Paths: Video Root Paths: Public Promo Page URL: Gated Promo Page U"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.aem-Grid.aem-Grid--12 > div.articlerootpath.aem-GridColumn > div",
+    "x": 0,
+    "y": 2985,
+    "w": 360,
+    "h": 200,
+    "text": "******** Articles Path ********* ******** Market News Path ********* ******** Pr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#container-bc2c903195 > div.aem-Grid.aem-Grid--12 > div.eventrootpath.aem-GridColumn",
+    "x": 0,
+    "y": 3201,
+    "w": 360,
+    "h": 96,
+    "text": "Events Root Paths are"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.aem-Grid.aem-Grid--12 > div.contact-sales-config.aem-GridColumn > div",
+    "x": 0,
+    "y": 3313,
+    "w": 360,
+    "h": 48,
+    "text": "IFX Contact Sales Configured Email is : Contact_Sales@email.com"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.aem-Grid.aem-Grid--12 > div.contact-sales-config.aem-GridColumn > div",
+    "x": 0,
+    "y": 3361,
+    "w": 360,
+    "h": 48,
+    "text": "IFX Contact Sales Configured Email Subject is : Contact Sales Subject"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.currencysymbols.aem-GridColumn > div.ifx-currency-symbols > h3",
+    "x": 0,
+    "y": 3409,
+    "w": 360,
+    "h": 30,
+    "level": 3,
+    "text": "currency symbol mappings"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 33,
+    "y": 3448,
+    "w": 136,
+    "h": 57,
+    "text": "Label"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 170,
+    "y": 3448,
+    "w": 462,
+    "h": 57,
+    "text": "Country Code"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 3505,
+    "w": 136,
+    "h": 33,
+    "text": "US-Dollar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tr > td > code",
+    "x": 178,
+    "y": 3514,
+    "w": 92,
+    "h": 16,
+    "text": "US,MX,VN,BR"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 3538,
+    "w": 136,
+    "h": 57,
+    "text": "Kanadischer Dollar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 3595,
+    "w": 136,
+    "h": 33,
+    "text": "Euro"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tr > td > code",
+    "x": 178,
+    "y": 3604,
+    "w": 445,
+    "h": 16,
+    "text": "AT,BE,BG,EE,FI,FR,DE,GR,IE,IT,LV,LT,LU,NL,PT,SK,SI,ES"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 3628,
+    "w": 136,
+    "h": 33,
+    "text": "Japanischer Yen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 3661,
+    "w": 136,
+    "h": 57,
+    "text": "Südkoreanischer Won"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 3718,
+    "w": 136,
+    "h": 57,
+    "text": "Südafrikanischer Rand"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 3775,
+    "w": 136,
+    "h": 33,
+    "text": "Hongkong-Dollar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 3808,
+    "w": 136,
+    "h": 33,
+    "text": "Indische Rupie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 3841,
+    "w": 136,
+    "h": 57,
+    "text": "Malaysischer Ringgit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 3898,
+    "w": 136,
+    "h": 57,
+    "text": "Philippinischer Peso"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 3955,
+    "w": 136,
+    "h": 33,
+    "text": "Singapur-Dollar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 3988,
+    "w": 136,
+    "h": 81,
+    "text": "Neuer Taiwanischer Dollar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 4069,
+    "w": 136,
+    "h": 57,
+    "text": "Thailändischer Baht"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 4126,
+    "w": 136,
+    "h": 57,
+    "text": "Australischer Dollar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 4183,
+    "w": 136,
+    "h": 57,
+    "text": "Neuseeländischer Dollar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 4240,
+    "w": 136,
+    "h": 57,
+    "text": "Tschechische Krone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 4297,
+    "w": 136,
+    "h": 33,
+    "text": "Dänische Krone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 4330,
+    "w": 136,
+    "h": 57,
+    "text": "Ungarischer Forint"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 4387,
+    "w": 136,
+    "h": 57,
+    "text": "Norwegische Krone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 4444,
+    "w": 136,
+    "h": 33,
+    "text": "Polnischer Złoty"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 4477,
+    "w": 136,
+    "h": 33,
+    "text": "Rumänischer Leu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 4510,
+    "w": 136,
+    "h": 57,
+    "text": "Schwedische Krone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 4567,
+    "w": 136,
+    "h": 57,
+    "text": "Schweizer Franken"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 33,
+    "y": 4624,
+    "w": 136,
+    "h": 57,
+    "text": "Britisches Pfund Sterling"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 16,
+    "y": 4721,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 4815,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 4855,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 4897,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 4939,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 4981,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 5023,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 196,
+    "y": 4815,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 4855,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 4897,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 4939,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 5007,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 5049,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 5091,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 5157,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 5197,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 5239,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 5281,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 32,
+    "y": 5347,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 5387,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 5429,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 5471,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 5513,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 5579,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 192,
+    "y": 5579,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 5609,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 21,
+    "y": 5644,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 16,
+    "y": 5697,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 56,
+    "y": 5697,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 96,
+    "y": 5697,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 136,
+    "y": 5694,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 136,
+    "y": 5699,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 176,
+    "y": 5697,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 4,
+    "offPage": 50,
+    "textNodes": 248,
+    "controls": 31,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 3,
+     "clipper": null,
+     "path": "div.aem-Grid.aem-Grid--12 > div.socialmediachannels.aem-GridColumn > ul > li",
+     "text": "channel type is: youtube & link is :https://www.youtube.com/",
+     "cutMin": 16,
+     "cutMax": 119
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": null,
+     "path": "tbody > tr > td > code",
+     "text": "at,be,bg,ee,fi,fr,de,gr,ie,it,lv,lt,lu,nl,pt,sk,si,es",
+     "cutMin": 264,
+     "cutMax": 264
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/config",
+  "at": "2026-11-18T23:24:53.425Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5823,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "label": "search",
+    "value": "search",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 61,
+    "w": 360,
+    "h": 24,
+    "text": "Configured Items are :"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 85,
+    "w": 328,
+    "h": 24,
+    "text": "Copy link"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 109,
+    "w": 328,
+    "h": 24,
+    "text": "Email"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 133,
+    "w": 328,
+    "h": 24,
+    "text": "Facebook"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 157,
+    "w": 328,
+    "h": 24,
+    "text": "LinkedIn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 197,
+    "w": 360,
+    "h": 24,
+    "text": "Excluded Configured Items are for China :"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 221,
+    "w": 360,
+    "h": 24,
+    "text": "Configured Items are :"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 245,
+    "w": 328,
+    "h": 55,
+    "text": "Channel Type is: Facebook & Link is //www.facebook.com/Infineon"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > span.icon.icon-https > img",
+    "x": 270,
+    "y": 245,
+    "w": 24,
+    "h": 24,
+    "text": "",
+    "file": "https"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 300,
+    "w": 328,
+    "h": 55,
+    "text": "Channel Type is: Instagram & Link is //www.instagram.com/infineoncareers"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > span.icon.icon-https > img",
+    "x": 273,
+    "y": 300,
+    "w": 24,
+    "h": 24,
+    "text": "",
+    "file": "https"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 355,
+    "w": 328,
+    "h": 79,
+    "text": "Channel Type is: LinkedIn & Link is //www.linkedin.com/company/infineon-technolo"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > span.icon.icon-https > img",
+    "x": 263,
+    "y": 355,
+    "w": 24,
+    "h": 24,
+    "text": "",
+    "file": "https"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 434,
+    "w": 328,
+    "h": 55,
+    "text": "Channel Type is: YouTube & Link is //www.youtube.com/channel/UCoTflChMPX0VBFXvXY"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > span.icon.icon-https > img",
+    "x": 263,
+    "y": 434,
+    "w": 24,
+    "h": 24,
+    "text": "",
+    "file": "https"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 489,
+    "w": 328,
+    "h": 55,
+    "text": "Channel Type is: TikTok & Link is //www.tiktok.com/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > span.icon.icon-https > img",
+    "x": 250,
+    "y": 489,
+    "w": 24,
+    "h": 24,
+    "text": "",
+    "file": "https"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 560,
+    "w": 360,
+    "h": 24,
+    "text": "Excluded Configured Items are for China :"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 584,
+    "w": 360,
+    "h": 24,
+    "text": "Configured Date Type is: MMM dd, YYYY"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 608,
+    "w": 360,
+    "h": 24,
+    "text": "Configured Pages are :"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 632,
+    "w": 328,
+    "h": 24,
+    "text": "Home Page Link is:/content/ifx/de"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 656,
+    "w": 328,
+    "h": 24,
+    "text": "Config Page Link is:/content/ifx/de/config"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 680,
+    "w": 328,
+    "h": 24,
+    "text": "Login Page/Area Link is:/content/ifx/de"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 704,
+    "w": 328,
+    "h": 24,
+    "text": "Logout Page/Area Link is:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 728,
+    "w": 328,
+    "h": 24,
+    "text": "Content-Hub Page/Area Link is:/content/ifx/de"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 752,
+    "w": 328,
+    "h": 24,
+    "text": "Article Page/Area Link is:/content/ifx/de"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 776,
+    "w": 328,
+    "h": 48,
+    "text": "Product Page/Area Link is:/content/ifx/de/products"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 824,
+    "w": 328,
+    "h": 48,
+    "text": "Application Page/Area Link is:/content/ifx/de/applications"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 872,
+    "w": 328,
+    "h": 48,
+    "text": "Design Page/Area Link is:/content/ifx/de/design-resources"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 920,
+    "w": 328,
+    "h": 24,
+    "text": "Package Page/Area Link is:/content/ifx/de"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 944,
+    "w": 328,
+    "h": 48,
+    "text": "Package Overview Page/Area Link is:/content/ifx/de/package-overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 992,
+    "w": 328,
+    "h": 48,
+    "text": "Package detail Page/Area Link is:/content/ifx/de/package"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1040,
+    "w": 328,
+    "h": 48,
+    "text": "Package family Page/Area Link is:/content/ifx/de/package-family"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1088,
+    "w": 328,
+    "h": 48,
+    "text": "Partner Page/Area Link is:/content/ifx/de/partners-old"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1136,
+    "w": 328,
+    "h": 24,
+    "text": "Thank you Page/Area Link is:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > h1#enpart",
+    "x": 0,
+    "y": 1176,
+    "w": 360,
+    "h": 44,
+    "level": 1,
+    "text": "/en/part/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 1228,
+    "w": 360,
+    "h": 24,
+    "text": "About Coveo Sitemap Page Paths:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1252,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/about/company Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1300,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/contact-us Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1348,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/about/our-stories Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1396,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/about/events Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1444,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/about/press Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1492,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/about/investor Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1540,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/careers Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1588,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/our-stories Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1636,
+    "w": 328,
+    "h": 24,
+    "text": "Path: /content/ifx/de Include Childrens :"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1660,
+    "w": 328,
+    "h": 24,
+    "text": "Path: /content/ifx/de/glossary Include Childrens :"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1684,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/regional Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1732,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/about Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1780,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/support Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1828,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/quality Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1876,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/university-alliance Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 1924,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/technology Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 1988,
+    "w": 360,
+    "h": 24,
+    "text": "Press Coveo Sitemap Page Paths:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2012,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/press-release Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2060,
+    "w": 328,
+    "h": 48,
+    "text": "Path: /content/ifx/de/technology-news Include Childrens : true"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 2124,
+    "w": 360,
+    "h": 24,
+    "text": "Dynamic Sitemap Root Paths:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2148,
+    "w": 328,
+    "h": 24,
+    "text": "Dynamic Sitemap Root Path: /content/ifx/de/part"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2172,
+    "w": 328,
+    "h": 48,
+    "text": "Dynamic Sitemap Root Path: /content/ifx/de/evaluation-board"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2220,
+    "w": 328,
+    "h": 48,
+    "text": "Dynamic Sitemap Root Path: /content/ifx/de/package"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2268,
+    "w": 328,
+    "h": 48,
+    "text": "Dynamic Sitemap Root Path: /content/ifx/de/package-family"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 2332,
+    "w": 360,
+    "h": 24,
+    "text": "Document Root Paths: Video Root Paths:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2356,
+    "w": 328,
+    "h": 24,
+    "text": "/content/dam/infineon/row/public/videos/60"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2380,
+    "w": 328,
+    "h": 24,
+    "text": "/content/dam/infineon/row/public/videos/10"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2404,
+    "w": 328,
+    "h": 24,
+    "text": "/content/dam/infineon/row/public/videos/24"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2428,
+    "w": 328,
+    "h": 24,
+    "text": "/content/dam/infineon/row/public/videos/30"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 2468,
+    "w": 360,
+    "h": 24,
+    "text": "Public Promo Page URL:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2492,
+    "w": 328,
+    "h": 24,
+    "text": "/content/ifx/de/document-promo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 2532,
+    "w": 360,
+    "h": 24,
+    "text": "Gated Promo Page URL:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2556,
+    "w": 328,
+    "h": 24,
+    "text": "/content/ifx/de/gated"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 2596,
+    "w": 360,
+    "h": 72,
+    "text": "Configure the File Extensions for which below specified special thumbnail is sho"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2668,
+    "w": 328,
+    "h": 24,
+    "text": "ppt, pptx"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 2708,
+    "w": 360,
+    "h": 48,
+    "text": "Configure a Special Thumbnail Image to be displayed for the above specified exte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2756,
+    "w": 328,
+    "h": 48,
+    "text": "/content/dam/infineon/row/public/images/placeholder-images/file-ppt.jpg"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 2820,
+    "w": 360,
+    "h": 48,
+    "text": "Configure Extensions for which the it's original thumbnail should be displayed:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2868,
+    "w": 328,
+    "h": 24,
+    "text": "pdf, zip"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 2908,
+    "w": 360,
+    "h": 72,
+    "text": "Configure default placeholder Image for remaining extensions and fallback image "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 2980,
+    "w": 328,
+    "h": 48,
+    "text": "/content/dam/infineon/row/public/images/placeholder-images/file-default-preview."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 3044,
+    "w": 360,
+    "h": 24,
+    "text": "******** Articles Path *********"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 3068,
+    "w": 328,
+    "h": 24,
+    "text": "/content/ifx/de/our-stories"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 3092,
+    "w": 328,
+    "h": 24,
+    "text": "/content/ifx/de/partners/partner-news"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 3132,
+    "w": 360,
+    "h": 24,
+    "text": "******** Market News Path *********"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 3156,
+    "w": 328,
+    "h": 24,
+    "text": "/content/ifx/de/technology-news"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 3196,
+    "w": 360,
+    "h": 24,
+    "text": "******** Press Release Path *********"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 3220,
+    "w": 328,
+    "h": 24,
+    "text": "/content/ifx/de/press-release"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 3260,
+    "w": 360,
+    "h": 24,
+    "text": "Events Root Paths are"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 3284,
+    "w": 328,
+    "h": 24,
+    "text": "/content/ifx/en/event"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list-body > ul > li",
+    "x": 32,
+    "y": 3308,
+    "w": 328,
+    "h": 48,
+    "text": "/content/experience-fragments/ifx/language-masters/en/site/Events-XF"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 3372,
+    "w": 360,
+    "h": 48,
+    "text": "IFX Contact Sales Configured Email is : Contact_Sales@email.com"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > p",
+    "x": 0,
+    "y": 3420,
+    "w": 360,
+    "h": 48,
+    "text": "IFX Contact Sales Configured Email Subject is : Contact Sales Subject"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.config-list.block > div.config-list-body > h3#currency-symbol-mappings",
+    "x": 0,
+    "y": 3468,
+    "w": 360,
+    "h": 30,
+    "level": 3,
+    "text": "currency symbol mappings"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 42,
+    "y": 3523,
+    "w": 119,
+    "h": 24,
+    "text": "Label"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 178,
+    "y": 3523,
+    "w": 445,
+    "h": 24,
+    "text": "Country Code"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 3568,
+    "w": 119,
+    "h": 24,
+    "text": "US-Dollar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > code",
+    "x": 178,
+    "y": 3573,
+    "w": 92,
+    "h": 16,
+    "text": "US,MX,VN,BR"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 3601,
+    "w": 119,
+    "h": 48,
+    "text": "Kanadischer Dollar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 3658,
+    "w": 119,
+    "h": 24,
+    "text": "Euro"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > code",
+    "x": 178,
+    "y": 3663,
+    "w": 445,
+    "h": 16,
+    "text": "AT,BE,BG,EE,FI,FR,DE,GR,IE,IT,LV,LT,LU,NL,PT,SK,SI,ES"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 3691,
+    "w": 119,
+    "h": 24,
+    "text": "Japanischer Yen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 3724,
+    "w": 119,
+    "h": 48,
+    "text": "Südkoreanischer Won"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 3781,
+    "w": 119,
+    "h": 48,
+    "text": "Südafrikanischer Rand"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 3838,
+    "w": 119,
+    "h": 24,
+    "text": "Hongkong-Dollar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 3871,
+    "w": 119,
+    "h": 24,
+    "text": "Indische Rupie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 3904,
+    "w": 119,
+    "h": 48,
+    "text": "Malaysischer Ringgit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 3961,
+    "w": 119,
+    "h": 48,
+    "text": "Philippinischer Peso"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 4018,
+    "w": 119,
+    "h": 24,
+    "text": "Singapur-Dollar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 4051,
+    "w": 119,
+    "h": 72,
+    "text": "Neuer Taiwanischer Dollar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 4132,
+    "w": 119,
+    "h": 48,
+    "text": "Thailändischer Baht"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 4189,
+    "w": 119,
+    "h": 48,
+    "text": "Australischer Dollar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 4246,
+    "w": 119,
+    "h": 48,
+    "text": "Neuseeländischer Dollar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 4303,
+    "w": 119,
+    "h": 48,
+    "text": "Tschechische Krone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 4360,
+    "w": 119,
+    "h": 24,
+    "text": "Dänische Krone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 4393,
+    "w": 119,
+    "h": 48,
+    "text": "Ungarischer Forint"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 4450,
+    "w": 119,
+    "h": 48,
+    "text": "Norwegische Krone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 4507,
+    "w": 119,
+    "h": 24,
+    "text": "Polnischer Złoty"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 4540,
+    "w": 119,
+    "h": 24,
+    "text": "Rumänischer Leu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 4573,
+    "w": 119,
+    "h": 48,
+    "text": "Schwedische Krone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 4630,
+    "w": 119,
+    "h": 48,
+    "text": "Schweizer Franken"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 42,
+    "y": 4687,
+    "w": 119,
+    "h": 48,
+    "text": "Britisches Pfund Sterling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 16,
+    "y": 4818,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 16,
+    "y": 4780,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 4881,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 4921,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 4963,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5005,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5047,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5089,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 196,
+    "y": 4881,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 4921,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 4963,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 5005,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 5073,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 5115,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 5157,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 5223,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5263,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5305,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5347,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 32,
+    "y": 5413,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 5453,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 5495,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 5537,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 5579,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5645,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 192,
+    "y": 5645,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5675,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 188,
+    "y": 5675,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 21,
+    "y": 5710,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 5763,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 5763,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 5763,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 136,
+    "y": 5760,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 136,
+    "y": 5760,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 176,
+    "y": 5763,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 4,
+    "offPage": 50,
+    "textNodes": 252,
+    "controls": 35,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 3,
+     "clipper": null,
+     "path": "div.config-list.block > div.config-list-body > ul > li",
+     "text": "//www.youtube.com/channel/ucotflchmpx0vbfxvxymcu9w",
+     "cutMin": 48,
+     "cutMax": 76
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": null,
+     "path": "tr > td > p > code",
+     "text": "at,be,bg,ee,fi,fr,de,gr,ie,it,lv,lt,lu,nl,pt,sk,si,es",
+     "cutMin": 264,
+     "cutMax": 264
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 76,
+     "path": "div.config-list.block > div.config-list-body > ul > li",
+     "text": "//www.youtube.com/channel/ucotflchmpx0vbfxvxymcu9w",
+     "clipper": null,
+     "rect": {
+      "l": 32,
+      "t": 466,
+      "r": 436,
+      "b": 488,
+      "w": 404,
+      "h": 22
+     },
+     "clip": null,
+     "lines": 1
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 48,
+     "path": "div.config-list.block > div.config-list-body > ul > li",
+     "text": "/content/dam/infineon/row/public/images/placeholder-images/f",
+     "clipper": null,
+     "rect": {
+      "l": 32,
+      "t": 2757,
+      "r": 408,
+      "b": 2779,
+      "w": 376,
+      "h": 22
+     },
+     "clip": null,
+     "lines": 2
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 48,
+     "path": "div.config-list.block > div.config-list-body > ul > li",
+     "text": "/content/dam/infineon/row/public/images/placeholder-images/f",
+     "clipper": null,
+     "rect": {
+      "l": 32,
+      "t": 2981,
+      "r": 408,
+      "b": 3003,
+      "w": 376,
+      "h": 22
+     },
+     "clip": null,
+     "lines": 2
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 264,
+     "path": "tr > td > p > code",
+     "text": "at,be,bg,ee,fi,fr,de,gr,ie,it,lv,lt,lu,nl,pt,sk,si,es",
+     "clipper": null,
+     "rect": {
+      "l": 178,
+      "t": 3663,
+      "r": 624,
+      "b": 3679,
+      "w": 445,
+      "h": 16
+     },
+     "clip": null,
+     "lines": 1
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 112,
+    "textHidden": 0,
+    "image": 5,
+    "imageHidden": 0
+   },
+   "findings": [
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"/en/part/\" (y 1176) has no origin heading",
+   "text": "/en/part/"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"currency symbol mappings\" (y 3468) has no origin heading",
+   "text": "currency symbol mappings"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"(top)\": 1 origin → 112 served visible",
+   "band": 0,
+   "origin": 1,
+   "eds": 112,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"(top)\": 0 origin → 5 served visible",
+   "band": 0,
+   "origin": 0,
+   "eds": 5,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 2,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 4,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 0,
+    "y": 62,
+    "w": 146,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 86,
+    "w": 62,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 110,
+    "w": 38,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 134,
+    "w": 64,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 158,
+    "w": 58,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 198,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 222,
+    "w": 146,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 246,
+    "w": 235,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 270,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 294,
+    "w": 237,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 318,
+    "w": 301,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 342,
+    "w": 228,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 366,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 390,
+    "w": 92,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 414,
+    "w": 228,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 438,
+    "w": 447,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 462,
+    "w": 214,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 486,
+    "w": 323,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 526,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 550,
+    "w": 258,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 574,
+    "w": 148,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 598,
+    "w": 226,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 622,
+    "w": 275,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 646,
+    "w": 257,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 670,
+    "w": 167,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 694,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 718,
+    "w": 263,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 742,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 766,
+    "w": 180,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 790,
+    "w": 178,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 814,
+    "w": 203,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 838,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 862,
+    "w": 64,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 886,
+    "w": 276,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 910,
+    "w": 223,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 934,
+    "w": 242,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 958,
+    "w": 198,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 982,
+    "w": 176,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1006,
+    "w": 202,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1030,
+    "w": 223,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1054,
+    "w": 151,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1078,
+    "w": 204,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1102,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 1140,
+    "w": 121,
+    "h": 46
+   },
+   {
+    "x": 0,
+    "y": 1194,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1218,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1242,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1266,
+    "w": 266,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1290,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1314,
+    "w": 313,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1338,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1362,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1386,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1410,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1434,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1458,
+    "w": 296,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1482,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1506,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1530,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1554,
+    "w": 268,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1578,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1602,
+    "w": 265,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1626,
+    "w": 326,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1650,
+    "w": 325,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1674,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1698,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1722,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1746,
+    "w": 323,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1770,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1794,
+    "w": 317,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1818,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1842,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1866,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1890,
+    "w": 272,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1914,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 1954,
+    "w": 219,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1978,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2002,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2026,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2050,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2090,
+    "w": 196,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2114,
+    "w": 327,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2138,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2162,
+    "w": 221,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2186,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2210,
+    "w": 162,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2234,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2258,
+    "w": 208,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2298,
+    "w": 152,
+    "h": 22
+   },
+   {
+    "x": 152,
+    "y": 2298,
+    "w": 117,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2322,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2346,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2370,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2394,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2434,
+    "w": 160,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2458,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2482,
+    "w": 158,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2506,
+    "w": 144,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2554,
+    "w": 302,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2578,
+    "w": 336,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2602,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2626,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2650,
+    "w": 354,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2674,
+    "w": 230,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2698,
+    "w": 376,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2722,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2770,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2794,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2818,
+    "w": 48,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2842,
+    "w": 337,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2866,
+    "w": 323,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2890,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2914,
+    "w": 376,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2938,
+    "w": 209,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2986,
+    "w": 203,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3010,
+    "w": 178,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3034,
+    "w": 258,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3074,
+    "w": 239,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3098,
+    "w": 221,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3138,
+    "w": 244,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3162,
+    "w": 195,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3202,
+    "w": 144,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3226,
+    "w": 143,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3250,
+    "w": 302,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3274,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3314,
+    "w": 253,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3338,
+    "w": 179,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3362,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3386,
+    "w": 145,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3408,
+    "w": 252,
+    "h": 32
+   },
+   {
+    "x": 9,
+    "y": 3465,
+    "w": 9,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3465,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3465,
+    "w": 98,
+    "h": 22
+   },
+   {
+    "x": 9,
+    "y": 3510,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3510,
+    "w": 64,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3514,
+    "w": 92,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3555,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3543,
+    "w": 83,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3567,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3559,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3600,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3600,
+    "w": 31,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3604,
+    "w": 445,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3633,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3633,
+    "w": 108,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3637,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3678,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3666,
+    "w": 112,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3690,
+    "w": 30,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3682,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3735,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3723,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3747,
+    "w": 35,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3739,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3780,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3780,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3784,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3813,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3813,
+    "w": 98,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3817,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3858,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3846,
+    "w": 86,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3870,
+    "w": 47,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3862,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3915,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3903,
+    "w": 100,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3927,
+    "w": 32,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3919,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3960,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3960,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3964,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4017,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3993,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4017,
+    "w": 88,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4041,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4021,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4086,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4074,
+    "w": 99,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4098,
+    "w": 32,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4090,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4143,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4131,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4155,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4147,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4200,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4188,
+    "w": 119,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4212,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4204,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4257,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4245,
+    "w": 89,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4269,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4261,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4302,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4302,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4306,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4347,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4335,
+    "w": 81,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4359,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4351,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4404,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4392,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4416,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4408,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4449,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4449,
+    "w": 108,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4453,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4482,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4482,
+    "w": 115,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4486,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4527,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4515,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4539,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4531,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4584,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4572,
+    "w": 68,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4596,
+    "w": 54,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4588,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4641,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4629,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4653,
+    "w": 52,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4645,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 16,
+    "y": 4816,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4855,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4897,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4939,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4981,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5023,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4816,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 4855,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4897,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4939,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4965,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5007,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5049,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5091,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5158,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5197,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5239,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5281,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 5348,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 5387,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 5429,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 5471,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 5513,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 5584,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 5584,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 5614,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 5614,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 5644,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 5644,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 5644,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 0,
+    "y": 62,
+    "w": 146,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 86,
+    "w": 62,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 110,
+    "w": 38,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 134,
+    "w": 64,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 158,
+    "w": 58,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 198,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 222,
+    "w": 146,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 253,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 277,
+    "w": 205,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 308,
+    "w": 241,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 332,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 363,
+    "w": 231,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 387,
+    "w": 269,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 411,
+    "w": 92,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 442,
+    "w": 231,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 466,
+    "w": 404,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 497,
+    "w": 218,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 521,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 561,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 585,
+    "w": 258,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 609,
+    "w": 148,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 633,
+    "w": 226,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 657,
+    "w": 275,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 681,
+    "w": 257,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 705,
+    "w": 167,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 729,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 753,
+    "w": 263,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 777,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 801,
+    "w": 180,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 825,
+    "w": 178,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 849,
+    "w": 203,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 873,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 897,
+    "w": 64,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 921,
+    "w": 276,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 945,
+    "w": 223,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 969,
+    "w": 242,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 993,
+    "w": 198,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1017,
+    "w": 176,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1041,
+    "w": 202,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1065,
+    "w": 223,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1089,
+    "w": 151,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1113,
+    "w": 204,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1137,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 1175,
+    "w": 121,
+    "h": 46
+   },
+   {
+    "x": 0,
+    "y": 1229,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1253,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1277,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1301,
+    "w": 266,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1325,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1349,
+    "w": 313,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1373,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1397,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1421,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1445,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1469,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1493,
+    "w": 296,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1517,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1541,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1565,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1589,
+    "w": 268,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1613,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1637,
+    "w": 265,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1661,
+    "w": 326,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1685,
+    "w": 325,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1709,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1733,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1757,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1781,
+    "w": 323,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1805,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1829,
+    "w": 317,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1853,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1877,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1901,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1925,
+    "w": 272,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1949,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 1989,
+    "w": 219,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2013,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2037,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2061,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2085,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2125,
+    "w": 196,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2149,
+    "w": 327,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2173,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2197,
+    "w": 221,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2221,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2245,
+    "w": 162,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2269,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2293,
+    "w": 208,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2333,
+    "w": 268,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2357,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2381,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2405,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2429,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2469,
+    "w": 160,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2493,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2533,
+    "w": 158,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2557,
+    "w": 144,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2597,
+    "w": 302,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2621,
+    "w": 336,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2645,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2669,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2709,
+    "w": 354,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2733,
+    "w": 230,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2757,
+    "w": 376,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2781,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2821,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2845,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2869,
+    "w": 48,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2909,
+    "w": 337,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2933,
+    "w": 323,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 2957,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2981,
+    "w": 376,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3005,
+    "w": 209,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3045,
+    "w": 203,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3069,
+    "w": 178,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3093,
+    "w": 258,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3133,
+    "w": 239,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3157,
+    "w": 221,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3197,
+    "w": 244,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3221,
+    "w": 195,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3261,
+    "w": 144,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3285,
+    "w": 143,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3309,
+    "w": 302,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3333,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3373,
+    "w": 253,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3397,
+    "w": 179,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3421,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3445,
+    "w": 145,
+    "h": 22
+   },
+   {
+    "x": 0,
+    "y": 3467,
+    "w": 252,
+    "h": 32
+   },
+   {
+    "x": 9,
+    "y": 3524,
+    "w": 9,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3524,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3524,
+    "w": 98,
+    "h": 22
+   },
+   {
+    "x": 9,
+    "y": 3569,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3569,
+    "w": 64,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3573,
+    "w": 92,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3614,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3602,
+    "w": 83,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3626,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3618,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3659,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3659,
+    "w": 31,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3663,
+    "w": 445,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3692,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3692,
+    "w": 108,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3696,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3737,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3725,
+    "w": 112,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3749,
+    "w": 30,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3741,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3794,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3782,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3806,
+    "w": 35,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3798,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3839,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3839,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3843,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3872,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3872,
+    "w": 98,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3876,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3917,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3905,
+    "w": 86,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3929,
+    "w": 47,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3921,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 3974,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3962,
+    "w": 100,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 3986,
+    "w": 32,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 3978,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4019,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4019,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4023,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4076,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4052,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4076,
+    "w": 88,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4100,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4080,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4145,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4133,
+    "w": 99,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4157,
+    "w": 32,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4149,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4202,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4190,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4214,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4206,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4259,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4247,
+    "w": 119,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4271,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4263,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4316,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4304,
+    "w": 89,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4328,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4320,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4361,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4361,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4365,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4406,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4394,
+    "w": 81,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4418,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4410,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4463,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4451,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4475,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4467,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4508,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4508,
+    "w": 108,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4512,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4541,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4541,
+    "w": 115,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4545,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4586,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4574,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4598,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4590,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4643,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4631,
+    "w": 68,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4655,
+    "w": 54,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4647,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 9,
+    "y": 4700,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4688,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 4712,
+    "w": 52,
+    "h": 22
+   },
+   {
+    "x": 178,
+    "y": 4704,
+    "w": 17,
+    "h": 16
+   },
+   {
+    "x": 16,
+    "y": 4882,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4921,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4963,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5005,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5047,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5089,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4882,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 4921,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4963,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5005,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5031,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5073,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5115,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5157,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5224,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5263,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5305,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5347,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 5414,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 5453,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 5495,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 5537,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 5579,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 5650,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 5650,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 5680,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 5680,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 5710,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 5710,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 5710,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

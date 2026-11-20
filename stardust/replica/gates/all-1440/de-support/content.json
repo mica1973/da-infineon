@@ -1,0 +1,4841 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:05:14.273Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/support",
+  "at": "2026-11-18T23:04:57.657Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 2784,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems0",
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems1",
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems2",
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems3",
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems4",
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/support"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 714,
+    "y": 16,
+    "w": 197,
+    "h": 36,
+    "label": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die suche zu aktivieren.",
+    "value": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die ",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "text": "navbardropdown"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "label": "navbardropdown",
+    "value": "navbardropdown",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-1",
+    "x": 1072,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.nav-item.desktopProfile > div.login-dropdown > button.login-button",
+    "x": 1132,
+    "y": 14,
+    "w": 248,
+    "h": 40,
+    "text": "anmeldung zu myinfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.genericBreadcrumb-component.add-gaps > div.genericBreadcrumb-links > a.text-decoration-none.home",
+    "x": 96,
+    "y": 83,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.genericBreadcrumb-links > div.lastBreadcrumb > p.current-page",
+    "x": 164,
+    "y": 83,
+    "w": 48,
+    "h": 20,
+    "text": "Support"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1290,
+    "y": 83,
+    "w": 22,
+    "h": 26,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1290,
+    "y": 83,
+    "w": 22,
+    "h": 26,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.dropdown.d-flex > div.selected-icon.page-data-js > button.icon-wrapper.px-0",
+    "x": 1328,
+    "y": 83,
+    "w": 16,
+    "h": 26,
+    "text": "bookmaarkclick"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "header > div.page-header.simple-header-component > h1.heading-03",
+    "x": 96,
+    "y": 178,
+    "w": 1248,
+    "h": 36,
+    "level": 1,
+    "text": "support hub"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.page-header.simple-header-component > div > div.desc-content-sph",
+    "x": 96,
+    "y": 214,
+    "w": 1248,
+    "h": 26,
+    "text": "Nutzen Sie Support-Ressourcen, FAQs, Tools und Kontaktoptionen, um gängige Probl"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul#menu > li > a#id-tech",
+    "x": 96,
+    "y": 288,
+    "w": 158,
+    "h": 16,
+    "text": "technischer support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul#menu > li > a#id-faq",
+    "x": 254,
+    "y": 288,
+    "w": 168,
+    "h": 42,
+    "text": "häufig gestellte fragen",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul#menu > li > a#id-contact",
+    "x": 422,
+    "y": 288,
+    "w": 69,
+    "h": 42,
+    "text": "kontakt",
+    "href": "/de/support"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-aafdbabe67 > h3#tech",
+    "x": 96,
+    "y": 386,
+    "w": 1248,
+    "h": 36,
+    "level": 3,
+    "text": "technischer support"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-37f9023507 > p",
+    "x": 96,
+    "y": 430,
+    "w": 1248,
+    "h": 52,
+    "text": "Fragen Sie unseren digitalen KI-Assistenten, vernetzen Sie sich mit Ingenieuren "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--ocean > div.ifx-card-header > h5.ifx-card-title",
+    "x": 153,
+    "y": 547,
+    "w": 318,
+    "h": 28,
+    "level": 5,
+    "text": "ki-assistent fragen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-grid > div.ifx-card-item.ifx-card-item--ocean > p.ifx-card-description",
+    "x": 121,
+    "y": 583,
+    "w": 350,
+    "h": 78,
+    "text": "Nutzen Sie Infineons KI-gestützten Assistenten, um Design, Fehlerbehebung und Pr"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--ocean > div.ifx-card-links-list > a.ifx-card-link",
+    "x": 121,
+    "y": 677,
+    "w": 350,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/ask-ai"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-header > h5.ifx-card-title",
+    "x": 577,
+    "y": 547,
+    "w": 318,
+    "h": 28,
+    "level": 5,
+    "text": "gelöste themen durchsuchen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-grid > div.ifx-card-item.ifx-card-item--white > p.ifx-card-description",
+    "x": 545,
+    "y": 583,
+    "w": 350,
+    "h": 78,
+    "text": "Technische Diskussionen und verifizierte Antworten zu Fragen rund um Tools, Soft"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-links-list > a.ifx-card-link",
+    "x": 545,
+    "y": 677,
+    "w": 350,
+    "h": 24,
+    "text": "zur community",
+    "href": "/t5/Forums/ct-p/products"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-header > h5.ifx-card-title",
+    "x": 1001,
+    "y": 547,
+    "w": 318,
+    "h": 28,
+    "level": 5,
+    "text": "community fragen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-grid > div.ifx-card-item.ifx-card-item--white > p.ifx-card-description",
+    "x": 969,
+    "y": 583,
+    "w": 350,
+    "h": 78,
+    "text": "Beschreiben Sie Ihr Setup und Herausforderungen, um gezielte Empfehlungen von er"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-links-list > a.ifx-card-link",
+    "x": 969,
+    "y": 677,
+    "w": 350,
+    "h": 24,
+    "text": "frage stellen",
+    "href": "/t5/forums/postpage/choose-node/true"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-b5463326cc > h3#faq",
+    "x": 96,
+    "y": 854,
+    "w": 1248,
+    "h": 36,
+    "level": 3,
+    "text": "häufig gestellte fragen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-8bf2a2039f > p",
+    "x": 96,
+    "y": 898,
+    "w": 1248,
+    "h": 26,
+    "text": "Durchsuchen Sie häufige Fragen und Antworten nach Themen, um rasch Lösungen und "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-header > h5.ifx-card-title",
+    "x": 153,
+    "y": 989,
+    "w": 318,
+    "h": 28,
+    "level": 5,
+    "text": "produkt support"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-grid > div.ifx-card-item.ifx-card-item--white > p.ifx-card-description",
+    "x": 121,
+    "y": 1025,
+    "w": 350,
+    "h": 26,
+    "text": "Haben Sie Fragen zu bestimmten Produkten?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-links-list > a.ifx-card-link",
+    "x": 121,
+    "y": 1067,
+    "w": 350,
+    "h": 24,
+    "text": "faqs entdecken",
+    "href": "/de/support/faqs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-header > h5.ifx-card-title",
+    "x": 577,
+    "y": 989,
+    "w": 318,
+    "h": 28,
+    "level": 5,
+    "text": "bestellung, versand & preise"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-grid > div.ifx-card-item.ifx-card-item--white > p.ifx-card-description",
+    "x": 545,
+    "y": 1025,
+    "w": 350,
+    "h": 52,
+    "text": "Fragen zu Vertrieb, Bestellung, Versand, Preisen oder zur Produktverfügbarkeit?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-links-list > a.ifx-card-link",
+    "x": 545,
+    "y": 1093,
+    "w": 350,
+    "h": 24,
+    "text": "faqs entdecken",
+    "href": "/de/support/faqs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-header > h5.ifx-card-title",
+    "x": 1001,
+    "y": 989,
+    "w": 318,
+    "h": 28,
+    "level": 5,
+    "text": "qualität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-grid > div.ifx-card-item.ifx-card-item--white > p.ifx-card-description",
+    "x": 969,
+    "y": 1025,
+    "w": 350,
+    "h": 26,
+    "text": "Fragen zum Thema Qualität?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-links-list > a.ifx-card-link",
+    "x": 969,
+    "y": 1067,
+    "w": 350,
+    "h": 24,
+    "text": "faqs entdecken",
+    "href": "/de/support/faqs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-header > h5.ifx-card-title",
+    "x": 153,
+    "y": 1191,
+    "w": 318,
+    "h": 28,
+    "level": 5,
+    "text": "myinfineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-grid > div.ifx-card-item.ifx-card-item--white > p.ifx-card-description",
+    "x": 121,
+    "y": 1227,
+    "w": 350,
+    "h": 52,
+    "text": "Benötigen Sie Hilfe bei Ihrem myInfineon-Konto, der Registrierung oder dem Login"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-links-list > a.ifx-card-link",
+    "x": 121,
+    "y": 1295,
+    "w": 350,
+    "h": 24,
+    "text": "schritt-für-schritt anleitung",
+    "href": "/support/myinfineon-support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-links-list > a.ifx-card-link",
+    "x": 121,
+    "y": 1327,
+    "w": 350,
+    "h": 24,
+    "text": "faqs entdecken",
+    "href": "/de/support/faqs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-header > h5.ifx-card-title",
+    "x": 577,
+    "y": 1191,
+    "w": 318,
+    "h": 28,
+    "level": 5,
+    "text": "hr & karriere"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-grid > div.ifx-card-item.ifx-card-item--white > p.ifx-card-description",
+    "x": 545,
+    "y": 1227,
+    "w": 350,
+    "h": 52,
+    "text": "Fragen zum Bewerbungsprozess oder auf der Suche nach einem HR-Kontakt?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-links-list > a.ifx-card-link",
+    "x": 545,
+    "y": 1295,
+    "w": 350,
+    "h": 24,
+    "text": "faqs entdecken",
+    "href": "/de/support/faqs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-header > h5.ifx-card-title",
+    "x": 1001,
+    "y": 1191,
+    "w": 318,
+    "h": 28,
+    "level": 5,
+    "text": "marketing, presse & events"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-grid > div.ifx-card-item.ifx-card-item--white > p.ifx-card-description",
+    "x": 969,
+    "y": 1227,
+    "w": 350,
+    "h": 26,
+    "text": "Fragen zu Unternehmensthemen oder Events?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.ifx-card-item.ifx-card-item--white > div.ifx-card-links-list > a.ifx-card-link",
+    "x": 969,
+    "y": 1269,
+    "w": 350,
+    "h": 24,
+    "text": "faqs entdecken",
+    "href": "/de/support/faqs"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.btn-col > div.selected-icon.gaparound > a.reusebtn.standard",
+    "x": 96,
+    "y": 1400,
+    "w": 160,
+    "h": 48,
+    "text": "alle faqs anzeigen",
+    "href": "/de/support/faqs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-69e467c0fa > h1.dynamicAnchors.heading-03",
+    "x": 96,
+    "y": 1576,
+    "w": 1248,
+    "h": 36,
+    "level": 1,
+    "text": "hilfreiche links"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-4f1449cfde > h1.dynamicAnchors.heading-05",
+    "x": 96,
+    "y": 1644,
+    "w": 400,
+    "h": 28,
+    "level": 1,
+    "text": "finder und selection tools"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 96,
+    "y": 1688,
+    "w": 122,
+    "h": 24,
+    "text": "produktfinder",
+    "href": "/content/ifx/en/search/product-finder.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 96,
+    "y": 1728,
+    "w": 217,
+    "h": 24,
+    "text": "alle finder & selection tools",
+    "href": "/design-resources/finder-selection-tools"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 96,
+    "y": 1768,
+    "w": 153,
+    "h": 24,
+    "text": "querverweissuche",
+    "href": "/content/ifx/de/search/cross-reference-search.html"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-39c21e3200 > h1.dynamicAnchors.heading-05",
+    "x": 512,
+    "y": 1644,
+    "w": 400,
+    "h": 28,
+    "level": 1,
+    "text": "training und tutorials"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 512,
+    "y": 1688,
+    "w": 113,
+    "h": 24,
+    "text": "training hub",
+    "href": "/de/training/training-hub"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 512,
+    "y": 1728,
+    "w": 90,
+    "h": 24,
+    "text": "webinare",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-4bbd31122e > h1.dynamicAnchors.heading-05",
+    "x": 928,
+    "y": 1644,
+    "w": 400,
+    "h": 28,
+    "level": 1,
+    "text": "meine anfragen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 928,
+    "y": 1688,
+    "w": 213,
+    "h": 24,
+    "text": "meinen support-fall prüfen",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 928,
+    "y": 1728,
+    "w": 216,
+    "h": 24,
+    "text": "meinen bestellstatus prüfen",
+    "href": "/de/login/dashboard/orders"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.application-main.ifx-fixed > div.support-heading > h2#contact",
+    "x": 96,
+    "y": 1912,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "kontakt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.need-technical-help.col-sm-12 > div.text-center > span.help-title",
+    "x": 330,
+    "y": 2011,
+    "w": 317,
+    "h": 20,
+    "text": "Benötigen Sie technische Hilfe?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.need-technical-help.col-sm-12 > div.help-buttons > a.offramp-button.offramp-button-filled",
+    "x": 320,
+    "y": 2057,
+    "w": 139,
+    "h": 48,
+    "text": "zur community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.need-technical-help.col-sm-12 > div.help-buttons > a.offramp-button.offramp-button-outline",
+    "x": 476,
+    "y": 2057,
+    "w": 181,
+    "h": 48,
+    "text": "support-fall erstellen",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.need-technical-help.col-sm-12 > div.help-tools.left-anchor-links > span.urgent-question",
+    "x": 345,
+    "y": 2130,
+    "w": 131,
+    "h": 20,
+    "text": "Bei dringenden Fragen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.help-tools.left-anchor-links > div.iconlink-item.selected-icon > a.hotline-number.text-decoration-none",
+    "x": 525,
+    "y": 2129,
+    "w": 107,
+    "h": 21,
+    "text": "hotline-nummern",
+    "href": "/de/support/service-center"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.have-other-questions.col-sm-12 > div.text-center > span.question-title",
+    "x": 931,
+    "y": 2011,
+    "w": 231,
+    "h": 20,
+    "text": "Haben Sie noch Fragen?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.have-other-questions.col-sm-12 > div.view-contacts > a.offramp-button.offramp-button-outline",
+    "x": 966,
+    "y": 2057,
+    "w": 161,
+    "h": 48,
+    "text": "zu allen kontakten",
+    "href": "/content/ifx/de/contact-us.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.have-other-questions.col-sm-12 > div.question-contacts > span.fequently-contact",
+    "x": 785,
+    "y": 2130,
+    "w": 106,
+    "h": 20,
+    "text": "Häufig kontaktiert"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.question-contacts > div.iconlink-item.selected-icon > a.investor-relations.anchor-text",
+    "x": 939,
+    "y": 2129,
+    "w": 140,
+    "h": 21,
+    "text": "personalwesen/karriere",
+    "href": "/de/careers/hr-contacts"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.question-contacts > div.iconlink-item.selected-icon > a.investor-relations.anchor-text",
+    "x": 1127,
+    "y": 2129,
+    "w": 102,
+    "h": 21,
+    "text": "investor relations",
+    "href": "/de/about/investor/contacts"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.question-contacts > div.iconlink-item.selected-icon > a.investor-relations.anchor-text",
+    "x": 1277,
+    "y": 2129,
+    "w": 31,
+    "h": 21,
+    "text": "sales",
+    "href": "/en/authenticated/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 96,
+    "y": 2310,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 367,
+    "y": 2310,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 2366,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 2408,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 2450,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 2492,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 2534,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 619,
+    "y": 2310,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 2366,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 2408,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 2450,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 2492,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 2534,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 2576,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 926,
+    "y": 2310,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 2366,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 2408,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 2450,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 1193,
+    "y": 2310,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 2366,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 2408,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 2450,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 2492,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 96,
+    "y": 2714,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 272,
+    "y": 2714,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 380,
+    "y": 2714,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 647,
+    "y": 2719,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 1168,
+    "y": 2718,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 1208,
+    "y": 2718,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 1248,
+    "y": 2718,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 1288,
+    "y": 2715,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 1288,
+    "y": 2719,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 1328,
+    "y": 2718,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > div.sc-fFCZOx.jRYtdz > button#da-icon",
+    "x": 1293,
+    "y": 784,
+    "w": 137,
+    "h": 62,
+    "text": "ask ai"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > div.sc-fFCZOx.jRYtdz > button#da-icon",
+    "x": 1293,
+    "y": 784,
+    "w": 137,
+    "h": 62,
+    "label": "trigger",
+    "value": "ask ai",
+    "via": "trigger"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 99,
+    "controls": 68,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/support",
+  "at": "2026-11-18T23:05:14.161Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 2774,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 166,
+    "y": 21,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/products"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 243,
+    "y": 21,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/applications"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 353,
+    "y": 21,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/design-resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 487,
+    "y": 21,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 629,
+    "y": 21,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/about"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "sprache"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "sprache",
+    "value": "sprache",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-login > p > a",
+    "x": 1132,
+    "y": 13,
+    "w": 207,
+    "h": 40,
+    "text": "anmeldung zu myinfineon",
+    "href": "/de/login.login.de.json"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 83,
+    "w": 35,
+    "h": 20,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.breadcrumb-trail > ul > li",
+    "x": 131,
+    "y": 83,
+    "w": 81,
+    "h": 20,
+    "text": "Support"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-header-comp > div.page-header-head > h1#support-hub",
+    "x": 96,
+    "y": 178,
+    "w": 1248,
+    "h": 36,
+    "level": 1,
+    "text": "support hub"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-header-comp > div.page-header-head > p",
+    "x": 96,
+    "y": 214,
+    "w": 1248,
+    "h": 26,
+    "text": "Nutzen Sie Support-Ressourcen, FAQs, Tools und Kontaktoptionen, um gängige Probl"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 240,
+    "w": 154,
+    "h": 42,
+    "text": "technischer support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 253,
+    "y": 240,
+    "w": 168,
+    "h": 42,
+    "text": "häufig gestellte fragen",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 425,
+    "y": 240,
+    "w": 69,
+    "h": 42,
+    "text": "kontakt",
+    "href": "/de/support"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.link-cards-inner > div.link-cards-head > h3#tech",
+    "x": 96,
+    "y": 394,
+    "w": 1248,
+    "h": 36,
+    "level": 3,
+    "text": "technischer support"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.link-cards-inner > div.link-cards-head > p",
+    "x": 96,
+    "y": 438,
+    "w": 1248,
+    "h": 52,
+    "text": "Fragen Sie unseren digitalen KI-Assistenten, vernetzen Sie sich mit Ingenieuren "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-head > h5#ki-assistent-fragen",
+    "x": 153,
+    "y": 555,
+    "w": 157,
+    "h": 28,
+    "level": 5,
+    "text": "ki-assistent fragen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-body > p",
+    "x": 121,
+    "y": 591,
+    "w": 350,
+    "h": 78,
+    "text": "Nutzen Sie Infineons KI-gestützten Assistenten, um Design, Fehlerbehebung und Pr"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.link-cards-card-links > p > a",
+    "x": 121,
+    "y": 685,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/ask-ai"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-head > h5#gelöste-themen-durchsuchen",
+    "x": 577,
+    "y": 555,
+    "w": 249,
+    "h": 28,
+    "level": 5,
+    "text": "gelöste themen durchsuchen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-body > p",
+    "x": 545,
+    "y": 591,
+    "w": 350,
+    "h": 78,
+    "text": "Technische Diskussionen und verifizierte Antworten zu Fragen rund um Tools, Soft"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.link-cards-card-links > p > a",
+    "x": 545,
+    "y": 685,
+    "w": 131,
+    "h": 24,
+    "text": "zur community",
+    "href": "/t5/Forums/ct-p/products"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-head > h5#community-fragen",
+    "x": 1001,
+    "y": 555,
+    "w": 157,
+    "h": 28,
+    "level": 5,
+    "text": "community fragen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-body > p",
+    "x": 969,
+    "y": 591,
+    "w": 350,
+    "h": 78,
+    "text": "Beschreiben Sie Ihr Setup und Herausforderungen, um gezielte Empfehlungen von er"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.link-cards-card-links > p > a",
+    "x": 969,
+    "y": 685,
+    "w": 111,
+    "h": 24,
+    "text": "frage stellen",
+    "href": "/t5/forums/postpage/choose-node/true"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.link-cards-inner > div.link-cards-head > h3#faq",
+    "x": 96,
+    "y": 862,
+    "w": 1248,
+    "h": 36,
+    "level": 3,
+    "text": "häufig gestellte fragen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.link-cards-inner > div.link-cards-head > p",
+    "x": 96,
+    "y": 906,
+    "w": 1248,
+    "h": 26,
+    "text": "Durchsuchen Sie häufige Fragen und Antworten nach Themen, um rasch Lösungen und "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-head > h5#produkt-support",
+    "x": 153,
+    "y": 997,
+    "w": 141,
+    "h": 28,
+    "level": 5,
+    "text": "produkt support"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-body > p",
+    "x": 121,
+    "y": 1033,
+    "w": 350,
+    "h": 26,
+    "text": "Haben Sie Fragen zu bestimmten Produkten?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.link-cards-card-links > p > a",
+    "x": 121,
+    "y": 1075,
+    "w": 133,
+    "h": 24,
+    "text": "faqs entdecken",
+    "href": "/de/support/faqs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-head > h5#bestellung-versand--preise",
+    "x": 577,
+    "y": 997,
+    "w": 238,
+    "h": 28,
+    "level": 5,
+    "text": "bestellung, versand & preise"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-body > p",
+    "x": 545,
+    "y": 1033,
+    "w": 350,
+    "h": 52,
+    "text": "Fragen zu Vertrieb, Bestellung, Versand, Preisen oder zur Produktverfügbarkeit?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.link-cards-card-links > p > a",
+    "x": 545,
+    "y": 1101,
+    "w": 133,
+    "h": 24,
+    "text": "faqs entdecken",
+    "href": "/de/support/faqs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-head > h5#qualität",
+    "x": 1001,
+    "y": 997,
+    "w": 68,
+    "h": 28,
+    "level": 5,
+    "text": "qualität"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-body > p",
+    "x": 969,
+    "y": 1033,
+    "w": 350,
+    "h": 26,
+    "text": "Fragen zum Thema Qualität?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.link-cards-card-links > p > a",
+    "x": 969,
+    "y": 1075,
+    "w": 133,
+    "h": 24,
+    "text": "faqs entdecken",
+    "href": "/de/support/faqs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-head > h5#myinfineon",
+    "x": 153,
+    "y": 1199,
+    "w": 97,
+    "h": 28,
+    "level": 5,
+    "text": "myinfineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-body > p",
+    "x": 121,
+    "y": 1235,
+    "w": 350,
+    "h": 52,
+    "text": "Benötigen Sie Hilfe bei Ihrem myInfineon-Konto, der Registrierung oder dem Login"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.link-cards-card-links > p > a",
+    "x": 121,
+    "y": 1303,
+    "w": 216,
+    "h": 24,
+    "text": "schritt-für-schritt anleitung",
+    "href": "/support/myinfineon-support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.link-cards-card-links > p > a",
+    "x": 121,
+    "y": 1335,
+    "w": 133,
+    "h": 24,
+    "text": "faqs entdecken",
+    "href": "/de/support/faqs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-head > h5#hr--karriere",
+    "x": 577,
+    "y": 1199,
+    "w": 113,
+    "h": 28,
+    "level": 5,
+    "text": "hr & karriere"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-body > p",
+    "x": 545,
+    "y": 1235,
+    "w": 350,
+    "h": 52,
+    "text": "Fragen zum Bewerbungsprozess oder auf der Suche nach einem HR-Kontakt?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.link-cards-card-links > p > a",
+    "x": 545,
+    "y": 1303,
+    "w": 133,
+    "h": 24,
+    "text": "faqs entdecken",
+    "href": "/de/support/faqs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-head > h5#marketing-presse--events",
+    "x": 1001,
+    "y": 1199,
+    "w": 225,
+    "h": 28,
+    "level": 5,
+    "text": "marketing, presse & events"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.link-cards-card > div.link-cards-card-body > p",
+    "x": 969,
+    "y": 1235,
+    "w": 350,
+    "h": 26,
+    "text": "Fragen zu Unternehmensthemen oder Events?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.link-cards-card-links > p > a",
+    "x": 969,
+    "y": 1277,
+    "w": 133,
+    "h": 24,
+    "text": "faqs entdecken",
+    "href": "/de/support/faqs"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.link-cards-foot > p.button-wrapper > a.button.primary",
+    "x": 96,
+    "y": 1408,
+    "w": 162,
+    "h": 48,
+    "text": "alle faqs anzeigen",
+    "href": "/de/support/faqs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.link-columns-inner > div.link-columns-head > h2#hilfreiche-links",
+    "x": 96,
+    "y": 1584,
+    "w": 1248,
+    "h": 36,
+    "level": 2,
+    "text": "hilfreiche links"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.link-columns-cols > div.link-columns-col > h3#finder-und-selection-tools",
+    "x": 96,
+    "y": 1652,
+    "w": 400,
+    "h": 28,
+    "level": 3,
+    "text": "finder und selection tools"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 1696,
+    "w": 121,
+    "h": 24,
+    "text": "produktfinder",
+    "href": "/content/ifx/en/search/product-finder.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 1736,
+    "w": 216,
+    "h": 24,
+    "text": "alle finder & selection tools",
+    "href": "/design-resources/finder-selection-tools"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 1776,
+    "w": 151,
+    "h": 24,
+    "text": "querverweissuche",
+    "href": "/content/ifx/de/search/cross-reference-search.html"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.link-columns-cols > div.link-columns-col > h3#training-und-tutorials",
+    "x": 512,
+    "y": 1652,
+    "w": 400,
+    "h": 28,
+    "level": 3,
+    "text": "training und tutorials"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 512,
+    "y": 1696,
+    "w": 112,
+    "h": 24,
+    "text": "training hub",
+    "href": "/de/training/training-hub"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 512,
+    "y": 1736,
+    "w": 89,
+    "h": 24,
+    "text": "webinare",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.link-columns-cols > div.link-columns-col > h3#meine-anfragen",
+    "x": 928,
+    "y": 1652,
+    "w": 400,
+    "h": 28,
+    "level": 3,
+    "text": "meine anfragen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 928,
+    "y": 1696,
+    "w": 212,
+    "h": 24,
+    "text": "meinen support-fall prüfen",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 928,
+    "y": 1736,
+    "w": 215,
+    "h": 24,
+    "text": "meinen bestellstatus prüfen",
+    "href": "/de/login/dashboard/orders"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.contact-band-inner > div.contact-band-head > h2#contact",
+    "x": 96,
+    "y": 1912,
+    "w": 1248,
+    "h": 48,
+    "level": 2,
+    "text": "kontakt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-band-col > div.contact-band-eyebrow > p",
+    "x": 96,
+    "y": 2008,
+    "w": 624,
+    "h": 24,
+    "text": "Benötigen Sie technische Hilfe?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-band-buttons > p.button-wrapper > a.button.primary",
+    "x": 238,
+    "y": 2048,
+    "w": 141,
+    "h": 48,
+    "text": "zur community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-band-buttons > p.button-wrapper > a.button.secondary",
+    "x": 395,
+    "y": 2048,
+    "w": 183,
+    "h": 48,
+    "text": "support-fall erstellen",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-band-tools > ul > li.contact-band-label",
+    "x": 265,
+    "y": 2120,
+    "w": 131,
+    "h": 20,
+    "text": "Bei dringenden Fragen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 444,
+    "y": 2120,
+    "w": 107,
+    "h": 20,
+    "text": "hotline-nummern",
+    "href": "/de/support/service-center"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-band-col > div.contact-band-eyebrow > p",
+    "x": 721,
+    "y": 2008,
+    "w": 624,
+    "h": 24,
+    "text": "Haben Sie noch Fragen?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-band-buttons > p.button-wrapper > a.button.secondary",
+    "x": 951,
+    "y": 2048,
+    "w": 163,
+    "h": 48,
+    "text": "zu allen kontakten",
+    "href": "/content/ifx/de/contact-us.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-band-tools > ul > li.contact-band-label",
+    "x": 771,
+    "y": 2120,
+    "w": 106,
+    "h": 20,
+    "text": "Häufig kontaktiert"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 925,
+    "y": 2120,
+    "w": 140,
+    "h": 20,
+    "text": "personalwesen/karriere",
+    "href": "/de/careers/hr-contacts"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 1113,
+    "y": 2120,
+    "w": 102,
+    "h": 20,
+    "text": "investor relations",
+    "href": "/de/about/investor/contacts"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 1263,
+    "y": 2120,
+    "w": 31,
+    "h": 20,
+    "text": "sales",
+    "href": "/en/authenticated/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 96,
+    "y": 2339,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 96,
+    "y": 2300,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 367,
+    "y": 2300,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 2356,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 2398,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 2440,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 2482,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 2524,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 619,
+    "y": 2300,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 2356,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 2398,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 2440,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 2482,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 2524,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 2566,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 926,
+    "y": 2300,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 2356,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 2398,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 2440,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 1193,
+    "y": 2300,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 2356,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 2398,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 2440,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 2482,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 2704,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 272,
+    "y": 2704,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 380,
+    "y": 2704,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 2704,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 647,
+    "y": 2709,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 2708,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1208,
+    "y": 2708,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1248,
+    "y": 2708,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1288,
+    "y": 2705,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 1288,
+    "y": 2705,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1328,
+    "y": 2708,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 98,
+    "controls": 68,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 29,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 17,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"support hub\" (y 178) has no origin heading",
+   "text": "support hub"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"technischer support\" (y 394) has no origin heading",
+   "text": "technischer support"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"häufig gestellte fragen\" (y 862) has no origin heading",
+   "text": "häufig gestellte fragen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"hilfreiche links\" (y 1584) has no origin heading",
+   "text": "hilfreiche links"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"finder und selection tools\" (y 1652) has no origin heading",
+   "text": "finder und selection tools"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"training und tutorials\" (y 1652) has no origin heading",
+   "text": "training und tutorials"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"meine anfragen\" (y 1652) has no origin heading",
+   "text": "meine anfragen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"kontakt\" (y 1912) has no origin heading",
+   "text": "kontakt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"technischer support\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "technischer support"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"häufig gestellte fragen\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "häufig gestellte fragen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"kontakt\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "kontakt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mehr erfahren\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "mehr erfahren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"zur community\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 2,
+   "text": "zur community"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"frage stellen\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "frage stellen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×6 \"faqs entdecken\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 6,
+   "text": "faqs entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"schritt-für-schritt anleitung\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "schritt-für-schritt anleitung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"alle faqs anzeigen\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "alle faqs anzeigen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"produktfinder\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "produktfinder"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"alle finder & selection tools\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "alle finder & selection tools"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"querverweissuche\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "querverweissuche"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"training hub\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "training hub"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"webinare\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "webinare"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"meinen support-fall prüfen\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "meinen support-fall prüfen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"meinen bestellstatus prüfen\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "meinen bestellstatus prüfen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"support-fall erstellen\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "support-fall erstellen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"hotline-nummern\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "hotline-nummern"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"zu allen kontakten\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "zu allen kontakten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"personalwesen/karriere\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "personalwesen/karriere"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"investor relations\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "investor relations"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"sales\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "sales"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"(top)\": 0 origin → 17 served visible",
+   "band": 0,
+   "origin": 0,
+   "eds": 17,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 8,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 29,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 1,
+  "findings": 32,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 166,
+    "y": 23,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 23,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 23,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 23,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 23,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 23,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 83,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 164,
+    "y": 83,
+    "w": 48,
+    "h": 20
+   },
+   {
+    "x": 96,
+    "y": 176,
+    "w": 151,
+    "h": 40
+   },
+   {
+    "x": 96,
+    "y": 216,
+    "w": 978,
+    "h": 22
+   },
+   {
+    "x": 104,
+    "y": 298,
+    "w": 142,
+    "h": 22
+   },
+   {
+    "x": 262,
+    "y": 298,
+    "w": 152,
+    "h": 22
+   },
+   {
+    "x": 430,
+    "y": 298,
+    "w": 53,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 384,
+    "w": 243,
+    "h": 40
+   },
+   {
+    "x": 96,
+    "y": 430,
+    "w": 1194,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 456,
+    "w": 382,
+    "h": 25
+   },
+   {
+    "x": 153,
+    "y": 547,
+    "w": 157,
+    "h": 28
+   },
+   {
+    "x": 121,
+    "y": 585,
+    "w": 338,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 611,
+    "w": 304,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 637,
+    "w": 154,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 678,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 577,
+    "y": 547,
+    "w": 249,
+    "h": 28
+   },
+   {
+    "x": 545,
+    "y": 585,
+    "w": 343,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 611,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 637,
+    "w": 93,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 678,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 1001,
+    "y": 547,
+    "w": 157,
+    "h": 28
+   },
+   {
+    "x": 969,
+    "y": 585,
+    "w": 337,
+    "h": 22
+   },
+   {
+    "x": 969,
+    "y": 611,
+    "w": 282,
+    "h": 22
+   },
+   {
+    "x": 969,
+    "y": 637,
+    "w": 296,
+    "h": 22
+   },
+   {
+    "x": 969,
+    "y": 678,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 852,
+    "w": 269,
+    "h": 40
+   },
+   {
+    "x": 96,
+    "y": 898,
+    "w": 971,
+    "h": 25
+   },
+   {
+    "x": 153,
+    "y": 989,
+    "w": 141,
+    "h": 28
+   },
+   {
+    "x": 121,
+    "y": 1027,
+    "w": 299,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 1068,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 577,
+    "y": 989,
+    "w": 238,
+    "h": 28
+   },
+   {
+    "x": 545,
+    "y": 1027,
+    "w": 350,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 1053,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 1094,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 1001,
+    "y": 989,
+    "w": 68,
+    "h": 28
+   },
+   {
+    "x": 969,
+    "y": 1027,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 969,
+    "y": 1068,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 153,
+    "y": 1191,
+    "w": 97,
+    "h": 28
+   },
+   {
+    "x": 121,
+    "y": 1229,
+    "w": 347,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 1255,
+    "w": 203,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 1296,
+    "w": 192,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 1328,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 577,
+    "y": 1191,
+    "w": 113,
+    "h": 28
+   },
+   {
+    "x": 545,
+    "y": 1229,
+    "w": 343,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 1255,
+    "w": 164,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 1296,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 1001,
+    "y": 1191,
+    "w": 225,
+    "h": 28
+   },
+   {
+    "x": 969,
+    "y": 1229,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 969,
+    "y": 1270,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 112,
+    "y": 1413,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 1574,
+    "w": 182,
+    "h": 40
+   },
+   {
+    "x": 96,
+    "y": 1644,
+    "w": 222,
+    "h": 28
+   },
+   {
+    "x": 96,
+    "y": 1689,
+    "w": 100,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 1729,
+    "w": 195,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 1769,
+    "w": 131,
+    "h": 22
+   },
+   {
+    "x": 512,
+    "y": 1644,
+    "w": 184,
+    "h": 28
+   },
+   {
+    "x": 512,
+    "y": 1689,
+    "w": 91,
+    "h": 22
+   },
+   {
+    "x": 512,
+    "y": 1729,
+    "w": 68,
+    "h": 22
+   },
+   {
+    "x": 928,
+    "y": 1644,
+    "w": 130,
+    "h": 28
+   },
+   {
+    "x": 928,
+    "y": 1689,
+    "w": 191,
+    "h": 22
+   },
+   {
+    "x": 928,
+    "y": 1729,
+    "w": 194,
+    "h": 22
+   },
+   {
+    "x": 660,
+    "y": 1910,
+    "w": 120,
+    "h": 51
+   },
+   {
+    "x": 330,
+    "y": 2011,
+    "w": 317,
+    "h": 20
+   },
+   {
+    "x": 336,
+    "y": 2070,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 492,
+    "y": 2070,
+    "w": 149,
+    "h": 22
+   },
+   {
+    "x": 345,
+    "y": 2130,
+    "w": 131,
+    "h": 20
+   },
+   {
+    "x": 525,
+    "y": 2129,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 931,
+    "y": 2011,
+    "w": 231,
+    "h": 20
+   },
+   {
+    "x": 982,
+    "y": 2070,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 785,
+    "y": 2130,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 939,
+    "y": 2129,
+    "w": 140,
+    "h": 20
+   },
+   {
+    "x": 1127,
+    "y": 2129,
+    "w": 102,
+    "h": 20
+   },
+   {
+    "x": 1277,
+    "y": 2129,
+    "w": 31,
+    "h": 20
+   },
+   {
+    "x": 367,
+    "y": 2311,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 2366,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 2408,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 2450,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 2492,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 2534,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 2311,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 2366,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 2408,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 2450,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 2492,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 2534,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 2576,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 2311,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 2366,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 2408,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 2450,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 2311,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 2366,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 2408,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 2450,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 2492,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 2719,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 2719,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 2719,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 2719,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 2719,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 2719,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 2719,
+    "w": 156,
+    "h": 20
+   },
+   {
+    "x": 1353,
+    "y": 802,
+    "w": 46,
+    "h": 25
+   }
+  ],
+  "eds": [
+   {
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 22,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 83,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 164,
+    "y": 83,
+    "w": 48,
+    "h": 20
+   },
+   {
+    "x": 96,
+    "y": 176,
+    "w": 151,
+    "h": 40
+   },
+   {
+    "x": 96,
+    "y": 216,
+    "w": 978,
+    "h": 22
+   },
+   {
+    "x": 104,
+    "y": 250,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 261,
+    "y": 250,
+    "w": 152,
+    "h": 22
+   },
+   {
+    "x": 433,
+    "y": 250,
+    "w": 53,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 392,
+    "w": 243,
+    "h": 40
+   },
+   {
+    "x": 96,
+    "y": 438,
+    "w": 1194,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 464,
+    "w": 382,
+    "h": 25
+   },
+   {
+    "x": 153,
+    "y": 555,
+    "w": 157,
+    "h": 28
+   },
+   {
+    "x": 121,
+    "y": 593,
+    "w": 338,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 619,
+    "w": 304,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 645,
+    "w": 154,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 686,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 577,
+    "y": 555,
+    "w": 249,
+    "h": 28
+   },
+   {
+    "x": 545,
+    "y": 593,
+    "w": 343,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 619,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 645,
+    "w": 93,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 686,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 1001,
+    "y": 555,
+    "w": 157,
+    "h": 28
+   },
+   {
+    "x": 969,
+    "y": 593,
+    "w": 337,
+    "h": 22
+   },
+   {
+    "x": 969,
+    "y": 619,
+    "w": 282,
+    "h": 22
+   },
+   {
+    "x": 969,
+    "y": 645,
+    "w": 296,
+    "h": 22
+   },
+   {
+    "x": 969,
+    "y": 686,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 860,
+    "w": 269,
+    "h": 40
+   },
+   {
+    "x": 96,
+    "y": 906,
+    "w": 971,
+    "h": 25
+   },
+   {
+    "x": 153,
+    "y": 997,
+    "w": 141,
+    "h": 28
+   },
+   {
+    "x": 121,
+    "y": 1035,
+    "w": 299,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 1076,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 577,
+    "y": 997,
+    "w": 238,
+    "h": 28
+   },
+   {
+    "x": 545,
+    "y": 1035,
+    "w": 350,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 1061,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 1102,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 1001,
+    "y": 997,
+    "w": 68,
+    "h": 28
+   },
+   {
+    "x": 969,
+    "y": 1035,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 969,
+    "y": 1076,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 153,
+    "y": 1199,
+    "w": 97,
+    "h": 28
+   },
+   {
+    "x": 121,
+    "y": 1237,
+    "w": 347,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 1263,
+    "w": 203,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 1304,
+    "w": 192,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 1336,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 577,
+    "y": 1199,
+    "w": 113,
+    "h": 28
+   },
+   {
+    "x": 545,
+    "y": 1237,
+    "w": 343,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 1263,
+    "w": 164,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 1304,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 1001,
+    "y": 1199,
+    "w": 225,
+    "h": 28
+   },
+   {
+    "x": 969,
+    "y": 1237,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 969,
+    "y": 1278,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 113,
+    "y": 1421,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 1582,
+    "w": 182,
+    "h": 40
+   },
+   {
+    "x": 96,
+    "y": 1652,
+    "w": 222,
+    "h": 28
+   },
+   {
+    "x": 96,
+    "y": 1697,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 1737,
+    "w": 192,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 1777,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 512,
+    "y": 1652,
+    "w": 184,
+    "h": 28
+   },
+   {
+    "x": 512,
+    "y": 1697,
+    "w": 88,
+    "h": 22
+   },
+   {
+    "x": 512,
+    "y": 1737,
+    "w": 65,
+    "h": 22
+   },
+   {
+    "x": 928,
+    "y": 1652,
+    "w": 130,
+    "h": 28
+   },
+   {
+    "x": 928,
+    "y": 1697,
+    "w": 188,
+    "h": 22
+   },
+   {
+    "x": 928,
+    "y": 1737,
+    "w": 191,
+    "h": 22
+   },
+   {
+    "x": 660,
+    "y": 1910,
+    "w": 120,
+    "h": 51
+   },
+   {
+    "x": 249,
+    "y": 2010,
+    "w": 317,
+    "h": 20
+   },
+   {
+    "x": 255,
+    "y": 2061,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 412,
+    "y": 2061,
+    "w": 149,
+    "h": 22
+   },
+   {
+    "x": 265,
+    "y": 2120,
+    "w": 131,
+    "h": 20
+   },
+   {
+    "x": 444,
+    "y": 2120,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 917,
+    "y": 2010,
+    "w": 231,
+    "h": 20
+   },
+   {
+    "x": 968,
+    "y": 2061,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 771,
+    "y": 2120,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 925,
+    "y": 2120,
+    "w": 140,
+    "h": 20
+   },
+   {
+    "x": 1113,
+    "y": 2120,
+    "w": 102,
+    "h": 20
+   },
+   {
+    "x": 1263,
+    "y": 2120,
+    "w": 31,
+    "h": 20
+   },
+   {
+    "x": 367,
+    "y": 2301,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 2356,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 2398,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 2440,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 2482,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 2524,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 2301,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 2356,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 2398,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 2440,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 2482,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 2524,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 2566,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 2301,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 2356,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 2398,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 2440,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 2301,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 2356,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 2398,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 2440,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 2482,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 2709,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 2709,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 2709,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 2709,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 2709,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 2709,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 2709,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

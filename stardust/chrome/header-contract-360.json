@@ -1,0 +1,352 @@
+{
+ "tool": "chrome-explore",
+ "url": "https://www.infineon.com/de",
+ "at": "2026-11-18T03:40:29.416Z",
+ "shots": "stardust/.work/chrome/header-contract-360",
+ "widths": {
+  "360": {
+   "root": "#container-868ea39d6d>div>div>header",
+   "controls": [
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#indiLogo",
+     "href": "https://www.infineon.com/de",
+     "expanded": null,
+     "rect": [
+      16,
+      14,
+      82,
+      36
+     ],
+     "actions": {}
+    },
+    {
+     "name": "",
+     "key": "",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#infiContainer>div:nth-of-type(1)>div>button:nth-of-type(1)",
+     "expanded": null,
+     "rect": [
+      164,
+      14,
+      40,
+      34
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 9,
+       "panel": {
+        "links": [
+         {
+          "text": "Close",
+          "href": "https://www.infineon.com/de#"
+         },
+         {
+          "text": "Alles über Energieinfrastruktur",
+          "href": "https://www.infineon.com/de/about/our-stories/power-infrastructure"
+         },
+         {
+          "text": "Alles über Elektromobilität",
+          "href": "https://www.infineon.com/de/about/our-stories/electromobility"
+         },
+         {
+          "text": "Alles über Robotics",
+          "href": "https://www.infineon.com/de/about/our-stories/robotics"
+         },
+         {
+          "text": "Alles über Softwaredefinierte Fahrzeuge",
+          "href": "https://www.infineon.com/de/about/our-stories/software-defined-vehicle"
+         },
+         {
+          "text": "Alles über Edge AI",
+          "href": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+         },
+         {
+          "text": "Alles über Powering AI",
+          "href": "https://www.infineon.com/de/our-stories/we-power-ai"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         }
+        ],
+        "headings": [
+         "Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen",
+         "Singapore FinTech Festival 2026"
+        ],
+        "images": 10,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         16,
+         15,
+         334,
+         830
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "360-001-toggle-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 9,
+       "panel": {
+        "links": [
+         {
+          "text": "Close",
+          "href": "https://www.infineon.com/de#"
+         },
+         {
+          "text": "Alles über Energieinfrastruktur",
+          "href": "https://www.infineon.com/de/about/our-stories/power-infrastructure"
+         },
+         {
+          "text": "Alles über Elektromobilität",
+          "href": "https://www.infineon.com/de/about/our-stories/electromobility"
+         },
+         {
+          "text": "Alles über Robotics",
+          "href": "https://www.infineon.com/de/about/our-stories/robotics"
+         },
+         {
+          "text": "Alles über Softwaredefinierte Fahrzeuge",
+          "href": "https://www.infineon.com/de/about/our-stories/software-defined-vehicle"
+         },
+         {
+          "text": "Alles über Edge AI",
+          "href": "https://www.infineon.com/de/our-stories/enable-provide-ai-customer-innovation"
+         },
+         {
+          "text": "Alles über Powering AI",
+          "href": "https://www.infineon.com/de/our-stories/we-power-ai"
+         },
+         {
+          "text": "Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis",
+          "href": "https://www.infineon.com/content/ifx/en/event/2026/Singapore-FinTech-Festival-2026.html"
+         }
+        ],
+        "headings": [
+         "Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen",
+         "Singapore FinTech Festival 2026"
+        ],
+        "images": 7,
+        "inputs": [],
+        "buttons": [
+         "Ask AI"
+        ],
+        "options": 0,
+        "rect": [
+         16,
+         15,
+         334,
+         830
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "animation",
+         "prop": "kHvAJK",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.sc-dILkzW"
+        }
+       ],
+       "shot": "360-002-toggle-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": false,
+      "toggle": false
+     },
+     "children": [
+      {
+       "name": "Close",
+       "key": "close",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#closeSearchBox",
+       "expanded": null,
+       "rect": [
+        307,
+        15,
+        37,
+        32
+       ],
+       "actions": {
+        "click": {
+         "opened": true,
+         "hidden": 4,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.infineon.com/de"
+           },
+           {
+            "text": "Mehr Informationen",
+            "href": "https://www.infineon.com/de/press-release/2026/infpr202611-025"
+           },
+           {
+            "text": "",
+            "href": "https://www.infineon.com/de/press-release/2026/infpr202611-025"
+           }
+          ],
+          "headings": [],
+          "images": 2,
+          "inputs": [],
+          "buttons": [
+           "Cart",
+           "Toggle navigation"
+          ],
+          "options": 0,
+          "rect": [
+           0,
+           14,
+           357,
+           605
+          ]
+         },
+         "expanded": null,
+         "focus": "body",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "animation",
+           "prop": "progress",
+           "ms": 15000,
+           "delay": 0,
+           "easing": "linear",
+           "target": "div.slide-counterFill"
+          }
+         ],
+         "shot": "360-003-Close-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 4,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.infineon.com/de"
+           },
+           {
+            "text": "Mehr Informationen",
+            "href": "https://www.infineon.com/de/press-release/2026/infpr202611-025"
+           },
+           {
+            "text": "",
+            "href": "https://www.infineon.com/de/press-release/2026/infpr202611-025"
+           }
+          ],
+          "headings": [],
+          "images": 2,
+          "inputs": [],
+          "buttons": [
+           "Cart",
+           "Toggle navigation"
+          ],
+          "options": 0,
+          "rect": [
+           0,
+           14,
+           357,
+           605
+          ]
+         },
+         "expanded": null,
+         "focus": "body",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "animation",
+           "prop": "progress",
+           "ms": 15000,
+           "delay": 0,
+           "easing": "linear",
+           "target": "div.slide-counterFill"
+          }
+         ],
+         "shot": "360-004-Close-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false
+       }
+      }
+     ]
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 61,
+     "position": "static",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": -1000,
+     "height": 61,
+     "position": "static",
+     "inView": false
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": -700,
+     "height": 61,
+     "position": "static",
+     "inView": false
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 61,
+     "position": "static",
+     "inView": true
+    }
+   ],
+   "states": 4,
+   "truncated": "request-budget",
+   "loads": 11,
+   "requests": 1076,
+   "maxRequests": 900,
+   "inputsSkipped": 0
+  }
+ },
+ "probe": null
+}

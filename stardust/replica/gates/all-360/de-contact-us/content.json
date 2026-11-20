@@ -1,0 +1,4695 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:26:24.978Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/contact-us",
+  "at": "2026-11-18T23:26:06.025Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 4290,
+  "root": "div.secondary-navigation.list",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button#searchicon-items",
+    "x": 164,
+    "y": 14,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-0",
+    "x": 220,
+    "y": 15,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.usericon-item.d-block",
+    "x": 260,
+    "y": 17,
+    "w": 40,
+    "h": 25,
+    "text": "user profile"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "ul.nav-list.desktopActive-secondary > li.nav-link.secondary-nav-link > a",
+    "x": -108,
+    "y": 84,
+    "w": 120,
+    "h": 22,
+    "text": "unsere divisionen",
+    "href": "/de/about/company/our-divisions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "ul.nav-list.desktopActive-secondary > li.nav-link.secondary-nav-link > a",
+    "x": 32,
+    "y": 84,
+    "w": 97,
+    "h": 22,
+    "text": "führungsteam",
+    "href": "/de/about/company/leadership-team"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "ul.nav-list.desktopActive-secondary > li.nav-link.secondary-nav-link > a",
+    "x": 149,
+    "y": 84,
+    "w": 98,
+    "h": 22,
+    "text": "nachhaltigkeit",
+    "href": "/de/about/company/sustainability"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "ul.nav-list.desktopActive-secondary > li.nav-link.secondary-nav-link > a",
+    "x": 266,
+    "y": 84,
+    "w": 54,
+    "h": 22,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "header > div.page-header.simple-header-component > h1.heading-03",
+    "x": 16,
+    "y": 145,
+    "w": 328,
+    "h": 30,
+    "level": 1,
+    "text": "kontakt"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.contact-location-map > div.map-container > h2.map-header",
+    "x": 16,
+    "y": 243,
+    "w": 328,
+    "h": 28,
+    "level": 2,
+    "text": "unsere standorte"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.location-filters > div > button#country",
+    "x": 16,
+    "y": 303,
+    "w": 196,
+    "h": 40,
+    "text": "alle länder / territories"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.location-filters > div > button#country",
+    "x": 16,
+    "y": 303,
+    "w": 196,
+    "h": 40,
+    "label": "trigger",
+    "value": "alle länder / territories",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.location-filters > div > button#Multiselectdropdown",
+    "x": 220,
+    "y": 303,
+    "w": 155,
+    "h": 40,
+    "text": "art des standorts"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.location-filters > div > button#Multiselectdropdown",
+    "x": 220,
+    "y": 303,
+    "w": 155,
+    "h": 40,
+    "label": "trigger",
+    "value": "art des standorts",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.search-filters > div.locations-label > label",
+    "x": 16,
+    "y": 355,
+    "w": 109,
+    "h": 32,
+    "text": "126 Standorte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > div.accordion-head",
+    "x": 16,
+    "y": 411,
+    "w": 280,
+    "h": 26,
+    "text": "Ahmedabad , India"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > button.accordion-btn.icon",
+    "x": 312,
+    "y": 411,
+    "w": 32,
+    "h": 32,
+    "text": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > div.accordion-head",
+    "x": 16,
+    "y": 467,
+    "w": 280,
+    "h": 26,
+    "text": "Andover , United States"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > button.accordion-btn.icon",
+    "x": 312,
+    "y": 467,
+    "w": 32,
+    "h": 32,
+    "text": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > div.accordion-head",
+    "x": 16,
+    "y": 523,
+    "w": 280,
+    "h": 26,
+    "text": "Augsburg , Germany"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > button.accordion-btn.icon",
+    "x": 312,
+    "y": 523,
+    "w": 32,
+    "h": 32,
+    "text": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > div.accordion-head",
+    "x": 16,
+    "y": 579,
+    "w": 280,
+    "h": 26,
+    "text": "Austin , United States"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > button.accordion-btn.icon",
+    "x": 312,
+    "y": 579,
+    "w": 32,
+    "h": 32,
+    "text": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > div.accordion-head",
+    "x": 16,
+    "y": 635,
+    "w": 280,
+    "h": 26,
+    "text": "Bangalore , India"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > button.accordion-btn.icon",
+    "x": 312,
+    "y": 635,
+    "w": 32,
+    "h": 32,
+    "text": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > div.accordion-head",
+    "x": 16,
+    "y": 691,
+    "w": 280,
+    "h": 26,
+    "text": "Bangkok , Thailand"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > button.accordion-btn.icon",
+    "x": 312,
+    "y": 691,
+    "w": 32,
+    "h": 32,
+    "text": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > div.accordion-head",
+    "x": 16,
+    "y": 747,
+    "w": 280,
+    "h": 26,
+    "text": "Barcelona , Spain"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > button.accordion-btn.icon",
+    "x": 312,
+    "y": 747,
+    "w": 32,
+    "h": 32,
+    "text": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > div.accordion-head",
+    "x": 16,
+    "y": 803,
+    "w": 280,
+    "h": 26,
+    "text": "Batam , Indonesia"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > button.accordion-btn.icon",
+    "x": 312,
+    "y": 803,
+    "w": 32,
+    "h": 32,
+    "text": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > div.accordion-head",
+    "x": 16,
+    "y": 859,
+    "w": 280,
+    "h": 26,
+    "text": "Beijing , Mainland China"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > button.accordion-btn.icon",
+    "x": 312,
+    "y": 859,
+    "w": 32,
+    "h": 32,
+    "text": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > div.accordion-head",
+    "x": 16,
+    "y": 915,
+    "w": 280,
+    "h": 26,
+    "text": "Belgrade , Serbia"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-items > div.accordion-header-section > button.accordion-btn.icon",
+    "x": 312,
+    "y": 915,
+    "w": 32,
+    "h": 32,
+    "text": ""
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-bfe5f7b640 > h3.dynamicAnchors.eyebrow-02",
+    "x": 56,
+    "y": 1075,
+    "w": 248,
+    "h": 24,
+    "level": 3,
+    "text": "infineon support"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-1d46804227 > p",
+    "x": 56,
+    "y": 1123,
+    "w": 248,
+    "h": 130,
+    "text": "Unser Support ist auf Englisch, Deutsch und Mandarin verfügbar. Sie können mit u"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.btn-col > div.selected-icon.gaparound > a.reusebtn.standard",
+    "x": 51,
+    "y": 1277,
+    "w": 257,
+    "h": 50,
+    "text": "support anfordern",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 1351,
+    "w": 150,
+    "h": 28,
+    "text": "hotline-nummern",
+    "href": "/de/support/service-center"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-b3b768174d > h3.dynamicAnchors.eyebrow-02",
+    "x": 56,
+    "y": 1483,
+    "w": 248,
+    "h": 24,
+    "level": 3,
+    "text": "sales kontakte"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.btn-col > div.selected-icon.gaparound > a.reusebtn.standard",
+    "x": 51,
+    "y": 1531,
+    "w": 257,
+    "h": 50,
+    "text": "sales kontakte",
+    "href": "/en/authenticated/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-505d4f6ffd > h3.dynamicAnchors.eyebrow-02",
+    "x": 56,
+    "y": 1693,
+    "w": 248,
+    "h": 48,
+    "level": 3,
+    "text": "spezifische anfragen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 1765,
+    "w": 111,
+    "h": 28,
+    "text": "hr kontakte",
+    "href": "/de/careers/hr-contacts"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 1809,
+    "w": 215,
+    "h": 28,
+    "text": "investor relations kontakte",
+    "href": "/de/about/investor/contact"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 1853,
+    "w": 131,
+    "h": 28,
+    "text": "pressekontakte",
+    "href": "/de/about/press/contacts"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 1897,
+    "w": 248,
+    "h": 48,
+    "text": "integrity line (hinweisgeberportal)",
+    "href": "/bkwebanon/report/clientInfo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 1961,
+    "w": 172,
+    "h": 28,
+    "text": "compliance kontakte",
+    "href": "/de/about/investor/corporate-governance/compliance/ifx-contacts"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 2005,
+    "w": 145,
+    "h": 28,
+    "text": "einkaufskontakte",
+    "href": "/contact-us/procurement/procurement-departments"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-724b90ba28 > h3.dynamicAnchors.eyebrow-02",
+    "x": 56,
+    "y": 2137,
+    "w": 248,
+    "h": 24,
+    "level": 3,
+    "text": "where to buy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-4824d72259 > p",
+    "x": 56,
+    "y": 2185,
+    "w": 248,
+    "h": 208,
+    "text": "Wir wählen unsere Distributoren sorgfältig aus, um die Qualitätsstandards zu erf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 2417,
+    "w": 172,
+    "h": 28,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-194af83313 > h3.dynamicAnchors.eyebrow-02",
+    "x": 56,
+    "y": 2549,
+    "w": 248,
+    "h": 48,
+    "level": 3,
+    "text": "regionale webseiten"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 2621,
+    "w": 248,
+    "h": 52,
+    "text": "infineon technologies österreich",
+    "href": "/regional/austria"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 2689,
+    "w": 240,
+    "h": 28,
+    "text": "infineon technologies bangkok",
+    "href": "/regional/bangkok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 2733,
+    "w": 237,
+    "h": 28,
+    "text": "infineon technologies dresden",
+    "href": "/regional/dresden"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 2777,
+    "w": 222,
+    "h": 28,
+    "text": "infineon technologies japan",
+    "href": "/regional/japan"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 2821,
+    "w": 220,
+    "h": 28,
+    "text": "infineon technologies korea",
+    "href": "/regional/korea/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 2865,
+    "w": 239,
+    "h": 28,
+    "text": "infineon technologies portugal",
+    "href": "/regional/portugal"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 2909,
+    "w": 248,
+    "h": 52,
+    "text": "infineon technologies regensburg",
+    "href": "/regional/regensburg"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 2977,
+    "w": 248,
+    "h": 52,
+    "text": "infineon technologies rumänien",
+    "href": "/regional/romania"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 3045,
+    "w": 242,
+    "h": 28,
+    "text": "infineon technologies singapur",
+    "href": "/regional/singapore"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 56,
+    "y": 3089,
+    "w": 240,
+    "h": 28,
+    "text": "infineon technologies warstein",
+    "href": "/regional/warstein"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 16,
+    "y": 3253,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 3348,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 3388,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 3430,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 3472,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 3514,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 3556,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 196,
+    "y": 3348,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 3388,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 3430,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 3472,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 3540,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 3582,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 3624,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 3690,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 3730,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 3772,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 3814,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 32,
+    "y": 3880,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 3920,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 3962,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 4004,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 4046,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 4112,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 192,
+    "y": 4112,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 4142,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 21,
+    "y": 4177,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 16,
+    "y": 4230,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 56,
+    "y": 4230,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 96,
+    "y": 4230,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 136,
+    "y": 4227,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 136,
+    "y": 4231,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 176,
+    "y": 4230,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 2,
+    "textNodes": 107,
+    "controls": 68,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "ul.nav-list.desktopActive-secondary",
+     "path": "nav.secondary-main-nav-link > ul.nav-list.desktopActive-secondary > li.nav-link.secondary-nav-link > a",
+     "text": "unsere divisionen",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "TEXT X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "ul.nav-list.desktopActive-secondary",
+     "path": "nav.secondary-main-nav-link > ul.nav-list.desktopActive-secondary > li.nav-link.secondary-nav-link > a",
+     "text": "unsere divisionen",
+     "cutMin": 0,
+     "cutMax": 0
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": null,
+     "path": "div.search-filters > div.location-filters > div > button#Multiselectdropdown",
+     "text": "art des standorts",
+     "cutMin": 7,
+     "cutMax": 7
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/contact-us",
+  "at": "2026-11-18T23:26:24.855Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 4197,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "label": "search",
+    "value": "search",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 84,
+    "w": 93,
+    "h": 22,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 133,
+    "y": 84,
+    "w": 120,
+    "h": 22,
+    "text": "unsere divisionen",
+    "href": "/de/about/company/our-divisions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 269,
+    "y": 84,
+    "w": 97,
+    "h": 22,
+    "text": "führungsteam",
+    "href": "/de/about/company/leadership-team"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-header-comp > div.page-header-head > h1#kontakt",
+    "x": 16,
+    "y": 145,
+    "w": 273,
+    "h": 30,
+    "level": 1,
+    "text": "kontakt"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-inner > div.location-finder-title > h2#unsere-standorte",
+    "x": 16,
+    "y": 247,
+    "w": 328,
+    "h": 28,
+    "level": 2,
+    "text": "unsere standorte"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-tools > div.location-finder-dd > button.location-finder-dd-btn",
+    "x": 16,
+    "y": 291,
+    "w": 190,
+    "h": 36,
+    "text": "alle länder / territories"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-tools > div.location-finder-dd > button.location-finder-dd-btn",
+    "x": 16,
+    "y": 291,
+    "w": 190,
+    "h": 36,
+    "label": "trigger",
+    "value": "alle länder / territories",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-tools > div.location-finder-dd > button.location-finder-dd-btn",
+    "x": 214,
+    "y": 291,
+    "w": 154,
+    "h": 36,
+    "text": "art des standorts"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-tools > div.location-finder-dd > button.location-finder-dd-btn",
+    "x": 214,
+    "y": 291,
+    "w": 154,
+    "h": 36,
+    "label": "trigger",
+    "value": "art des standorts",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-inner > div.location-finder-tools > div.location-finder-count",
+    "x": 16,
+    "y": 339,
+    "w": 352,
+    "h": 32,
+    "text": "126 Standorte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-head > div.location-finder-label > p",
+    "x": 16,
+    "y": 402,
+    "w": 122,
+    "h": 26,
+    "text": "Ahmedabad, India"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 399,
+    "w": 32,
+    "h": 32,
+    "text": "details ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 399,
+    "w": 32,
+    "h": 32,
+    "label": "details ein- oder ausblenden",
+    "value": "details ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-head > div.location-finder-label > p",
+    "x": 16,
+    "y": 458,
+    "w": 151,
+    "h": 26,
+    "text": "Andover, United States"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 455,
+    "w": 32,
+    "h": 32,
+    "text": "details ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 455,
+    "w": 32,
+    "h": 32,
+    "label": "details ein- oder ausblenden",
+    "value": "details ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-head > div.location-finder-label > p",
+    "x": 16,
+    "y": 514,
+    "w": 131,
+    "h": 26,
+    "text": "Augsburg, Germany"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 511,
+    "w": 32,
+    "h": 32,
+    "text": "details ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 511,
+    "w": 32,
+    "h": 32,
+    "label": "details ein- oder ausblenden",
+    "value": "details ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-head > div.location-finder-label > p",
+    "x": 16,
+    "y": 570,
+    "w": 138,
+    "h": 26,
+    "text": "Austin, United States"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 567,
+    "w": 32,
+    "h": 32,
+    "text": "details ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 567,
+    "w": 32,
+    "h": 32,
+    "label": "details ein- oder ausblenden",
+    "value": "details ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-head > div.location-finder-label > p",
+    "x": 16,
+    "y": 626,
+    "w": 109,
+    "h": 26,
+    "text": "Bangalore, India"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 623,
+    "w": 32,
+    "h": 32,
+    "text": "details ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 623,
+    "w": 32,
+    "h": 32,
+    "label": "details ein- oder ausblenden",
+    "value": "details ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-head > div.location-finder-label > p",
+    "x": 16,
+    "y": 682,
+    "w": 125,
+    "h": 26,
+    "text": "Bangkok, Thailand"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 679,
+    "w": 32,
+    "h": 32,
+    "text": "details ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 679,
+    "w": 32,
+    "h": 32,
+    "label": "details ein- oder ausblenden",
+    "value": "details ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-head > div.location-finder-label > p",
+    "x": 16,
+    "y": 738,
+    "w": 112,
+    "h": 26,
+    "text": "Barcelona, Spain"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 735,
+    "w": 32,
+    "h": 32,
+    "text": "details ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 735,
+    "w": 32,
+    "h": 32,
+    "label": "details ein- oder ausblenden",
+    "value": "details ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-head > div.location-finder-label > p",
+    "x": 16,
+    "y": 794,
+    "w": 117,
+    "h": 26,
+    "text": "Batam, Indonesia"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 791,
+    "w": 32,
+    "h": 32,
+    "text": "details ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 791,
+    "w": 32,
+    "h": 32,
+    "label": "details ein- oder ausblenden",
+    "value": "details ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-head > div.location-finder-label > p",
+    "x": 16,
+    "y": 850,
+    "w": 157,
+    "h": 26,
+    "text": "Beijing, Mainland China"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 847,
+    "w": 32,
+    "h": 32,
+    "text": "details ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 847,
+    "w": 32,
+    "h": 32,
+    "label": "details ein- oder ausblenden",
+    "value": "details ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-head > div.location-finder-label > p",
+    "x": 16,
+    "y": 906,
+    "w": 110,
+    "h": 26,
+    "text": "Belgrade, Serbia"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 903,
+    "w": 32,
+    "h": 32,
+    "text": "details ein- oder ausblenden"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-item > div.location-finder-head > button.location-finder-toggle",
+    "x": 312,
+    "y": 903,
+    "w": 32,
+    "h": 32,
+    "label": "details ein- oder ausblenden",
+    "value": "details ein- oder ausblenden",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-foot > nav.location-finder-pager > button.location-finder-prev",
+    "x": 16,
+    "y": 963,
+    "w": 40,
+    "h": 40,
+    "text": "previous page"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.location-finder-foot > nav.location-finder-pager > button.location-finder-next",
+    "x": 304,
+    "y": 963,
+    "w": 40,
+    "h": 40,
+    "text": "next page"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-box > div.info-boxes-head > h3#infineon-support",
+    "x": 56,
+    "y": 1067,
+    "w": 248,
+    "h": 24,
+    "level": 3,
+    "text": "infineon support"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-box > div.info-boxes-text > p",
+    "x": 56,
+    "y": 1115,
+    "w": 248,
+    "h": 130,
+    "text": "Unser Support ist auf Englisch, Deutsch und Mandarin verfügbar. Sie können mit u"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-actions > p.button-wrapper > a.button.secondary",
+    "x": 56,
+    "y": 1261,
+    "w": 248,
+    "h": 48,
+    "text": "support anfordern",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a",
+    "x": 56,
+    "y": 1336,
+    "w": 132,
+    "h": 20,
+    "text": "hotline-nummern",
+    "href": "/de/support/service-center"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-box > div.info-boxes-head > h3#sales-kontakte",
+    "x": 56,
+    "y": 1461,
+    "w": 248,
+    "h": 24,
+    "level": 3,
+    "text": "sales kontakte"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-actions > p.button-wrapper > a.button.secondary",
+    "x": 56,
+    "y": 1509,
+    "w": 248,
+    "h": 48,
+    "text": "sales kontakte",
+    "href": "/en/authenticated/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-box > div.info-boxes-head > h3#spezifische-anfragen",
+    "x": 56,
+    "y": 1685,
+    "w": 248,
+    "h": 48,
+    "level": 3,
+    "text": "spezifische anfragen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 1760,
+    "w": 97,
+    "h": 20,
+    "text": "hr kontakte",
+    "href": "/de/careers/hr-contacts"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 1806,
+    "w": 188,
+    "h": 20,
+    "text": "investor relations kontakte",
+    "href": "/de/about/investor/contact"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 1852,
+    "w": 115,
+    "h": 20,
+    "text": "pressekontakte",
+    "href": "/de/about/press/contacts"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 1898,
+    "w": 233,
+    "h": 20,
+    "text": "integrity line (hinweisgeberportal)",
+    "href": "/bkwebanon/report/clientInfo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 1944,
+    "w": 151,
+    "h": 20,
+    "text": "compliance kontakte",
+    "href": "/de/about/investor/corporate-governance/compliance/ifx-contacts"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 1990,
+    "w": 127,
+    "h": 20,
+    "text": "einkaufskontakte",
+    "href": "/contact-us/procurement/procurement-departments"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-box > div.info-boxes-head > h3#where-to-buy",
+    "x": 56,
+    "y": 2115,
+    "w": 248,
+    "h": 24,
+    "level": 3,
+    "text": "where to buy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-box > div.info-boxes-text > p",
+    "x": 56,
+    "y": 2163,
+    "w": 248,
+    "h": 208,
+    "text": "Wir wählen unsere Distributoren sorgfältig aus, um die Qualitätsstandards zu erf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 2390,
+    "w": 150,
+    "h": 20,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-box > div.info-boxes-head > h3#regionale-webseiten",
+    "x": 56,
+    "y": 2515,
+    "w": 248,
+    "h": 48,
+    "level": 3,
+    "text": "regionale webseiten"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 2590,
+    "w": 220,
+    "h": 20,
+    "text": "infineon technologies österreich",
+    "href": "/regional/austria"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 2636,
+    "w": 210,
+    "h": 20,
+    "text": "infineon technologies bangkok",
+    "href": "/regional/bangkok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 2682,
+    "w": 207,
+    "h": 20,
+    "text": "infineon technologies dresden",
+    "href": "/regional/dresden"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 2728,
+    "w": 194,
+    "h": 20,
+    "text": "infineon technologies japan",
+    "href": "/regional/japan"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 2774,
+    "w": 192,
+    "h": 20,
+    "text": "infineon technologies korea",
+    "href": "/regional/korea/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 2820,
+    "w": 209,
+    "h": 20,
+    "text": "infineon technologies portugal",
+    "href": "/regional/portugal"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 2866,
+    "w": 228,
+    "h": 20,
+    "text": "infineon technologies regensburg",
+    "href": "/regional/regensburg"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 2912,
+    "w": 219,
+    "h": 20,
+    "text": "infineon technologies rumänien",
+    "href": "/regional/romania"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 2958,
+    "w": 211,
+    "h": 20,
+    "text": "infineon technologies singapur",
+    "href": "/regional/singapore"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info-boxes-links > p > a.is-external",
+    "x": 56,
+    "y": 3004,
+    "w": 210,
+    "h": 20,
+    "text": "infineon technologies warstein",
+    "href": "/regional/warstein"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 16,
+    "y": 3192,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 16,
+    "y": 3153,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 3255,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3295,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3337,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3379,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3421,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3463,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 196,
+    "y": 3255,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 3295,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 3337,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 3379,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 3447,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 3489,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 3531,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 3597,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3637,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3679,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 3721,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 32,
+    "y": 3787,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 3827,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 3869,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 3911,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 3953,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 4019,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 192,
+    "y": 4019,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 4049,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 188,
+    "y": 4049,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 21,
+    "y": 4084,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 4137,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 4137,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 4137,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 136,
+    "y": 4134,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 136,
+    "y": 4134,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 176,
+    "y": 4137,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 4,
+    "textNodes": 86,
+    "controls": 74,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "nav.ifx-fixed.sub-nav-inner",
+     "path": "nav.ifx-fixed.sub-nav-inner > ul > li > a",
+     "text": "führungsteam",
+     "cutMin": 6,
+     "cutMax": 6
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "nav.ifx-fixed.sub-nav-inner",
+     "path": "nav.ifx-fixed.sub-nav-inner > ul > li > a",
+     "text": "führungsteam",
+     "cutMin": 6,
+     "cutMax": 6
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.location-finder-tools",
+     "path": "div.location-finder-inner > div.location-finder-tools > div.location-finder-dd > button.location-finder-dd-btn",
+     "text": "art des standorts",
+     "cutMin": 24,
+     "cutMax": 24
+    }
+   ],
+   "findings": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 6,
+     "path": "nav.ifx-fixed.sub-nav-inner > ul > li > a",
+     "text": "führungsteam",
+     "clipper": "nav.ifx-fixed.sub-nav-inner",
+     "rect": {
+      "l": 269,
+      "t": 84,
+      "r": 366,
+      "b": 106,
+      "w": 97,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 61,
+      "r": 360,
+      "b": 121,
+      "w": 360,
+      "h": 60
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 6,
+     "path": "nav.ifx-fixed.sub-nav-inner > ul > li > a",
+     "text": "führungsteam",
+     "clipper": "nav.ifx-fixed.sub-nav-inner",
+     "rect": {
+      "l": 269,
+      "t": 84,
+      "r": 366,
+      "b": 106,
+      "w": 97,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 61,
+      "r": 360,
+      "b": 121,
+      "w": 360,
+      "h": 60
+     },
+     "lines": 1
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 24,
+     "path": "div.location-finder-inner > div.location-finder-tools > div.location-finder-dd > button.location-finder-dd-btn",
+     "text": "art des standorts",
+     "clipper": "div.location-finder-tools",
+     "rect": {
+      "l": 214,
+      "t": 291,
+      "r": 368,
+      "b": 327,
+      "w": 154,
+      "h": 36
+     },
+     "clip": {
+      "l": 16,
+      "t": 291,
+      "r": 344,
+      "b": 371,
+      "w": 328,
+      "h": 80
+     }
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 23,
+    "linkHidden": 0,
+    "button": 14,
+    "buttonHidden": 0,
+    "text": 13,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"kontakt\" (y 145) has no origin heading",
+   "text": "kontakt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"unsere standorte\" (y 247) has no origin heading",
+   "text": "unsere standorte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"infineon support\" (y 1067) has no origin heading",
+   "text": "infineon support"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"sales kontakte\" (y 1461) has no origin heading",
+   "text": "sales kontakte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"spezifische anfragen\" (y 1685) has no origin heading",
+   "text": "spezifische anfragen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"where to buy\" (y 2115) has no origin heading",
+   "text": "where to buy"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"regionale webseiten\" (y 2515) has no origin heading",
+   "text": "regionale webseiten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"unternehmen\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "unternehmen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"unsere divisionen\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "unsere divisionen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"führungsteam\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "führungsteam"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"alle länder / territories\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "alle länder / territories"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"art des standorts\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "art des standorts"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×10 \"details ein- oder ausblenden\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 10,
+   "text": "details ein- oder ausblenden"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"previous page\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "previous page"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"next page\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "next page"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"support anfordern\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "support anfordern"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"hotline-nummern\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "hotline-nummern"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"sales kontakte\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "sales kontakte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"hr kontakte\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "hr kontakte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"investor relations kontakte\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "investor relations kontakte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"pressekontakte\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "pressekontakte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"integrity line (hinweisgeberportal)\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "integrity line (hinweisgeberportal)"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"compliance kontakte\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "compliance kontakte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"einkaufskontakte\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "einkaufskontakte"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"distributoren partner\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "distributoren partner"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"infineon technologies österreich\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "infineon technologies österreich"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"infineon technologies bangkok\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "infineon technologies bangkok"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"infineon technologies dresden\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "infineon technologies dresden"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"infineon technologies japan\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "infineon technologies japan"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"infineon technologies korea\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "infineon technologies korea"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"infineon technologies portugal\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "infineon technologies portugal"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"infineon technologies regensburg\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "infineon technologies regensburg"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"infineon technologies rumänien\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "infineon technologies rumänien"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"infineon technologies singapur\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "infineon technologies singapur"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"infineon technologies warstein\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "infineon technologies warstein"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"(top)\": 0 origin → 13 served visible",
+   "band": 0,
+   "origin": 0,
+   "eds": 13,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 7,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 37,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 1,
+  "findings": 36,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": -108,
+    "y": 84,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 84,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 149,
+    "y": 84,
+    "w": 98,
+    "h": 22
+   },
+   {
+    "x": 266,
+    "y": 84,
+    "w": 54,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 144,
+    "w": 73,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 243,
+    "w": 147,
+    "h": 28
+   },
+   {
+    "x": 49,
+    "y": 312,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 253,
+    "y": 312,
+    "w": 115,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 360,
+    "w": 24,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 360,
+    "w": 69,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 413,
+    "w": 81,
+    "h": 22
+   },
+   {
+    "x": 97,
+    "y": 413,
+    "w": 7,
+    "h": 22
+   },
+   {
+    "x": 104,
+    "y": 413,
+    "w": 34,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 469,
+    "w": 55,
+    "h": 22
+   },
+   {
+    "x": 71,
+    "y": 469,
+    "w": 7,
+    "h": 22
+   },
+   {
+    "x": 78,
+    "y": 469,
+    "w": 89,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 525,
+    "w": 63,
+    "h": 22
+   },
+   {
+    "x": 79,
+    "y": 525,
+    "w": 7,
+    "h": 22
+   },
+   {
+    "x": 86,
+    "y": 525,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 581,
+    "w": 42,
+    "h": 22
+   },
+   {
+    "x": 58,
+    "y": 581,
+    "w": 7,
+    "h": 22
+   },
+   {
+    "x": 65,
+    "y": 581,
+    "w": 89,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 637,
+    "w": 68,
+    "h": 22
+   },
+   {
+    "x": 84,
+    "y": 637,
+    "w": 7,
+    "h": 22
+   },
+   {
+    "x": 91,
+    "y": 637,
+    "w": 34,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 693,
+    "w": 59,
+    "h": 22
+   },
+   {
+    "x": 75,
+    "y": 693,
+    "w": 7,
+    "h": 22
+   },
+   {
+    "x": 82,
+    "y": 693,
+    "w": 59,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 749,
+    "w": 67,
+    "h": 22
+   },
+   {
+    "x": 83,
+    "y": 749,
+    "w": 7,
+    "h": 22
+   },
+   {
+    "x": 91,
+    "y": 749,
+    "w": 38,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 805,
+    "w": 44,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 805,
+    "w": 7,
+    "h": 22
+   },
+   {
+    "x": 67,
+    "y": 805,
+    "w": 66,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 861,
+    "w": 46,
+    "h": 22
+   },
+   {
+    "x": 62,
+    "y": 861,
+    "w": 7,
+    "h": 22
+   },
+   {
+    "x": 69,
+    "y": 861,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 917,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 76,
+    "y": 917,
+    "w": 7,
+    "h": 22
+   },
+   {
+    "x": 83,
+    "y": 917,
+    "w": 43,
+    "h": 22
+   },
+   {
+    "x": 124,
+    "y": 996,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 172,
+    "y": 996,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 224,
+    "y": 996,
+    "w": 8,
+    "h": 22
+   },
+   {
+    "x": 120,
+    "y": 1077,
+    "w": 172,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 1123,
+    "w": 229,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 1149,
+    "w": 170,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 1175,
+    "w": 223,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 1201,
+    "w": 227,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 1227,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 116,
+    "y": 1291,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 1356,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 120,
+    "y": 1485,
+    "w": 150,
+    "h": 20
+   },
+   {
+    "x": 116,
+    "y": 1545,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 115,
+    "y": 1695,
+    "w": 114,
+    "h": 20
+   },
+   {
+    "x": 115,
+    "y": 1719,
+    "w": 91,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 1770,
+    "w": 89,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 1814,
+    "w": 193,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 1858,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 1898,
+    "w": 241,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 1966,
+    "w": 150,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2010,
+    "w": 123,
+    "h": 22
+   },
+   {
+    "x": 120,
+    "y": 2139,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2185,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2211,
+    "w": 160,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2237,
+    "w": 229,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2263,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2289,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2315,
+    "w": 225,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2341,
+    "w": 219,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2367,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2422,
+    "w": 150,
+    "h": 22
+   },
+   {
+    "x": 116,
+    "y": 2551,
+    "w": 98,
+    "h": 20
+   },
+   {
+    "x": 116,
+    "y": 2575,
+    "w": 99,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2622,
+    "w": 226,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2694,
+    "w": 218,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2738,
+    "w": 214,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2782,
+    "w": 200,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2826,
+    "w": 198,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2870,
+    "w": 217,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2910,
+    "w": 236,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2978,
+    "w": 225,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3050,
+    "w": 220,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 3094,
+    "w": 218,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3349,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3388,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3430,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3472,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3514,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3556,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3349,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 3388,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3430,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3472,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3498,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3540,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3582,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3624,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3691,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3730,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3772,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3814,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 3881,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3920,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 3962,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 4004,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 4046,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 4117,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 4117,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 4147,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 4147,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 4177,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 4177,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 4177,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 24,
+    "y": 84,
+    "w": 93,
+    "h": 22
+   },
+   {
+    "x": 133,
+    "y": 84,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 269,
+    "y": 84,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 144,
+    "w": 73,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 247,
+    "w": 147,
+    "h": 28
+   },
+   {
+    "x": 33,
+    "y": 299,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 231,
+    "y": 299,
+    "w": 100,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 345,
+    "w": 82,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 404,
+    "w": 122,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 460,
+    "w": 151,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 516,
+    "w": 131,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 572,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 628,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 684,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 740,
+    "w": 112,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 796,
+    "w": 117,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 852,
+    "w": 157,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 908,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 141,
+    "y": 973,
+    "w": 7,
+    "h": 20
+   },
+   {
+    "x": 177,
+    "y": 973,
+    "w": 7,
+    "h": 20
+   },
+   {
+    "x": 213,
+    "y": 973,
+    "w": 7,
+    "h": 20
+   },
+   {
+    "x": 118,
+    "y": 1069,
+    "w": 172,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 1115,
+    "w": 229,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 1141,
+    "w": 170,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 1167,
+    "w": 223,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 1193,
+    "w": 227,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 1219,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 124,
+    "y": 1275,
+    "w": 112,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 1336,
+    "w": 110,
+    "h": 20
+   },
+   {
+    "x": 129,
+    "y": 1463,
+    "w": 150,
+    "h": 20
+   },
+   {
+    "x": 124,
+    "y": 1523,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 103,
+    "y": 1687,
+    "w": 114,
+    "h": 20
+   },
+   {
+    "x": 103,
+    "y": 1711,
+    "w": 91,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 1760,
+    "w": 75,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 1806,
+    "w": 166,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 1852,
+    "w": 93,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 1898,
+    "w": 211,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 1944,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 1990,
+    "w": 105,
+    "h": 20
+   },
+   {
+    "x": 140,
+    "y": 2117,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2163,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2189,
+    "w": 160,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2215,
+    "w": 229,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2241,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2267,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2293,
+    "w": 225,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2319,
+    "w": 219,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2345,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 56,
+    "y": 2390,
+    "w": 128,
+    "h": 20
+   },
+   {
+    "x": 104,
+    "y": 2517,
+    "w": 98,
+    "h": 20
+   },
+   {
+    "x": 104,
+    "y": 2541,
+    "w": 99,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2590,
+    "w": 198,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2636,
+    "w": 188,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2682,
+    "w": 185,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2728,
+    "w": 172,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2774,
+    "w": 170,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2820,
+    "w": 187,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2866,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2912,
+    "w": 197,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2958,
+    "w": 189,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 3004,
+    "w": 188,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 3256,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3295,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3337,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3379,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3421,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3463,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3256,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 3295,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3337,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3379,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3405,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3447,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3489,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3531,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3598,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3637,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3679,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3721,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 3788,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3827,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 3869,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 3911,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 3953,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 4024,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 4024,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 4054,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 4054,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 4084,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 4084,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 4084,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

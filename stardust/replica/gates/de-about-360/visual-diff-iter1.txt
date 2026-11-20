@@ -1,0 +1,321 @@
+[live-session] waiting to pace live navigations to www.infineon.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/de-about-360/vdiff-iter1/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 332,
+  "textLen": 210,
+  "images": [
+   {
+    "src": "spinner-48.svg",
+    "natural": "48x48",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo.svg",
+    "natural": "91x40",
+    "rendered": "82x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "3535.svg",
+    "natural": "48x48",
+    "rendered": "27x27",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "company.jpg",
+    "natural": "1280x855",
+    "rendered": "328x328",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "investor-relations.jpg",
+    "natural": "1280x854",
+    "rendered": "328x328",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "key-visual-decarbonization-2.png",
+    "natural": "1280x854",
+    "rendered": "328x328",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "evp-hq-group-meeting.jpg",
+    "natural": "1280x937",
+    "rendered": "328x328",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "our-stories.png",
+    "natural": "1280x855",
+    "rendered": "328x328",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "quiet-period-1.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "324x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "university-students-visual-forty-two.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "324x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "university-students-visual-twenty-three.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "324x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Infineon_Logo_Inverted.svg",
+    "natural": "182x80",
+    "rendered": "124x54",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "tiktok.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "0?ti=12013328&tm=gtm002&Ver=2&mid=a1d0f36c-c891-4063-ae43-9c367454db74&bo=3&sid=a18713a0e30111f1ac0bcfe0e4b4e6c7&vid=a1874ef0e30111f18ffe158064f1848b&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=360&sh=1000&sc=24&tl=%C3%9Cber%20%7C%20Infineon%20Technologies&p=https%3A%2F%2Fwww.infineon.com%2Fde%2Fabout&r=&lt=3564&evt=pageLoad&sv=2&asc=G&cdb=AQET&rn=697327",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Über uns",
+    "color": "rgb(29, 29, 29)",
+    "fontSize": "22px",
+    "family": "Source Sans 3",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "Über uns",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Quicklinks",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "myInfineon",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Karriere",
+    "color": "rgb(255, 255, 255)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "page-header",
+    "width": 273,
+    "left": 16
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 332,
+  "textLen": 210,
+  "images": [
+   {
+    "src": "logo.svg",
+    "natural": "91x40",
+    "rendered": "82x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "company.jpg?wid=1400",
+    "natural": "1400x935",
+    "rendered": "328x328",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "investor-relations.jpg",
+    "natural": "1280x854",
+    "rendered": "328x328",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "key-visual-decarbonization-2.png?wid=1400",
+    "natural": "1400x934",
+    "rendered": "328x328",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "evp-hq-group-meeting.jpg?wid=1400",
+    "natural": "1400x1025",
+    "rendered": "328x328",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "our-stories.png?wid=1400",
+    "natural": "1400x935",
+    "rendered": "328x328",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "quiet-period-1.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "324x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "university-students-visual-forty-two.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "324x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "university-students-visual-twenty-three.jpg:asset-680-2x1?qlt=55,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+    "natural": "680x340",
+    "rendered": "324x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Infineon_Logo_Inverted.svg",
+    "natural": "182x80",
+    "rendered": "124x54",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "tiktok.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Über uns",
+    "color": "rgb(29, 29, 29)",
+    "fontSize": "22px",
+    "family": "Source Sans 3",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "Über uns",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Quicklinks",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "myInfineon",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Karriere",
+    "color": "rgb(255, 255, 255)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "page-header",
+    "width": 273,
+    "left": 16
+   }
+  ]
+ }
+}

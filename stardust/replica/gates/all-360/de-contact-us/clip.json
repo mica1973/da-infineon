@@ -1,0 +1,67 @@
+{
+ "url": "https://main--938eead7--aemcoder.aem.live/de/contact-us",
+ "at": "2026-11-18T23:26:24.978Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 3,
+  "offPage": 4,
+  "textNodes": 86,
+  "controls": 74,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "nav.ifx-fixed.sub-nav-inner",
+   "path": "nav.ifx-fixed.sub-nav-inner > ul > li > a",
+   "text": "führungsteam",
+   "cutMin": 6,
+   "cutMax": 6
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "nav.ifx-fixed.sub-nav-inner",
+   "path": "nav.ifx-fixed.sub-nav-inner > ul > li > a",
+   "text": "führungsteam",
+   "cutMin": 6,
+   "cutMax": 6
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.location-finder-tools",
+   "path": "div.location-finder-inner > div.location-finder-tools > div.location-finder-dd > button.location-finder-dd-btn",
+   "text": "art des standorts",
+   "cutMin": 24,
+   "cutMax": 24
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 3,
+   "offPage": 2,
+   "textNodes": 107,
+   "controls": 68,
+   "total": 0
+  }
+ }
+}

@@ -1,0 +1,183 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-18T05:01:59.905Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://www.infineon.com/de/thank-you",
+      "http://localhost:8791/de-thank-you-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://www.infineon.com/de/thank-you",
+    "http://localhost:8791/de-thank-you-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#container-f0f0c05cb9 > div.ifxcontainer.responsivegrid",
+      "isBody": false,
+      "leaves": 4,
+      "w2": 1400
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "#container-f0f0c05cb9 > div.ifxcontainer.responsivegrid",
+        "tier": 0,
+        "share": 1,
+        "section": -1,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 624,
+        "via": "fixed",
+        "selector": "div.error.aem-GridColumn > div.error-component.button-comp > div.row > div.wrapper.col-md-6",
+        "tier": 7,
+        "share": 0,
+        "section": 0,
+        "w1": 624,
+        "maxWidth": "100%"
+      },
+      {
+        "kind": "content",
+        "px": 624,
+        "via": "fixed",
+        "selector": "div.error.aem-GridColumn > div.error-component.button-comp > div.row > div.col-md-6.d-flex",
+        "tier": 7,
+        "share": 1,
+        "section": 1,
+        "w1": 624,
+        "maxWidth": "100%"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "div.error.aem-GridColumn > div.error-component.button-comp > div.row > div.wrapper.col-md-6",
+        "px": 624,
+        "capSelector": "div.error.aem-GridColumn > div.error-component.button-comp > div.row > div.wrapper.col-md-6"
+      },
+      {
+        "index": 1,
+        "selector": "div.error.aem-GridColumn > div.error-component.button-comp > div.row > div.col-md-6.d-flex",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": 1400,
+    "contentMaxWidth": 624,
+    "contentFrom": "content",
+    "maxCap": 1400,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 56
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body > main.root",
+      "isBody": false,
+      "leaves": 4,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 1400,
+        "via": "max-width",
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-fixed",
+        "tier": 2,
+        "share": 1,
+        "section": 0,
+        "w1": 1400,
+        "maxWidth": "1400px"
+      },
+      {
+        "kind": "module",
+        "px": 624,
+        "via": "fixed",
+        "selector": "div.ifxcontainer.ifx-fixed > section.ty > div.ty__row > div.ty__media",
+        "tier": 5,
+        "share": 0,
+        "section": 0,
+        "w1": 624,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "content",
+        "px": 624,
+        "via": "fixed",
+        "selector": "div.ifxcontainer.ifx-fixed > section.ty > div.ty__row > div.ty__body",
+        "tier": 5,
+        "share": 1,
+        "section": 0,
+        "w1": 624,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-fixed",
+        "px": 624,
+        "capSelector": "div.ifxcontainer.ifx-fixed > section.ty > div.ty__row > div.ty__media"
+      },
+      {
+        "index": 1,
+        "selector": "body > main.root > div.cmp-container > div.ifxcontainer.ifx-fixed",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": 1400,
+    "contentMaxWidth": 624,
+    "contentFrom": "content",
+    "maxCap": 1400,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 32
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "wrapper cap",
+        "detail": "live 624px = build 624px (±20)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "outer shell",
+        "detail": "live 1400px (#container-f0f0c05cb9 > div.ifxcontainer.responsivegrid) encloses the 624px wrapper cap — informational, no content bound of its own",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 1/2",
+        "detail": "624px = 624px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/2",
+        "detail": "full-bleed on both",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/de-thank-you-2560/cap-iter.json"
+}

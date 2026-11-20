@@ -1,0 +1,69 @@
+/* sub-nav: centred secondary navigation (live .secondary-nav-link, 53px items) */
+.sub-nav .sub-nav-inner {
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.sub-nav .sub-nav-inner ul {
+  display: flex;
+  justify-content: safe center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  white-space: nowrap;
+}
+
+.sub-nav .sub-nav-inner li {
+  flex: none;
+  padding: 16px 8px 11px;
+  border-bottom: 2px solid transparent;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.sub-nav .sub-nav-inner a:any-link {
+  color: var(--ifx-ink);
+  text-decoration: none;
+}
+
+.sub-nav .sub-nav-inner li.active {
+  border-bottom-color: var(--ifx-teal);
+  font-weight: 600;
+}
+
+.sub-nav .sub-nav-inner li.active a:any-link {
+  color: var(--ifx-teal);
+}
+
+@media (width >= 992px) {
+  .sub-nav .sub-nav-inner ul {
+    justify-content: center;
+    gap: 4px;
+  }
+}
+
+/* live 360: items carry 6.4px top / 1px bottom margin (60px bar) */
+@media (width < 992px) {
+  .sub-nav .sub-nav-inner li {
+    margin: 6.4px 0 1px;
+  }
+}
+
+/* variant spaced: hub sub-nav under the breadcrumb (live /de/partners: 38px / 87px above) */
+.sub-nav.spaced .sub-nav-inner {
+  padding-top: 31.6px;
+}
+
+.sub-nav.spaced .sub-nav-inner ul {
+  gap: 23px;
+}
+
+@media (width >= 992px) {
+  .sub-nav .sub-nav-inner {
+    padding-top: 7px;
+  }
+
+  .sub-nav.spaced .sub-nav-inner {
+    padding-top: 87px;
+  }
+}

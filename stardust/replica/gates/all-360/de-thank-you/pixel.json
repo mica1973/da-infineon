@@ -1,0 +1,47 @@
+{
+  "a": "stardust/replica/gates/all-360/de-thank-you/origin.png",
+  "b": "stardust/replica/gates/all-360/de-thank-you/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 2083,
+    "mode": "overlap"
+  },
+  "heightDelta": -7,
+  "differingPixels": 34058,
+  "pct": 4.54,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/de-thank-you/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 15.27,
+  "textBoxes": 37,
+  "textPixels": 106531,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 7.6
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 5.7
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 2.4
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 2.9
+    },
+    {
+      "y0": 2000,
+      "y1": 2083,
+      "pct": 2
+    }
+  ]
+}

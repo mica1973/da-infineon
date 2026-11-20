@@ -1,0 +1,70 @@
+/* newsletter-offramp — full-bleed grey band, heading | text + CTA (mobile-first) */
+.newsletter-offramp {
+  background: var(--ifx-surface-band);
+}
+
+.newsletter-offramp .icon-mail::before {
+  content: '\e9dd';
+}
+
+.newsletter-offramp .newsletter-offramp-inner {
+  max-width: 1186px;
+  margin: 0 auto;
+  padding: 80px 16px;
+}
+
+.newsletter-offramp .newsletter-offramp-head :is(h1, h2, h3, h4, h5, h6) {
+  margin-bottom: 16px;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 36px;
+  letter-spacing: -0.26px;
+}
+
+.newsletter-offramp .newsletter-offramp-text p {
+  margin-bottom: 32px;
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.newsletter-offramp .newsletter-offramp-actions a:any-link {
+  display: flex;
+  width: 100%;
+  padding: 12px 16px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.newsletter-offramp .newsletter-offramp-actions .icon {
+  font-size: 16px;
+}
+
+@media (width >= 992px) {
+  .newsletter-offramp .newsletter-offramp-inner {
+    display: flex;
+    gap: 24px;
+    padding: 80px 76px;
+  }
+
+  .newsletter-offramp .newsletter-offramp-head,
+  .newsletter-offramp .newsletter-offramp-sub {
+    flex: 1 1 0;
+  }
+
+  .newsletter-offramp .newsletter-offramp-head :is(h1, h2, h3, h4, h5, h6) {
+    margin-bottom: 0;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.36px;
+  }
+
+  .newsletter-offramp .newsletter-offramp-text p {
+    margin-bottom: 24px;
+  }
+
+  .newsletter-offramp .newsletter-offramp-actions a:any-link {
+    display: inline-flex;
+    width: auto;
+  }
+}

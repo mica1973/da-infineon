@@ -1,0 +1,77 @@
+{
+ "url": "https://main--938eead7--aemcoder.aem.live/de/careers",
+ "at": "2026-11-18T23:07:28.426Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 4,
+  "offPage": 4,
+  "textNodes": 106,
+  "controls": 72,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "p",
+   "path": "div.teaser-cards-body > div.teaser-cards-title > p > strong",
+   "text": "personalbericht",
+   "cutMin": 77,
+   "cutMax": 77
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "p",
+   "path": "li.teaser-cards-card > div.teaser-cards-body > div.teaser-cards-desc > p",
+   "text": "tauchen sie in die arbeitswelt von infineon ein und lesen si",
+   "cutMin": 235,
+   "cutMax": 235
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "ul.teaser-cards-track",
+   "path": "div.teaser-cards-body > div.teaser-cards-link > p > a",
+   "text": "weitere informationen",
+   "cutMin": 104,
+   "cutMax": 104
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "ul.teaser-cards-track",
+   "path": "div.teaser-cards-body > div.teaser-cards-link > p > a",
+   "text": "weitere informationen",
+   "cutMin": 80,
+   "cutMax": 80
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 2,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 3,
+   "offPage": 3,
+   "textNodes": 108,
+   "controls": 69,
+   "total": 2
+  }
+ }
+}

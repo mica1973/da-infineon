@@ -1,0 +1,216 @@
+/* page-header: grey title band + in-page jump nav (live /de/about .pageheader-comp) */
+.page-header .page-header-inner {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.page-header .page-header-comp {
+  width: calc(100% * 10 / 12);
+}
+
+.page-header .page-header-head :is(h1, h2) {
+  font-size: 22px;
+  line-height: 30px;
+  font-weight: 600;
+  letter-spacing: -0.22px;
+}
+
+.page-header .page-header-head p {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  color: var(--ifx-stone-text);
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.page-header .page-header-nav {
+  display: none;
+}
+
+.page-header .page-header-nav li {
+  display: inline-block;
+}
+
+.page-header .page-header-nav a {
+  display: inline-block;
+  padding: 8px;
+  color: var(--ifx-ink);
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.page-header .page-header-nav a.active {
+  color: var(--ifx-teal);
+  font-weight: 600;
+  text-decoration: underline var(--ifx-teal) 2px;
+  text-underline-offset: 0.7rem;
+}
+
+/* mobile "Springen zu" dropdown */
+.page-header .page-header-jump {
+  display: block;
+  position: relative;
+  padding: 16px;
+  background: var(--ifx-surface-band);
+}
+
+.page-header .page-header-jump-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  width: 100%;
+  padding: 8px 16px;
+  border: 1px solid var(--ifx-stone-mid);
+  border-radius: var(--ifx-radius-btn);
+  background: #fff;
+  color: var(--ifx-ink);
+  font-size: 16px;
+  line-height: 16px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.page-header .page-header-jump-bar p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 16px;
+}
+
+.page-header .page-header-chev {
+  flex: none;
+  width: 8px;
+  height: 8px;
+  margin: 0 4px 4px 0;
+  border-right: 1.5px solid currentcolor;
+  border-bottom: 1.5px solid currentcolor;
+  transform: rotate(45deg);
+}
+
+.page-header .page-header-jump-list {
+  position: absolute;
+  left: 16px;
+  right: 16px;
+  z-index: 5;
+  padding: 8px 0;
+  background: #fff;
+  box-shadow: 0 0 16px 0 rgb(29 29 29 / 12%);
+}
+
+.page-header .page-header-jump-list[hidden] {
+  display: none;
+}
+
+.page-header .page-header-jump-list a {
+  display: block;
+  padding: 0.5rem 1rem;
+  border-left: 4px solid transparent;
+}
+
+.page-header .page-header-jump-list a.active,
+.page-header .page-header-jump-list a:hover {
+  border-left-color: var(--ifx-teal);
+  color: var(--ifx-teal);
+}
+
+/* live: once scrolled past, the jump nav leaves the flow and pins to the top */
+.page-header .page-header-comp.is-stuck .page-header-jump {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 998;
+}
+
+@media (width >= 992px) {
+  .page-header .page-header-inner {
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+
+  .page-header .page-header-comp {
+    width: auto;
+  }
+
+  .page-header .page-header-head :is(h1, h2) {
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.28px;
+  }
+
+  .page-header .page-header-head p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .page-header .page-header-nav {
+    display: block;
+  }
+
+  .page-header .page-header-jump {
+    display: none;
+  }
+
+  .page-header .page-header-comp.is-stuck .page-header-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 998;
+    padding: 0 max(var(--ifx-gutter), calc((100% - 1248px) / 2));
+    background: #fff;
+    box-shadow: 0 0 16px 0 rgb(29 29 29 / 12%);
+  }
+}
+
+/* variant title (reference pages, live /de/glossary): title-only band, 64px under the title
+   from 992 */
+@media (width >= 992px) {
+  .page-header.title .page-header-inner {
+    padding-bottom: 64px;
+  }
+}
+
+/* variant kicker (support / contact pages, live /de/support/faqs, /de/contact-us): 48px band
+   from 992, 28px title, optional small-caps kicker paragraph over the title */
+.page-header.kicker .page-header-head :is(h1, h2) {
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.page-header.kicker .page-header-head p {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 0 0 34px;
+  color: var(--ifx-ink);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 3.2px;
+  text-transform: uppercase;
+}
+
+.page-header.kicker .page-header-head p::before {
+  content: '';
+  width: 48px;
+  height: 1px;
+  background: var(--ifx-ink);
+}
+
+@media (width >= 992px) {
+  .page-header.kicker .page-header-inner {
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+
+  .page-header.kicker .page-header-head :is(h1, h2) {
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.28px;
+  }
+
+  .page-header.kicker .page-header-head p {
+    margin-bottom: 28px;
+  }
+}

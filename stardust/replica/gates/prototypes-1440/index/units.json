@@ -1,0 +1,4994 @@
+{
+ "_provenance": {
+  "writtenBy": "unit-geometry.mjs",
+  "at": "2026-11-18T05:47:59.277Z",
+  "tol": 4,
+  "n": 4,
+  "width": 1440,
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/",
+  "at": "2026-11-18T04:34:59.441Z",
+  "docH": 6630
+ },
+ "eds": {
+  "url": "http://localhost:8791/index-proposed.html",
+  "at": "2026-11-18T05:47:59.168Z",
+  "docH": 6630
+ },
+ "results": [
+  {
+   "sel": "#pzn-home-teaser-row-cards .row-cards-type=.markets .mk-card",
+   "family": null,
+   "required": true,
+   "originMatches": 6,
+   "edsMatches": 6,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div#pzn-home-teaser-row-cards > div.image-container.teaserCard > div.row-cards-type.image-item-large"
+     },
+     "eds": {
+      "path": "div.markets__wrap.ifx-shell > div.markets__grid > article.mk-card"
+     },
+     "rows": [
+      {
+       "key": "image:picture.img-container#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200
+       },
+       "eds": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200,
+        "sel": "picture.mk-card__media",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:electromobility",
+       "role": "image",
+       "text": "electromobility",
+       "edsText": "electromobility",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200
+       },
+       "eds": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:made with ai",
+       "role": "text",
+       "text": "made with ai",
+       "edsText": "made with ai",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 12,
+        "w": 75,
+        "h": 19
+       },
+       "eds": {
+        "x": 16,
+        "y": 12,
+        "w": 75,
+        "h": 19,
+        "sel": "span.mk-card__ai",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "11/13/500",
+        "eds": "11/13/500"
+       }
+      },
+      {
+       "key": "text:we support the transition to electromobi",
+       "role": "text",
+       "text": "we support the transition to electromobility with semiconduc",
+       "edsText": "we support the transition to electromobility with semiconduc",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 284,
+        "w": 366,
+        "h": 72
+       },
+       "eds": {
+        "x": 28,
+        "y": 284,
+        "w": 366,
+        "h": 72,
+        "sel": "p.mk-card__desc",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "link:all about electromobility",
+       "role": "link",
+       "text": "all about electromobility",
+       "edsText": "all about electromobility",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 378,
+        "w": 195,
+        "h": 24
+       },
+       "eds": {
+        "x": 28,
+        "y": 378,
+        "w": 195,
+        "h": 24,
+        "sel": "a.mk-card__link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 100,
+       "y": 805,
+       "w": 418,
+       "h": 418
+      },
+      "eds": {
+       "x": 100,
+       "y": 805,
+       "w": 418,
+       "h": 418
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 5,
+      "within": 5,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div#pzn-home-teaser-row-cards > div.image-container.teaserCard > div.row-cards-type.image-item-large"
+     },
+     "eds": {
+      "path": "div.markets__wrap.ifx-shell > div.markets__grid > article.mk-card"
+     },
+     "rows": [
+      {
+       "key": "image:picture.img-container#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200
+       },
+       "eds": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200,
+        "sel": "picture.mk-card__media",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:software-defined vehicles",
+       "role": "image",
+       "text": "software-defined vehicles",
+       "edsText": "software-defined vehicles",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200
+       },
+       "eds": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:made with ai",
+       "role": "text",
+       "text": "made with ai",
+       "edsText": "made with ai",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 12,
+        "w": 75,
+        "h": 19
+       },
+       "eds": {
+        "x": 16,
+        "y": 12,
+        "w": 75,
+        "h": 19,
+        "sel": "span.mk-card__ai",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "11/13/500",
+        "eds": "11/13/500"
+       }
+      },
+      {
+       "key": "text:we enable software-defined vehicles with",
+       "role": "text",
+       "text": "we enable software-defined vehicles with semiconductor innov",
+       "edsText": "we enable software-defined vehicles with semiconductor innov",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 284,
+        "w": 366,
+        "h": 72
+       },
+       "eds": {
+        "x": 28,
+        "y": 284,
+        "w": 366,
+        "h": 72,
+        "sel": "p.mk-card__desc",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "link:all about software-defined vehicles",
+       "role": "link",
+       "text": "all about software-defined vehicles",
+       "edsText": "all about software-defined vehicles",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 378,
+        "w": 265,
+        "h": 24
+       },
+       "eds": {
+        "x": 28,
+        "y": 378,
+        "w": 265,
+        "h": 24,
+        "sel": "a.mk-card__link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 550,
+       "y": 805,
+       "w": 418,
+       "h": 418
+      },
+      "eds": {
+       "x": 550,
+       "y": 805,
+       "w": 418,
+       "h": 418
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 5,
+      "within": 5,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div#pzn-home-teaser-row-cards > div.image-container.teaserCard > div.row-cards-type.image-item-large"
+     },
+     "eds": {
+      "path": "div.markets__wrap.ifx-shell > div.markets__grid > article.mk-card"
+     },
+     "rows": [
+      {
+       "key": "image:picture.img-container#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200
+       },
+       "eds": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200,
+        "sel": "picture.mk-card__media",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:robotics",
+       "role": "image",
+       "text": "robotics",
+       "edsText": "robotics",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200
+       },
+       "eds": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:made with ai",
+       "role": "text",
+       "text": "made with ai",
+       "edsText": "made with ai",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 12,
+        "w": 75,
+        "h": 19
+       },
+       "eds": {
+        "x": 16,
+        "y": 12,
+        "w": 75,
+        "h": 19,
+        "sel": "span.mk-card__ai",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "11/13/500",
+        "eds": "11/13/500"
+       }
+      },
+      {
+       "key": "text:we empower robots with semiconductor sol",
+       "role": "text",
+       "text": "we empower robots with semiconductor solutions that enable p",
+       "edsText": "we empower robots with semiconductor solutions that enable p",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 284,
+        "w": 366,
+        "h": 72
+       },
+       "eds": {
+        "x": 28,
+        "y": 284,
+        "w": 366,
+        "h": 72,
+        "sel": "p.mk-card__desc",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "link:all about robotics",
+       "role": "link",
+       "text": "all about robotics",
+       "edsText": "all about robotics",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 378,
+        "w": 145,
+        "h": 24
+       },
+       "eds": {
+        "x": 28,
+        "y": 378,
+        "w": 145,
+        "h": 24,
+        "sel": "a.mk-card__link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 1001,
+       "y": 805,
+       "w": 418,
+       "h": 418
+      },
+      "eds": {
+       "x": 1001,
+       "y": 805,
+       "w": 418,
+       "h": 418
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 5,
+      "within": 5,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 3,
+     "origin": {
+      "path": "div#pzn-home-teaser-row-cards > div.image-container.teaserCard > div.row-cards-type.image-item-large"
+     },
+     "eds": {
+      "path": "div.markets__wrap.ifx-shell > div.markets__grid > article.mk-card"
+     },
+     "rows": [
+      {
+       "key": "image:picture.img-container#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200
+       },
+       "eds": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200,
+        "sel": "picture.mk-card__media",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:smart living",
+       "role": "image",
+       "text": "smart living",
+       "edsText": "smart living",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200
+       },
+       "eds": {
+        "x": 4,
+        "y": 0,
+        "w": 414,
+        "h": 200,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:made with ai",
+       "role": "text",
+       "text": "made with ai",
+       "edsText": "made with ai",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 12,
+        "w": 75,
+        "h": 19
+       },
+       "eds": {
+        "x": 16,
+        "y": 12,
+        "w": 75,
+        "h": 19,
+        "sel": "span.mk-card__ai",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "11/13/500",
+        "eds": "11/13/500"
+       }
+      },
+      {
+       "key": "text:we bring intelligence closer to everyday",
+       "role": "text",
+       "text": "we bring intelligence closer to everyday life, by enabling d",
+       "edsText": "we bring intelligence closer to everyday life, by enabling d",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 284,
+        "w": 366,
+        "h": 72
+       },
+       "eds": {
+        "x": 28,
+        "y": 284,
+        "w": 366,
+        "h": 72,
+        "sel": "p.mk-card__desc",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "link:all about smart living",
+       "role": "link",
+       "text": "all about smart living",
+       "edsText": "all about smart living",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 378,
+        "w": 170,
+        "h": 24
+       },
+       "eds": {
+        "x": 28,
+        "y": 378,
+        "w": 170,
+        "h": 24,
+        "sel": "a.mk-card__link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 100,
+       "y": 1255,
+       "w": 418,
+       "h": 418
+      },
+      "eds": {
+       "x": 100,
+       "y": 1255,
+       "w": 418,
+       "h": 418
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 5,
+      "within": 5,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  },
+  {
+   "sel": ".cmp-productcarousel .swiper-slide=.np .np-card",
+   "family": null,
+   "required": true,
+   "originMatches": 9,
+   "edsMatches": 9,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.cmp-productcarousel__swiper.swiper > div.swiper-wrapper.cmp-productcarousel__track > div.swiper-slide.swiper-slide-active"
+     },
+     "eds": {
+      "path": "div.np__inner.ifx-fixed > div.np__track > article.np-card.np-card--featured"
+     },
+     "rows": [
+      {
+       "key": "box:div.cmp-productcarousel__image-wrapper#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 200
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 200,
+        "sel": "div.np-card__media",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:igc016k10s2",
+       "role": "image",
+       "text": "igc016k10s2",
+       "edsText": "igc016k10s2",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 16,
+        "w": 343,
+        "h": 168
+       },
+       "eds": {
+        "x": 16,
+        "y": 16,
+        "w": 343,
+        "h": 168,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:new",
+       "role": "text",
+       "text": "new",
+       "edsText": "new",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 16,
+        "w": 44,
+        "h": 23
+       },
+       "eds": {
+        "x": 16,
+        "y": 16,
+        "w": 44,
+        "h": 23,
+        "sel": "span.np-card__badge",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "10/13/600",
+        "eds": "10/13/600"
+       }
+      },
+      {
+       "key": "text:medium-voltage gan transistors",
+       "role": "text",
+       "text": "medium-voltage gan transistors",
+       "edsText": "medium-voltage gan transistors",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 216,
+        "w": 343,
+        "h": 20
+       },
+       "eds": {
+        "x": 16,
+        "y": 216,
+        "w": 343,
+        "h": 20,
+        "sel": "p.np-card__family",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "heading:igc016k10s2",
+       "role": "heading",
+       "text": "igc016k10s2",
+       "edsText": "igc016k10s2",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 236,
+        "w": 343,
+        "h": 24
+       },
+       "eds": {
+        "x": 16,
+        "y": 236,
+        "w": 343,
+        "h": 24,
+        "sel": "h3.np-card__title",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      },
+      {
+       "key": "link:igc016k10s2",
+       "role": "link",
+       "text": "igc016k10s2",
+       "edsText": "igc016k10s2",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 237,
+        "w": 90,
+        "h": 22
+       },
+       "eds": {
+        "x": 16,
+        "y": 237,
+        "w": 90,
+        "h": 22,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      },
+      {
+       "key": "text:coolgan™ transistor 100 v g5 in pqfn 3x5",
+       "role": "text",
+       "text": "coolgan™ transistor 100 v g5 in pqfn 3x5, 1.3 mω | with inte",
+       "edsText": "coolgan™ transistor 100 v g5 in pqfn 3x5, 1.3 mω | with inte",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 260,
+        "w": 343,
+        "h": 42
+       },
+       "eds": {
+        "x": 16,
+        "y": 260,
+        "w": 343,
+        "h": 40,
+        "sel": "p.np-card__sub",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": -2,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "link:view product",
+       "role": "link",
+       "text": "view product",
+       "edsText": "view product",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 318,
+        "w": 77,
+        "h": 21
+       },
+       "eds": {
+        "x": 16,
+        "y": 318,
+        "w": 77,
+        "h": 21,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/21/400",
+        "eds": "14/21/400"
+       }
+      },
+      {
+       "key": "link:view family",
+       "role": "link",
+       "text": "view family",
+       "edsText": "view family",
+       "byPosition": false,
+       "origin": {
+        "x": 109,
+        "y": 318,
+        "w": 67,
+        "h": 21
+       },
+       "eds": {
+        "x": 109,
+        "y": 318,
+        "w": 67,
+        "h": 21,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/21/400",
+        "eds": "14/21/400"
+       }
+      }
+     ],
+     "missing": [
+      {
+       "role": "box",
+       "tag": "article",
+       "sel": "article.cmp-productcarousel__card",
+       "text": "",
+       "boxed": true,
+       "x": 0,
+       "y": 0,
+       "w": 375,
+       "h": 355,
+       "absY": 1877,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "400",
+       "color": "rgb(29, 29, 29)",
+       "bg": "rgb(255, 255, 255)",
+       "position": "static",
+       "key": "box:article.cmp-productcarousel__card#1"
+      }
+     ],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 96,
+       "y": 1877,
+       "w": 375,
+       "h": 355
+      },
+      "eds": {
+       "x": 96,
+       "y": 1877,
+       "w": 375,
+       "h": 355
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 10,
+      "within": 9,
+      "off": 0,
+      "hidden": 0,
+      "missing": 1,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.cmp-productcarousel__swiper.swiper > div.swiper-wrapper.cmp-productcarousel__track > div.swiper-slide.swiper-slide-next"
+     },
+     "eds": {
+      "path": "div.np__inner.ifx-fixed > div.np__track > article.np-card"
+     },
+     "rows": [
+      {
+       "key": "box:div.cmp-productcarousel__image-wrapper#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 248,
+        "h": 160
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 248,
+        "h": 160,
+        "sel": "div.np-card__media",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:df300r07w2s5_b77",
+       "role": "image",
+       "text": "df300r07w2s5_b77",
+       "edsText": "df300r07w2s5_b77",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 16,
+        "w": 216,
+        "h": 128
+       },
+       "eds": {
+        "x": 16,
+        "y": 16,
+        "w": 216,
+        "h": 128,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:new",
+       "role": "text",
+       "text": "new",
+       "edsText": "new",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 16,
+        "w": 44,
+        "h": 23
+       },
+       "eds": {
+        "x": 16,
+        "y": 16,
+        "w": 44,
+        "h": 23,
+        "sel": "span.np-card__badge",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "10/13/600",
+        "eds": "10/13/600"
+       }
+      },
+      {
+       "key": "text:igbt modules",
+       "role": "text",
+       "text": "igbt modules",
+       "edsText": "igbt modules",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 176,
+        "w": 216,
+        "h": 20
+       },
+       "eds": {
+        "x": 16,
+        "y": 176,
+        "w": 216,
+        "h": 20,
+        "sel": "p.np-card__family",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "heading:df300r07w2s5_b77",
+       "role": "heading",
+       "text": "df300r07w2s5_b77",
+       "edsText": "df300r07w2s5_b77",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 196,
+        "w": 216,
+        "h": 24
+       },
+       "eds": {
+        "x": 16,
+        "y": 196,
+        "w": 216,
+        "h": 24,
+        "sel": "h3.np-card__title",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      },
+      {
+       "key": "link:df300r07w2s5_b77",
+       "role": "link",
+       "text": "df300r07w2s5_b77",
+       "edsText": "df300r07w2s5_b77",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 197,
+        "w": 138,
+        "h": 22
+       },
+       "eds": {
+        "x": 16,
+        "y": 197,
+        "w": 138,
+        "h": 22,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      },
+      {
+       "key": "text:650 v, 300 a booster igbt module",
+       "role": "text",
+       "text": "650 v, 300 a booster igbt module",
+       "edsText": "650 v, 300 a booster igbt module",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 220,
+        "w": 216,
+        "h": 42
+       },
+       "eds": {
+        "x": 16,
+        "y": 220,
+        "w": 216,
+        "h": 40,
+        "sel": "p.np-card__sub",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": -2,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "link:view product",
+       "role": "link",
+       "text": "view product",
+       "edsText": "view product",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 278,
+        "w": 77,
+        "h": 21
+       },
+       "eds": {
+        "x": 16,
+        "y": 278,
+        "w": 77,
+        "h": 21,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/21/400",
+        "eds": "14/21/400"
+       }
+      },
+      {
+       "key": "link:view family",
+       "role": "link",
+       "text": "view family",
+       "edsText": "view family",
+       "byPosition": false,
+       "origin": {
+        "x": 109,
+        "y": 278,
+        "w": 67,
+        "h": 21
+       },
+       "eds": {
+        "x": 109,
+        "y": 278,
+        "w": 67,
+        "h": 21,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/21/400",
+        "eds": "14/21/400"
+       }
+      }
+     ],
+     "missing": [
+      {
+       "role": "box",
+       "tag": "article",
+       "sel": "article.cmp-productcarousel__card",
+       "text": "",
+       "boxed": true,
+       "x": 0,
+       "y": 0,
+       "w": 248,
+       "h": 315,
+       "absY": 1877,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "400",
+       "color": "rgb(29, 29, 29)",
+       "bg": "rgb(255, 255, 255)",
+       "position": "static",
+       "key": "box:article.cmp-productcarousel__card#1"
+      }
+     ],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 495,
+       "y": 1877,
+       "w": 248,
+       "h": 315
+      },
+      "eds": {
+       "x": 495,
+       "y": 1877,
+       "w": 248,
+       "h": 315
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 10,
+      "within": 9,
+      "off": 0,
+      "hidden": 0,
+      "missing": 1,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.cmp-productcarousel__swiper.swiper > div.swiper-wrapper.cmp-productcarousel__track > div.swiper-slide"
+     },
+     "eds": {
+      "path": "div.np__inner.ifx-fixed > div.np__track > article.np-card"
+     },
+     "rows": [
+      {
+       "key": "box:div.cmp-productcarousel__image-wrapper#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 248,
+        "h": 160
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 248,
+        "h": 160,
+        "sel": "div.np-card__media",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:irhnpc9a7110scv",
+       "role": "image",
+       "text": "irhnpc9a7110scv",
+       "edsText": "irhnpc9a7110scv",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 16,
+        "w": 216,
+        "h": 128
+       },
+       "eds": {
+        "x": 16,
+        "y": 16,
+        "w": 216,
+        "h": 128,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:new",
+       "role": "text",
+       "text": "new",
+       "edsText": "new",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 16,
+        "w": 44,
+        "h": 23
+       },
+       "eds": {
+        "x": 16,
+        "y": 16,
+        "w": 44,
+        "h": 23,
+        "sel": "span.np-card__badge",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "10/13/600",
+        "eds": "10/13/600"
+       }
+      },
+      {
+       "key": "text:n-channel rad hard power mosfets",
+       "role": "text",
+       "text": "n-channel rad hard power mosfets",
+       "edsText": "n-channel rad hard power mosfets",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 176,
+        "w": 216,
+        "h": 20
+       },
+       "eds": {
+        "x": 16,
+        "y": 176,
+        "w": 216,
+        "h": 20,
+        "sel": "p.np-card__family",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "heading:irhnpc9a7110scv",
+       "role": "heading",
+       "text": "irhnpc9a7110scv",
+       "edsText": "irhnpc9a7110scv",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 196,
+        "w": 216,
+        "h": 24
+       },
+       "eds": {
+        "x": 16,
+        "y": 196,
+        "w": 216,
+        "h": 24,
+        "sel": "h3.np-card__title",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      },
+      {
+       "key": "link:irhnpc9a7110scv",
+       "role": "link",
+       "text": "irhnpc9a7110scv",
+       "edsText": "irhnpc9a7110scv",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 197,
+        "w": 128,
+        "h": 22
+       },
+       "eds": {
+        "x": 16,
+        "y": 197,
+        "w": 128,
+        "h": 22,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      },
+      {
+       "key": "text:rad hard, 100 v, 9 a, r9 generation rad ",
+       "role": "text",
+       "text": "rad hard, 100 v, 9 a, r9 generation rad hard mosfet in smd-0",
+       "edsText": "rad hard, 100 v, 9 a, r9 generation rad hard mosfet in smd-0",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 220,
+        "w": 216,
+        "h": 42
+       },
+       "eds": {
+        "x": 16,
+        "y": 220,
+        "w": 216,
+        "h": 40,
+        "sel": "p.np-card__sub",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": -2,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "link:view product",
+       "role": "link",
+       "text": "view product",
+       "edsText": "view product",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 278,
+        "w": 77,
+        "h": 21
+       },
+       "eds": {
+        "x": 16,
+        "y": 278,
+        "w": 77,
+        "h": 21,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/21/400",
+        "eds": "14/21/400"
+       }
+      },
+      {
+       "key": "link:view family",
+       "role": "link",
+       "text": "view family",
+       "edsText": "view family",
+       "byPosition": false,
+       "origin": {
+        "x": 109,
+        "y": 278,
+        "w": 67,
+        "h": 21
+       },
+       "eds": {
+        "x": 109,
+        "y": 278,
+        "w": 67,
+        "h": 21,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/21/400",
+        "eds": "14/21/400"
+       }
+      }
+     ],
+     "missing": [
+      {
+       "role": "box",
+       "tag": "article",
+       "sel": "article.cmp-productcarousel__card",
+       "text": "",
+       "boxed": true,
+       "x": 0,
+       "y": 0,
+       "w": 248,
+       "h": 315,
+       "absY": 1877,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "400",
+       "color": "rgb(29, 29, 29)",
+       "bg": "rgb(255, 255, 255)",
+       "position": "static",
+       "key": "box:article.cmp-productcarousel__card#1"
+      }
+     ],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 767,
+       "y": 1877,
+       "w": 248,
+       "h": 315
+      },
+      "eds": {
+       "x": 767,
+       "y": 1877,
+       "w": 248,
+       "h": 315
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 10,
+      "within": 9,
+      "off": 0,
+      "hidden": 0,
+      "missing": 1,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 3,
+     "origin": {
+      "path": "div.cmp-productcarousel__swiper.swiper > div.swiper-wrapper.cmp-productcarousel__track > div.swiper-slide"
+     },
+     "eds": {
+      "path": "div.np__inner.ifx-fixed > div.np__track > article.np-card"
+     },
+     "rows": [
+      {
+       "key": "box:div.cmp-productcarousel__image-wrapper#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 248,
+        "h": 160
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 248,
+        "h": 160,
+        "sel": "div.np-card__media",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:bxy44-10(es)",
+       "role": "image",
+       "text": "bxy44-10(es)",
+       "edsText": "bxy44-10(es)",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 16,
+        "w": 216,
+        "h": 128
+       },
+       "eds": {
+        "x": 16,
+        "y": 16,
+        "w": 216,
+        "h": 128,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:new",
+       "role": "text",
+       "text": "new",
+       "edsText": "new",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 16,
+        "w": 44,
+        "h": 23
+       },
+       "eds": {
+        "x": 16,
+        "y": 16,
+        "w": 44,
+        "h": 23,
+        "sel": "span.np-card__badge",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "10/13/600",
+        "eds": "10/13/600"
+       }
+      },
+      {
+       "key": "heading:bxy44-10(es)",
+       "role": "heading",
+       "text": "bxy44-10(es)",
+       "edsText": "bxy44-10(es)",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 196,
+        "w": 216,
+        "h": 24
+       },
+       "eds": {
+        "x": 16,
+        "y": 196,
+        "w": 216,
+        "h": 24,
+        "sel": "h3.np-card__title",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      },
+      {
+       "key": "link:bxy44-10(es)",
+       "role": "link",
+       "text": "bxy44-10(es)",
+       "edsText": "bxy44-10(es)",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 197,
+        "w": 90,
+        "h": 22
+       },
+       "eds": {
+        "x": 16,
+        "y": 197,
+        "w": 90,
+        "h": 22,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      },
+      {
+       "key": "text:200v current controlled rf resistor for ",
+       "role": "text",
+       "text": "200v current controlled rf resistor for rf attenuators and s",
+       "edsText": "200v current controlled rf resistor for rf attenuators and s",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 220,
+        "w": 216,
+        "h": 42
+       },
+       "eds": {
+        "x": 16,
+        "y": 220,
+        "w": 216,
+        "h": 40,
+        "sel": "p.np-card__sub",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": -2,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "link:view product",
+       "role": "link",
+       "text": "view product",
+       "edsText": "view product",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 278,
+        "w": 77,
+        "h": 21
+       },
+       "eds": {
+        "x": 16,
+        "y": 278,
+        "w": 77,
+        "h": 21,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/21/400",
+        "eds": "14/21/400"
+       }
+      },
+      {
+       "key": "link:view family",
+       "role": "link",
+       "text": "view family",
+       "edsText": "view family",
+       "byPosition": false,
+       "origin": {
+        "x": 109,
+        "y": 278,
+        "w": 67,
+        "h": 21
+       },
+       "eds": {
+        "x": 109,
+        "y": 278,
+        "w": 67,
+        "h": 21,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/21/400",
+        "eds": "14/21/400"
+       }
+      }
+     ],
+     "missing": [
+      {
+       "role": "box",
+       "tag": "article",
+       "sel": "article.cmp-productcarousel__card",
+       "text": "",
+       "boxed": true,
+       "x": 0,
+       "y": 0,
+       "w": 248,
+       "h": 315,
+       "absY": 1877,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "400",
+       "color": "rgb(29, 29, 29)",
+       "bg": "rgb(255, 255, 255)",
+       "position": "static",
+       "key": "box:article.cmp-productcarousel__card#1"
+      }
+     ],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 1039,
+       "y": 1877,
+       "w": 248,
+       "h": 315
+      },
+      "eds": {
+       "x": 1039,
+       "y": 1877,
+       "w": 248,
+       "h": 315
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 9,
+      "within": 8,
+      "off": 0,
+      "hidden": 0,
+      "missing": 1,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  },
+  {
+   "sel": ".marketingEvent .swiper-slide=.ev .ev-slide",
+   "family": null,
+   "required": true,
+   "originMatches": 7,
+   "edsMatches": 7,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.swiper.marketingEvent > div.swiper-slide-all.swiper-wrapper > div.swiper-slide.swiper-slide-active"
+     },
+     "eds": {
+      "path": "div.ev__carousel > div.ev__track > div.ev-slide.is-active"
+     },
+     "rows": [
+      {
+       "key": "link:nov 18th, 2026 singapore fintech festiva",
+       "role": "link",
+       "text": "nov 18th, 2026 singapore fintech festival 2026 face-to-f... ",
+       "edsText": "nov 18th, 2026 singapore fintech festival 2026 face-to-f... ",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 0,
+        "w": 472,
+        "h": 400
+       },
+       "eds": {
+        "x": 4,
+        "y": 0,
+        "w": 472,
+        "h": 400,
+        "sel": "a.ev-card",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:picture#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 88,
+        "w": 472,
+        "h": 22
+       },
+       "eds": {
+        "x": 4,
+        "y": 0,
+        "w": 472,
+        "h": 200,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": -88,
+       "dw": 0,
+       "dh": 178,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:nov 18th, 2026",
+       "role": "text",
+       "text": "nov 18th, 2026",
+       "edsText": "nov 18th, 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 216,
+        "w": 86,
+        "h": 20
+       },
+       "eds": {
+        "x": 28,
+        "y": 216,
+        "w": 86,
+        "h": 20,
+        "sel": "li",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "heading:singapore fintech festival 2026",
+       "role": "heading",
+       "text": "singapore fintech festival 2026",
+       "edsText": "singapore fintech festival 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 236,
+        "w": 424,
+        "h": 28
+       },
+       "eds": {
+        "x": 28,
+        "y": 236,
+        "w": 424,
+        "h": 28,
+        "sel": "h5.ev-card__title",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "20/28/600",
+        "eds": "20/28/600"
+       }
+      },
+      {
+       "key": "text:face-to-f...",
+       "role": "text",
+       "text": "face-to-f...",
+       "edsText": "face-to-f...",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 272,
+        "w": 88,
+        "h": 20
+       },
+       "eds": {
+        "x": 28,
+        "y": 272,
+        "w": 88,
+        "h": 20,
+        "sel": "li",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "text:tradeshows & conferences",
+       "role": "text",
+       "text": "tradeshows & conferences",
+       "edsText": "tradeshows & conferences",
+       "byPosition": false,
+       "origin": {
+        "x": 133,
+        "y": 272,
+        "w": 155,
+        "h": 20
+       },
+       "eds": {
+        "x": 133,
+        "y": 272,
+        "w": 155,
+        "h": 20,
+        "sel": "li",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "text:at singapore fintech festival 2026, disc",
+       "role": "text",
+       "text": "at singapore fintech festival 2026, discover how infineon is",
+       "edsText": "at singapore fintech festival 2026, discover how infineon is",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 298,
+        "w": 424,
+        "h": 78
+       },
+       "eds": {
+        "x": 28,
+        "y": 298,
+        "w": 424,
+        "h": 78,
+        "sel": "p.ev-card__text",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/26/400",
+        "eds": "16/26/400"
+       }
+      }
+     ],
+     "missing": [
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img.image.image-crop",
+       "text": "",
+       "boxed": false,
+       "x": 4,
+       "y": 0,
+       "w": 472,
+       "h": 200,
+       "absY": 2610,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "400",
+       "color": "rgb(0, 0, 0)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img.image.image-crop#1"
+      }
+     ],
+     "extra": [
+      {
+       "role": "box",
+       "tag": "li",
+       "sel": "li.ev-card__div",
+       "text": "",
+       "boxed": true,
+       "x": 124,
+       "y": 275,
+       "w": 1,
+       "h": 14,
+       "absY": 2885,
+       "hidden": false,
+       "fs": 14,
+       "lh": 20,
+       "fw": "400",
+       "color": "rgb(87, 83, 82)",
+       "bg": "rgb(238, 237, 237)",
+       "position": "static",
+       "key": "box:li.ev-card__div#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 442,
+       "y": 2610,
+       "w": 476,
+       "h": 400
+      },
+      "eds": {
+       "x": 442,
+       "y": 2610,
+       "w": 476,
+       "h": 400
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 8,
+      "within": 6,
+      "off": 1,
+      "hidden": 0,
+      "missing": 1,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.swiper.marketingEvent > div.swiper-slide-all.swiper-wrapper > div.swiper-slide.swiper-slide-next"
+     },
+     "eds": {
+      "path": "div.ev__carousel > div.ev__track > div.ev-slide"
+     },
+     "rows": [
+      {
+       "key": "link:nov 19th, 2026 pol regulation for comput",
+       "role": "link",
+       "text": "nov 19th, 2026 pol regulation for compute and telecom online",
+       "edsText": "nov 19th, 2026 pol regulation for compute and telecom online",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 0,
+        "w": 301,
+        "h": 314
+       },
+       "eds": {
+        "x": 4,
+        "y": 0,
+        "w": 301,
+        "h": 314,
+        "sel": "a.ev-card",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:picture#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 53,
+        "w": 301,
+        "h": 22
+       },
+       "eds": {
+        "x": 4,
+        "y": 0,
+        "w": 301,
+        "h": 130,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": -53,
+       "dw": 0,
+       "dh": 108,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:nov 19th, 2026",
+       "role": "text",
+       "text": "nov 19th, 2026",
+       "edsText": "nov 19th, 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 146,
+        "w": 86,
+        "h": 20
+       },
+       "eds": {
+        "x": 28,
+        "y": 146,
+        "w": 86,
+        "h": 20,
+        "sel": "li",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "heading:pol regulation for compute and telecom",
+       "role": "heading",
+       "text": "pol regulation for compute and telecom",
+       "edsText": "pol regulation for compute and telecom",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 166,
+        "w": 253,
+        "h": 56
+       },
+       "eds": {
+        "x": 28,
+        "y": 166,
+        "w": 253,
+        "h": 56,
+        "sel": "h5.ev-card__title",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "20/28/600",
+        "eds": "20/28/600"
+       }
+      },
+      {
+       "key": "text:online",
+       "role": "text",
+       "text": "online",
+       "edsText": "online",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 270,
+        "w": 63,
+        "h": 20
+       },
+       "eds": {
+        "x": 28,
+        "y": 270,
+        "w": 63,
+        "h": 20,
+        "sel": "li",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "text:live",
+       "role": "text",
+       "text": "live",
+       "edsText": "live",
+       "byPosition": false,
+       "origin": {
+        "x": 108,
+        "y": 270,
+        "w": 24,
+        "h": 20
+       },
+       "eds": {
+        "x": 108,
+        "y": 270,
+        "w": 24,
+        "h": 20,
+        "sel": "li",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "box:span.icon.icon-online-event#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 273,
+        "w": 16,
+        "h": 16
+       },
+       "eds": {
+        "x": 28,
+        "y": 272,
+        "w": 16,
+        "h": 16,
+        "sel": "span.icon-online-event",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": -1,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/14/400",
+        "eds": "16/20/400"
+       }
+      }
+     ],
+     "missing": [
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img.image.image-crop",
+       "text": "",
+       "boxed": false,
+       "x": 4,
+       "y": 0,
+       "w": 301,
+       "h": 130,
+       "absY": 2610,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "400",
+       "color": "rgb(0, 0, 0)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img.image.image-crop#1"
+      }
+     ],
+     "extra": [
+      {
+       "role": "box",
+       "tag": "li",
+       "sel": "li.ev-card__div",
+       "text": "",
+       "boxed": true,
+       "x": 99,
+       "y": 273,
+       "w": 1,
+       "h": 14,
+       "absY": 2883,
+       "hidden": false,
+       "fs": 14,
+       "lh": 20,
+       "fw": "400",
+       "color": "rgb(87, 83, 82)",
+       "bg": "rgb(238, 237, 237)",
+       "position": "static",
+       "key": "box:li.ev-card__div#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 950,
+       "y": 2610,
+       "w": 305,
+       "h": 314
+      },
+      "eds": {
+       "x": 950,
+       "y": 2610,
+       "w": 305,
+       "h": 314
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 8,
+      "within": 6,
+      "off": 1,
+      "hidden": 0,
+      "missing": 1,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.swiper.marketingEvent > div.swiper-slide-all.swiper-wrapper > div.swiper-slide"
+     },
+     "eds": {
+      "path": "div.ev__carousel > div.ev__track > div.ev-slide"
+     },
+     "rows": [
+      {
+       "key": "link:nov 23rd, 2026 master automotive battery",
+       "role": "link",
+       "text": "nov 23rd, 2026 master automotive battery management online w",
+       "edsText": "nov 23rd, 2026 master automotive battery management online w",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 0,
+        "w": 301,
+        "h": 314
+       },
+       "eds": {
+        "x": 4,
+        "y": 0,
+        "w": 301,
+        "h": 314,
+        "sel": "a.ev-card",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": true,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:picture#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 53,
+        "w": 301,
+        "h": 22
+       },
+       "eds": {
+        "x": 4,
+        "y": 0,
+        "w": 301,
+        "h": 130,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": -53,
+       "dw": 0,
+       "dh": 108,
+       "off": true,
+       "hidden": true,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:nov 23rd, 2026",
+       "role": "text",
+       "text": "nov 23rd, 2026",
+       "edsText": "nov 23rd, 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 146,
+        "w": 86,
+        "h": 20
+       },
+       "eds": {
+        "x": 28,
+        "y": 146,
+        "w": 86,
+        "h": 20,
+        "sel": "li",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "heading:master automotive battery management",
+       "role": "heading",
+       "text": "master automotive battery management",
+       "edsText": "master automotive battery management",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 166,
+        "w": 253,
+        "h": 56
+       },
+       "eds": {
+        "x": 28,
+        "y": 166,
+        "w": 253,
+        "h": 56,
+        "sel": "h5.ev-card__title",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": true,
+       "type": {
+        "origin": "20/28/600",
+        "eds": "20/28/600"
+       }
+      },
+      {
+       "key": "text:online",
+       "role": "text",
+       "text": "online",
+       "edsText": "online",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 270,
+        "w": 63,
+        "h": 20
+       },
+       "eds": {
+        "x": 28,
+        "y": 270,
+        "w": 63,
+        "h": 20,
+        "sel": "li",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "text:webinars",
+       "role": "text",
+       "text": "webinars",
+       "edsText": "webinars",
+       "byPosition": false,
+       "origin": {
+        "x": 108,
+        "y": 270,
+        "w": 55,
+        "h": 20
+       },
+       "eds": {
+        "x": 108,
+        "y": 270,
+        "w": 55,
+        "h": 20,
+        "sel": "li",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "text:live",
+       "role": "text",
+       "text": "live",
+       "edsText": "live",
+       "byPosition": false,
+       "origin": {
+        "x": 179,
+        "y": 270,
+        "w": 24,
+        "h": 20
+       },
+       "eds": {
+        "x": 179,
+        "y": 270,
+        "w": 24,
+        "h": 20,
+        "sel": "li",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": true,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "box:span.icon.icon-online-event#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 273,
+        "w": 16,
+        "h": 16
+       },
+       "eds": {
+        "x": 28,
+        "y": 272,
+        "w": 16,
+        "h": 16,
+        "sel": "span.icon-online-event",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": -1,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/14/400",
+        "eds": "16/20/400"
+       }
+      }
+     ],
+     "missing": [
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img.image.image-crop",
+       "text": "",
+       "boxed": false,
+       "x": 4,
+       "y": 0,
+       "w": 301,
+       "h": 130,
+       "absY": 2610,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "400",
+       "color": "rgb(0, 0, 0)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img.image.image-crop#1"
+      }
+     ],
+     "extra": [
+      {
+       "role": "box",
+       "tag": "li",
+       "sel": "li.ev-card__div",
+       "text": "",
+       "boxed": true,
+       "x": 99,
+       "y": 273,
+       "w": 1,
+       "h": 14,
+       "absY": 2883,
+       "hidden": false,
+       "fs": 14,
+       "lh": 20,
+       "fw": "400",
+       "color": "rgb(87, 83, 82)",
+       "bg": "rgb(238, 237, 237)",
+       "position": "static",
+       "key": "box:li.ev-card__div#1"
+      },
+      {
+       "role": "box",
+       "tag": "li",
+       "sel": "li.ev-card__div",
+       "text": "",
+       "boxed": true,
+       "x": 170,
+       "y": 273,
+       "w": 1,
+       "h": 14,
+       "absY": 2883,
+       "hidden": true,
+       "fs": 14,
+       "lh": 20,
+       "fw": "400",
+       "color": "rgb(87, 83, 82)",
+       "bg": "rgb(238, 237, 237)",
+       "position": "static",
+       "key": "box:li.ev-card__div#2"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 1287,
+       "y": 2610,
+       "w": 305,
+       "h": 314
+      },
+      "eds": {
+       "x": 1287,
+       "y": 2610,
+       "w": 305,
+       "h": 314
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 9,
+      "within": 4,
+      "off": 1,
+      "hidden": 4,
+      "missing": 1,
+      "extra": 2,
+      "unitOff": false
+     }
+    }
+   ]
+  },
+  {
+   "sel": "#articlecards .card=.st .st-card",
+   "family": null,
+   "required": true,
+   "originMatches": 9,
+   "edsMatches": 9,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.articles-card > div.row > div.card.column"
+     },
+     "eds": {
+      "path": "div.st__inner.ifx-fixed > div.st__grid > article.st-card"
+     },
+     "rows": [
+      {
+       "key": "box:div.card-body#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 200,
+        "w": 391,
+        "h": 254
+       },
+       "eds": {
+        "x": 4,
+        "y": 200,
+        "w": 391,
+        "h": 254,
+        "sel": "div.st-card__body",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:we turn intelligence into motion. from r",
+       "role": "text",
+       "text": "we turn intelligence into motion. from robots to physical ai",
+       "edsText": "we turn intelligence into motion. from robots to physical ai",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 200,
+        "w": 343,
+        "h": 56
+       },
+       "eds": {
+        "x": 28,
+        "y": 200,
+        "w": 343,
+        "h": 56,
+        "sel": "p.st-card__title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "20/28/600",
+        "eds": "20/28/600"
+       }
+      },
+      {
+       "key": "text:your hand switches from a gentle grip on",
+       "role": "text",
+       "text": "your hand switches from a gentle grip on an egg to a firm ho",
+       "edsText": "your hand switches from a gentle grip on an egg to a firm ho",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 272,
+        "w": 343,
+        "h": 78
+       },
+       "eds": {
+        "x": 28,
+        "y": 272,
+        "w": 343,
+        "h": 78,
+        "sel": "p.st-card__desc",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/26/400",
+        "eds": "16/26/400"
+       }
+      },
+      {
+       "key": "text:robotics",
+       "role": "text",
+       "text": "robotics",
+       "edsText": "robotics",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 366,
+        "w": 69,
+        "h": 30
+       },
+       "eds": {
+        "x": 28,
+        "y": 366,
+        "w": 69,
+        "h": 30,
+        "sel": "span",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "text:article",
+       "role": "text",
+       "text": "article",
+       "edsText": "article",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 410,
+        "w": 61,
+        "h": 20
+       },
+       "eds": {
+        "x": 28,
+        "y": 410,
+        "w": 63,
+        "h": 20,
+        "sel": "span.st-card__type",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 2,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/600",
+        "eds": "14/20/600"
+       }
+      },
+      {
+       "key": "text:nov 16th, 2026",
+       "role": "text",
+       "text": "nov 16th, 2026",
+       "edsText": "nov 16th, 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 101,
+        "y": 410,
+        "w": 98,
+        "h": 20
+       },
+       "eds": {
+        "x": 103,
+        "y": 410,
+        "w": 98,
+        "h": 20,
+        "sel": "span.st-card__date",
+        "role": "text"
+       },
+       "dx": 2,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      }
+     ],
+     "missing": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 4,
+       "y": 0,
+       "w": 391,
+       "h": 200,
+       "absY": 4082,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "400",
+       "color": "rgb(29, 29, 29)",
+       "bg": null,
+       "position": "static",
+       "key": "image:picture#1"
+      }
+     ],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 96,
+       "y": 4082,
+       "w": 395,
+       "h": 454
+      },
+      "eds": {
+       "x": 96,
+       "y": 4082,
+       "w": 395,
+       "h": 454
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 7,
+      "within": 6,
+      "off": 0,
+      "hidden": 0,
+      "missing": 1,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.articles-card > div.row > div.card.column"
+     },
+     "eds": {
+      "path": "div.st__inner.ifx-fixed > div.st__grid > article.st-card"
+     },
+     "rows": [
+      {
+       "key": "box:div.card-body#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 200,
+        "w": 391,
+        "h": 254
+       },
+       "eds": {
+        "x": 4,
+        "y": 200,
+        "w": 391,
+        "h": 254,
+        "sel": "div.st-card__body",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:aurix™ rc1: redefining real-time compute",
+       "role": "text",
+       "text": "aurix™ rc1: redefining real-time compute and control",
+       "edsText": "aurix™ rc1: redefining real-time compute and control",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 200,
+        "w": 343,
+        "h": 56
+       },
+       "eds": {
+        "x": 28,
+        "y": 200,
+        "w": 343,
+        "h": 56,
+        "sel": "p.st-card__title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "20/28/600",
+        "eds": "20/28/600"
+       }
+      },
+      {
+       "key": "text:we are redefining real time compute and ",
+       "role": "text",
+       "text": "we are redefining real time compute and control for next-gen",
+       "edsText": "we are redefining real time compute and control for next-gen",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 272,
+        "w": 343,
+        "h": 78
+       },
+       "eds": {
+        "x": 28,
+        "y": 272,
+        "w": 343,
+        "h": 78,
+        "sel": "p.st-card__desc",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/26/400",
+        "eds": "16/26/400"
+       }
+      },
+      {
+       "key": "text:software-defined...",
+       "role": "text",
+       "text": "software-defined...",
+       "edsText": "software-defined...",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 366,
+        "w": 130,
+        "h": 30
+       },
+       "eds": {
+        "x": 28,
+        "y": 366,
+        "w": 130,
+        "h": 30,
+        "sel": "span",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "text:article",
+       "role": "text",
+       "text": "article",
+       "edsText": "article",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 410,
+        "w": 61,
+        "h": 20
+       },
+       "eds": {
+        "x": 28,
+        "y": 410,
+        "w": 63,
+        "h": 20,
+        "sel": "span.st-card__type",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 2,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/600",
+        "eds": "14/20/600"
+       }
+      },
+      {
+       "key": "text:nov 3rd, 2026",
+       "role": "text",
+       "text": "nov 3rd, 2026",
+       "edsText": "nov 3rd, 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 101,
+        "y": 410,
+        "w": 92,
+        "h": 20
+       },
+       "eds": {
+        "x": 103,
+        "y": 410,
+        "w": 92,
+        "h": 20,
+        "sel": "span.st-card__date",
+        "role": "text"
+       },
+       "dx": 2,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      }
+     ],
+     "missing": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 4,
+       "y": 0,
+       "w": 391,
+       "h": 200,
+       "absY": 4082,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "400",
+       "color": "rgb(29, 29, 29)",
+       "bg": null,
+       "position": "static",
+       "key": "image:picture#1"
+      }
+     ],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 523,
+       "y": 4082,
+       "w": 395,
+       "h": 454
+      },
+      "eds": {
+       "x": 523,
+       "y": 4082,
+       "w": 395,
+       "h": 454
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 7,
+      "within": 6,
+      "off": 0,
+      "hidden": 0,
+      "missing": 1,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.articles-card > div.row > div.card.column"
+     },
+     "eds": {
+      "path": "div.st__inner.ifx-fixed > div.st__grid > article.st-card"
+     },
+     "rows": [
+      {
+       "key": "box:div.card-body#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 200,
+        "w": 391,
+        "h": 254
+       },
+       "eds": {
+        "x": 4,
+        "y": 200,
+        "w": 391,
+        "h": 254,
+        "sel": "div.st-card__body",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:bringing artificial intelligence into ev",
+       "role": "text",
+       "text": "bringing artificial intelligence into everyday life",
+       "edsText": "bringing artificial intelligence into everyday life",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 200,
+        "w": 343,
+        "h": 56
+       },
+       "eds": {
+        "x": 28,
+        "y": 200,
+        "w": 343,
+        "h": 56,
+        "sel": "p.st-card__title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "20/28/600",
+        "eds": "20/28/600"
+       }
+      },
+      {
+       "key": "text:smart living is about bringing artificia",
+       "role": "text",
+       "text": "smart living is about bringing artificial intelligence close",
+       "edsText": "smart living is about bringing artificial intelligence close",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 272,
+        "w": 343,
+        "h": 78
+       },
+       "eds": {
+        "x": 28,
+        "y": 272,
+        "w": 343,
+        "h": 78,
+        "sel": "p.st-card__desc",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/26/400",
+        "eds": "16/26/400"
+       }
+      },
+      {
+       "key": "text:smart living",
+       "role": "text",
+       "text": "smart living",
+       "edsText": "smart living",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 366,
+        "w": 88,
+        "h": 30
+       },
+       "eds": {
+        "x": 28,
+        "y": 366,
+        "w": 88,
+        "h": 30,
+        "sel": "span",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "text:article",
+       "role": "text",
+       "text": "article",
+       "edsText": "article",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 410,
+        "w": 61,
+        "h": 20
+       },
+       "eds": {
+        "x": 28,
+        "y": 410,
+        "w": 63,
+        "h": 20,
+        "sel": "span.st-card__type",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 2,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/600",
+        "eds": "14/20/600"
+       }
+      },
+      {
+       "key": "text:oct 28th, 2026",
+       "role": "text",
+       "text": "oct 28th, 2026",
+       "edsText": "oct 28th, 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 101,
+        "y": 410,
+        "w": 95,
+        "h": 20
+       },
+       "eds": {
+        "x": 103,
+        "y": 410,
+        "w": 95,
+        "h": 20,
+        "sel": "span.st-card__date",
+        "role": "text"
+       },
+       "dx": 2,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      }
+     ],
+     "missing": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 4,
+       "y": 0,
+       "w": 391,
+       "h": 200,
+       "absY": 4082,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "400",
+       "color": "rgb(29, 29, 29)",
+       "bg": null,
+       "position": "static",
+       "key": "image:picture#1"
+      }
+     ],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 949,
+       "y": 4082,
+       "w": 395,
+       "h": 454
+      },
+      "eds": {
+       "x": 949,
+       "y": 4082,
+       "w": 395,
+       "h": 454
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 7,
+      "within": 6,
+      "off": 0,
+      "hidden": 0,
+      "missing": 1,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 3,
+     "origin": {
+      "path": "div.articles-card > div.row > div.card.column"
+     },
+     "eds": {
+      "path": "div.st__inner.ifx-fixed > div.st__grid > article.st-card"
+     },
+     "rows": [
+      {
+       "key": "box:div.card-body#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 4,
+        "y": 200,
+        "w": 391,
+        "h": 254
+       },
+       "eds": {
+        "x": 4,
+        "y": 200,
+        "w": 391,
+        "h": 254,
+        "sel": "div.st-card__body",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:we make power infrastructure future-proo",
+       "role": "text",
+       "text": "we make power infrastructure future-proof",
+       "edsText": "we make power infrastructure future-proof",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 200,
+        "w": 343,
+        "h": 56
+       },
+       "eds": {
+        "x": 28,
+        "y": 200,
+        "w": 343,
+        "h": 56,
+        "sel": "p.st-card__title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "20/28/600",
+        "eds": "20/28/600"
+       }
+      },
+      {
+       "key": "text:the age of electricity is here – and it ",
+       "role": "text",
+       "text": "the age of electricity is here – and it demands advanced pow",
+       "edsText": "the age of electricity is here – and it demands advanced pow",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 272,
+        "w": 343,
+        "h": 78
+       },
+       "eds": {
+        "x": 28,
+        "y": 272,
+        "w": 343,
+        "h": 78,
+        "sel": "p.st-card__desc",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/26/400",
+        "eds": "16/26/400"
+       }
+      },
+      {
+       "key": "text:power infrastruc...",
+       "role": "text",
+       "text": "power infrastruc...",
+       "edsText": "power infrastruc...",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 366,
+        "w": 124,
+        "h": 30
+       },
+       "eds": {
+        "x": 28,
+        "y": 366,
+        "w": 124,
+        "h": 30,
+        "sel": "span",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "text:powerin...",
+       "role": "text",
+       "text": "powerin...",
+       "edsText": "powerin...",
+       "byPosition": false,
+       "origin": {
+        "x": 160,
+        "y": 366,
+        "w": 77,
+        "h": 30
+       },
+       "eds": {
+        "x": 160,
+        "y": 366,
+        "w": 77,
+        "h": 30,
+        "sel": "span",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      },
+      {
+       "key": "text:article",
+       "role": "text",
+       "text": "article",
+       "edsText": "article",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 410,
+        "w": 61,
+        "h": 20
+       },
+       "eds": {
+        "x": 28,
+        "y": 410,
+        "w": 63,
+        "h": 20,
+        "sel": "span.st-card__type",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 2,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/600",
+        "eds": "14/20/600"
+       }
+      },
+      {
+       "key": "text:sep 3rd, 2026",
+       "role": "text",
+       "text": "sep 3rd, 2026",
+       "edsText": "sep 3rd, 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 101,
+        "y": 410,
+        "w": 91,
+        "h": 20
+       },
+       "eds": {
+        "x": 103,
+        "y": 410,
+        "w": 91,
+        "h": 20,
+        "sel": "span.st-card__date",
+        "role": "text"
+       },
+       "dx": 2,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/400",
+        "eds": "14/20/400"
+       }
+      }
+     ],
+     "missing": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 4,
+       "y": 0,
+       "w": 391,
+       "h": 200,
+       "absY": 4568,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "400",
+       "color": "rgb(29, 29, 29)",
+       "bg": null,
+       "position": "static",
+       "key": "image:picture#1"
+      }
+     ],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 96,
+       "y": 4568,
+       "w": 395,
+       "h": 454
+      },
+      "eds": {
+       "x": 96,
+       "y": 4568,
+       "w": 395,
+       "h": 454
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 8,
+      "within": 7,
+      "off": 0,
+      "hidden": 0,
+      "missing": 1,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  },
+  {
+   "sel": "footer .link-list=.site-footer__list",
+   "family": null,
+   "required": true,
+   "originMatches": 4,
+   "edsMatches": 4,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.info-container.d-flex > nav.nav-list.d-flex > ul.link-list"
+     },
+     "eds": {
+      "path": "div.ifx-fixed > nav.site-footer__nav > ul.site-footer__list"
+     },
+     "rows": [
+      {
+       "key": "text:about us",
+       "role": "text",
+       "text": "about us",
+       "edsText": "about us",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 0,
+        "w": 96,
+        "h": 24
+       },
+       "eds": {
+        "x": 32,
+        "y": 0,
+        "w": 96,
+        "h": 24,
+        "sel": "p.site-footer__title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      },
+      {
+       "key": "link:company",
+       "role": "link",
+       "text": "company",
+       "edsText": "company",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 56,
+        "w": 72,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 56,
+        "w": 72,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      },
+      {
+       "key": "link:contact us",
+       "role": "link",
+       "text": "contact us",
+       "edsText": "contact us",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 98,
+        "w": 80,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 98,
+        "w": 80,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      },
+      {
+       "key": "link:events",
+       "role": "link",
+       "text": "events",
+       "edsText": "events",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 140,
+        "w": 50,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 140,
+        "w": 50,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      },
+      {
+       "key": "link:press",
+       "role": "link",
+       "text": "press",
+       "edsText": "press",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 182,
+        "w": 40,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 182,
+        "w": 40,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      },
+      {
+       "key": "link:investor",
+       "role": "link",
+       "text": "investor",
+       "edsText": "investor",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 224,
+        "w": 61,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 224,
+        "w": 61,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 357,
+       "y": 6156,
+       "w": 128,
+       "h": 308
+      },
+      "eds": {
+       "x": 357,
+       "y": 6156,
+       "w": 128,
+       "h": 308
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 6,
+      "within": 6,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.info-container.d-flex > nav.nav-list.d-flex > ul.link-list"
+     },
+     "eds": {
+      "path": "div.ifx-fixed > nav.site-footer__nav > ul.site-footer__list"
+     },
+     "rows": [
+      {
+       "key": "text:quicklinks",
+       "role": "text",
+       "text": "quicklinks",
+       "edsText": "quicklinks",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 0,
+        "w": 118,
+        "h": 24
+       },
+       "eds": {
+        "x": 32,
+        "y": 0,
+        "w": 118,
+        "h": 24,
+        "sel": "p.site-footer__title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      },
+      {
+       "key": "link:community",
+       "role": "link",
+       "text": "community",
+       "edsText": "community",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 56,
+        "w": 88,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 56,
+        "w": 88,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      },
+      {
+       "key": "link:support",
+       "role": "link",
+       "text": "support",
+       "edsText": "support",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 98,
+        "w": 61,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 98,
+        "w": 61,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      },
+      {
+       "key": "link:where to buy",
+       "role": "link",
+       "text": "where to buy",
+       "edsText": "where to buy",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 140,
+        "w": 99,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 140,
+        "w": 99,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      },
+      {
+       "key": "link:online sampling",
+       "role": "link",
+       "text": "online sampling",
+       "edsText": "online sampling",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 182,
+        "w": 123,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 182,
+        "w": 123,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      },
+      {
+       "key": "link:quality",
+       "role": "link",
+       "text": "quality",
+       "edsText": "quality",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 224,
+        "w": 54,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 224,
+        "w": 54,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      },
+      {
+       "key": "link:website feedback",
+       "role": "link",
+       "text": "website feedback",
+       "edsText": "website feedback",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 266,
+        "w": 132,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 266,
+        "w": 132,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 622,
+       "y": 6156,
+       "w": 164,
+       "h": 308
+      },
+      "eds": {
+       "x": 622,
+       "y": 6156,
+       "w": 164,
+       "h": 308
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 7,
+      "within": 7,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.info-container.d-flex > nav.nav-list.d-flex > ul.link-list"
+     },
+     "eds": {
+      "path": "div.ifx-fixed > nav.site-footer__nav > ul.site-footer__list"
+     },
+     "rows": [
+      {
+       "key": "text:myinfineon",
+       "role": "text",
+       "text": "myinfineon",
+       "edsText": "myinfineon",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 0,
+        "w": 120,
+        "h": 24
+       },
+       "eds": {
+        "x": 32,
+        "y": 0,
+        "w": 120,
+        "h": 24,
+        "sel": "p.site-footer__title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      },
+      {
+       "key": "link:benefits",
+       "role": "link",
+       "text": "benefits",
+       "edsText": "benefits",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 56,
+        "w": 61,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 56,
+        "w": 61,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      },
+      {
+       "key": "link:profile center",
+       "role": "link",
+       "text": "profile center",
+       "edsText": "profile center",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 98,
+        "w": 100,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 98,
+        "w": 100,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      },
+      {
+       "key": "link:register",
+       "role": "link",
+       "text": "register",
+       "edsText": "register",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 140,
+        "w": 61,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 140,
+        "w": 61,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 924,
+       "y": 6156,
+       "w": 152,
+       "h": 308
+      },
+      "eds": {
+       "x": 924,
+       "y": 6156,
+       "w": 152,
+       "h": 308
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 4,
+      "within": 4,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 3,
+     "origin": {
+      "path": "div.info-container.d-flex > nav.nav-list.d-flex > ul.link-list"
+     },
+     "eds": {
+      "path": "div.ifx-fixed > nav.site-footer__nav > ul.site-footer__list"
+     },
+     "rows": [
+      {
+       "key": "text:careers",
+       "role": "text",
+       "text": "careers",
+       "edsText": "careers",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 0,
+        "w": 85,
+        "h": 24
+       },
+       "eds": {
+        "x": 32,
+        "y": 0,
+        "w": 85,
+        "h": 24,
+        "sel": "p.site-footer__title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/600",
+        "eds": "16/24/600"
+       }
+      },
+      {
+       "key": "link:overview",
+       "role": "link",
+       "text": "overview",
+       "edsText": "overview",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 56,
+        "w": 71,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 56,
+        "w": 71,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      },
+      {
+       "key": "link:job search",
+       "role": "link",
+       "text": "job search",
+       "edsText": "job search",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 98,
+        "w": 83,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 98,
+        "w": 83,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      },
+      {
+       "key": "link:teams",
+       "role": "link",
+       "text": "teams",
+       "edsText": "teams",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 140,
+        "w": 49,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 140,
+        "w": 49,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      },
+      {
+       "key": "link:how to apply",
+       "role": "link",
+       "text": "how to apply",
+       "edsText": "how to apply",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 182,
+        "w": 99,
+        "h": 26
+       },
+       "eds": {
+        "x": 32,
+        "y": 182,
+        "w": 99,
+        "h": 26,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/26/400",
+        "eds": "18/26/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 1213,
+       "y": 6156,
+       "w": 131,
+       "h": 308
+      },
+      "eds": {
+       "x": 1213,
+       "y": 6156,
+       "w": 131,
+       "h": 308
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 5,
+      "within": 5,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  }
+ ],
+ "verdict": {
+  "units": 19,
+  "within": 118,
+  "off": 3,
+  "hidden": 4,
+  "missing": 11,
+  "errors": 0,
+  "requiredOff": 18
+ }
+}

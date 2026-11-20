@@ -1,0 +1,14 @@
+cap-probe  base 1440 → probe 2560 (from stardust/current/DESIGN.json)
+live   https://www.infineon.com/de/our-stories/electromobility-greener-future
+  modules  5 sections: capped 1400 ×2, 1186 ×1 · full-bleed ×2
+  contentMaxWidth 1400px (module) · shellMaxWidth fluid · root main > article > div.root.container > div.cmp-container
+build  http://localhost:8791/de-our-stories-electromobility-greener-future-proposed.html
+  modules  3 sections: capped 1400 ×2, 1186 ×1 · full-bleed ×0
+  contentMaxWidth 1400px (module) · shellMaxWidth fluid · root body > main.root
+rows
+  ✓ content cap: live 1400px = build 1400px (±20, shared module cap)
+  ⚠ sections: live 5 vs build 3 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches
+  ⚠ module 1/5: live full-bleed (article > div.root.container > div.cmp-container > div.aem-Grid.aem-Grid--12) → build 1400px (body > main.root > div.cmp-container > div.ifxcontainer.ifx-fluid)
+  ✓ module 2/5: 1400px = 1400px
+  ⚠ module 3/5: live 1400px → build 1186px, Δ-214px (div.cmp-container > div.ifxcontainer.ifx-extra-fluid > section.nlo > div.nlo__in)
+cap-probe: PASS at 2560 — 0 of 5 rows failed (evidence stardust/replica/gates/de-our-stories-electromobility-greener-future-2560/cap-iter.json)

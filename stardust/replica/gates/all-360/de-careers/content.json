@@ -1,0 +1,5162 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:28:03.608Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/careers",
+  "at": "2026-11-18T23:27:40.408Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7683,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button#searchicon-items",
+    "x": 164,
+    "y": 14,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-0",
+    "x": 220,
+    "y": 15,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.usericon-item.d-block",
+    "x": 260,
+    "y": 17,
+    "w": 40,
+    "h": 25,
+    "text": "user profile"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.nav-list.desktopActive-secondary > li.nav-link.secondary-nav-link > a",
+    "x": 8,
+    "y": 84,
+    "w": 56,
+    "h": 22,
+    "text": "karriere",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.nav-list.desktopActive-secondary > li.nav-link.secondary-nav-link > a",
+    "x": 84,
+    "y": 84,
+    "w": 65,
+    "h": 22,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.nav-list.desktopActive-secondary > li.nav-link.secondary-nav-link > a",
+    "x": 168,
+    "y": 84,
+    "w": 43,
+    "h": 22,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.nav-list.desktopActive-secondary > li.nav-link.secondary-nav-link > a",
+    "x": 231,
+    "y": 84,
+    "w": 66,
+    "h": 22,
+    "text": "standorte",
+    "href": "/de/careers/our-locations"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.nav-list.desktopActive-secondary > li.nav-link.secondary-nav-link > a",
+    "x": 317,
+    "y": 84,
+    "w": 135,
+    "h": 22,
+    "text": "diversity & inclusion",
+    "href": "/de/careers/diversity-inclusion"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.col-lg-7.info_block > div.info > h1.title",
+    "x": 16,
+    "y": 284,
+    "w": 328,
+    "h": 96,
+    "level": 1,
+    "text": "starten sie ihre karriere bei infineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.col-lg-7.info_block > div.info > p.para-info",
+    "x": 16,
+    "y": 388,
+    "w": 328,
+    "h": 52,
+    "text": "#WeAreIn for driving decarbonization and digitalization. Are you in?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 57,
+    "y": 465,
+    "w": 286,
+    "h": 46,
+    "label": "enter a query with minimum of 2 character(s) to enable search.",
+    "value": "enter a query with minimum of 2 character(s) to enable searc",
+    "via": "combobox"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 57,
+    "y": 523,
+    "w": 286,
+    "h": 46,
+    "label": "enter a query with minimum of 2 character(s) to enable search.",
+    "value": "enter a query with minimum of 2 character(s) to enable searc",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info > div.selected-icon.d-flex > button#searchButtonCoveoCareerHero",
+    "x": 16,
+    "y": 586,
+    "w": 328,
+    "h": 40,
+    "text": "stellenangebot suchen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.info > div.explore-link > a.link-text",
+    "x": 16,
+    "y": 650,
+    "w": 240,
+    "h": 24,
+    "text": "alle stellenangebote entdecken",
+    "href": "/careers"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-82180aa9b2 > h2.dynamicAnchors.heading-01",
+    "x": 16,
+    "y": 738,
+    "w": 328,
+    "h": 176,
+    "level": 2,
+    "text": "werden sie teil eines weltweit führenden anbieters von halbleiterlösungen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-c9ce7321ef > p",
+    "x": 16,
+    "y": 938,
+    "w": 328,
+    "h": 208,
+    "text": "Unsere Halbleiterlösungen stehen im Fokus der digitalen Revolution und tragen ma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-c9ce7321ef > p",
+    "x": 16,
+    "y": 1162,
+    "w": 328,
+    "h": 208,
+    "text": "Wir entwickeln innovative Produkte, achten dabei sehr auf unsere Mitarbeitenden "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-3b6bf7463a > p",
+    "x": 16,
+    "y": 1666,
+    "w": 328,
+    "h": 130,
+    "text": "Unsere Mitarbeitenden sind die Basis für unseren Erfolg. Dank ihrer gemeinsamen "
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#ext_video_0_container_inner > div#ext_video_0_videoPlayer > div#IconEffect_s7classic_1B",
+    "x": 140,
+    "y": 1471,
+    "w": 80,
+    "h": 80,
+    "text": "play or pause video"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-543b6d92a0 > h2.dynamicAnchors.heading-03",
+    "x": 16,
+    "y": 1884,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "starten sie ihre karriere im bereich künstliche intelligenz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-3d094788aa > p",
+    "x": 16,
+    "y": 1960,
+    "w": 328,
+    "h": 338,
+    "text": "Bei Infineon – und ermöglichen so einen effizienten, zuverlässigen und nachhalti"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 16,
+    "y": 2322,
+    "w": 122,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/careers/teams/powering-ai"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 2402,
+    "w": 328,
+    "h": 185,
+    "text": "",
+    "file": "evp-munich-professionals-working-laptops"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-6c46fadad9 > h2.dynamicAnchors.heading-02",
+    "x": 16,
+    "y": 2611,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "möglichkeiten für berufserfahrene"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-7c15dfa4c8 > p",
+    "x": 16,
+    "y": 2699,
+    "w": 328,
+    "h": 234,
+    "text": "Sie sind bereit für den nächsten Karriereschritt? Dann kommen Sie zu uns und wer"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.btn-col > div.selected-icon.gaparound > a.reusebtn.standard",
+    "x": 16,
+    "y": 2957,
+    "w": 327,
+    "h": 48,
+    "text": "finden sie ihr team",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-1cab509337 > h2.dynamicAnchors.heading-02",
+    "x": 16,
+    "y": 3261,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "chancen für nachwuchstalente"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-178932b59e > p",
+    "x": 16,
+    "y": 3349,
+    "w": 328,
+    "h": 208,
+    "text": "Es gibt mehrere Möglichkeiten, Teil unseres internationalen Teams zu werden. Ega"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.btn-col > div.selected-icon.gaparound > a.reusebtn.standard",
+    "x": 16,
+    "y": 3581,
+    "w": 327,
+    "h": 48,
+    "text": "mehr erfahren",
+    "href": "/de/careers/students-graduates"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 3053,
+    "w": 328,
+    "h": 185,
+    "text": "evp dresden students",
+    "file": "lowres-evp-dresden-student-walking"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "section > div.row > p.function-header.dynamicAnchors",
+    "x": 16,
+    "y": 3709,
+    "w": 328,
+    "h": 30,
+    "text": "Wofür wir als Arbeitgeber stehen"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.tab-accordion.divider > div#functionaltabbedcontifxcontainer_copyMobileHeading0 > button.functionTabbedContent-accordion-button.accordion-button",
+    "x": 16,
+    "y": 3739,
+    "w": 328,
+    "h": 66,
+    "text": "01 jobs, die den unterschied machen"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.tab-accordion.divider > div#functionaltabbedcontifxcontainer_copyMobileHeading0 > button.functionTabbedContent-accordion-button.accordion-button",
+    "x": 16,
+    "y": 3739,
+    "w": 328,
+    "h": 66,
+    "label": "trigger",
+    "value": "01 jobs, die den unterschied machen",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-d6ab5e12bd > h3.dynamicAnchors.heading-05",
+    "x": 16,
+    "y": 4051,
+    "w": 328,
+    "h": 26,
+    "level": 3,
+    "text": "jobs, die den unterschied machen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-bc8d938858 > p",
+    "x": 16,
+    "y": 4085,
+    "w": 328,
+    "h": 234,
+    "text": "Unsere winzigen Chips spielen eine entscheidende Rolle für Smartphones, Autos, e"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 3805,
+    "w": 328,
+    "h": 246,
+    "text": "sustainability",
+    "file": "evp-kulim-professionals-discussion"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.tab-accordion.divider > div#functionaltabbedcontifxcontainer_copyMobileHeading1 > button.functionTabbedContent-accordion-button.accordion-button",
+    "x": 16,
+    "y": 4384,
+    "w": 328,
+    "h": 92,
+    "text": "02 arbeiten sie mit technikexpert*innen zusammen"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.tab-accordion.divider > div#functionaltabbedcontifxcontainer_copyMobileHeading1 > button.functionTabbedContent-accordion-button.accordion-button",
+    "x": 16,
+    "y": 4384,
+    "w": 328,
+    "h": 92,
+    "label": "trigger",
+    "value": "02 arbeiten sie mit technikexpert*innen zusammen",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.tab-accordion.divider > div#functionaltabbedcontifxcontainer_copyMobileHeading2 > button.functionTabbedContent-accordion-button.accordion-button",
+    "x": 16,
+    "y": 4477,
+    "w": 328,
+    "h": 92,
+    "text": "03 wachsen sie mit uns in einem wertschätzenden umfeld"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.tab-accordion.divider > div#functionaltabbedcontifxcontainer_copyMobileHeading2 > button.functionTabbedContent-accordion-button.accordion-button",
+    "x": 16,
+    "y": 4477,
+    "w": 328,
+    "h": 92,
+    "label": "trigger",
+    "value": "03 wachsen sie mit uns in einem wertschätzenden umfeld",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.tab-accordion.divider > div#functionaltabbedcontifxcontainer_copyMobileHeading3 > button.functionTabbedContent-accordion-button.accordion-button",
+    "x": 16,
+    "y": 4570,
+    "w": 328,
+    "h": 66,
+    "text": "04 hier gehören sie hin"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.tab-accordion.divider > div#functionaltabbedcontifxcontainer_copyMobileHeading3 > button.functionTabbedContent-accordion-button.accordion-button",
+    "x": 16,
+    "y": 4570,
+    "w": 328,
+    "h": 66,
+    "label": "trigger",
+    "value": "04 hier gehören sie hin",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.col-lg-5.col-md-12 > div.job-content > h3.job-heading",
+    "x": 40,
+    "y": 4944,
+    "w": 280,
+    "h": 30,
+    "level": 3,
+    "text": "jobs auf der ganzen welt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.col-lg-5.col-md-12 > div.job-content > p.job-description.body-03",
+    "x": 40,
+    "y": 4982,
+    "w": 280,
+    "h": 52,
+    "text": "Entdecken Sie unsere Stellenangebote rund um den Globus."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.job-links.selected-icon > div.job-link-product.col-6 > a",
+    "x": 40,
+    "y": 5059,
+    "w": 57,
+    "h": 22,
+    "text": "dresden",
+    "href": "/de/careers/our-locations/dresden"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.job-links.selected-icon > div.job-link-product.col-6 > a",
+    "x": 40,
+    "y": 5099,
+    "w": 44,
+    "h": 22,
+    "text": "italien",
+    "href": "/careers/our-locations/italy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.job-links.selected-icon > div.job-link-product.col-6 > a",
+    "x": 40,
+    "y": 5139,
+    "w": 45,
+    "h": 22,
+    "text": "dublin",
+    "href": "/careers/our-locations/dublin"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.job-links.selected-icon > div.job-link-product.col-6 > a",
+    "x": 40,
+    "y": 5179,
+    "w": 59,
+    "h": 22,
+    "text": "portugal",
+    "href": "/careers/our-locations/portugal"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.job-links.selected-icon > div.job-link-product.col-6 > a",
+    "x": 40,
+    "y": 5219,
+    "w": 70,
+    "h": 22,
+    "text": "rumänien",
+    "href": "/careers/our-locations/romania"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.job-links.selected-icon > div.job-link-product.col-6 > a",
+    "x": 40,
+    "y": 5259,
+    "w": 47,
+    "h": 22,
+    "text": "cegléd",
+    "href": "/careers/our-locations/cegled"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.job-links.selected-icon > div.job-link-product.col-6 > a",
+    "x": 40,
+    "y": 5299,
+    "w": 70,
+    "h": 22,
+    "text": "bangalore",
+    "href": "/careers/our-locations/bangalore"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.job-links.selected-icon > div.job-link-product.col-6 > a",
+    "x": 40,
+    "y": 5339,
+    "w": 52,
+    "h": 22,
+    "text": "penang",
+    "href": "/careers/our-locations/penang"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.job-links.selected-icon > div.job-link-product.col-6 > a",
+    "x": 40,
+    "y": 5379,
+    "w": 61,
+    "h": 22,
+    "text": "thailand",
+    "href": "/careers/our-locations/thailand"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.job-links.selected-icon > div.job-link-product.col-6 > a",
+    "x": 40,
+    "y": 5419,
+    "w": 83,
+    "h": 22,
+    "text": "guadalajara",
+    "href": "/careers/our-locations/guadalajara"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.job-content > div.anchor-button-career > a",
+    "x": 40,
+    "y": 5466,
+    "w": 280,
+    "h": 40,
+    "text": "alle standorte entdecken",
+    "href": "/de/careers/our-locations"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.anchor-button-career > a > button.button-top-featured-location.ocean-outline",
+    "x": 40,
+    "y": 5466,
+    "w": 280,
+    "h": 40,
+    "text": "alle standorte entdecken"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_copy_ifxcontainer_ > div.header-style > h2#carousel",
+    "x": 16,
+    "y": 5594,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "erfahren sie mehr"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 20,
+    "y": 5654,
+    "w": 316,
+    "h": 160,
+    "text": "starten sie ihre karriere im bereich künstliche intelligenz",
+    "file": "header-powering-ai.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 44,
+    "y": 5830,
+    "w": 268,
+    "h": 56,
+    "text": "Starten Sie Ihre Karriere im Bereich Künstliche Intelligenz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.description",
+    "x": 44,
+    "y": 5902,
+    "w": 268,
+    "h": 72,
+    "text": "Helfen Sie uns, die Zukunft der KI zu gestalten und Technologien für die intelli"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 44,
+    "y": 6012,
+    "w": 179,
+    "h": 24,
+    "text": "weitere informationen",
+    "href": "/careers/teams/powering-ai"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 356,
+    "y": 5654,
+    "w": 316,
+    "h": 160,
+    "text": "anstehende hr-events",
+    "file": "events-hr-picture.jpg:asset-680-2x1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.col-lg-12.info_block > div.info > h1.title",
+    "x": 16,
+    "y": 6170,
+    "w": 328,
+    "h": 96,
+    "level": 1,
+    "text": "finden sie ihren nächsten karriereschritt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.col-lg-12.info_block > div.info > p.para-info",
+    "x": 16,
+    "y": 6282,
+    "w": 328,
+    "h": 52,
+    "text": "Möchten Sie Teil von Infineon werden? Jetzt bewerben!"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 57,
+    "y": 6359,
+    "w": 286,
+    "h": 46,
+    "label": "enter a query with minimum of 2 character(s) to enable search.",
+    "value": "enter a query with minimum of 2 character(s) to enable searc",
+    "via": "combobox"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 57,
+    "y": 6423,
+    "w": 286,
+    "h": 46,
+    "label": "enter a query with minimum of 2 character(s) to enable search.",
+    "value": "enter a query with minimum of 2 character(s) to enable searc",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.info > div.selected-icon.d-flex > button#searchButtonCoveoofframp",
+    "x": 16,
+    "y": 6502,
+    "w": 328,
+    "h": 40,
+    "text": "stellenangebot suchen"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 16,
+    "y": 6646,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 6741,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6781,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6823,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6865,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6907,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6949,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 196,
+    "y": 6741,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6781,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6823,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6865,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6933,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6975,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 7017,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 7083,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7123,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7165,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7207,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 32,
+    "y": 7273,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7313,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7355,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7397,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7439,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 7505,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 192,
+    "y": 7505,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 7535,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 21,
+    "y": 7570,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 16,
+    "y": 7623,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 56,
+    "y": 7623,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 96,
+    "y": 7623,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 136,
+    "y": 7620,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 136,
+    "y": 7624,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 176,
+    "y": 7623,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 2,
+    "offPage": 20,
+    "textNodes": 107,
+    "controls": 68,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "ul.nav-list.desktopActive-secondary",
+     "path": "nav.secondary-main-nav-link > ul.nav-list.desktopActive-secondary > li.nav-link.secondary-nav-link > a",
+     "text": "diversity & inclusion",
+     "cutMin": 93,
+     "cutMax": 93
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "ul.nav-list.desktopActive-secondary",
+     "path": "nav.secondary-main-nav-link > ul.nav-list.desktopActive-secondary > li.nav-link.secondary-nav-link > a",
+     "text": "diversity & inclusion",
+     "cutMin": 93,
+     "cutMax": 93
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p.description",
+     "path": "div.card > div.image-container-swiper.row-link-container > div.card-body > p.description",
+     "text": "helfen sie uns, die zukunft der ki zu gestalten und technolo",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/careers",
+  "at": "2026-11-18T23:28:03.492Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7689,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "label": "search",
+    "value": "search",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li.active > a",
+    "x": 24,
+    "y": 84,
+    "w": 56,
+    "h": 22,
+    "text": "karriere",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 84,
+    "w": 65,
+    "h": 22,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 177,
+    "y": 84,
+    "w": 43,
+    "h": 22,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 236,
+    "y": 84,
+    "w": 66,
+    "h": 22,
+    "text": "standorte",
+    "href": "/de/careers/our-locations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 318,
+    "y": 84,
+    "w": 135,
+    "h": 22,
+    "text": "diversity & inclusion",
+    "href": "/de/careers/diversity-inclusion"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-hero-inner > div.product-hero-text > h1#starten-sie-ihre-karriere-bei-infineon",
+    "x": 16,
+    "y": 284,
+    "w": 328,
+    "h": 96,
+    "level": 1,
+    "text": "starten sie ihre karriere bei infineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-hero-inner > div.product-hero-text > p",
+    "x": 16,
+    "y": 388,
+    "w": 328,
+    "h": 52,
+    "text": "#WeAreIn for driving decarbonization and digitalization. Are you in?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form.product-hero-search > p.button-wrapper.product-hero-submit > a.button.primary",
+    "x": 16,
+    "y": 586,
+    "w": 328,
+    "h": 40,
+    "text": "stellenangebot suchen",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-hero-more > p > a",
+    "x": 16,
+    "y": 650,
+    "w": 240,
+    "h": 24,
+    "text": "alle stellenangebote entdecken",
+    "href": "/careers"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-head > h2#werden-sie-teil-eines-weltweit-führenden-anbieters-von-halbleiterlösungen",
+    "x": 16,
+    "y": 738,
+    "w": 328,
+    "h": 176,
+    "level": 2,
+    "text": "werden sie teil eines weltweit führenden anbieters von halbleiterlösungen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-head > p",
+    "x": 16,
+    "y": 938,
+    "w": 328,
+    "h": 208,
+    "text": "Unsere Halbleiterlösungen stehen im Fokus der digitalen Revolution und tragen ma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-head > p",
+    "x": 16,
+    "y": 1162,
+    "w": 328,
+    "h": 208,
+    "text": "Wir entwickeln innovative Produkte, achten dabei sehr auf unsere Mitarbeitenden "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-row > div.hub-band-text > p",
+    "x": 16,
+    "y": 1667,
+    "w": 328,
+    "h": 130,
+    "text": "Unsere Mitarbeitenden sind die Basis für unseren Erfolg. Dank ihrer gemeinsamen "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-media > picture > img",
+    "x": 16,
+    "y": 1418,
+    "w": 328,
+    "h": 185,
+    "text": "",
+    "file": "media_13a117722b0d62f757a4f4c192b9d0ec97"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-head > h2#starten-sie-ihre-karriere-im-bereich-künstliche-intelligenz",
+    "x": 16,
+    "y": 1885,
+    "w": 328,
+    "h": 60,
+    "level": 2,
+    "text": "starten sie ihre karriere im bereich künstliche intelligenz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.hub-band-inner > div.hub-band-head > p",
+    "x": 16,
+    "y": 1961,
+    "w": 328,
+    "h": 338,
+    "text": "Bei Infineon treiben wir KI vom Stromnetz bis zum Prozessor an – und ermöglichen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-head > p > a",
+    "x": 16,
+    "y": 2324,
+    "w": 121,
+    "h": 24,
+    "text": "mehr erfahren",
+    "href": "/careers/teams/powering-ai"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-media > picture > img",
+    "x": 16,
+    "y": 2405,
+    "w": 328,
+    "h": 185,
+    "text": "",
+    "file": "media_1d03b573234c1a483b10624a298487507d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-row.media-first > div.hub-band-text > h2#möglichkeiten-für-berufserfahrene",
+    "x": 16,
+    "y": 2613,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "möglichkeiten für berufserfahrene"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-row.media-first > div.hub-band-text > p",
+    "x": 16,
+    "y": 2701,
+    "w": 328,
+    "h": 234,
+    "text": "Sie sind bereit für den nächsten Karriereschritt? Dann kommen Sie zu uns und wer"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-text > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 2959,
+    "w": 328,
+    "h": 48,
+    "text": "finden sie ihr team",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-row > div.hub-band-text > h2#chancen-für-nachwuchstalente",
+    "x": 16,
+    "y": 3264,
+    "w": 328,
+    "h": 72,
+    "level": 2,
+    "text": "chancen für nachwuchstalente"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-row > div.hub-band-text > p",
+    "x": 16,
+    "y": 3352,
+    "w": 328,
+    "h": 208,
+    "text": "Es gibt mehrere Möglichkeiten, Teil unseres internationalen Teams zu werden. Ega"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-text > p.button-wrapper > a.button.primary",
+    "x": 16,
+    "y": 3584,
+    "w": 328,
+    "h": 48,
+    "text": "mehr erfahren",
+    "href": "/de/careers/students-graduates"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hub-band-media > picture > img",
+    "x": 16,
+    "y": 3055,
+    "w": 328,
+    "h": 185,
+    "text": "evp dresden students",
+    "file": "media_1dbd4a2120bd3f1e4fc6f3886f6929fc23"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.tabs-inner > div.tabs-head > p",
+    "x": 16,
+    "y": 3712,
+    "w": 328,
+    "h": 30,
+    "text": "Wofür wir als Arbeitgeber stehen"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tabs-panels > div#tabs-1-panel-0 > button.tabs-bar",
+    "x": 16,
+    "y": 3742,
+    "w": 328,
+    "h": 66,
+    "text": "01 jobs, die den unterschied machen"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tabs-panel-media > picture > img",
+    "x": 16,
+    "y": 3808,
+    "w": 328,
+    "h": 246,
+    "text": "sustainability",
+    "file": "media_1d3453c2a2a523b9fb5917b060a7e3a4e4"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tabs-panel-content > div.tabs-panel-text > h3#jobs-die-den-unterschied-machen",
+    "x": 16,
+    "y": 4054,
+    "w": 328,
+    "h": 26,
+    "level": 3,
+    "text": "jobs, die den unterschied machen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tabs-panel-content > div.tabs-panel-text > p",
+    "x": 16,
+    "y": 4088,
+    "w": 328,
+    "h": 234,
+    "text": "Unsere winzigen Chips spielen eine entscheidende Rolle für Smartphones, Autos, e"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tabs-panels > div#tabs-1-panel-1 > button.tabs-bar",
+    "x": 16,
+    "y": 4386,
+    "w": 328,
+    "h": 93,
+    "text": "02 arbeiten sie mit technikexpert*innen zusammen"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tabs-panels > div#tabs-1-panel-2 > button.tabs-bar",
+    "x": 16,
+    "y": 4479,
+    "w": 328,
+    "h": 93,
+    "text": "03 wachsen sie mit uns in einem wertschätzenden umfeld"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tabs-panels > div#tabs-1-panel-3 > button.tabs-bar",
+    "x": 16,
+    "y": 4572,
+    "w": 328,
+    "h": 67,
+    "text": "04 hier gehören sie hin"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.locations-frame > div.locations-panel > h3#jobs-auf-der-ganzen-welt",
+    "x": 40,
+    "y": 4946,
+    "w": 280,
+    "h": 30,
+    "level": 3,
+    "text": "jobs auf der ganzen welt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.locations-frame > div.locations-panel > p",
+    "x": 40,
+    "y": 4984,
+    "w": 280,
+    "h": 52,
+    "text": "Entdecken Sie unsere Stellenangebote rund um den Globus."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 40,
+    "y": 5069,
+    "w": 57,
+    "h": 22,
+    "text": "dresden",
+    "href": "/de/careers/our-locations/dresden"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 40,
+    "y": 5109,
+    "w": 44,
+    "h": 22,
+    "text": "italien",
+    "href": "/careers/our-locations/italy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 40,
+    "y": 5149,
+    "w": 45,
+    "h": 22,
+    "text": "dublin",
+    "href": "/careers/our-locations/dublin"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 40,
+    "y": 5189,
+    "w": 59,
+    "h": 22,
+    "text": "portugal",
+    "href": "/careers/our-locations/portugal"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 40,
+    "y": 5229,
+    "w": 70,
+    "h": 22,
+    "text": "rumänien",
+    "href": "/careers/our-locations/romania"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 40,
+    "y": 5269,
+    "w": 47,
+    "h": 22,
+    "text": "cegléd",
+    "href": "/careers/our-locations/cegled"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 40,
+    "y": 5309,
+    "w": 70,
+    "h": 22,
+    "text": "bangalore",
+    "href": "/careers/our-locations/bangalore"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 40,
+    "y": 5349,
+    "w": 52,
+    "h": 22,
+    "text": "penang",
+    "href": "/careers/our-locations/penang"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 40,
+    "y": 5389,
+    "w": 61,
+    "h": 22,
+    "text": "thailand",
+    "href": "/careers/our-locations/thailand"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 40,
+    "y": 5429,
+    "w": 83,
+    "h": 22,
+    "text": "guadalajara",
+    "href": "/careers/our-locations/guadalajara"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.locations-panel > p.button-wrapper > a.button.secondary",
+    "x": 40,
+    "y": 5492,
+    "w": 280,
+    "h": 40,
+    "text": "alle standorte entdecken",
+    "href": "/de/careers/our-locations"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.teaser-cards-inner > div.teaser-cards-head > h2#erfahren-sie-mehr",
+    "x": 16,
+    "y": 5620,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "erfahren sie mehr"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-cards-media > picture > img",
+    "x": 16,
+    "y": 5680,
+    "w": 320,
+    "h": 160,
+    "text": "starten sie ihre karriere im bereich künstliche intelligenz",
+    "file": "media_131b52916b1a8e59aee3259952210523e2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-cards-title > p > strong",
+    "x": 44,
+    "y": 5857,
+    "w": 259,
+    "h": 53,
+    "text": "Starten Sie Ihre Karriere im Bereich Künstliche Intelligenz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-cards-body > div.teaser-cards-desc > p",
+    "x": 44,
+    "y": 5924,
+    "w": 268,
+    "h": 72,
+    "text": "Helfen Sie uns, die Zukunft der KI zu gestalten und Technologien für die intelli"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-cards-link > p > a",
+    "x": 44,
+    "y": 6032,
+    "w": 179,
+    "h": 24,
+    "text": "weitere informationen",
+    "href": "/careers/teams/powering-ai"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-cards-media > picture > img",
+    "x": 352,
+    "y": 5680,
+    "w": 320,
+    "h": 160,
+    "text": "anstehende hr-events",
+    "file": "media_17b69606b9dfbfcf9e44934b25649837c5"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-hero-inner > div.product-hero-text > h2#finden-sie-ihren-nächsten-karriereschritt",
+    "x": 16,
+    "y": 6192,
+    "w": 328,
+    "h": 96,
+    "level": 2,
+    "text": "finden sie ihren nächsten karriereschritt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-hero-inner > div.product-hero-text > p",
+    "x": 16,
+    "y": 6304,
+    "w": 328,
+    "h": 52,
+    "text": "Möchten Sie Teil von Infineon werden? Jetzt bewerben!"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form.product-hero-search > p.button-wrapper.product-hero-submit > a.button.primary",
+    "x": 16,
+    "y": 6502,
+    "w": 328,
+    "h": 40,
+    "text": "stellenangebot suchen",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 16,
+    "y": 6684,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 16,
+    "y": 6646,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 6747,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6787,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6829,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6871,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6913,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6955,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 196,
+    "y": 6747,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6787,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6829,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6871,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6939,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6981,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 7023,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 7089,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7129,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7171,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7213,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 32,
+    "y": 7279,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7319,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7361,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7403,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7445,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7511,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 192,
+    "y": 7511,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7541,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 188,
+    "y": 7541,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 21,
+    "y": 7576,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7629,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 7629,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 7629,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 136,
+    "y": 7626,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 136,
+    "y": 7626,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 176,
+    "y": 7629,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 2,
+    "offPage": 24,
+    "textNodes": 105,
+    "controls": 70,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "nav.ifx-fixed.sub-nav-inner",
+     "path": "nav.ifx-fixed.sub-nav-inner > ul > li > a",
+     "text": "diversity & inclusion",
+     "cutMin": 93,
+     "cutMax": 93
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "nav.ifx-fixed.sub-nav-inner",
+     "path": "nav.ifx-fixed.sub-nav-inner > ul > li > a",
+     "text": "diversity & inclusion",
+     "cutMin": 93,
+     "cutMax": 93
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p",
+     "path": "li.teaser-cards-card > div.teaser-cards-body > div.teaser-cards-desc > p",
+     "text": "helfen sie uns, die zukunft der ki zu gestalten und technolo",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ],
+   "findings": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 93,
+     "path": "nav.ifx-fixed.sub-nav-inner > ul > li > a",
+     "text": "diversity & inclusion",
+     "clipper": "nav.ifx-fixed.sub-nav-inner",
+     "rect": {
+      "l": 318,
+      "t": 84,
+      "r": 453,
+      "b": 106,
+      "w": 135,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 61,
+      "r": 360,
+      "b": 121,
+      "w": 360,
+      "h": 60
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 93,
+     "path": "nav.ifx-fixed.sub-nav-inner > ul > li > a",
+     "text": "diversity & inclusion",
+     "clipper": "nav.ifx-fixed.sub-nav-inner",
+     "rect": {
+      "l": 318,
+      "t": 84,
+      "r": 453,
+      "b": 106,
+      "w": 135,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 61,
+      "r": 360,
+      "b": 121,
+      "w": 360,
+      "h": 60
+     },
+     "lines": 1
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 1,
+     "path": "li.teaser-cards-card > div.teaser-cards-body > div.teaser-cards-desc > p",
+     "text": "helfen sie uns, die zukunft der ki zu gestalten und technolo",
+     "clipper": "p",
+     "rect": {
+      "l": 44,
+      "t": 5925,
+      "r": 282,
+      "b": 5947,
+      "w": 238,
+      "h": 22
+     },
+     "clip": {
+      "l": 44,
+      "t": 5924,
+      "r": 312,
+      "b": 5996,
+      "w": 268,
+      "h": 72
+     },
+     "lines": 4
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 5,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 1,
+   "heading": "starten sie ihre karriere bei infineon",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 18,
+    "linkHidden": 0,
+    "button": 4,
+    "buttonHidden": 0,
+    "text": 13,
+    "textHidden": 0,
+    "image": 6,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"werden sie teil eines weltweit führenden anbieters von halbleiterlösungen\" (y 738) has no origin heading",
+   "text": "werden sie teil eines weltweit führenden anbieters von halbleiterlösungen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"starten sie ihre karriere im bereich künstliche intelligenz\" (y 1885) has no origin heading",
+   "text": "starten sie ihre karriere im bereich künstliche intelligenz"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"möglichkeiten für berufserfahrene\" (y 2613) has no origin heading",
+   "text": "möglichkeiten für berufserfahrene"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"chancen für nachwuchstalente\" (y 3264) has no origin heading",
+   "text": "chancen für nachwuchstalente"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"jobs, die den unterschied machen\" (y 4054) has no origin heading",
+   "text": "jobs, die den unterschied machen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"jobs auf der ganzen welt\" (y 4946) has no origin heading",
+   "text": "jobs auf der ganzen welt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"erfahren sie mehr\" (y 5620) has no origin heading",
+   "text": "erfahren sie mehr"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"finden sie ihren nächsten karriereschritt\" (y 6192) has no origin heading",
+   "text": "finden sie ihren nächsten karriereschritt"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"diversity & inclusion\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "diversity & inclusion"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"mehr erfahren\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 2,
+   "text": "mehr erfahren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"finden sie ihr team\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "finden sie ihr team"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"01 jobs, die den unterschied machen\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "01 jobs, die den unterschied machen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"02 arbeiten sie mit technikexpert*innen zusammen\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "02 arbeiten sie mit technikexpert*innen zusammen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"03 wachsen sie mit uns in einem wertschätzenden umfeld\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "03 wachsen sie mit uns in einem wertschätzenden umfeld"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"04 hier gehören sie hin\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "04 hier gehören sie hin"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"dresden\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "dresden"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"italien\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "italien"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"dublin\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "dublin"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"portugal\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "portugal"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"rumänien\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "rumänien"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"cegléd\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "cegléd"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"bangalore\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "bangalore"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"penang\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "penang"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"thailand\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "thailand"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"guadalajara\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "guadalajara"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"alle standorte entdecken\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "alle standorte entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"weitere informationen\" served in band \"starten sie ihre karriere bei infineon\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "weitere informationen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"starten sie ihre karriere bei infineon\": 1 origin → 13 served visible",
+   "band": 1,
+   "origin": 1,
+   "eds": 13,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"starten sie ihre karriere bei infineon\": 0 origin → 6 served visible",
+   "band": 1,
+   "origin": 0,
+   "eds": 6,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 8,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 20,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 29,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 8,
+    "y": 84,
+    "w": 56,
+    "h": 22
+   },
+   {
+    "x": 84,
+    "y": 84,
+    "w": 65,
+    "h": 22
+   },
+   {
+    "x": 168,
+    "y": 84,
+    "w": 43,
+    "h": 22
+   },
+   {
+    "x": 231,
+    "y": 84,
+    "w": 66,
+    "h": 22
+   },
+   {
+    "x": 317,
+    "y": 84,
+    "w": 135,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 282,
+    "w": 231,
+    "h": 51
+   },
+   {
+    "x": 16,
+    "y": 330,
+    "w": 310,
+    "h": 51
+   },
+   {
+    "x": 16,
+    "y": 388,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 414,
+    "w": 195,
+    "h": 25
+   },
+   {
+    "x": 102,
+    "y": 595,
+    "w": 157,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 651,
+    "w": 216,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 737,
+    "w": 281,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 781,
+    "w": 264,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 825,
+    "w": 184,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 869,
+    "w": 257,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 938,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 964,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 990,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1016,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1042,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1068,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1094,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1120,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1162,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1188,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1214,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1240,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1266,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1292,
+    "w": 233,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1318,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1344,
+    "w": 255,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1666,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1692,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1718,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1744,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1770,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1883,
+    "w": 323,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1913,
+    "w": 199,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1960,
+    "w": 90,
+    "h": 25
+   },
+   {
+    "x": 106,
+    "y": 1960,
+    "w": 230,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1986,
+    "w": 162,
+    "h": 25
+   },
+   {
+    "x": 178,
+    "y": 1986,
+    "w": 165,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2012,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2038,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2064,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2090,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2116,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2142,
+    "w": 260,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2168,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2194,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2220,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2246,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2272,
+    "w": 201,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2323,
+    "w": 100,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2610,
+    "w": 190,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 2646,
+    "w": 177,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 2699,
+    "w": 236,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2725,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2751,
+    "w": 248,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2777,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2803,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2829,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2855,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2881,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2907,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 113,
+    "y": 2970,
+    "w": 135,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3260,
+    "w": 131,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 3296,
+    "w": 203,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 3349,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3375,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3401,
+    "w": 271,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3427,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3453,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3479,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3505,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3531,
+    "w": 87,
+    "h": 25
+   },
+   {
+    "x": 131,
+    "y": 3594,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3708,
+    "w": 300,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3765,
+    "w": 19,
+    "h": 22
+   },
+   {
+    "x": 43,
+    "y": 3765,
+    "w": 236,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4051,
+    "w": 260,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4085,
+    "w": 263,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4111,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4137,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4163,
+    "w": 293,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4189,
+    "w": 281,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4215,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4241,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4267,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4293,
+    "w": 156,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4410,
+    "w": 19,
+    "h": 22
+   },
+   {
+    "x": 43,
+    "y": 4410,
+    "w": 249,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4436,
+    "w": 73,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4503,
+    "w": 19,
+    "h": 22
+   },
+   {
+    "x": 43,
+    "y": 4503,
+    "w": 197,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4529,
+    "w": 167,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4596,
+    "w": 19,
+    "h": 22
+   },
+   {
+    "x": 43,
+    "y": 4596,
+    "w": 135,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 4943,
+    "w": 230,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 4984,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5010,
+    "w": 140,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5059,
+    "w": 57,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5099,
+    "w": 44,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5139,
+    "w": 45,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5179,
+    "w": 59,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5219,
+    "w": 70,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5259,
+    "w": 47,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5299,
+    "w": 70,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5339,
+    "w": 52,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5379,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5419,
+    "w": 83,
+    "h": 22
+   },
+   {
+    "x": 94,
+    "y": 5475,
+    "w": 173,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5593,
+    "w": 196,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 5831,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 44,
+    "y": 5859,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 44,
+    "y": 5903,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 5927,
+    "w": 230,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 5951,
+    "w": 246,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 6013,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6175,
+    "w": 281,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 6223,
+    "w": 160,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 6279,
+    "w": 276,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 6305,
+    "w": 239,
+    "h": 32
+   },
+   {
+    "x": 102,
+    "y": 6511,
+    "w": 157,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6742,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6781,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6823,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6865,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6907,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6949,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6742,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 6781,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6823,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6865,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6891,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6933,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6975,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7017,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7084,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7123,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7165,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7207,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7274,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 7313,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7355,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7397,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7439,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 7510,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 7510,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7540,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 7540,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7570,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 7570,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 7570,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 24,
+    "y": 84,
+    "w": 56,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 84,
+    "w": 65,
+    "h": 22
+   },
+   {
+    "x": 177,
+    "y": 84,
+    "w": 43,
+    "h": 22
+   },
+   {
+    "x": 236,
+    "y": 84,
+    "w": 66,
+    "h": 22
+   },
+   {
+    "x": 318,
+    "y": 84,
+    "w": 135,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 282,
+    "w": 231,
+    "h": 51
+   },
+   {
+    "x": 16,
+    "y": 330,
+    "w": 310,
+    "h": 51
+   },
+   {
+    "x": 16,
+    "y": 388,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 414,
+    "w": 195,
+    "h": 25
+   },
+   {
+    "x": 102,
+    "y": 595,
+    "w": 157,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 651,
+    "w": 216,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 737,
+    "w": 281,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 781,
+    "w": 264,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 825,
+    "w": 184,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 869,
+    "w": 257,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 938,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 964,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 990,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1016,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1042,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1068,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1094,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1120,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1162,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1188,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1214,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1240,
+    "w": 252,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1266,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1292,
+    "w": 233,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1318,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1344,
+    "w": 255,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1667,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1693,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1719,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1745,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1771,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1884,
+    "w": 323,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1914,
+    "w": 199,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 1961,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1987,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2013,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2039,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2065,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2091,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2117,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2143,
+    "w": 260,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2169,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2195,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2221,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2247,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2273,
+    "w": 201,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2325,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2612,
+    "w": 190,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 2648,
+    "w": 177,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 2701,
+    "w": 236,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2727,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2753,
+    "w": 248,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2779,
+    "w": 264,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2805,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2831,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2857,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2883,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2909,
+    "w": 149,
+    "h": 25
+   },
+   {
+    "x": 113,
+    "y": 2972,
+    "w": 135,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3263,
+    "w": 131,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 3299,
+    "w": 203,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 3352,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3378,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3404,
+    "w": 271,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3430,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3456,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3482,
+    "w": 256,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3508,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3534,
+    "w": 87,
+    "h": 25
+   },
+   {
+    "x": 131,
+    "y": 3597,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3711,
+    "w": 300,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 3764,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 3764,
+    "w": 236,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4054,
+    "w": 257,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4088,
+    "w": 263,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4114,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4140,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4166,
+    "w": 293,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4192,
+    "w": 281,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4218,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4244,
+    "w": 251,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4270,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4296,
+    "w": 156,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4408,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 4408,
+    "w": 257,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 4434,
+    "w": 75,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4501,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 4501,
+    "w": 202,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 4527,
+    "w": 172,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4594,
+    "w": 16,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 4594,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 4945,
+    "w": 230,
+    "h": 32
+   },
+   {
+    "x": 40,
+    "y": 4986,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5012,
+    "w": 140,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5069,
+    "w": 57,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5109,
+    "w": 44,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5149,
+    "w": 45,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5189,
+    "w": 59,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5229,
+    "w": 70,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5269,
+    "w": 47,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5309,
+    "w": 70,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5349,
+    "w": 52,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5389,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5429,
+    "w": 83,
+    "h": 22
+   },
+   {
+    "x": 94,
+    "y": 5501,
+    "w": 173,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5619,
+    "w": 196,
+    "h": 37
+   },
+   {
+    "x": 44,
+    "y": 5857,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 44,
+    "y": 5885,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 44,
+    "y": 5925,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 5949,
+    "w": 230,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 5973,
+    "w": 246,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 6033,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6197,
+    "w": 281,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 6245,
+    "w": 160,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 6301,
+    "w": 276,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 6327,
+    "w": 239,
+    "h": 32
+   },
+   {
+    "x": 102,
+    "y": 6511,
+    "w": 157,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6748,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6787,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6829,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6871,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6913,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6955,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6748,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 6787,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6829,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6871,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6897,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6939,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6981,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7023,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7090,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7129,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7171,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7213,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7280,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 7319,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7361,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7403,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7445,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 7516,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 7516,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7546,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 7546,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7576,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 7576,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 7576,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

@@ -1,0 +1,343 @@
+{
+ "tool": "chrome-compare",
+ "at": "2026-11-18T16:00:08.602Z",
+ "source": "https://www.infineon.com/de",
+ "build": "https://main--938eead7--aemcoder.aem.live/de",
+ "profile": "replica",
+ "bar": 0.02,
+ "widths": [
+  360,
+  1440
+ ],
+ "counts": {
+  "error": 23,
+  "warn": 14,
+  "decided": 0
+ },
+ "findings": [
+  {
+   "key": "link-missing@360 link",
+   "width": 360,
+   "path": "link",
+   "id": "link-missing",
+   "severity": "warn",
+   "detail": "top-level link /de not in the build header"
+  },
+  {
+   "key": "control-missing@360 menu",
+   "width": 360,
+   "path": "menu",
+   "id": "control-missing",
+   "severity": "error",
+   "detail": "the source menu control opens on click; the build has no control named \"\""
+  },
+  {
+   "key": "panel-content@360 Cart [click]",
+   "width": 360,
+   "path": "Cart",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "error",
+   "detail": "1 of 1 links missing (Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis); headings missing: Singapore FinTech Festival 2026"
+  },
+  {
+   "key": "panel-content@360 Cart [click]",
+   "width": 360,
+   "path": "Cart",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "warn",
+   "detail": "the source panel shows 1 image(s), the build none"
+  },
+  {
+   "key": "control-missing@360 menu",
+   "width": 360,
+   "path": "menu",
+   "id": "control-missing",
+   "severity": "error",
+   "detail": "the source menu control opens on click; the build has no control named \"\""
+  },
+  {
+   "key": "panel-content@360 Toggle navigation [click]",
+   "width": 360,
+   "path": "Toggle navigation",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "error",
+   "detail": "1 of 6 links missing (Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis); headings missing: Singapore FinTech Festival 2026"
+  },
+  {
+   "key": "link-href@360 Toggle navigation [click]",
+   "width": 360,
+   "path": "Toggle navigation",
+   "action": "click",
+   "id": "link-href",
+   "severity": "warn",
+   "detail": "5 link(s) point elsewhere: Produkte: /de → /products; Applikationen: /de → /applications; Designressourcen: /de → /design-resources; Support & Training: /de → /de/support"
+  },
+  {
+   "key": "panel-content@360 Toggle navigation [click]",
+   "width": 360,
+   "path": "Toggle navigation",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "warn",
+   "detail": "the source panel shows 1 image(s), the build none"
+  },
+  {
+   "key": "budget-truncated@360 (source)",
+   "width": 360,
+   "path": "(source)",
+   "id": "budget-truncated",
+   "severity": "warn",
+   "detail": "the source record stopped at depth 1 at : raise --max-states/--max-depth for full coverage"
+  },
+  {
+   "key": "budget-truncated@360 (build)",
+   "width": 360,
+   "path": "(build)",
+   "id": "budget-truncated",
+   "severity": "warn",
+   "detail": "the build record stopped at depth 1 at Search"
+  },
+  {
+   "key": "link-missing@1440 link",
+   "width": 1440,
+   "path": "link",
+   "id": "link-missing",
+   "severity": "warn",
+   "detail": "top-level link /de not in the build header"
+  },
+  {
+   "key": "panel-content@1440 Produkte [click]",
+   "width": 1440,
+   "path": "Produkte",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "error",
+   "detail": "2 of 3 links missing (https://www.infineon.com/products/asic/asic, https://www.infineon.com/products/asic/soc-sip-fpga)"
+  },
+  {
+   "key": "state-missing@1440 Applikationen [hover]",
+   "width": 1440,
+   "path": "Applikationen",
+   "action": "hover",
+   "id": "state-missing",
+   "severity": "error",
+   "detail": "opens on hover on the source (8 links); nothing opens on the build"
+  },
+  {
+   "key": "panel-content@1440 Applikationen [click]",
+   "width": 1440,
+   "path": "Applikationen",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "error",
+   "detail": "8 of 9 links missing (Alles über Energieinfrastruktur, Alles über Elektromobilität, Alles über Robotics, Alles über Softwaredefinierte Fahrzeuge, Alles über Edge AI, Alles über Powering AI, …); headings missing: Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen, Singapore FinTech Festival 2026, POL regulation for compute and telecom"
+  },
+  {
+   "key": "panel-content@1440 Applikationen [click]",
+   "width": 1440,
+   "path": "Applikationen",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "warn",
+   "detail": "the source panel shows 8 image(s), the build none"
+  },
+  {
+   "key": "state-missing@1440 Designressourcen [hover]",
+   "width": 1440,
+   "path": "Designressourcen",
+   "action": "hover",
+   "id": "state-missing",
+   "severity": "error",
+   "detail": "opens on hover on the source (8 links); nothing opens on the build"
+  },
+  {
+   "key": "panel-content@1440 Designressourcen [click]",
+   "width": 1440,
+   "path": "Designressourcen",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "error",
+   "detail": "8 of 9 links missing (Alles über Energieinfrastruktur, Alles über Elektromobilität, Alles über Robotics, Alles über Softwaredefinierte Fahrzeuge, Alles über Edge AI, Alles über Powering AI, …); headings missing: Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen, Singapore FinTech Festival 2026, POL regulation for compute and telecom"
+  },
+  {
+   "key": "panel-content@1440 Designressourcen [click]",
+   "width": 1440,
+   "path": "Designressourcen",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "warn",
+   "detail": "the source panel shows 8 image(s), the build none"
+  },
+  {
+   "key": "state-missing@1440 Support & Training [hover]",
+   "width": 1440,
+   "path": "Support & Training",
+   "action": "hover",
+   "id": "state-missing",
+   "severity": "error",
+   "detail": "opens on hover on the source (8 links); nothing opens on the build"
+  },
+  {
+   "key": "panel-content@1440 Support & Training [click]",
+   "width": 1440,
+   "path": "Support & Training",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "error",
+   "detail": "6 of 11 links missing (https://www.infineon.com/de/support/faqs, https://mycases.infineon.com/, https://www.infineon.com/de/contact-us, EU-Forschungsprojekt „Listen2Future“ macht Akustiksensoren für Medizin, Energie und Industrie kleiner und smarter, Nov 18th, 2026 Singapore FinTech Festival 2026 Face-to-F... Messen & Konferenzen At Singapore FinTech Festival 2026, dis, Nov 19th, 2026 POL regulation for compute and telecom Online Live); headings missing: Singapore FinTech Festival 2026, POL regulation for compute and telecom"
+  },
+  {
+   "key": "panel-content@1440 Support & Training [click]",
+   "width": 1440,
+   "path": "Support & Training",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "warn",
+   "detail": "the source panel shows 2 image(s), the build none"
+  },
+  {
+   "key": "state-missing@1440 Über uns [hover]",
+   "width": 1440,
+   "path": "Über uns",
+   "action": "hover",
+   "id": "state-missing",
+   "severity": "error",
+   "detail": "opens on hover on the source (8 links); nothing opens on the build"
+  },
+  {
+   "key": "panel-content@1440 Über uns [click]",
+   "width": 1440,
+   "path": "Über uns",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "error",
+   "detail": "13 of 18 links missing (https://www.infineon.com/de/about/company/our-divisions, https://www.infineon.com/de/about/company/leadership-team/, https://www.infineon.com/de/about/company/sustainability, https://www.infineon.com/de/contact-us, EU-Forschungsprojekt „Listen2Future“ macht Akustiksensoren für Medizin, Energie und Industrie kleiner und smarter, Alles über Energieinfrastruktur, …); headings missing: Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen, Singapore FinTech Festival 2026, POL regulation for compute and telecom"
+  },
+  {
+   "key": "panel-content@1440 Über uns [click]",
+   "width": 1440,
+   "path": "Über uns",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "warn",
+   "detail": "the source panel shows 8 image(s), the build none"
+  },
+  {
+   "key": "control-missing@1440 English 中文 日本語 Deutsch",
+   "width": 1440,
+   "path": "English 中文 日本語 Deutsch",
+   "id": "control-missing",
+   "severity": "error",
+   "detail": "the source menu control opens on click; the build has no control named \"English 中文 日本語 Deutsch\""
+  },
+  {
+   "key": "state-missing@1440 Currency [hover]",
+   "width": 1440,
+   "path": "Currency",
+   "action": "hover",
+   "id": "state-missing",
+   "severity": "error",
+   "detail": "opens on hover on the source (8 links); nothing opens on the build"
+  },
+  {
+   "key": "panel-content@1440 Currency [click]",
+   "width": 1440,
+   "path": "Currency",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "error",
+   "detail": "8 of 8 links missing (Alles über Energieinfrastruktur, Alles über Elektromobilität, Alles über Robotics, Alles über Softwaredefinierte Fahrzeuge, Alles über Edge AI, Alles über Powering AI, …); headings missing: Wir gestalten Schlüsselmärkte mit fortschrittlichen Halbleiterlösungen, Singapore FinTech Festival 2026, POL regulation for compute and telecom"
+  },
+  {
+   "key": "panel-content@1440 Currency [click]",
+   "width": 1440,
+   "path": "Currency",
+   "action": "click",
+   "id": "panel-content",
+   "severity": "warn",
+   "detail": "the source panel shows 8 image(s), the build none"
+  },
+  {
+   "key": "budget-truncated@1440 (source)",
+   "width": 1440,
+   "path": "(source)",
+   "id": "budget-truncated",
+   "severity": "warn",
+   "detail": "the source record stopped at depth 1 at Produkte: raise --max-states/--max-depth for full coverage"
+  },
+  {
+   "key": "budget-truncated@1440 (build)",
+   "width": 1440,
+   "path": "(build)",
+   "id": "budget-truncated",
+   "severity": "warn",
+   "detail": "the build record stopped at depth 1 at Produkte"
+  },
+  {
+   "key": "panel-visual@360 Cart [click]",
+   "width": 360,
+   "path": "Cart",
+   "action": "click",
+   "id": "panel-visual",
+   "severity": "error",
+   "detail": "open-state crop differs by 50.6% (bar 2%; source 330×603, build 307×356; texture 55% thick)"
+  },
+  {
+   "key": "panel-visual@360 Toggle navigation [click]",
+   "width": 360,
+   "path": "Toggle navigation",
+   "action": "click",
+   "id": "panel-visual",
+   "severity": "error",
+   "detail": "open-state crop differs by 54.9% (bar 2%; source 334×789, build 334×789; texture 95% thick)"
+  },
+  {
+   "key": "panel-visual@1440 Applikationen [click]",
+   "width": 1440,
+   "path": "Applikationen",
+   "action": "click",
+   "id": "panel-visual",
+   "severity": "error",
+   "detail": "open-state crop differs by 62.8% (bar 2%; source 1330×801, build 1440×833; texture 98% thick)"
+  },
+  {
+   "key": "panel-visual@1440 Designressourcen [click]",
+   "width": 1440,
+   "path": "Designressourcen",
+   "action": "click",
+   "id": "panel-visual",
+   "severity": "error",
+   "detail": "open-state crop differs by 53.6% (bar 2%; source 1330×795, build 1440×833; texture 98% thick)"
+  },
+  {
+   "key": "panel-visual@1440 Support & Training [click]",
+   "width": 1440,
+   "path": "Support & Training",
+   "action": "click",
+   "id": "panel-visual",
+   "severity": "error",
+   "detail": "open-state crop differs by 52.4% (bar 2%; source 986×801, build 1440×833; texture 93% thick)"
+  },
+  {
+   "key": "panel-visual@1440 Über uns [click]",
+   "width": 1440,
+   "path": "Über uns",
+   "action": "click",
+   "id": "panel-visual",
+   "severity": "error",
+   "detail": "open-state crop differs by 36.3% (bar 2%; source 1330×801, build 1440×833; texture 93% thick)"
+  },
+  {
+   "key": "panel-visual@1440 Currency [click]",
+   "width": 1440,
+   "path": "Currency",
+   "action": "click",
+   "id": "panel-visual",
+   "severity": "error",
+   "detail": "open-state crop differs by 93.7% (bar 2%; source 1330×812, build 264×280; texture 54% thick)"
+  }
+ ]
+}

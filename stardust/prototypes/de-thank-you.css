@@ -1,0 +1,45 @@
+/* de-thank-you (page type `utility`, Utility pages): page-level styles on top of canon.css.
+   Values lifted from live /de/thank-you computed styles (measure.mjs) and source CSS
+   (clientlib-generic / clientlib-common .error-component, clientlib-head ≤767 min-heights). */
+
+/* glyph not yet in canon (codepoint from live: U+EAA5, rendered on a 48x1 rule) — canon back-port candidate */
+.icon-decoration::before { content: "\eaa5"; }
+
+/* ---------------- Confirmation block (image + message) ---------------- */
+/* live: AEM float grid contains the component margin, so it does not collapse with the spacer below */
+.row-gap80 { display: flow-root; }
+.ty { margin-bottom: 80px; }
+.ty__row { display: flex; align-items: center; }
+.ty__media { flex: 0 0 50%; min-width: 0; text-align: center; }
+.ty__media img { display: block; width: 100%; height: 100%; aspect-ratio: 1 / 1; object-fit: contain; }
+.ty__body { flex: 0 0 50%; min-width: 0; display: flex; flex-direction: column; justify-content: center; padding-left: 64px; }
+.ty__pre { display: flex; }
+.ty__divider { flex: 0 0 auto; display: block; width: 48px; height: 1px; margin: 8px 16px 0 0; background: var(--ifx-ink); opacity: .5; }
+.ty__eyebrow { margin: 0; font-size: 14px; font-weight: 600; line-height: 21px; letter-spacing: 3px; text-transform: uppercase; }
+.ty__title { margin: 0; padding: 16px 0; font-size: 44px; font-weight: 600; line-height: 56px; letter-spacing: -.44px; }
+.ty__text { color: var(--ifx-stone-text); font-size: 18px; line-height: 27px; }
+.ty__text p { margin: 0 0 16px; }
+.ty__actions { display: flex; gap: 16px; margin-top: 48px; }
+.ty__btn { padding: 12px 16px; border: 1px solid var(--ifx-teal); }
+.ty__btn:hover { background: var(--ifx-teal-deep); }
+
+/* empty authored container on live: marginTop80 + marginBottom80 (32/32 ≤991px), uncollapsed */
+.ty-spacer > div { height: 160px; }
+
+@media (max-width: 991px) {
+  .ty { margin-bottom: 32px; }
+  .ty__title { font-size: 32px; line-height: 44px; letter-spacing: -.32px; }
+  .ty__body { padding-left: 32px; }
+  .ty-spacer > div { height: 64px; }
+}
+@media (max-width: 767px) {
+  .ty { min-height: 850px; }
+  .ty__row { flex-wrap: wrap; }
+  .ty__media, .ty__body { flex-basis: 100%; }
+  .ty__media { min-height: 320px; }
+  .ty__media img { object-position: 34% 15%; }
+  .ty__body { padding: 24px 0 0; }
+  .ty__divider { width: 16px; margin: 8px 8px 0 0; }
+  .ty__actions { flex-direction: column; gap: 8px; margin-top: 24px; }
+  .ty__btn { width: 100%; }
+}

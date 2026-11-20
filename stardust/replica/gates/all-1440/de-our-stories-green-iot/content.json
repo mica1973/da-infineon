@@ -1,0 +1,6203 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:13:40.976Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/our-stories/green-iot",
+  "at": "2026-11-18T23:13:17.912Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8015,
+  "root": "div.ifxcontainer.responsivegrid",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 60,
+    "y": 16,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems0",
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems1",
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems2",
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems3",
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#navItemList > li.nav-item > a#navItems4",
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.bg-background > div.flex.grow > input.text-neutral-dark.placeholder-neutral-dark",
+    "x": 714,
+    "y": 16,
+    "w": 197,
+    "h": 36,
+    "label": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die suche zu aktivieren.",
+    "value": "geben sie eine abfrage mit mindestens 2 zeichen ein, um die ",
+    "via": "combobox"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "text": "navbardropdown"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.stickRightNavItems > li.nav-item.dropdown > button#navbarDropdown",
+    "x": 1008,
+    "y": 26,
+    "w": 32,
+    "h": 16,
+    "label": "navbardropdown",
+    "value": "navbardropdown",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-currency-icon > div.currency-icon-wrapper > button.currency-button.d-none",
+    "x": 1040,
+    "y": 18,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-1",
+    "x": 1072,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.nav-item.desktopProfile > div.login-dropdown > button.login-button",
+    "x": 1132,
+    "y": 14,
+    "w": 248,
+    "h": 40,
+    "text": "anmeldung zu myinfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.articleBreadcrumb-links > div.breadcrumb-item > a.breadcrumb-titles",
+    "x": 254,
+    "y": 86,
+    "w": 407,
+    "h": 20,
+    "text": "wir bringen das iot zum laufen - für eine bessere und grünere zukunft",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 1322,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.aricle-hero > picture > img.article-bg",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "we make iot work",
+    "file": "roof-top-urban-green-building-1.jpg:asse"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > h1.article-head",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 112,
+    "level": 1,
+    "text": "wir bringen das iot zum laufen - für eine bessere und grünere zukunft"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container-article-box.ifx-fixed > div.article-box > p.para-info",
+    "x": 242,
+    "y": 611,
+    "w": 956,
+    "h": 48,
+    "text": "Als Marktführer für IoT-Systeme treiben wir den grünen und digitalen Wandel hin "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div.d-flex.align-items-center > b.category-text",
+    "x": 266,
+    "y": 675,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-extras > div > h4.article-date.date-styling",
+    "x": 342,
+    "y": 675,
+    "w": 72,
+    "h": 20,
+    "level": 4,
+    "text": "juli 12, 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 809,
+    "w": 394,
+    "h": 22,
+    "text": "das iot - beitrag zur dekarbonisierung oder energiefresser?",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 843,
+    "w": 417,
+    "h": 22,
+    "text": "digitalisierung und energiewende können hand in hand gehen",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 877,
+    "w": 432,
+    "h": 22,
+    "text": "grüne intelligente fabriken und industrielle prozesse der zukunft",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 911,
+    "w": 356,
+    "h": 22,
+    "text": "die grüne kraft der intelligenten häuser und gebäude",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 252,
+    "y": 945,
+    "w": 242,
+    "h": 22,
+    "text": "wir sind bereit für die iot revolution",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > p",
+    "x": 224,
+    "y": 775,
+    "w": 177,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-51b98ffd91 > h2#anch1",
+    "x": 200,
+    "y": 1057,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "das iot - beitrag zur dekarbonisierung oder energiefresser?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-8b202e26c5 > p",
+    "x": 200,
+    "y": 1109,
+    "w": 1040,
+    "h": 104,
+    "text": "Die Welt steht vor großen Herausforderungen. An vorderster Front steht dabei die"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-8b202e26c5 > p",
+    "x": 200,
+    "y": 1229,
+    "w": 1040,
+    "h": 130,
+    "text": "Die digitale Transformation und - damit verbunden - das Internet der Dinge (IoT)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-8b202e26c5 > p",
+    "x": 200,
+    "y": 1375,
+    "w": 1040,
+    "h": 78,
+    "text": "Und da die Digitalisierung in immer mehr Bereiche unseres Lebens vordringt, verg"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-6f01592186 > h2#anch2",
+    "x": 224,
+    "y": 1525,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "digitalisierung und energiewende können hand in hand gehen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-cbd0ff29f6 > p",
+    "x": 224,
+    "y": 1577,
+    "w": 992,
+    "h": 78,
+    "text": "Die gute Nachricht ist jedoch, dass intelligente IoT-Technologien bereits heute "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-ac699325f6 > h2#anch3",
+    "x": 200,
+    "y": 1775,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "grüne intelligente fabriken und industrielle prozesse der zukunft"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 1835,
+    "w": 1040,
+    "h": 585,
+    "text": "green urban building",
+    "file": "green-urban-building-1.png:asset-2000-16"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-a0a22df889 > p",
+    "x": 200,
+    "y": 2436,
+    "w": 1040,
+    "h": 78,
+    "text": "Laut dem Global Energy Review 2025 der IEA entfielen fast 40 % des gesamten Wach"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-a0a22df889 > p",
+    "x": 200,
+    "y": 2530,
+    "w": 1040,
+    "h": 104,
+    "text": "Innovative intelligente IoT-Anwendungen können nicht nur die Effizienz steigern,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-a0a22df889 > p > sup",
+    "x": 200,
+    "y": 2647,
+    "w": 658,
+    "h": 19,
+    "text": "1 Quelle: IEA (2025), Global Energy Review 2025;"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > sup > a",
+    "x": 471,
+    "y": 2647,
+    "w": 387,
+    "h": 19,
+    "text": "https://www.iea.org/reports/global-energy-review-2025/electricity",
+    "href": "/reports/global-energy-review-2025/electricity"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 2725,
+    "w": 229,
+    "h": 24,
+    "text": "man with tablet in smart factory",
+    "file": "man-with-tablet-in-smart-factory.jpg:ass"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-e3e3517ba1 > h5.dynamicAnchors.heading-05",
+    "x": 200,
+    "y": 2765,
+    "w": 504,
+    "h": 56,
+    "level": 5,
+    "text": "ressourceneffiziente produktion, die daten effektiv und in echtzeit nutzt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-29e0ecf39d > p",
+    "x": 200,
+    "y": 2829,
+    "w": 504,
+    "h": 182,
+    "text": "Digitalisierung und Datentechnologien sorgen heute für einen Ausgleich zwischen "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 3027,
+    "w": 286,
+    "h": 24,
+    "text": "lösungen für die intelligente industrie",
+    "href": "/applications/industrial"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 736,
+    "y": 2724,
+    "w": 504,
+    "h": 284,
+    "text": "highway through landscape from bird's eye view",
+    "file": "environmentally-conscious.jpg:asset-2000"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-8331ebad6f > h5.dynamicAnchors.heading-05",
+    "x": 736,
+    "y": 3024,
+    "w": 504,
+    "h": 56,
+    "level": 5,
+    "text": "umweltbewusstes flottenmanagement für optimierte routen und ressourceneinsparung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-54a6a55726 > p",
+    "x": 736,
+    "y": 3088,
+    "w": 504,
+    "h": 156,
+    "text": "Transport- und Logistikunternehmen stehen unter dem Druck, bei ihren flottenbezo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 3260,
+    "w": 90,
+    "h": 24,
+    "text": "sensoren",
+    "href": "/products/sensor"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 3332,
+    "w": 504,
+    "h": 284,
+    "text": "predictive maintanance",
+    "file": "declining-manpower.jpg:asset-2000-16x9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-ef141f479a > h5.dynamicAnchors.heading-05",
+    "x": 200,
+    "y": 3631,
+    "w": 504,
+    "h": 56,
+    "level": 5,
+    "text": "vorausschauende wartungstechniken unterstützen eine ressourceneffiziente produktion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-e1abc4bc9f > p",
+    "x": 200,
+    "y": 3695,
+    "w": 504,
+    "h": 182,
+    "text": "Die in intelligenten Fabriken gesammelten Daten ermöglichen eine vorausschauende"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 3893,
+    "w": 208,
+    "h": 24,
+    "text": "vorausschauende wartung",
+    "href": "/applications/industrial/condition-monitoring-and-predictive-analytics"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 736,
+    "y": 3332,
+    "w": 504,
+    "h": 284,
+    "text": "highway through landscape from bird's eye view",
+    "file": "industrial-automation-factory.png:asset-"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-9076cd1fc2 > h5.dynamicAnchors.heading-05",
+    "x": 736,
+    "y": 3631,
+    "w": 504,
+    "h": 28,
+    "level": 5,
+    "text": "smarte halbleiter für energieeffiziente industrieautomation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-c395a2aa5c > p",
+    "x": 736,
+    "y": 3667,
+    "w": 504,
+    "h": 182,
+    "text": "Industrieautomation ist der wesentliche Treiber für Effizienz in der globalen Pr"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 3865,
+    "w": 201,
+    "h": 24,
+    "text": "industrieautomatisierung",
+    "href": "/applications/industrial/industrial-automation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-064b409d5d > h2#anch5",
+    "x": 200,
+    "y": 3965,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "die grüne kraft der intelligenten häuser und gebäude"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 4025,
+    "w": 1040,
+    "h": 585,
+    "text": "green power for smart homes",
+    "file": "man-with-smart-devices-in-nature.png:ass"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-6bb4fe669b > p",
+    "x": 200,
+    "y": 4626,
+    "w": 1040,
+    "h": 104,
+    "text": "Der Übergang zu einer grüneren Zukunft fordert auch Haushalte und Gebäudebetreib"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-6bb4fe669b > p",
+    "x": 200,
+    "y": 4746,
+    "w": 1040,
+    "h": 130,
+    "text": "Gebäudemanagementlösungen können zum Beispiel genutzte Bereiche identifizieren u"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-6bb4fe669b > p > sup",
+    "x": 200,
+    "y": 4889,
+    "w": 662,
+    "h": 19,
+    "text": "2) Quelle: IEA (2025), Global Energy Review 2025;"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > sup > a",
+    "x": 475,
+    "y": 4889,
+    "w": 387,
+    "h": 19,
+    "text": "https://www.iea.org/reports/global-energy-review-2025/electricity",
+    "href": "/reports/global-energy-review-2025/electricity"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 4966,
+    "w": 504,
+    "h": 284,
+    "text": "man using samrt home panel",
+    "file": "man-using-smart-home-panel.png:asset-200"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-5d255575ec > h5.dynamicAnchors.heading-05",
+    "x": 200,
+    "y": 5266,
+    "w": 504,
+    "h": 56,
+    "level": 5,
+    "text": "intelligenter thermostat mit digitaler schnittstelle hilft beim energiesparen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-d5bc8ad75d > p",
+    "x": 200,
+    "y": 5330,
+    "w": 504,
+    "h": 182,
+    "text": "Ein intelligenter Thermostat kann ein mächtiges Werkzeug sein, um Energie und Ge"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 5528,
+    "w": 150,
+    "h": 24,
+    "text": "smart thermostat",
+    "href": "/applications/smart-home-building/home-building-automation/smart-thermostat"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 736,
+    "y": 4966,
+    "w": 504,
+    "h": 284,
+    "text": "havc systmes",
+    "file": "modern-hvac-systems.jpg:asset-2000-16x9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-749353125a > h5.dynamicAnchors.heading-05",
+    "x": 736,
+    "y": 5266,
+    "w": 504,
+    "h": 56,
+    "level": 5,
+    "text": "moderne hlk-systeme für intelligente und effiziente kühlung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-f77b807777 > p",
+    "x": 736,
+    "y": 5330,
+    "w": 504,
+    "h": 156,
+    "text": "Intelligente Klimaanlagen bieten mehr als nur leise zu sein. Sie sind in der Lag"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 5502,
+    "w": 245,
+    "h": 24,
+    "text": "klimaanlagen für wohngebäude",
+    "href": "/applications/smart-home-building/heating-ventilation-and-air-conditioning-hvac/residential-aircons"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 200,
+    "y": 5600,
+    "w": 504,
+    "h": 284,
+    "text": "presence detections",
+    "file": "presence-detection.jpg:asset-2000-16x9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-abba4ff682 > h5.dynamicAnchors.heading-05",
+    "x": 200,
+    "y": 5899,
+    "w": 504,
+    "h": 56,
+    "level": 5,
+    "text": "anwesenheitserkennung für mehr energieeffizienz in wohnungen und gebäuden"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5d511d1bbe > p",
+    "x": 200,
+    "y": 5963,
+    "w": 504,
+    "h": 182,
+    "text": "Kaum ein Bereich bietet so viel Potenzial für Energieeinsparungen wie die Beleuc"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 200,
+    "y": 6161,
+    "w": 195,
+    "h": 24,
+    "text": "anwesenheitserkennung",
+    "href": "/applications/solutions/sensor-solutions/presence-sensing"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 736,
+    "y": 5600,
+    "w": 504,
+    "h": 284,
+    "text": "havc systmes",
+    "file": "man-cutting-carrot-in-smart-kitchen.jpg:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-720e5e35e5 > h5.dynamicAnchors.heading-05",
+    "x": 736,
+    "y": 5899,
+    "w": 504,
+    "h": 56,
+    "level": 5,
+    "text": "intelligente lösungen für leisere und energieeffizientere geräte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-1b50ab6a50 > p",
+    "x": 736,
+    "y": 5963,
+    "w": 504,
+    "h": 156,
+    "text": "Moderne Haushaltsgeräte sind vernetzt, intelligent und effizient und machen dem "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.selected-icon.col-lg-12 > div.subitem-link > a.atag.ocean-text",
+    "x": 736,
+    "y": 6135,
+    "w": 190,
+    "h": 24,
+    "text": "smart home appliances",
+    "href": "/applications/home-appliances"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-e260db08ef > h2#iot",
+    "x": 200,
+    "y": 6313,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "wir sind bereit für die iot revolution"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-de27a40bb7 > p",
+    "x": 200,
+    "y": 6365,
+    "w": 1040,
+    "h": 130,
+    "text": "Lasst uns gemeinsam die IoT-Revolution in Angriff nehmen, um den Weg für eine gr"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.swiper-container.swiper-container-teaserrowcards_copy_ifxcontainer_3779261_ > div.header-style > h2.mainheading.dynamicAnchors",
+    "x": 96,
+    "y": 6591,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 100,
+    "y": 6687,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "industrial-automation-factory.png:asset-"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 124,
+    "y": 6903,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 124,
+    "y": 6971,
+    "w": 323,
+    "h": 56,
+    "text": "Wir treiben die smarte Fabrik voran"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 124,
+    "y": 7049,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > picture.img-container > img.activeimg",
+    "x": 507,
+    "y": 6687,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "iot-smart-home-redesign.jpg:asset-680-2x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.card-title",
+    "x": 531,
+    "y": 6903,
+    "w": 323,
+    "h": 52,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+    "x": 531,
+    "y": 6971,
+    "w": 323,
+    "h": 56,
+    "text": "Intelligente Haus- und Gebäudelösungen für eine bessere Zukunft"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.card-body > div.row-link > a.atag.d-flex",
+    "x": 531,
+    "y": 7049,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/smart-home-building-technologies"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.headblock > h2.headline",
+    "x": 203,
+    "y": 7249,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.container-flexed.ifx-fixed > div.subblock > p.description",
+    "x": 732,
+    "y": 7249,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.subblock > div.aligning > a.button-text.standard",
+    "x": 732,
+    "y": 7333,
+    "w": 136,
+    "h": 48,
+    "text": "abonnieren",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 96,
+    "y": 7541,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 367,
+    "y": 7541,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 7597,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 7639,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 7681,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 7723,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 367,
+    "y": 7765,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 619,
+    "y": 7541,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 7597,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 7639,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 7681,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 7723,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 7765,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 619,
+    "y": 7807,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 926,
+    "y": 7541,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 7597,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 7639,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 926,
+    "y": 7681,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 1193,
+    "y": 7541,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 7597,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 7639,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 7681,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 1193,
+    "y": 7723,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 96,
+    "y": 7945,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 272,
+    "y": 7945,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 380,
+    "y": 7945,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 647,
+    "y": 7950,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 1168,
+    "y": 7949,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 1208,
+    "y": 7949,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 1248,
+    "y": 7949,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 1288,
+    "y": 7946,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 1288,
+    "y": 7950,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 1328,
+    "y": 7949,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 106,
+    "controls": 58,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p.preheadline",
+     "path": "div.card > div.image-container-swiper.row-link-container > div.card-body > p.preheadline",
+     "text": "intelligente haus- und gebäudelösungen für eine bessere zuku",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/our-stories/green-iot",
+  "at": "2026-11-18T23:13:40.839Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7937,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 60,
+    "y": 15,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 166,
+    "y": 21,
+    "w": 61,
+    "h": 24,
+    "text": "produkte",
+    "href": "/products"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 243,
+    "y": 21,
+    "w": 94,
+    "h": 24,
+    "text": "applikationen",
+    "href": "/applications"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 353,
+    "y": 21,
+    "w": 118,
+    "h": 24,
+    "text": "designressourcen",
+    "href": "/design-resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 487,
+    "y": 21,
+    "w": 125,
+    "h": 24,
+    "text": "support & training",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.nav-item > a.nav-item-link",
+    "x": 629,
+    "y": 21,
+    "w": 60,
+    "h": 24,
+    "text": "über uns",
+    "href": "/de/about"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "sprache"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-language > button.site-header-tool",
+    "x": 1016,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "sprache",
+    "value": "sprache",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "text": "currency"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-locale > div.site-header-dropdown.dropdown-currency > button.site-header-tool",
+    "x": 1048,
+    "y": 17,
+    "w": 32,
+    "h": 32,
+    "label": "currency",
+    "value": "currency",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-tools > button.site-header-tool.site-header-tool-cart",
+    "x": 1080,
+    "y": 13,
+    "w": 40,
+    "h": 40,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-login > p > a",
+    "x": 1132,
+    "y": 13,
+    "w": 207,
+    "h": 40,
+    "text": "anmeldung zu myinfineon",
+    "href": "/de/login.login.de.json"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-tools > div.site-header-login > button.site-header-login-toggle",
+    "x": 1339,
+    "y": 13,
+    "w": 41,
+    "h": 40,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 21,
+    "text": "our stories",
+    "href": "/de/about/our-stories"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 254,
+    "y": 85,
+    "w": 407,
+    "h": 20,
+    "text": "wir bringen das iot zum laufen - für eine bessere und grünere zukunft",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-bar > div.article-hero-share > button.article-hero-share-btn",
+    "x": 1322,
+    "y": 83,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 123,
+    "w": 1400,
+    "h": 400,
+    "text": "we make iot work",
+    "file": "media_1f51ec5fcae2e44e8ebaee09fc361cf8b6"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > h1#wir-bringen-das-iot-zum-laufen---für-eine-bessere-und-grünere-zukunft",
+    "x": 242,
+    "y": 483,
+    "w": 956,
+    "h": 112,
+    "level": 1,
+    "text": "wir bringen das iot zum laufen - für eine bessere und grünere zukunft"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-box > div.article-hero-head > p",
+    "x": 242,
+    "y": 611,
+    "w": 956,
+    "h": 48,
+    "text": "Als Marktführer für IoT-Systeme treiben wir den grünen und digitalen Wandel hin "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-type > p > strong",
+    "x": 266,
+    "y": 675,
+    "w": 40,
+    "h": 20,
+    "text": "Artikel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero-meta > div.article-hero-date > h4#juli-12-2025",
+    "x": 342,
+    "y": 675,
+    "w": 72,
+    "h": 20,
+    "level": 4,
+    "text": "juli 12, 2025"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-toc.block > div.article-toc-label > p",
+    "x": 224,
+    "y": 775,
+    "w": 992,
+    "h": 24,
+    "text": "Auf dieser Seite zu finden:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 809,
+    "w": 394,
+    "h": 22,
+    "text": "das iot - beitrag zur dekarbonisierung oder energiefresser?",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 843,
+    "w": 417,
+    "h": 22,
+    "text": "digitalisierung und energiewende können hand in hand gehen",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 877,
+    "w": 432,
+    "h": 22,
+    "text": "grüne intelligente fabriken und industrielle prozesse der zukunft",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 911,
+    "w": 356,
+    "h": 22,
+    "text": "die grüne kraft der intelligenten häuser und gebäude",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 252,
+    "y": 945,
+    "w": 242,
+    "h": 22,
+    "text": "wir sind bereit für die iot revolution",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > h2#das-iot---beitrag-zur-dekarbonisierung-oder-energiefresser",
+    "x": 200,
+    "y": 1057,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "das iot - beitrag zur dekarbonisierung oder energiefresser?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1109,
+    "w": 1040,
+    "h": 104,
+    "text": "Die Welt steht vor großen Herausforderungen. An vorderster Front steht dabei die"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1229,
+    "w": 1040,
+    "h": 130,
+    "text": "Die digitale Transformation und - damit verbunden - das Internet der Dinge (IoT)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 1375,
+    "w": 1040,
+    "h": 78,
+    "text": "Und da die Digitalisierung in immer mehr Bereiche unseres Lebens vordringt, verg"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-box-head > h2#digitalisierung-und-energiewende-können-hand-in-hand-gehen",
+    "x": 224,
+    "y": 1541,
+    "w": 992,
+    "h": 36,
+    "level": 2,
+    "text": "digitalisierung und energiewende können hand in hand gehen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-box-in > div.story-hub-rt > p",
+    "x": 224,
+    "y": 1593,
+    "w": 992,
+    "h": 78,
+    "text": "Die gute Nachricht ist jedoch, dass intelligente IoT-Technologien bereits heute "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > h2#grüne-intelligente-fabriken-und-industrielle-prozesse-der-zukunft",
+    "x": 200,
+    "y": 1775,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "grüne intelligente fabriken und industrielle prozesse der zukunft"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-16 > picture > img",
+    "x": 200,
+    "y": 1835,
+    "w": 1040,
+    "h": 585,
+    "text": "green urban building",
+    "file": "media_1be9f3d98cee094016da348670249a4ec9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2436,
+    "w": 1040,
+    "h": 78,
+    "text": "Laut dem Global Energy Review 2025 der IEA entfielen fast 40 % des gesamten Wach"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 2530,
+    "w": 1040,
+    "h": 104,
+    "text": "Innovative intelligente IoT-Anwendungen können nicht nur die Effizienz steigern,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > sup",
+    "x": 200,
+    "y": 2647,
+    "w": 658,
+    "h": 19,
+    "text": "1 Quelle: IEA (2025), Global Energy Review 2025;"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a",
+    "x": 471,
+    "y": 2647,
+    "w": 387,
+    "h": 19,
+    "text": "https://www.iea.org/reports/global-energy-review-2025/electricity",
+    "href": "/reports/global-energy-review-2025/electricity"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#ressourceneffiziente-produktion-die-daten-effektiv-und-in-echtzeit-nutzt",
+    "x": 200,
+    "y": 2724,
+    "w": 504,
+    "h": 56,
+    "level": 5,
+    "text": "ressourceneffiziente produktion, die daten effektiv und in echtzeit nutzt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 2788,
+    "w": 504,
+    "h": 182,
+    "text": "Digitalisierung und Datentechnologien sorgen heute für einen Ausgleich zwischen "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 200,
+    "y": 2986,
+    "w": 285,
+    "h": 24,
+    "text": "lösungen für die intelligente industrie",
+    "href": "/applications/industrial"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 736,
+    "y": 2724,
+    "w": 504,
+    "h": 284,
+    "text": "highway through landscape from bird's eye view",
+    "file": "media_1c8d8dfc8b05282121d66b74d661f60d59"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#umweltbewusstes-flottenmanagement-für-optimierte-routen-und-ressourceneinsparung",
+    "x": 736,
+    "y": 3024,
+    "w": 504,
+    "h": 56,
+    "level": 5,
+    "text": "umweltbewusstes flottenmanagement für optimierte routen und ressourceneinsparung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 736,
+    "y": 3088,
+    "w": 504,
+    "h": 156,
+    "text": "Transport- und Logistikunternehmen stehen unter dem Druck, bei ihren flottenbezo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 3260,
+    "w": 88,
+    "h": 24,
+    "text": "sensoren",
+    "href": "/products/sensor"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 3332,
+    "w": 504,
+    "h": 284,
+    "text": "predictive maintanance",
+    "file": "media_17bd9c561d7e6fc79af3ca7a5689b6b7c7"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#vorausschauende-wartungstechniken-unterstützen-eine-ressourceneffiziente-produktion",
+    "x": 200,
+    "y": 3631,
+    "w": 504,
+    "h": 56,
+    "level": 5,
+    "text": "vorausschauende wartungstechniken unterstützen eine ressourceneffiziente produktion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 3695,
+    "w": 504,
+    "h": 182,
+    "text": "Die in intelligenten Fabriken gesammelten Daten ermöglichen eine vorausschauende"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 200,
+    "y": 3893,
+    "w": 207,
+    "h": 24,
+    "text": "vorausschauende wartung",
+    "href": "/applications/industrial/condition-monitoring-and-predictive-analytics"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 736,
+    "y": 3332,
+    "w": 504,
+    "h": 284,
+    "text": "highway through landscape from bird's eye view",
+    "file": "media_183fae7f347889b3309d161ecaf6c10a72"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#smarte-halbleiter-für-energieeffiziente-industrieautomation",
+    "x": 736,
+    "y": 3631,
+    "w": 504,
+    "h": 28,
+    "level": 5,
+    "text": "smarte halbleiter für energieeffiziente industrieautomation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 736,
+    "y": 3667,
+    "w": 504,
+    "h": 182,
+    "text": "Industrieautomation ist der wesentliche Treiber für Effizienz in der globalen Pr"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 3865,
+    "w": 200,
+    "h": 24,
+    "text": "industrieautomatisierung",
+    "href": "/applications/industrial/industrial-automation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > h2#die-grüne-kraft-der-intelligenten-häuser-und-gebäude",
+    "x": 200,
+    "y": 3965,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "die grüne kraft der intelligenten häuser und gebäude"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.im-16 > picture > img",
+    "x": 200,
+    "y": 4025,
+    "w": 1040,
+    "h": 585,
+    "text": "green power for smart homes",
+    "file": "media_123aafa228b17d47924ae98d8c04756ed9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 4626,
+    "w": 1040,
+    "h": 104,
+    "text": "Der Übergang zu einer grüneren Zukunft fordert auch Haushalte und Gebäudebetreib"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 4746,
+    "w": 1040,
+    "h": 130,
+    "text": "Gebäudemanagementlösungen können zum Beispiel genutzte Bereiche identifizieren u"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > sup",
+    "x": 200,
+    "y": 4889,
+    "w": 662,
+    "h": 19,
+    "text": "2) Quelle: IEA (2025), Global Energy Review 2025;"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a",
+    "x": 475,
+    "y": 4889,
+    "w": 387,
+    "h": 19,
+    "text": "https://www.iea.org/reports/global-energy-review-2025/electricity",
+    "href": "/reports/global-energy-review-2025/electricity"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 4966,
+    "w": 504,
+    "h": 284,
+    "text": "man using samrt home panel",
+    "file": "media_1d53ae6c7e067c4b5fb4382cd9c39ec7eb"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#intelligenter-thermostat-mit-digitaler-schnittstelle-hilft-beim-energiesparen",
+    "x": 200,
+    "y": 5266,
+    "w": 504,
+    "h": 56,
+    "level": 5,
+    "text": "intelligenter thermostat mit digitaler schnittstelle hilft beim energiesparen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 5330,
+    "w": 504,
+    "h": 182,
+    "text": "Ein intelligenter Thermostat kann ein mächtiges Werkzeug sein, um Energie und Ge"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 200,
+    "y": 5528,
+    "w": 149,
+    "h": 24,
+    "text": "smart thermostat",
+    "href": "/applications/smart-home-building/home-building-automation/smart-thermostat"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 736,
+    "y": 4966,
+    "w": 504,
+    "h": 284,
+    "text": "havc systmes",
+    "file": "media_1f604ff925bf381667282b30dc61adb284"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#moderne-hlk-systeme-für-intelligente-und-effiziente-kühlung",
+    "x": 736,
+    "y": 5266,
+    "w": 504,
+    "h": 56,
+    "level": 5,
+    "text": "moderne hlk-systeme für intelligente und effiziente kühlung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 736,
+    "y": 5330,
+    "w": 504,
+    "h": 156,
+    "text": "Intelligente Klimaanlagen bieten mehr als nur leise zu sein. Sie sind in der Lag"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 5502,
+    "w": 244,
+    "h": 24,
+    "text": "klimaanlagen für wohngebäude",
+    "href": "/applications/smart-home-building/heating-ventilation-and-air-conditioning-hvac/residential-aircons"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 200,
+    "y": 5600,
+    "w": 504,
+    "h": 284,
+    "text": "presence detections",
+    "file": "media_117c9e36f0c14441ae55b3ac718a9b1886"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#anwesenheitserkennung-für-mehr-energieeffizienz-in-wohnungen-und-gebäuden",
+    "x": 200,
+    "y": 5899,
+    "w": 504,
+    "h": 56,
+    "level": 5,
+    "text": "anwesenheitserkennung für mehr energieeffizienz in wohnungen und gebäuden"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 200,
+    "y": 5963,
+    "w": 504,
+    "h": 182,
+    "text": "Kaum ein Bereich bietet so viel Potenzial für Energieeinsparungen wie die Beleuc"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 200,
+    "y": 6161,
+    "w": 194,
+    "h": 24,
+    "text": "anwesenheitserkennung",
+    "href": "/applications/solutions/sensor-solutions/presence-sensing"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 736,
+    "y": 5600,
+    "w": 504,
+    "h": 284,
+    "text": "havc systmes",
+    "file": "media_18d9c6bee85ffa37fecd2273b2c20c69e2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-col-title > h5#intelligente-lösungen-für-leisere-und-energieeffizientere-geräte",
+    "x": 736,
+    "y": 5899,
+    "w": 504,
+    "h": 56,
+    "level": 5,
+    "text": "intelligente lösungen für leisere und energieeffizientere geräte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-col > div.story-hub-rt.is-end > p",
+    "x": 736,
+    "y": 5963,
+    "w": 504,
+    "h": 156,
+    "text": "Moderne Haushaltsgeräte sind vernetzt, intelligent und effizient und machen dem "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-ilink > p > a",
+    "x": 736,
+    "y": 6135,
+    "w": 188,
+    "h": 24,
+    "text": "smart home appliances",
+    "href": "/applications/home-appliances"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > h2#wir-sind-bereit-für-die-iot-revolution",
+    "x": 200,
+    "y": 6233,
+    "w": 1040,
+    "h": 36,
+    "level": 2,
+    "text": "wir sind bereit für die iot revolution"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.end-0 > div.default-content-wrapper > p",
+    "x": 200,
+    "y": 6285,
+    "w": 1040,
+    "h": 130,
+    "text": "Lasst uns gemeinsam die IoT-Revolution in Angriff nehmen, um den Weg für eine gr"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub.rail > div.story-hub-rail-title > h2#weitere-geschichten",
+    "x": 96,
+    "y": 6511,
+    "w": 1324,
+    "h": 48,
+    "level": 2,
+    "text": "weitere geschichten"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 100,
+    "y": 6607,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_12770766d4a60db4d315207237f83cb864"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 124,
+    "y": 6823,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 124,
+    "y": 6891,
+    "w": 323,
+    "h": 28,
+    "text": "Wir treiben die smarte Fabrik voran"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 128,
+    "y": 6969,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/smart-factory-semiconductor-solutions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-img > picture > img",
+    "x": 507,
+    "y": 6607,
+    "w": 371,
+    "h": 200,
+    "text": "artikel",
+    "file": "media_1de93666b698aa53ade469c87afa2a89fe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-type > p",
+    "x": 531,
+    "y": 6823,
+    "w": 323,
+    "h": 28,
+    "text": "Artikel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-body > div.story-hub-card-title > p",
+    "x": 531,
+    "y": 6891,
+    "w": 323,
+    "h": 56,
+    "text": "Intelligente Haus- und Gebäudelösungen für eine bessere Zukunft"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-hub-card-link > p > a",
+    "x": 535,
+    "y": 6969,
+    "w": 134,
+    "h": 24,
+    "text": "mehr entdecken",
+    "href": "/de/our-stories/smart-home-building-technologies"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-inner > div.newsletter-offramp-head > h2#abonnieren-sie-die-marketingkommunikation",
+    "x": 203,
+    "y": 7169,
+    "w": 505,
+    "h": 96,
+    "level": 2,
+    "text": "abonnieren sie die marketingkommunikation!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-sub > div.newsletter-offramp-text > p",
+    "x": 732,
+    "y": 7169,
+    "w": 505,
+    "h": 60,
+    "text": "Sie erhalten interessante Informationen und Artikel. Sie können Ihre Einwilligun"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newsletter-offramp-actions > p.button-wrapper > a.button.primary",
+    "x": 732,
+    "y": 7253,
+    "w": 138,
+    "h": 50,
+    "text": "abonnieren",
+    "href": "/de/our-stories/green-iot"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 96,
+    "y": 7502,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 96,
+    "y": 7463,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 367,
+    "y": 7463,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 7519,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 7561,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 7603,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 7645,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 367,
+    "y": 7687,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 619,
+    "y": 7463,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7519,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7561,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7603,
+    "w": 159,
+    "h": 26,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7645,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7687,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 619,
+    "y": 7729,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 926,
+    "y": 7463,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 7519,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 7561,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 926,
+    "y": 7603,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 1193,
+    "y": 7463,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 7519,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 7561,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 7603,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1193,
+    "y": 7645,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 7867,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 272,
+    "y": 7867,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 380,
+    "y": 7867,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 553,
+    "y": 7867,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 647,
+    "y": 7872,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 7871,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1208,
+    "y": 7871,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1248,
+    "y": 7871,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1288,
+    "y": 7868,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 1288,
+    "y": 7868,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1328,
+    "y": 7871,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 106,
+    "controls": 61,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.story-hub-card-title",
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "intelligente haus- und gebäudelösungen für eine bessere zuku",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 1,
+     "path": "div.story-hub-card > div.story-hub-card-body > div.story-hub-card-title > p",
+     "text": "intelligente haus- und gebäudelösungen für eine bessere zuku",
+     "clipper": "div.story-hub-card-title",
+     "rect": {
+      "l": 531,
+      "t": 6891,
+      "r": 717,
+      "b": 6919,
+      "w": 186,
+      "h": 28
+     },
+     "clip": {
+      "l": 531,
+      "t": 6891,
+      "r": 854,
+      "b": 6947,
+      "w": 323,
+      "h": 56
+     },
+     "lines": 3
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 1,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "wir bringen das iot zum laufen - für eine bessere und grünere zukunft",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 18,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 27,
+    "textHidden": 0,
+    "image": 11,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"das iot - beitrag zur dekarbonisierung oder energiefresser?\" (y 1057) has no origin heading",
+   "text": "das iot - beitrag zur dekarbonisierung oder energiefresser?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"digitalisierung und energiewende können hand in hand gehen\" (y 1541) has no origin heading",
+   "text": "digitalisierung und energiewende können hand in hand gehen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"grüne intelligente fabriken und industrielle prozesse der zukunft\" (y 1775) has no origin heading",
+   "text": "grüne intelligente fabriken und industrielle prozesse der zukunft"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"die grüne kraft der intelligenten häuser und gebäude\" (y 3965) has no origin heading",
+   "text": "die grüne kraft der intelligenten häuser und gebäude"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"wir sind bereit für die iot revolution\" (y 6233) has no origin heading",
+   "text": "wir sind bereit für die iot revolution"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"weitere geschichten\" (y 6511) has no origin heading",
+   "text": "weitere geschichten"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"abonnieren sie die marketingkommunikation!\" (y 7169) has no origin heading",
+   "text": "abonnieren sie die marketingkommunikation!"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"das iot - beitrag zur dekarbonisierung oder energiefresser?\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "das iot - beitrag zur dekarbonisierung oder energiefresser?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"digitalisierung und energiewende können hand in hand gehen\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "digitalisierung und energiewende können hand in hand gehen"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"grüne intelligente fabriken und industrielle prozesse der zukunft\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "grüne intelligente fabriken und industrielle prozesse der zukunft"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"die grüne kraft der intelligenten häuser und gebäude\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "die grüne kraft der intelligenten häuser und gebäude"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"wir sind bereit für die iot revolution\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "wir sind bereit für die iot revolution"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"https://www.iea.org/reports/global-energy-review-2025/electricity\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 2,
+   "text": "https://www.iea.org/reports/global-energy-review-2025/electricity"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"lösungen für die intelligente industrie\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "lösungen für die intelligente industrie"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"sensoren\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "sensoren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"vorausschauende wartung\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "vorausschauende wartung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"industrieautomatisierung\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "industrieautomatisierung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"smart thermostat\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "smart thermostat"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"klimaanlagen für wohngebäude\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "klimaanlagen für wohngebäude"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"anwesenheitserkennung\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "anwesenheitserkennung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"smart home appliances\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "smart home appliances"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"mehr entdecken\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 2,
+   "text": "mehr entdecken"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"abonnieren\" served in band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "abonnieren"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\": 2 origin → 27 served visible",
+   "band": 1,
+   "origin": 2,
+   "eds": 27,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"wir bringen das iot zum laufen - für eine bessere und grünere zukunft\": 0 origin → 11 served visible",
+   "band": 1,
+   "origin": 0,
+   "eds": 11,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 7,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 18,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 25,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 166,
+    "y": 23,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 23,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 23,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 23,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 23,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 23,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 86,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 86,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 86,
+    "w": 407,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 897,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 535,
+    "w": 381,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 612,
+    "w": 948,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 636,
+    "w": 376,
+    "h": 22
+   },
+   {
+    "x": 266,
+    "y": 675,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 675,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 252,
+    "y": 809,
+    "w": 394,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 843,
+    "w": 417,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 877,
+    "w": 432,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 911,
+    "w": 356,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 945,
+    "w": 242,
+    "h": 22
+   },
+   {
+    "x": 224,
+    "y": 776,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1055,
+    "w": 694,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1109,
+    "w": 955,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1135,
+    "w": 934,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1161,
+    "w": 1024,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1187,
+    "w": 197,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1229,
+    "w": 994,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1255,
+    "w": 1004,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1281,
+    "w": 926,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1307,
+    "w": 999,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1333,
+    "w": 177,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1375,
+    "w": 946,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1401,
+    "w": 580,
+    "h": 25
+   },
+   {
+    "x": 780,
+    "y": 1401,
+    "w": 443,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1427,
+    "w": 471,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 1523,
+    "w": 734,
+    "h": 40
+   },
+   {
+    "x": 224,
+    "y": 1577,
+    "w": 974,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 1603,
+    "w": 937,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 1629,
+    "w": 990,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1773,
+    "w": 762,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2436,
+    "w": 984,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2462,
+    "w": 1038,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2488,
+    "w": 734,
+    "h": 25
+   },
+   {
+    "x": 934,
+    "y": 2485,
+    "w": 7,
+    "h": 19
+   },
+   {
+    "x": 941,
+    "y": 2488,
+    "w": 4,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2530,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2556,
+    "w": 1038,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2582,
+    "w": 964,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2608,
+    "w": 99,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2647,
+    "w": 271,
+    "h": 19
+   },
+   {
+    "x": 471,
+    "y": 2647,
+    "w": 387,
+    "h": 19
+   },
+   {
+    "x": 200,
+    "y": 2765,
+    "w": 486,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 2793,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 2829,
+    "w": 461,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2855,
+    "w": 373,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2881,
+    "w": 422,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2907,
+    "w": 500,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2933,
+    "w": 448,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2959,
+    "w": 451,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2985,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3028,
+    "w": 264,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 3024,
+    "w": 451,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 3052,
+    "w": 293,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 3088,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3114,
+    "w": 465,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3140,
+    "w": 438,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3166,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3192,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3218,
+    "w": 446,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3261,
+    "w": 68,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 3631,
+    "w": 467,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 3659,
+    "w": 269,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 3695,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3721,
+    "w": 483,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3747,
+    "w": 454,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3773,
+    "w": 467,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3799,
+    "w": 479,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3825,
+    "w": 485,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3851,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3894,
+    "w": 186,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 3631,
+    "w": 500,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 3667,
+    "w": 494,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3693,
+    "w": 497,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3719,
+    "w": 504,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3745,
+    "w": 441,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3771,
+    "w": 499,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3797,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3823,
+    "w": 57,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3866,
+    "w": 179,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 3963,
+    "w": 627,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 4626,
+    "w": 1022,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4652,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4678,
+    "w": 1007,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4704,
+    "w": 682,
+    "h": 25
+   },
+   {
+    "x": 882,
+    "y": 4701,
+    "w": 7,
+    "h": 19
+   },
+   {
+    "x": 888,
+    "y": 4704,
+    "w": 4,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4746,
+    "w": 1001,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4772,
+    "w": 539,
+    "h": 25
+   },
+   {
+    "x": 739,
+    "y": 4772,
+    "w": 469,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4798,
+    "w": 1022,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4824,
+    "w": 957,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4850,
+    "w": 602,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4889,
+    "w": 275,
+    "h": 19
+   },
+   {
+    "x": 475,
+    "y": 4889,
+    "w": 387,
+    "h": 19
+   },
+   {
+    "x": 200,
+    "y": 5266,
+    "w": 459,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 5294,
+    "w": 168,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 5330,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5356,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5382,
+    "w": 456,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5408,
+    "w": 461,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5434,
+    "w": 404,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5460,
+    "w": 455,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5486,
+    "w": 402,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5529,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 5266,
+    "w": 436,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 5294,
+    "w": 71,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 5330,
+    "w": 501,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5356,
+    "w": 443,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5382,
+    "w": 464,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5408,
+    "w": 489,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5434,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5460,
+    "w": 335,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5503,
+    "w": 223,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 5899,
+    "w": 443,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 5927,
+    "w": 228,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 5963,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5989,
+    "w": 490,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6015,
+    "w": 492,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6041,
+    "w": 490,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6067,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6093,
+    "w": 412,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6119,
+    "w": 169,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6162,
+    "w": 173,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 5899,
+    "w": 468,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 5927,
+    "w": 55,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 5963,
+    "w": 476,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5989,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6015,
+    "w": 472,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6041,
+    "w": 488,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6067,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6093,
+    "w": 245,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6136,
+    "w": 168,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 6311,
+    "w": 426,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 6365,
+    "w": 1017,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6391,
+    "w": 985,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6417,
+    "w": 1030,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6443,
+    "w": 1035,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6469,
+    "w": 89,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 6589,
+    "w": 309,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 6903,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6971,
+    "w": 295,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 7050,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 6903,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6971,
+    "w": 186,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6999,
+    "w": 289,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 7050,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 7247,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 7295,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 7248,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 7278,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 772,
+    "y": 7346,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 7542,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 7597,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7639,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7681,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7723,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7765,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7542,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 7597,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7639,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7681,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7723,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7765,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7807,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 7542,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 7597,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 7639,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 7681,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7542,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 7597,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7639,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7681,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7723,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 7950,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 7950,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 7950,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 7950,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 7950,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 7950,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 7950,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 166,
+    "y": 22,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 243,
+    "y": 22,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 353,
+    "y": 22,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 487,
+    "y": 22,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 629,
+    "y": 22,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 1148,
+    "y": 22,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 85,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 85,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 254,
+    "y": 85,
+    "w": 407,
+    "h": 20
+   },
+   {
+    "x": 242,
+    "y": 479,
+    "w": 897,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 535,
+    "w": 381,
+    "h": 63
+   },
+   {
+    "x": 242,
+    "y": 612,
+    "w": 948,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 636,
+    "w": 376,
+    "h": 22
+   },
+   {
+    "x": 266,
+    "y": 675,
+    "w": 40,
+    "h": 20
+   },
+   {
+    "x": 342,
+    "y": 675,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 224,
+    "y": 776,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 809,
+    "w": 394,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 843,
+    "w": 417,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 877,
+    "w": 432,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 911,
+    "w": 356,
+    "h": 22
+   },
+   {
+    "x": 252,
+    "y": 945,
+    "w": 242,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 1055,
+    "w": 694,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 1109,
+    "w": 955,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1135,
+    "w": 934,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1161,
+    "w": 1024,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1187,
+    "w": 197,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1229,
+    "w": 994,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1255,
+    "w": 1004,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1281,
+    "w": 926,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1307,
+    "w": 999,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1333,
+    "w": 177,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1375,
+    "w": 946,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1401,
+    "w": 580,
+    "h": 25
+   },
+   {
+    "x": 780,
+    "y": 1401,
+    "w": 443,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1427,
+    "w": 471,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 1539,
+    "w": 734,
+    "h": 40
+   },
+   {
+    "x": 224,
+    "y": 1593,
+    "w": 974,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 1619,
+    "w": 937,
+    "h": 25
+   },
+   {
+    "x": 224,
+    "y": 1645,
+    "w": 990,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 1773,
+    "w": 762,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 2436,
+    "w": 984,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2462,
+    "w": 1038,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2488,
+    "w": 734,
+    "h": 25
+   },
+   {
+    "x": 934,
+    "y": 2485,
+    "w": 7,
+    "h": 19
+   },
+   {
+    "x": 941,
+    "y": 2488,
+    "w": 4,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2530,
+    "w": 1029,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2556,
+    "w": 1038,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2582,
+    "w": 964,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2608,
+    "w": 99,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2647,
+    "w": 271,
+    "h": 19
+   },
+   {
+    "x": 471,
+    "y": 2647,
+    "w": 387,
+    "h": 19
+   },
+   {
+    "x": 200,
+    "y": 2724,
+    "w": 486,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 2752,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 2788,
+    "w": 461,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2814,
+    "w": 373,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2840,
+    "w": 422,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2866,
+    "w": 500,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2892,
+    "w": 448,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2918,
+    "w": 451,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2944,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 2987,
+    "w": 261,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 3024,
+    "w": 451,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 3052,
+    "w": 293,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 3088,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3114,
+    "w": 465,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3140,
+    "w": 438,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3166,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3192,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3218,
+    "w": 446,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3261,
+    "w": 64,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 3631,
+    "w": 467,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 3659,
+    "w": 269,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 3695,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3721,
+    "w": 483,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3747,
+    "w": 454,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3773,
+    "w": 467,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3799,
+    "w": 479,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3825,
+    "w": 485,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3851,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 3894,
+    "w": 183,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 3631,
+    "w": 500,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 3667,
+    "w": 494,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3693,
+    "w": 497,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3719,
+    "w": 504,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3745,
+    "w": 441,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3771,
+    "w": 499,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3797,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3823,
+    "w": 57,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 3866,
+    "w": 176,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 3963,
+    "w": 627,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 4626,
+    "w": 1022,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4652,
+    "w": 1034,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4678,
+    "w": 1007,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4704,
+    "w": 682,
+    "h": 25
+   },
+   {
+    "x": 882,
+    "y": 4701,
+    "w": 7,
+    "h": 19
+   },
+   {
+    "x": 888,
+    "y": 4704,
+    "w": 4,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4746,
+    "w": 1001,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4772,
+    "w": 539,
+    "h": 25
+   },
+   {
+    "x": 739,
+    "y": 4772,
+    "w": 469,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4798,
+    "w": 1022,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4824,
+    "w": 957,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4850,
+    "w": 602,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 4889,
+    "w": 275,
+    "h": 19
+   },
+   {
+    "x": 475,
+    "y": 4889,
+    "w": 387,
+    "h": 19
+   },
+   {
+    "x": 200,
+    "y": 5266,
+    "w": 459,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 5294,
+    "w": 168,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 5330,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5356,
+    "w": 480,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5382,
+    "w": 456,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5408,
+    "w": 461,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5434,
+    "w": 404,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5460,
+    "w": 455,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5486,
+    "w": 402,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5529,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 5266,
+    "w": 436,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 5294,
+    "w": 71,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 5330,
+    "w": 501,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5356,
+    "w": 443,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5382,
+    "w": 464,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5408,
+    "w": 489,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5434,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5460,
+    "w": 335,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5503,
+    "w": 220,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 5899,
+    "w": 443,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 5927,
+    "w": 228,
+    "h": 28
+   },
+   {
+    "x": 200,
+    "y": 5963,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 5989,
+    "w": 490,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6015,
+    "w": 492,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6041,
+    "w": 490,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6067,
+    "w": 498,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6093,
+    "w": 412,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6119,
+    "w": 169,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6162,
+    "w": 170,
+    "h": 22
+   },
+   {
+    "x": 736,
+    "y": 5899,
+    "w": 468,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 5927,
+    "w": 55,
+    "h": 28
+   },
+   {
+    "x": 736,
+    "y": 5963,
+    "w": 476,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 5989,
+    "w": 503,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6015,
+    "w": 472,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6041,
+    "w": 488,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6067,
+    "w": 491,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6093,
+    "w": 245,
+    "h": 25
+   },
+   {
+    "x": 736,
+    "y": 6136,
+    "w": 164,
+    "h": 22
+   },
+   {
+    "x": 200,
+    "y": 6231,
+    "w": 426,
+    "h": 40
+   },
+   {
+    "x": 200,
+    "y": 6285,
+    "w": 1017,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6311,
+    "w": 985,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6337,
+    "w": 1030,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6363,
+    "w": 1035,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 6389,
+    "w": 89,
+    "h": 25
+   },
+   {
+    "x": 96,
+    "y": 6509,
+    "w": 309,
+    "h": 51
+   },
+   {
+    "x": 124,
+    "y": 6823,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 124,
+    "y": 6891,
+    "w": 295,
+    "h": 28
+   },
+   {
+    "x": 128,
+    "y": 6970,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 531,
+    "y": 6823,
+    "w": 64,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6891,
+    "w": 186,
+    "h": 28
+   },
+   {
+    "x": 531,
+    "y": 6919,
+    "w": 289,
+    "h": 28
+   },
+   {
+    "x": 535,
+    "y": 6970,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 7167,
+    "w": 283,
+    "h": 51
+   },
+   {
+    "x": 203,
+    "y": 7215,
+    "w": 406,
+    "h": 51
+   },
+   {
+    "x": 732,
+    "y": 7168,
+    "w": 474,
+    "h": 32
+   },
+   {
+    "x": 732,
+    "y": 7198,
+    "w": 455,
+    "h": 32
+   },
+   {
+    "x": 773,
+    "y": 7267,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 7464,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 367,
+    "y": 7519,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7561,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7603,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7645,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 367,
+    "y": 7687,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7464,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 619,
+    "y": 7519,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7561,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7603,
+    "w": 159,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7645,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7687,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 619,
+    "y": 7729,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 7464,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 926,
+    "y": 7519,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 7561,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 926,
+    "y": 7603,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7464,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 1193,
+    "y": 7519,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7561,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7603,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 1193,
+    "y": 7645,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 101,
+    "y": 7872,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 277,
+    "y": 7872,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 385,
+    "y": 7872,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 558,
+    "y": 7872,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 647,
+    "y": 7872,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 692,
+    "y": 7872,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 720,
+    "y": 7872,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

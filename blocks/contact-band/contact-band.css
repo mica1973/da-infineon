@@ -1,0 +1,163 @@
+/* contact-band: support "Kontakt" off-ramp (live .application-main) */
+.contact-band .icon-ico-phone-call-16::before {
+  content: '\e9fc';
+}
+
+.contact-band .icon-ico-laptop-16::before {
+  content: '\e9cd';
+}
+
+.contact-band .icon-ico-service::before {
+  content: '\e930';
+}
+
+.contact-band .icon-ico-handshake-16::before {
+  content: '\e9b4';
+}
+
+.contact-band {
+  background: var(--ifx-surface-band);
+}
+
+.contact-band .contact-band-inner {
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+.contact-band :is(h1, h2, h3, h4, h5, h6, p, ul) {
+  margin: 0;
+}
+
+.contact-band .contact-band-head :is(h1, h2, h3) {
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 36px;
+  letter-spacing: -0.26px;
+}
+
+.contact-band .contact-band-cols {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-top: 16px;
+}
+
+.contact-band .contact-band-eyebrow p {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 3.2px;
+  text-transform: uppercase;
+}
+
+.contact-band .contact-band-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 17px;
+}
+
+.contact-band .contact-band-buttons a:any-link {
+  display: flex;
+  justify-content: center;
+  padding: 11px 16px;
+  border: 1px solid var(--ifx-teal);
+  border-radius: 1px;
+  background: #fff;
+  color: var(--ifx-teal);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.contact-band .contact-band-buttons a.primary:any-link,
+.contact-band .contact-band-buttons strong a:any-link {
+  background: var(--ifx-teal);
+  color: #fff;
+}
+
+.contact-band .contact-band-tools {
+  margin-top: 24px;
+}
+
+.contact-band .contact-band-tools ul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 0;
+  list-style: none;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.contact-band .contact-band-tools li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.contact-band .contact-band-label {
+  margin-bottom: -8px;
+  color: var(--ifx-stone-text);
+}
+
+.contact-band .contact-band-tools .icon {
+  color: var(--ifx-teal);
+  font-size: 16px;
+}
+
+.contact-band .contact-band-tools li a:any-link {
+  color: var(--ifx-ink);
+  text-decoration: underline;
+}
+
+@media (width >= 992px) {
+  .contact-band {
+    background: none;
+  }
+
+  .contact-band .contact-band-inner {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+  }
+
+  .contact-band .contact-band-label {
+    margin-bottom: 0;
+  }
+
+  .contact-band .contact-band-head :is(h1, h2, h3) {
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.36px;
+  }
+
+  .contact-band .contact-band-cols {
+    flex-direction: row;
+    gap: 0;
+    margin-top: 48px;
+  }
+
+  .contact-band .contact-band-col {
+    flex: 1 1 0;
+  }
+
+  .contact-band .contact-band-col + .contact-band-col {
+    border-left: 1px solid var(--ifx-border);
+  }
+
+  .contact-band .contact-band-buttons {
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 16px;
+  }
+
+  .contact-band .contact-band-tools ul {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    padding: 0;
+  }
+}

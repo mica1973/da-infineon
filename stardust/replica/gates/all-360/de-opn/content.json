@@ -1,0 +1,6993 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:26:03.519Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/opn",
+  "at": "2026-11-18T23:25:39.376Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8635,
+  "root": "div.genericbreadcrumb.aem-GridColumn",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button#searchicon-items",
+    "x": 164,
+    "y": 14,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-0",
+    "x": 220,
+    "y": 15,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.usericon-item.d-block",
+    "x": 260,
+    "y": 17,
+    "w": 40,
+    "h": 25,
+    "text": "user profile"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.genericBreadcrumb-mobileview > div.lastBreadcrumb > a.text-decoration-none",
+    "x": 36,
+    "y": 82,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 290,
+    "y": 77,
+    "w": 22,
+    "h": 26,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 290,
+    "y": 77,
+    "w": 22,
+    "h": 26,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.dropdown.d-flex > div.selected-icon.page-data-js > button.icon-wrapper.px-0",
+    "x": 328,
+    "y": 77,
+    "w": 16,
+    "h": 26,
+    "text": "bookmaarkclick"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-e7d6a5d014 > h1.dynamicAnchors.title-mt-0",
+    "x": 16,
+    "y": 140,
+    "w": 328,
+    "h": 88,
+    "level": 1,
+    "text": "orderable part number (opn)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-def07f85bc > p",
+    "x": 16,
+    "y": 244,
+    "w": 328,
+    "h": 104,
+    "text": "The Orderable Part Number (OPN) is a unique and descriptive product identifier. "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 422,
+    "w": 111,
+    "h": 22,
+    "text": "1: opn structure",
+    "href": "/de/opn"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 456,
+    "w": 158,
+    "h": 22,
+    "text": "2: opn translation table",
+    "href": "/de/opn"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 490,
+    "w": 215,
+    "h": 22,
+    "text": "3: product identifiers at infineon",
+    "href": "/de/opn"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation > div > a",
+    "x": 60,
+    "y": 524,
+    "w": 198,
+    "h": 22,
+    "text": "4: frequently asked questions",
+    "href": "/de/opn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > p",
+    "x": 40,
+    "y": 388,
+    "w": 134,
+    "h": 24,
+    "text": "Found on this page:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#opnstructure > h5#structure",
+    "x": 16,
+    "y": 588,
+    "w": 328,
+    "h": 26,
+    "level": 5,
+    "text": "1: opn structure"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-f681cccefb > p",
+    "x": 16,
+    "y": 622,
+    "w": 328,
+    "h": 52,
+    "text": "The OPN salesname can differ from the actual salesname:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-f681cccefb > ol > li",
+    "x": 32,
+    "y": 690,
+    "w": 312,
+    "h": 52,
+    "text": "It does not contain any special characters such as blanks or dashes"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-f681cccefb > ol > li",
+    "x": 32,
+    "y": 758,
+    "w": 312,
+    "h": 104,
+    "text": "If the salesname exceeds 19 digits after the elimination of special characters i"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-f681cccefb > ol > li",
+    "x": 32,
+    "y": 878,
+    "w": 312,
+    "h": 130,
+    "text": "Microcontroller products with an SA prefix will not have this prefix in the OPN "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-f681cccefb > p",
+    "x": 16,
+    "y": 1024,
+    "w": 328,
+    "h": 52,
+    "text": "The OPN suffix describes the product in more detail:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-f681cccefb > ul > li",
+    "x": 32,
+    "y": 1092,
+    "w": 312,
+    "h": 26,
+    "text": "RoHS status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-f681cccefb > ul > li",
+    "x": 32,
+    "y": 1134,
+    "w": 312,
+    "h": 26,
+    "text": "Halogen status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-f681cccefb > ul > li",
+    "x": 32,
+    "y": 1176,
+    "w": 312,
+    "h": 26,
+    "text": "Totally lead free status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-f681cccefb > ul > li",
+    "x": 32,
+    "y": 1218,
+    "w": 312,
+    "h": 26,
+    "text": "Packing type"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-f681cccefb > ul > li",
+    "x": 32,
+    "y": 1260,
+    "w": 312,
+    "h": 26,
+    "text": "Packing size"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-f681cccefb > ul > li",
+    "x": 32,
+    "y": 1302,
+    "w": 312,
+    "h": 26,
+    "text": "Moisture protection packing"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 1344,
+    "w": 328,
+    "h": 175,
+    "text": "opn structure",
+    "file": "opn-structure1.png:asset-680-16x9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-a1ed9bb137 > p",
+    "x": 16,
+    "y": 1535,
+    "w": 328,
+    "h": 78,
+    "text": "The Orderable Part Number consists of two parts: The OPN salesname and the OPN s"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#opntranslationtable > h5#transla",
+    "x": 16,
+    "y": 1629,
+    "w": 328,
+    "h": 26,
+    "level": 5,
+    "text": "2: opn translation table"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-a445864106 > p > b",
+    "x": 16,
+    "y": 1663,
+    "w": 301,
+    "h": 25,
+    "text": "Orderable Part Number OPN Identifiers"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-a445864106 > p",
+    "x": 16,
+    "y": 1705,
+    "w": 328,
+    "h": 78,
+    "text": "The descriptive identifiers within the OPN tell you more about the product attri"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 1799,
+    "w": 328,
+    "h": 175,
+    "text": "opn suffix",
+    "file": "opn-suffix.png:asset-680-16x9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-a9ec5f025d > p",
+    "x": 16,
+    "y": 1991,
+    "w": 328,
+    "h": 52,
+    "text": "Example for an OPN (the OPN relevant suffix are the last 5 digits)"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 2059,
+    "w": 328,
+    "h": 175,
+    "text": "environmental table",
+    "file": "environmental-table1.jpg:asset-680-16x9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-c1c35f3864 > p",
+    "x": 16,
+    "y": 2250,
+    "w": 328,
+    "h": 52,
+    "text": "1st digit: RoHS, Halogen and Totally Lead Free Status"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.desktop-section > picture > img.image-fit.noMask",
+    "x": 16,
+    "y": 2318,
+    "w": 328,
+    "h": 175,
+    "text": "packing table",
+    "file": "packing-table.png:asset-680-16x9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5655338ecd > p",
+    "x": 16,
+    "y": 2509,
+    "w": 328,
+    "h": 52,
+    "text": "2nd and 3d digit: Packing type, Moisture Protection Packing and Packing Size"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5655338ecd > p",
+    "x": 16,
+    "y": 2577,
+    "w": 328,
+    "h": 78,
+    "text": "The 2nd digit shows the functional packing type in combination with the moisture"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5655338ecd > p",
+    "x": 16,
+    "y": 2671,
+    "w": 328,
+    "h": 78,
+    "text": "The 3rd digit shows the number of devices per functional packing or the number o"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-5655338ecd > p > b",
+    "x": 16,
+    "y": 2765,
+    "w": 275,
+    "h": 25,
+    "text": "Examples for packing type- and size"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-5655338ecd > ol > li",
+    "x": 32,
+    "y": 2807,
+    "w": 312,
+    "h": 286,
+    "text": "TLE4250G with OPN TLE4250GNTSA1 and TLE4250GNTMA1. This product comes on two dif"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-5655338ecd > ol > li",
+    "x": 32,
+    "y": 3109,
+    "w": 312,
+    "h": 130,
+    "text": "SAE800G with OPN SAE800GXLLA1. This product comes in Tubes (indicated by the “L”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-5655338ecd > ol > li",
+    "x": 32,
+    "y": 3255,
+    "w": 312,
+    "h": 130,
+    "text": "SIPC03S2N03L with OPN SIPC03S2N03LX3MA1. This product comes on Tape & Reel bare "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5655338ecd > p",
+    "x": 16,
+    "y": 3401,
+    "w": 328,
+    "h": 130,
+    "text": "Although none of the packing size indications gives an exact number of products "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-5655338ecd > p > b",
+    "x": 16,
+    "y": 3547,
+    "w": 220,
+    "h": 25,
+    "text": "4th and 5th digit: Designator"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-5655338ecd > p",
+    "x": 16,
+    "y": 3589,
+    "w": 328,
+    "h": 208,
+    "text": "The designator increments (e.g. from A1 to A2) whenever a new SP number is set u"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#productidentifiers > h5#identi",
+    "x": 16,
+    "y": 3813,
+    "w": 328,
+    "h": 26,
+    "level": 5,
+    "text": "3: product identifiers at infineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-ee1c47ee77 > p > b",
+    "x": 16,
+    "y": 3847,
+    "w": 143,
+    "h": 25,
+    "text": "Existing identifiers"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-ee1c47ee77 > p",
+    "x": 16,
+    "y": 3889,
+    "w": 328,
+    "h": 468,
+    "text": "Currently there are two relevant product levels: Salesname and SP number. The sa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-ee1c47ee77 > p > b",
+    "x": 16,
+    "y": 4373,
+    "w": 327,
+    "h": 51,
+    "text": "How does the OPN fit into the existing part numbering scheme?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-ee1c47ee77 > p",
+    "x": 16,
+    "y": 4441,
+    "w": 328,
+    "h": 182,
+    "text": "Because the SP number is the order relevant level, the OPN is a descriptive and "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-ee1c47ee77 > p",
+    "x": 16,
+    "y": 4639,
+    "w": 328,
+    "h": 78,
+    "text": "This is possible by combining the salesname and the following additional attribu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-ee1c47ee77 > ol > li",
+    "x": 32,
+    "y": 4733,
+    "w": 312,
+    "h": 26,
+    "text": "RoHS status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-ee1c47ee77 > ol > li",
+    "x": 32,
+    "y": 4775,
+    "w": 312,
+    "h": 26,
+    "text": "Halogen status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-ee1c47ee77 > ol > li",
+    "x": 32,
+    "y": 4817,
+    "w": 312,
+    "h": 26,
+    "text": "Totally lead free status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-ee1c47ee77 > ol > li",
+    "x": 32,
+    "y": 4859,
+    "w": 312,
+    "h": 26,
+    "text": "Packing type"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-ee1c47ee77 > ol > li",
+    "x": 32,
+    "y": 4901,
+    "w": 312,
+    "h": 26,
+    "text": "Packing size"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-ee1c47ee77 > ol > li",
+    "x": 32,
+    "y": 4943,
+    "w": 312,
+    "h": 26,
+    "text": "Moisture protection packing"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-ee1c47ee77 > p",
+    "x": 16,
+    "y": 4985,
+    "w": 328,
+    "h": 130,
+    "text": "Because these are the main, but not the only reasons for many SP numbers under o"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-ee1c47ee77 > p",
+    "x": 16,
+    "y": 5131,
+    "w": 328,
+    "h": 78,
+    "text": "The OPN will replace the proposed Customer Part Number (pCPN) which could be use"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#faq > h5#faq",
+    "x": 16,
+    "y": 5225,
+    "w": 328,
+    "h": 26,
+    "level": 5,
+    "text": "4: frequently asked questions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 5291,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "what is the opn?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 5384,
+    "w": 328,
+    "h": 48,
+    "level": 3,
+    "text": "why are the existing ordering codes not sufficient?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 5481,
+    "w": 328,
+    "h": 48,
+    "level": 3,
+    "text": "what is the structure of the opn / how does the opn look like?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 5578,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "what is an adapted salesname?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 5671,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "what is encoded in the opn?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 5764,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "how are the opn attributes encoded?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 5857,
+    "w": 328,
+    "h": 48,
+    "level": 3,
+    "text": "since the designator is non-speaking, how can i see what is behind that opn?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 5954,
+    "w": 328,
+    "h": 48,
+    "level": 3,
+    "text": "how can i find the difference between two products with differing identifiers?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 6051,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "what is the maximum length of the opn?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 6144,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "what is the benefit of the opn?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 6237,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "does every product have an opn?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 6330,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "can the opn be used instead of the sp#?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 6423,
+    "w": 328,
+    "h": 48,
+    "level": 3,
+    "text": "can the opn be used instead of the salesname?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 6520,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "which documents show the opn?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 6613,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "does the regular label show the opn?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 6706,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "is the opn in the datasheets?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 6799,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "how can i order with the opn?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 6892,
+    "w": 328,
+    "h": 48,
+    "level": 3,
+    "text": "does the opn replace any existing product name?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 6989,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "what do i need to do if i use the pcpn?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 7082,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "do samples have an opn?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 7175,
+    "w": 328,
+    "h": 48,
+    "level": 3,
+    "text": "is the information shown in the opn true for samples?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 7272,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "do engineering samples have an opn?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 7365,
+    "w": 328,
+    "h": 48,
+    "level": 3,
+    "text": "do development kits and boards have an opn?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 7462,
+    "w": 328,
+    "h": 48,
+    "level": 3,
+    "text": "where do i get translation tables for the opn?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 16,
+    "y": 7599,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 7693,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7733,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7775,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7817,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7859,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7901,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 196,
+    "y": 7693,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 7733,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 7775,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 7817,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 7885,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 7927,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 7969,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 8035,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 8075,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 8117,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 8159,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 32,
+    "y": 8225,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 8265,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 8307,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 8349,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 8391,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 8457,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 192,
+    "y": 8457,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 8487,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 21,
+    "y": 8522,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 16,
+    "y": 8575,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 56,
+    "y": 8575,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 96,
+    "y": 8575,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 136,
+    "y": 8572,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 136,
+    "y": 8577,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 176,
+    "y": 8575,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 111,
+    "controls": 38,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/opn",
+  "at": "2026-11-18T23:26:03.400Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8716,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "label": "search",
+    "value": "search",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 38,
+    "y": 82,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.ifx-fixed.breadcrumb-inner > div.breadcrumb-tools > button.breadcrumb-tool.breadcrumb-tool-share",
+    "x": 290,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.ifx-fixed.breadcrumb-inner > div.breadcrumb-tools > button.breadcrumb-tool.breadcrumb-tool-share",
+    "x": 290,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow.accordion-title-group > h1#orderable-part-number-opn",
+    "x": 16,
+    "y": 140,
+    "w": 328,
+    "h": 88,
+    "level": 1,
+    "text": "orderable part number (opn)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow.accordion-title-group > p",
+    "x": 16,
+    "y": 244,
+    "w": 328,
+    "h": 104,
+    "text": "The Orderable Part Number (OPN) is a unique and descriptive product identifier. "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow.accordion-jump > p",
+    "x": 40,
+    "y": 388,
+    "w": 280,
+    "h": 24,
+    "text": "Found on this page:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 68,
+    "y": 422,
+    "w": 111,
+    "h": 22,
+    "text": "1: opn structure",
+    "href": "/de/opn"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 68,
+    "y": 454,
+    "w": 158,
+    "h": 22,
+    "text": "2: opn translation table",
+    "href": "/de/opn"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 68,
+    "y": 486,
+    "w": 215,
+    "h": 22,
+    "text": "3: product identifiers at infineon",
+    "href": "/de/opn"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 68,
+    "y": 518,
+    "w": 198,
+    "h": 22,
+    "text": "4: frequently asked questions",
+    "href": "/de/opn"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > h5#structure",
+    "x": 16,
+    "y": 588,
+    "w": 328,
+    "h": 26,
+    "level": 5,
+    "text": "1: opn structure"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 622,
+    "w": 328,
+    "h": 52,
+    "text": "The OPN salesname can differ from the actual salesname:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ol > li",
+    "x": 32,
+    "y": 690,
+    "w": 312,
+    "h": 52,
+    "text": "It does not contain any special characters such as blanks or dashes"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ol > li",
+    "x": 32,
+    "y": 758,
+    "w": 312,
+    "h": 104,
+    "text": "If the salesname exceeds 19 digits after the elimination of special characters i"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ol > li",
+    "x": 32,
+    "y": 878,
+    "w": 312,
+    "h": 130,
+    "text": "Microcontroller products with an SA prefix will not have this prefix in the OPN "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 1024,
+    "w": 328,
+    "h": 52,
+    "text": "The OPN suffix describes the product in more detail:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ul > li",
+    "x": 32,
+    "y": 1092,
+    "w": 312,
+    "h": 26,
+    "text": "RoHS status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ul > li",
+    "x": 32,
+    "y": 1134,
+    "w": 312,
+    "h": 26,
+    "text": "Halogen status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ul > li",
+    "x": 32,
+    "y": 1176,
+    "w": 312,
+    "h": 26,
+    "text": "Totally lead free status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ul > li",
+    "x": 32,
+    "y": 1218,
+    "w": 312,
+    "h": 26,
+    "text": "Packing type"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ul > li",
+    "x": 32,
+    "y": 1260,
+    "w": 312,
+    "h": 26,
+    "text": "Packing size"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ul > li",
+    "x": 32,
+    "y": 1302,
+    "w": 312,
+    "h": 26,
+    "text": "Moisture protection packing"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 1352,
+    "w": 328,
+    "h": 176,
+    "text": "opn structure",
+    "file": "media_1b0266a2743deeb19af5099acb3ffe0bd0"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 1552,
+    "w": 328,
+    "h": 78,
+    "text": "The Orderable Part Number consists of two parts: The OPN salesname and the OPN s"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > h5#transla",
+    "x": 16,
+    "y": 1646,
+    "w": 328,
+    "h": 26,
+    "level": 5,
+    "text": "2: opn translation table"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > p > strong",
+    "x": 16,
+    "y": 1680,
+    "w": 301,
+    "h": 25,
+    "text": "Orderable Part Number OPN Identifiers"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 1722,
+    "w": 328,
+    "h": 78,
+    "text": "The descriptive identifiers within the OPN tell you more about the product attri"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 1824,
+    "w": 328,
+    "h": 176,
+    "text": "opn suffix",
+    "file": "media_1c7e4855b664b042984dfde1834796b7ef"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 2023,
+    "w": 328,
+    "h": 52,
+    "text": "Example for an OPN (the OPN relevant suffix are the last 5 digits)"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 2099,
+    "w": 328,
+    "h": 176,
+    "text": "environmental table",
+    "file": "media_19ceea68ee6e86aee45b1158951af1f7ec"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 2299,
+    "w": 328,
+    "h": 52,
+    "text": "1st digit: RoHS, Halogen and Totally Lead Free Status"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 16,
+    "y": 2375,
+    "w": 328,
+    "h": 176,
+    "text": "packing table",
+    "file": "media_1f17f34e7af8126649508342fd7bb87e3f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 2574,
+    "w": 328,
+    "h": 52,
+    "text": "2nd and 3d digit: Packing type, Moisture Protection Packing and Packing Size"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 2642,
+    "w": 328,
+    "h": 78,
+    "text": "The 2nd digit shows the functional packing type in combination with the moisture"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 2736,
+    "w": 328,
+    "h": 78,
+    "text": "The 3rd digit shows the number of devices per functional packing or the number o"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > p > strong",
+    "x": 16,
+    "y": 2830,
+    "w": 275,
+    "h": 25,
+    "text": "Examples for packing type- and size"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ol > li",
+    "x": 32,
+    "y": 2872,
+    "w": 312,
+    "h": 286,
+    "text": "TLE4250G with OPN TLE4250GNTSA1 and TLE4250GNTMA1. This product comes on two dif"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ol > li",
+    "x": 32,
+    "y": 3174,
+    "w": 312,
+    "h": 130,
+    "text": "SAE800G with OPN SAE800GXLLA1. This product comes in Tubes (indicated by the “L”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ol > li",
+    "x": 32,
+    "y": 3320,
+    "w": 312,
+    "h": 130,
+    "text": "SIPC03S2N03L with OPN SIPC03S2N03LX3MA1. This product comes on Tape & Reel bare "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 3466,
+    "w": 328,
+    "h": 130,
+    "text": "Although none of the packing size indications gives an exact number of products "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > p > strong",
+    "x": 16,
+    "y": 3612,
+    "w": 220,
+    "h": 25,
+    "text": "4th and 5th digit: Designator"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 3654,
+    "w": 328,
+    "h": 208,
+    "text": "The designator increments (e.g. from A1 to A2) whenever a new SP number is set u"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > h5#identi",
+    "x": 16,
+    "y": 3878,
+    "w": 328,
+    "h": 26,
+    "level": 5,
+    "text": "3: product identifiers at infineon"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > p > strong",
+    "x": 16,
+    "y": 3912,
+    "w": 143,
+    "h": 25,
+    "text": "Existing identifiers"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 3954,
+    "w": 328,
+    "h": 468,
+    "text": "Currently there are two relevant product levels: Salesname and SP number. The sa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > p > strong",
+    "x": 16,
+    "y": 4438,
+    "w": 327,
+    "h": 51,
+    "text": "How does the OPN fit into the existing part numbering scheme?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 4506,
+    "w": 328,
+    "h": 182,
+    "text": "Because the SP number is the order relevant level, the OPN is a descriptive and "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 4704,
+    "w": 328,
+    "h": 78,
+    "text": "This is possible by combining the salesname and the following additional attribu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ol > li",
+    "x": 32,
+    "y": 4798,
+    "w": 312,
+    "h": 26,
+    "text": "RoHS status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ol > li",
+    "x": 32,
+    "y": 4840,
+    "w": 312,
+    "h": 26,
+    "text": "Halogen status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ol > li",
+    "x": 32,
+    "y": 4882,
+    "w": 312,
+    "h": 26,
+    "text": "Totally lead free status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ol > li",
+    "x": 32,
+    "y": 4924,
+    "w": 312,
+    "h": 26,
+    "text": "Packing type"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ol > li",
+    "x": 32,
+    "y": 4966,
+    "w": 312,
+    "h": 26,
+    "text": "Packing size"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow > ol > li",
+    "x": 32,
+    "y": 5008,
+    "w": 312,
+    "h": 26,
+    "text": "Moisture protection packing"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 5050,
+    "w": 328,
+    "h": 130,
+    "text": "Because these are the main, but not the only reasons for many SP numbers under o"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > p",
+    "x": 16,
+    "y": 5196,
+    "w": 328,
+    "h": 78,
+    "text": "The OPN will replace the proposed Customer Part Number (pCPN) which could be use"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-main > div.accordion-flow > h5#faq",
+    "x": 16,
+    "y": 5290,
+    "w": 328,
+    "h": 26,
+    "level": 5,
+    "text": "4: frequently asked questions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#what-is-the-opn",
+    "x": 16,
+    "y": 5364,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "what is the opn?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5364,
+    "w": 32,
+    "h": 32,
+    "text": "what is the opn?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5364,
+    "w": 32,
+    "h": 32,
+    "label": "what is the opn?",
+    "value": "what is the opn?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#why-are-the-existing-ordering-codes-not-sufficient",
+    "x": 16,
+    "y": 5457,
+    "w": 280,
+    "h": 40,
+    "level": 3,
+    "text": "why are the existing ordering codes not sufficient?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5457,
+    "w": 32,
+    "h": 32,
+    "text": "why are the existing ordering codes not sufficient?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5457,
+    "w": 32,
+    "h": 32,
+    "label": "why are the existing ordering codes not sufficient?",
+    "value": "why are the existing ordering codes not sufficient?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#what-is-the-structure-of-the-opn--how-does-the-opn-look-like",
+    "x": 16,
+    "y": 5554,
+    "w": 280,
+    "h": 40,
+    "level": 3,
+    "text": "what is the structure of the opn / how does the opn look like?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5554,
+    "w": 32,
+    "h": 32,
+    "text": "what is the structure of the opn / how does the opn look like?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5554,
+    "w": 32,
+    "h": 32,
+    "label": "what is the structure of the opn / how does the opn look like?",
+    "value": "what is the structure of the opn / how does the opn look lik",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#what-is-an-adapted-salesname",
+    "x": 16,
+    "y": 5651,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "what is an adapted salesname?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5651,
+    "w": 32,
+    "h": 32,
+    "text": "what is an adapted salesname?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5651,
+    "w": 32,
+    "h": 32,
+    "label": "what is an adapted salesname?",
+    "value": "what is an adapted salesname?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#what-is-encoded-in-the-opn",
+    "x": 16,
+    "y": 5744,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "what is encoded in the opn?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5744,
+    "w": 32,
+    "h": 32,
+    "text": "what is encoded in the opn?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5744,
+    "w": 32,
+    "h": 32,
+    "label": "what is encoded in the opn?",
+    "value": "what is encoded in the opn?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#how-are-the-opn-attributes-encoded",
+    "x": 16,
+    "y": 5837,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "how are the opn attributes encoded?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5837,
+    "w": 32,
+    "h": 32,
+    "text": "how are the opn attributes encoded?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5837,
+    "w": 32,
+    "h": 32,
+    "label": "how are the opn attributes encoded?",
+    "value": "how are the opn attributes encoded?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#since-the-designator-is-non-speaking-how-can-i-see-what-is-behind-that-opn",
+    "x": 16,
+    "y": 5930,
+    "w": 280,
+    "h": 40,
+    "level": 3,
+    "text": "since the designator is non-speaking, how can i see what is behind that opn?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5930,
+    "w": 32,
+    "h": 32,
+    "text": "since the designator is non-speaking, how can i see what is behind that opn?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5930,
+    "w": 32,
+    "h": 32,
+    "label": "since the designator is non-speaking, how can i see what is behind that opn?",
+    "value": "since the designator is non-speaking, how can i see what is ",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#how-can-i-find-the-difference-between-two-products-with-differing-identifiers",
+    "x": 16,
+    "y": 6027,
+    "w": 280,
+    "h": 40,
+    "level": 3,
+    "text": "how can i find the difference between two products with differing identifiers?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6027,
+    "w": 32,
+    "h": 32,
+    "text": "how can i find the difference between two products with differing identifiers?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6027,
+    "w": 32,
+    "h": 32,
+    "label": "how can i find the difference between two products with differing identifiers?",
+    "value": "how can i find the difference between two products with diff",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#what-is-the-maximum-length-of-the-opn",
+    "x": 16,
+    "y": 6124,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "what is the maximum length of the opn?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6124,
+    "w": 32,
+    "h": 32,
+    "text": "what is the maximum length of the opn?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6124,
+    "w": 32,
+    "h": 32,
+    "label": "what is the maximum length of the opn?",
+    "value": "what is the maximum length of the opn?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#what-is-the-benefit-of-the-opn",
+    "x": 16,
+    "y": 6217,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "what is the benefit of the opn?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6217,
+    "w": 32,
+    "h": 32,
+    "text": "what is the benefit of the opn?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6217,
+    "w": 32,
+    "h": 32,
+    "label": "what is the benefit of the opn?",
+    "value": "what is the benefit of the opn?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#does-every-product-have-an-opn",
+    "x": 16,
+    "y": 6310,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "does every product have an opn?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6310,
+    "w": 32,
+    "h": 32,
+    "text": "does every product have an opn?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6310,
+    "w": 32,
+    "h": 32,
+    "label": "does every product have an opn?",
+    "value": "does every product have an opn?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#can-the-opn-be-used-instead-of-the-sp",
+    "x": 16,
+    "y": 6403,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "can the opn be used instead of the sp#?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6403,
+    "w": 32,
+    "h": 32,
+    "text": "can the opn be used instead of the sp#?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6403,
+    "w": 32,
+    "h": 32,
+    "label": "can the opn be used instead of the sp#?",
+    "value": "can the opn be used instead of the sp#?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#can-the-opn-be-used-instead-of-the-salesname",
+    "x": 16,
+    "y": 6496,
+    "w": 280,
+    "h": 40,
+    "level": 3,
+    "text": "can the opn be used instead of the salesname?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6496,
+    "w": 32,
+    "h": 32,
+    "text": "can the opn be used instead of the salesname?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6496,
+    "w": 32,
+    "h": 32,
+    "label": "can the opn be used instead of the salesname?",
+    "value": "can the opn be used instead of the salesname?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#which-documents-show-the-opn",
+    "x": 16,
+    "y": 6593,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "which documents show the opn?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6593,
+    "w": 32,
+    "h": 32,
+    "text": "which documents show the opn?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6593,
+    "w": 32,
+    "h": 32,
+    "label": "which documents show the opn?",
+    "value": "which documents show the opn?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#does-the-regular-label-show-the-opn",
+    "x": 16,
+    "y": 6686,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "does the regular label show the opn?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6686,
+    "w": 32,
+    "h": 32,
+    "text": "does the regular label show the opn?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6686,
+    "w": 32,
+    "h": 32,
+    "label": "does the regular label show the opn?",
+    "value": "does the regular label show the opn?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#is-the-opn-in-the-datasheets",
+    "x": 16,
+    "y": 6779,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "is the opn in the datasheets?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6779,
+    "w": 32,
+    "h": 32,
+    "text": "is the opn in the datasheets?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6779,
+    "w": 32,
+    "h": 32,
+    "label": "is the opn in the datasheets?",
+    "value": "is the opn in the datasheets?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#how-can-i-order-with-the-opn",
+    "x": 16,
+    "y": 6872,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "how can i order with the opn?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6872,
+    "w": 32,
+    "h": 32,
+    "text": "how can i order with the opn?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6872,
+    "w": 32,
+    "h": 32,
+    "label": "how can i order with the opn?",
+    "value": "how can i order with the opn?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#does-the-opn-replace-any-existing-product-name",
+    "x": 16,
+    "y": 6965,
+    "w": 280,
+    "h": 40,
+    "level": 3,
+    "text": "does the opn replace any existing product name?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6965,
+    "w": 32,
+    "h": 32,
+    "text": "does the opn replace any existing product name?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 6965,
+    "w": 32,
+    "h": 32,
+    "label": "does the opn replace any existing product name?",
+    "value": "does the opn replace any existing product name?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#what-do-i-need-to-do-if-i-use-the-pcpn",
+    "x": 16,
+    "y": 7062,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "what do i need to do if i use the pcpn?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 7062,
+    "w": 32,
+    "h": 32,
+    "text": "what do i need to do if i use the pcpn?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 7062,
+    "w": 32,
+    "h": 32,
+    "label": "what do i need to do if i use the pcpn?",
+    "value": "what do i need to do if i use the pcpn?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#do-samples-have-an-opn",
+    "x": 16,
+    "y": 7155,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "do samples have an opn?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 7155,
+    "w": 32,
+    "h": 32,
+    "text": "do samples have an opn?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 7155,
+    "w": 32,
+    "h": 32,
+    "label": "do samples have an opn?",
+    "value": "do samples have an opn?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#is-the-information-shown-in-the-opn-true-for-samples",
+    "x": 16,
+    "y": 7248,
+    "w": 280,
+    "h": 40,
+    "level": 3,
+    "text": "is the information shown in the opn true for samples?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 7248,
+    "w": 32,
+    "h": 32,
+    "text": "is the information shown in the opn true for samples?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 7248,
+    "w": 32,
+    "h": 32,
+    "label": "is the information shown in the opn true for samples?",
+    "value": "is the information shown in the opn true for samples?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#do-engineering-samples-have-an-opn",
+    "x": 16,
+    "y": 7345,
+    "w": 280,
+    "h": 20,
+    "level": 3,
+    "text": "do engineering samples have an opn?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 7345,
+    "w": 32,
+    "h": 32,
+    "text": "do engineering samples have an opn?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 7345,
+    "w": 32,
+    "h": 32,
+    "label": "do engineering samples have an opn?",
+    "value": "do engineering samples have an opn?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#do-development-kits-and-boards-have-an-opn",
+    "x": 16,
+    "y": 7438,
+    "w": 280,
+    "h": 40,
+    "level": 3,
+    "text": "do development kits and boards have an opn?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 7438,
+    "w": 32,
+    "h": 32,
+    "text": "do development kits and boards have an opn?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 7438,
+    "w": 32,
+    "h": 32,
+    "label": "do development kits and boards have an opn?",
+    "value": "do development kits and boards have an opn?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h3#where-do-i-get-translation-tables-for-the-opn",
+    "x": 16,
+    "y": 7535,
+    "w": 280,
+    "h": 40,
+    "level": 3,
+    "text": "where do i get translation tables for the opn?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 7535,
+    "w": 32,
+    "h": 32,
+    "text": "where do i get translation tables for the opn?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 7535,
+    "w": 32,
+    "h": 32,
+    "label": "where do i get translation tables for the opn?",
+    "value": "where do i get translation tables for the opn?",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 16,
+    "y": 7711,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 16,
+    "y": 7672,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 7774,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7814,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7856,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7898,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7940,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7982,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 196,
+    "y": 7774,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 7814,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 7856,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 7898,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 7966,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 8008,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 8050,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 8116,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 8156,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 8198,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 8240,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 32,
+    "y": 8306,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 8346,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 8388,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 8430,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 8472,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 8538,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 192,
+    "y": 8538,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 8568,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 188,
+    "y": 8568,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 21,
+    "y": 8603,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 8656,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 8656,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 8656,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 136,
+    "y": 8653,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 136,
+    "y": 8653,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 176,
+    "y": 8656,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 111,
+    "controls": 65,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 2,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 5,
+    "linkHidden": 0,
+    "button": 25,
+    "buttonHidden": 0,
+    "text": 41,
+    "textHidden": 0,
+    "image": 4,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "MISSING BUTTON",
+    "COUNT TEXT",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"bookmaarkclick\" in band \"(top)\" (origin y 77) not on the served page",
+   "band": 0,
+   "n": 1,
+   "text": "bookmaarkclick"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"orderable part number (opn)\" (y 140) has no origin heading",
+   "text": "orderable part number (opn)"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"what is the opn?\" (y 5364) has no origin heading",
+   "text": "what is the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"why are the existing ordering codes not sufficient?\" (y 5457) has no origin heading",
+   "text": "why are the existing ordering codes not sufficient?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"what is the structure of the opn / how does the opn look like?\" (y 5554) has no origin heading",
+   "text": "what is the structure of the opn / how does the opn look like?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"what is an adapted salesname?\" (y 5651) has no origin heading",
+   "text": "what is an adapted salesname?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"what is encoded in the opn?\" (y 5744) has no origin heading",
+   "text": "what is encoded in the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"how are the opn attributes encoded?\" (y 5837) has no origin heading",
+   "text": "how are the opn attributes encoded?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"since the designator is non-speaking, how can i see what is behind that opn?\" (y 5930) has no origin heading",
+   "text": "since the designator is non-speaking, how can i see what is behind that opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"how can i find the difference between two products with differing identifiers?\" (y 6027) has no origin heading",
+   "text": "how can i find the difference between two products with differing identifiers?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"what is the maximum length of the opn?\" (y 6124) has no origin heading",
+   "text": "what is the maximum length of the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"what is the benefit of the opn?\" (y 6217) has no origin heading",
+   "text": "what is the benefit of the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"does every product have an opn?\" (y 6310) has no origin heading",
+   "text": "does every product have an opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"can the opn be used instead of the sp#?\" (y 6403) has no origin heading",
+   "text": "can the opn be used instead of the sp#?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"can the opn be used instead of the salesname?\" (y 6496) has no origin heading",
+   "text": "can the opn be used instead of the salesname?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"which documents show the opn?\" (y 6593) has no origin heading",
+   "text": "which documents show the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"does the regular label show the opn?\" (y 6686) has no origin heading",
+   "text": "does the regular label show the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"is the opn in the datasheets?\" (y 6779) has no origin heading",
+   "text": "is the opn in the datasheets?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"how can i order with the opn?\" (y 6872) has no origin heading",
+   "text": "how can i order with the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"does the opn replace any existing product name?\" (y 6965) has no origin heading",
+   "text": "does the opn replace any existing product name?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"what do i need to do if i use the pcpn?\" (y 7062) has no origin heading",
+   "text": "what do i need to do if i use the pcpn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"do samples have an opn?\" (y 7155) has no origin heading",
+   "text": "do samples have an opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"is the information shown in the opn true for samples?\" (y 7248) has no origin heading",
+   "text": "is the information shown in the opn true for samples?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"do engineering samples have an opn?\" (y 7345) has no origin heading",
+   "text": "do engineering samples have an opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"do development kits and boards have an opn?\" (y 7438) has no origin heading",
+   "text": "do development kits and boards have an opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"where do i get translation tables for the opn?\" (y 7535) has no origin heading",
+   "text": "where do i get translation tables for the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"1: opn structure\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "1: opn structure"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"2: opn translation table\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "2: opn translation table"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"3: product identifiers at infineon\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "3: product identifiers at infineon"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"4: frequently asked questions\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "4: frequently asked questions"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"what is the opn?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "what is the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"why are the existing ordering codes not sufficient?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "why are the existing ordering codes not sufficient?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"what is the structure of the opn / how does the opn look like?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "what is the structure of the opn / how does the opn look like?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"what is an adapted salesname?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "what is an adapted salesname?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"what is encoded in the opn?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "what is encoded in the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"how are the opn attributes encoded?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "how are the opn attributes encoded?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"since the designator is non-speaking, how can i see what is behind that opn?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "since the designator is non-speaking, how can i see what is behind that opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"how can i find the difference between two products with differing identifiers?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "how can i find the difference between two products with differing identifiers?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"what is the maximum length of the opn?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "what is the maximum length of the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"what is the benefit of the opn?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "what is the benefit of the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"does every product have an opn?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "does every product have an opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"can the opn be used instead of the sp#?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "can the opn be used instead of the sp#?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"can the opn be used instead of the salesname?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "can the opn be used instead of the salesname?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"which documents show the opn?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "which documents show the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"does the regular label show the opn?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "does the regular label show the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"is the opn in the datasheets?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "is the opn in the datasheets?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"how can i order with the opn?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "how can i order with the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"does the opn replace any existing product name?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "does the opn replace any existing product name?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"what do i need to do if i use the pcpn?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "what do i need to do if i use the pcpn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"do samples have an opn?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "do samples have an opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"is the information shown in the opn true for samples?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "is the information shown in the opn true for samples?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"do engineering samples have an opn?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "do engineering samples have an opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"do development kits and boards have an opn?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "do development kits and boards have an opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"where do i get translation tables for the opn?\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "where do i get translation tables for the opn?"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"(top)\": 0 origin → 41 served visible",
+   "band": 0,
+   "origin": 0,
+   "eds": 41,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"(top)\": 0 origin → 4 served visible",
+   "band": 0,
+   "origin": 0,
+   "eds": 4,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 25,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 28,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 2,
+  "findings": 56,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 36,
+    "y": 82,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 139,
+    "w": 313,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 183,
+    "w": 80,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 244,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 270,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 296,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 322,
+    "w": 155,
+    "h": 25
+   },
+   {
+    "x": 60,
+    "y": 422,
+    "w": 111,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 456,
+    "w": 158,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 490,
+    "w": 215,
+    "h": 22
+   },
+   {
+    "x": 60,
+    "y": 524,
+    "w": 198,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 389,
+    "w": 134,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 588,
+    "w": 126,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 622,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 648,
+    "w": 135,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 692,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 718,
+    "w": 130,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 760,
+    "w": 284,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 786,
+    "w": 275,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 812,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 838,
+    "w": 66,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 880,
+    "w": 306,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 906,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 932,
+    "w": 304,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 958,
+    "w": 267,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 984,
+    "w": 207,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1024,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1050,
+    "w": 90,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 1094,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1136,
+    "w": 99,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1178,
+    "w": 149,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1220,
+    "w": 89,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1262,
+    "w": 84,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1304,
+    "w": 187,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1535,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1561,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1587,
+    "w": 45,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1629,
+    "w": 180,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1663,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1705,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1731,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1757,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1991,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2017,
+    "w": 190,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2250,
+    "w": 306,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2276,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2509,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2535,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2577,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2603,
+    "w": 287,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2629,
+    "w": 146,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2671,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2697,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2723,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2765,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 2809,
+    "w": 275,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2835,
+    "w": 301,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2861,
+    "w": 296,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2887,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2913,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2939,
+    "w": 304,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2965,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2991,
+    "w": 304,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3017,
+    "w": 287,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3043,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3069,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3111,
+    "w": 264,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3137,
+    "w": 298,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3163,
+    "w": 298,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3189,
+    "w": 271,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3215,
+    "w": 223,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3257,
+    "w": 163,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3283,
+    "w": 301,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3309,
+    "w": 294,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3335,
+    "w": 304,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3361,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3401,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3427,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3453,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3479,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3505,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3547,
+    "w": 220,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3589,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3615,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3641,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3667,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3693,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3719,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3745,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3771,
+    "w": 84,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3813,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3847,
+    "w": 143,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3889,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3915,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3941,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3967,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3993,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4019,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4045,
+    "w": 293,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4071,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4097,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4123,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4149,
+    "w": 260,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4175,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4201,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4227,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4253,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4279,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4305,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4331,
+    "w": 119,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4373,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4399,
+    "w": 156,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4441,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4467,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4493,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4519,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4545,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4571,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4597,
+    "w": 117,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4639,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4665,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4691,
+    "w": 81,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 4735,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4777,
+    "w": 99,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4819,
+    "w": 149,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4861,
+    "w": 89,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4903,
+    "w": 84,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4945,
+    "w": 187,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4985,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5011,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5037,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5063,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5089,
+    "w": 183,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5131,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5157,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5183,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5225,
+    "w": 225,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5290,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5383,
+    "w": 261,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5403,
+    "w": 69,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5480,
+    "w": 251,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5500,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5577,
+    "w": 207,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5670,
+    "w": 189,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5763,
+    "w": 248,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5856,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5876,
+    "w": 227,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5953,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5973,
+    "w": 229,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6050,
+    "w": 271,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6143,
+    "w": 205,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6236,
+    "w": 223,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6329,
+    "w": 267,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6422,
+    "w": 231,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6442,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6519,
+    "w": 222,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6612,
+    "w": 252,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6705,
+    "w": 192,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6798,
+    "w": 202,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6891,
+    "w": 225,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6911,
+    "w": 100,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6988,
+    "w": 253,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7081,
+    "w": 173,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7174,
+    "w": 270,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7194,
+    "w": 84,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7271,
+    "w": 256,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7364,
+    "w": 272,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7384,
+    "w": 37,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7461,
+    "w": 261,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7481,
+    "w": 37,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7694,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7733,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7775,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7817,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7859,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7901,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7694,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 7733,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7775,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7817,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7843,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7885,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7927,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7969,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8036,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 8075,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8117,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8159,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8226,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 8265,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8307,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8349,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8391,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 8462,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 8462,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 8492,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 8492,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 8522,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 8522,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 8522,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 38,
+    "y": 82,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 139,
+    "w": 313,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 183,
+    "w": 80,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 244,
+    "w": 283,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 270,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 296,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 322,
+    "w": 155,
+    "h": 25
+   },
+   {
+    "x": 40,
+    "y": 389,
+    "w": 134,
+    "h": 22
+   },
+   {
+    "x": 68,
+    "y": 422,
+    "w": 111,
+    "h": 22
+   },
+   {
+    "x": 68,
+    "y": 454,
+    "w": 158,
+    "h": 22
+   },
+   {
+    "x": 68,
+    "y": 486,
+    "w": 215,
+    "h": 22
+   },
+   {
+    "x": 68,
+    "y": 518,
+    "w": 198,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 588,
+    "w": 126,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 622,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 648,
+    "w": 135,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 692,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 718,
+    "w": 130,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 760,
+    "w": 284,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 786,
+    "w": 275,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 812,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 838,
+    "w": 66,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 880,
+    "w": 306,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 906,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 932,
+    "w": 304,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 958,
+    "w": 267,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 984,
+    "w": 207,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1024,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1050,
+    "w": 90,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 1094,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1136,
+    "w": 99,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1178,
+    "w": 149,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1220,
+    "w": 85,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1262,
+    "w": 81,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 1304,
+    "w": 187,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1552,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1578,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1604,
+    "w": 45,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1646,
+    "w": 180,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1680,
+    "w": 301,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1722,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1748,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1774,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2023,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2049,
+    "w": 190,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2299,
+    "w": 306,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2325,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2574,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2600,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2642,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2668,
+    "w": 287,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2694,
+    "w": 146,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2736,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2762,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2788,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2830,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 2874,
+    "w": 275,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2900,
+    "w": 301,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2926,
+    "w": 296,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2952,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 2978,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3004,
+    "w": 304,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3030,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3056,
+    "w": 304,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3082,
+    "w": 287,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3108,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3134,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3176,
+    "w": 264,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3202,
+    "w": 298,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3228,
+    "w": 298,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3254,
+    "w": 271,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3280,
+    "w": 223,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3322,
+    "w": 163,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3348,
+    "w": 301,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3374,
+    "w": 294,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3400,
+    "w": 304,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 3426,
+    "w": 174,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3466,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3492,
+    "w": 273,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3518,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3544,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3570,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3612,
+    "w": 220,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3654,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3680,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3706,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3732,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3758,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3784,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3810,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3836,
+    "w": 84,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3878,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3912,
+    "w": 143,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3954,
+    "w": 302,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3980,
+    "w": 288,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4006,
+    "w": 265,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4032,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4058,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4084,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4110,
+    "w": 293,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4136,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4162,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4188,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4214,
+    "w": 260,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4240,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4266,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4292,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4318,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4344,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4370,
+    "w": 312,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4396,
+    "w": 115,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4438,
+    "w": 327,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4464,
+    "w": 156,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4506,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4532,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4558,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4584,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4610,
+    "w": 321,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4636,
+    "w": 300,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4662,
+    "w": 117,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4704,
+    "w": 247,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4730,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4756,
+    "w": 78,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 4800,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4842,
+    "w": 99,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4884,
+    "w": 149,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4926,
+    "w": 85,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 4968,
+    "w": 81,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 5010,
+    "w": 187,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5050,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5076,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5102,
+    "w": 313,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5128,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5154,
+    "w": 183,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5196,
+    "w": 259,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5222,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5248,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5290,
+    "w": 225,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5363,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5456,
+    "w": 263,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5476,
+    "w": 69,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5553,
+    "w": 254,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5573,
+    "w": 157,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5650,
+    "w": 209,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5743,
+    "w": 191,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5836,
+    "w": 251,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5929,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5949,
+    "w": 261,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6026,
+    "w": 253,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6046,
+    "w": 261,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6123,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6216,
+    "w": 207,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6309,
+    "w": 226,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6402,
+    "w": 270,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6495,
+    "w": 234,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6515,
+    "w": 80,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6592,
+    "w": 225,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6685,
+    "w": 254,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6778,
+    "w": 194,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6871,
+    "w": 204,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6964,
+    "w": 227,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6984,
+    "w": 101,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7061,
+    "w": 256,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7154,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7247,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7267,
+    "w": 85,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7344,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7437,
+    "w": 275,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7457,
+    "w": 37,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7534,
+    "w": 264,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7554,
+    "w": 37,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7775,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7814,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7856,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7898,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7940,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7982,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7775,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 7814,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7856,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7898,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7924,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 7966,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 8008,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 8050,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8117,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 8156,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8198,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 8240,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8307,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 8346,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8388,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8430,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 8472,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 8543,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 8543,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 8573,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 8573,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 8603,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 8603,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 8603,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

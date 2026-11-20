@@ -1,0 +1,210 @@
+[
+ {
+  "domainScript": "85f8227d-e015-4c62-ab96-ee1a08760fb3",
+  "version": "202610.1.0",
+  "ruleSets": [
+   {
+    "name": "Global",
+    "type": "GDPR",
+    "countries": 210,
+    "default": true,
+    "gpc": true,
+    "consentModel": "opt-in",
+    "banner": true,
+    "languages": 4,
+    "groups": [
+     {
+      "id": "C0001",
+      "name": "Technically required cookies",
+      "status": "always active",
+      "hosts": [
+       "infineon.com",
+       "www.dgap.de",
+       "siteintercept.qualtrics.com",
+       "qualtrics.com",
+       "attachments.office.net",
+       "box.com",
+       "jobs.infineon.com",
+       "boxcdn.net",
+       "analytics-eu.cloud.coveo.com",
+       "irs.tools.investis.com",
+       "box.net",
+       "wikimedia.org",
+       "nr-data.net",
+       "zncn5nuzoqcc1bvgj-cypress.siteintercept.qualtrics.com",
+       "cart-sbx.infineon.com",
+       "e.video-cdn.net",
+       "teams.microsoft.com",
+       "app.box.com",
+       "ahrefs.com",
+       "i.sstatic.net",
+       "tools.investis.com",
+       "zn4mbdaokn6kcahtg-cypress.siteintercept.qualtrics.com",
+       "outlook.office.com",
+       "brightcove.com",
+       "cdn.cookielaw.org",
+       "oc-cdn-public-eur.azureedge.net"
+      ]
+     },
+     {
+      "id": "C0002",
+      "name": "Performance and marketing cookies",
+      "status": "inactive",
+      "hosts": [
+       "snap.licdn.com",
+       "tiktok.com",
+       "c.clarity.ms",
+       "kununu.com",
+       "liadm.com",
+       "bat.bing.com",
+       "px.ads.linkedin.com",
+       "linkedin.com",
+       "reddit.com",
+       "doubleclick.net",
+       "dpm.demdex.net",
+       "www.infineon.com",
+       "www.linkedin.com",
+       "www.glassdoor.com",
+       "www.kununu.com",
+       "google.com",
+       "eloqua.com",
+       "googleadservices.com",
+       "demdex.net",
+       "www.facebook.com",
+       "ads.linkedin.com",
+       "youtube.com",
+       "c.bing.com",
+       "glassdoor.com",
+       "bing.com",
+       "everesttech.net",
+       "clarity.ms",
+       "www.clarity.ms",
+       "www.google.com"
+      ]
+     },
+     {
+      "id": "C0005",
+      "name": "Social Media Cookies",
+      "status": "inactive",
+      "hosts": []
+     },
+     {
+      "id": "C0003",
+      "name": "Functional Cookies",
+      "status": "inactive",
+      "hosts": []
+     },
+     {
+      "id": "C0004",
+      "name": "Targeting Cookies",
+      "status": "inactive",
+      "hosts": [
+       "youtube.com"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "CPRA - North America",
+    "type": "GDPR",
+    "countries": 1,
+    "default": false,
+    "gpc": true,
+    "consentModel": "opt-in",
+    "banner": true,
+    "languages": 1,
+    "groups": [
+     {
+      "id": "C0001",
+      "name": "Technically required cookies",
+      "status": "always active",
+      "hosts": [
+       "infineon.com",
+       "www.dgap.de",
+       "siteintercept.qualtrics.com",
+       "qualtrics.com",
+       "attachments.office.net",
+       "box.com",
+       "jobs.infineon.com",
+       "boxcdn.net",
+       "analytics-eu.cloud.coveo.com",
+       "irs.tools.investis.com",
+       "box.net",
+       "wikimedia.org",
+       "nr-data.net",
+       "zncn5nuzoqcc1bvgj-cypress.siteintercept.qualtrics.com",
+       "cart-sbx.infineon.com",
+       "e.video-cdn.net",
+       "teams.microsoft.com",
+       "app.box.com",
+       "ahrefs.com",
+       "i.sstatic.net",
+       "tools.investis.com",
+       "zn4mbdaokn6kcahtg-cypress.siteintercept.qualtrics.com",
+       "outlook.office.com",
+       "brightcove.com",
+       "cdn.cookielaw.org",
+       "oc-cdn-public-eur.azureedge.net"
+      ]
+     },
+     {
+      "id": "C0002",
+      "name": "Performance and marketing cookies",
+      "status": "inactive",
+      "hosts": [
+       "snap.licdn.com",
+       "tiktok.com",
+       "c.clarity.ms",
+       "kununu.com",
+       "liadm.com",
+       "bat.bing.com",
+       "px.ads.linkedin.com",
+       "linkedin.com",
+       "reddit.com",
+       "doubleclick.net",
+       "dpm.demdex.net",
+       "www.infineon.com",
+       "www.linkedin.com",
+       "www.glassdoor.com",
+       "www.kununu.com",
+       "google.com",
+       "eloqua.com",
+       "googleadservices.com",
+       "demdex.net",
+       "www.facebook.com",
+       "ads.linkedin.com",
+       "youtube.com",
+       "c.bing.com",
+       "glassdoor.com",
+       "bing.com",
+       "everesttech.net",
+       "clarity.ms",
+       "www.clarity.ms",
+       "www.google.com"
+      ]
+     },
+     {
+      "id": "C0005",
+      "name": "Social Media Cookies",
+      "status": "inactive",
+      "hosts": []
+     },
+     {
+      "id": "C0003",
+      "name": "Functional Cookies",
+      "status": "inactive",
+      "hosts": []
+     },
+     {
+      "id": "C0004",
+      "name": "Targeting Cookies",
+      "status": "inactive",
+      "hosts": [
+       "youtube.com"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

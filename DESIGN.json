@@ -1,0 +1,839 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-18T02:21:38.891Z",
+  "title": "Design System: Infineon Technologies (current state)",
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "mode": "prep",
+    "sources": [
+      "stardust/current/_computed-styles.json",
+      "stardust/current/_computed-styles-2.json",
+      "stardust/current/_components.tsv",
+      "cap-probe.mjs"
+    ]
+  },
+  "extensions": {
+    "breakpoints": {
+      "containerMaxWidth": "1400px",
+      "probeWidth": 2560,
+      "shellMaxWidth": null,
+      "caps": [
+        {
+          "kind": "module",
+          "px": 1400,
+          "via": "max-width",
+          "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+          "pages": [
+            "https://www.infineon.com/",
+            "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+            "https://www.infineon.com/de/about",
+            "https://www.infineon.com/de/package-overview",
+            "https://www.infineon.com/de/glossary",
+            "https://www.infineon.com/de/thank-you"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1324,
+          "via": "fixed",
+          "selector": "div.cmp-container.tablet-margin0 > div.ifxcontainer.responsivegrid > div > div.ifx-container.marginLeft80",
+          "pages": [
+            "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+            "https://www.infineon.com/de/package-overview"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1186,
+          "via": "fixed",
+          "selector": "#ds-offRampnewsletter > div.offrampnewsletter-comp.add-gaps > div.container-fluid > div.container-flexed.ifx-fixed",
+          "pages": [
+            "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1148,
+          "via": "fixed",
+          "selector": "div.overall-img-white > div.ifx-fluid.carousel-section-wrapper > div.tab-comp.d-flex > div.articlecarousel-container-new",
+          "pages": [
+            "https://www.infineon.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1036,
+          "via": "max-width",
+          "selector": "div.articlehero-component.add-gaps > div.aricle-hero > div.container-article-box.ifx-fixed > div.article-box",
+          "pages": [
+            "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 924,
+          "via": "fixed",
+          "selector": "div.quote-comp.add-gaps > div.quote-comp-wrapper > div.quote-wrapper-desktop.desktop-view > div.quote-right-side",
+          "pages": [
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 888,
+          "via": "fixed",
+          "selector": "section > div.marketingtabcards-component.add-gaps > div.marketingtabcards-container.d-none > div.tab-content.marketingtab-values",
+          "pages": [
+            "https://www.infineon.com/",
+            "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 832,
+          "via": "max-width",
+          "selector": "section > div.iconcollection-component.add-gaps > div.iconcollection-container.full-width > p",
+          "pages": [
+            "https://www.infineon.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 765,
+          "via": "fixed",
+          "selector": "div > div.cmp-text.richtext > p > b",
+          "pages": [
+            "https://www.infineon.com/de/glossary"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 688,
+          "via": "max-width",
+          "selector": "#bannerSection > div.banner-section > div.banner-right-side",
+          "pages": [
+            "https://www.infineon.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 662,
+          "via": "fixed",
+          "selector": "section > div.producthero-component.add-gaps > div.product-hero-container.product-hero-banner > div.col-md-12.col-lg-6",
+          "pages": [
+            "https://www.infineon.com/de/package-overview"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 638,
+          "via": "fixed",
+          "selector": "section > div.producthero-component.add-gaps > div.product-hero-container.product-hero-banner > picture",
+          "pages": [
+            "https://www.infineon.com/de/package-overview"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 612,
+          "via": "fixed",
+          "selector": "#bannerSection > div.banner-section > div.banner-left-side",
+          "pages": [
+            "https://www.infineon.com/",
+            "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+            "https://www.infineon.com/de/about",
+            "https://www.infineon.com/de/thank-you"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 587,
+          "via": "fixed",
+          "selector": "div.banner-left-side > div.herobanner-content-wrapper.showing > div.herobanner-content > p.bannerHeading.mb-0",
+          "pages": [
+            "https://www.infineon.com/",
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 563,
+          "via": "fixed",
+          "selector": "div.aem-Grid.aem-Grid--12 > div.ifxcontainer.responsivegrid > div > div.ifx-container.tablet-margin0",
+          "pages": [
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 541,
+          "via": "fixed",
+          "selector": "div.inpagenavigation.aem-GridColumn--tablet--12 > div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > div.inpage-navigation",
+          "pages": [
+            "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+            "https://www.infineon.com/de/about",
+            "https://www.infineon.com/de/package-overview"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 513,
+          "via": "fixed",
+          "selector": "div.inpage-navigation-cmp.add-gaps > div.inpage-navigation-heading > div.inpage-navigation > div",
+          "pages": [
+            "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 476,
+          "via": "fixed",
+          "selector": "div.articlecarousel-container-new > div.swiper.marketingEvent > div.swiper-slide-all.swiper-wrapper > div.swiper-slide.swiper-slide-active",
+          "pages": [
+            "https://www.infineon.com/",
+            "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+            "https://www.infineon.com/de/package-overview"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 439,
+          "via": "fixed",
+          "selector": "#title-0e38dcd7e0 > h2.dynamicAnchors.heading-04 > a.cmp-title__link",
+          "pages": [
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 418,
+          "via": "fixed",
+          "selector": "#pzn-home-teaser-row-cards > div.image-container.teaserCard > div.row-cards-type.image-item-large",
+          "pages": [
+            "https://www.infineon.com/",
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 375,
+          "via": "max-width",
+          "selector": "div.productcarousel-container.cmp-productcarousel__container > div.cmp-productcarousel__swiper.swiper > div.swiper-wrapper.cmp-productcarousel__track > div.swiper-slide.swiper-slide-active",
+          "pages": [
+            "https://www.infineon.com/",
+            "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+            "https://www.infineon.com/de/about",
+            "https://www.infineon.com/de/package-overview"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 346,
+          "via": "fixed",
+          "selector": "div.overall-img-white > div.ifx-fluid.carousel-section-wrapper > div.tab-comp.d-flex > div.tab-nav.col-2",
+          "pages": [
+            "https://www.infineon.com/",
+            "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+            "https://www.infineon.com/de/about",
+            "https://www.infineon.com/de/package-overview"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 305,
+          "via": "fixed",
+          "selector": "div.articlecarousel-container-new > div.swiper.marketingEvent > div.swiper-slide-all.swiper-wrapper > div.swiper-slide.swiper-slide-next",
+          "pages": [
+            "https://www.infineon.com/",
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+            "https://www.infineon.com/de/about",
+            "https://www.infineon.com/de/package-overview"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 278,
+          "via": "fixed",
+          "selector": "div.documents-container > section.document-table-wrapper > div.documnets-table-head-section.d-flex > div.filter-section.d-lg-flex",
+          "pages": [
+            "https://www.infineon.com/de/package-overview"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 248,
+          "via": "fixed",
+          "selector": "div.productcarousel-container.cmp-productcarousel__container > div.cmp-productcarousel__swiper.swiper > div.swiper-wrapper.cmp-productcarousel__track > div.swiper-slide.swiper-slide-next",
+          "pages": [
+            "https://www.infineon.com/",
+            "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+            "https://www.infineon.com/de/about",
+            "https://www.infineon.com/de/package-overview"
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "url": "https://www.infineon.com/",
+          "section": 0,
+          "selector": "article > div.root.container > div.cmp-container > div.aem-Grid.aem-Grid--12",
+          "px": null
+        },
+        {
+          "url": "https://www.infineon.com/",
+          "section": 1,
+          "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+          "px": 1400
+        },
+        {
+          "url": "https://www.infineon.com/",
+          "section": 2,
+          "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+          "px": 1400
+        },
+        {
+          "url": "https://www.infineon.com/",
+          "section": 3,
+          "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+          "px": 1400
+        },
+        {
+          "url": "https://www.infineon.com/",
+          "section": 4,
+          "selector": "article > div.root.container > div.cmp-container > div.experiencefragment.aem-GridColumn",
+          "px": null
+        },
+        {
+          "url": "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+          "section": 0,
+          "selector": "article > div.root.container > div.cmp-container > div.aem-Grid.aem-Grid--12",
+          "px": null
+        },
+        {
+          "url": "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+          "section": 1,
+          "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+          "px": 1400
+        },
+        {
+          "url": "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+          "section": 2,
+          "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+          "px": 1400
+        },
+        {
+          "url": "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+          "section": 3,
+          "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+          "px": 1186
+        },
+        {
+          "url": "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+          "section": 4,
+          "selector": "article > div.root.container > div.cmp-container > div.experiencefragment.aem-GridColumn",
+          "px": null
+        },
+        {
+          "url": "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+          "section": 0,
+          "selector": "article > div.root.container > div.cmp-container > div.aem-Grid.aem-Grid--12",
+          "px": null
+        },
+        {
+          "url": "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+          "section": 1,
+          "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+          "px": 1400
+        },
+        {
+          "url": "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+          "section": 2,
+          "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+          "px": 1400
+        },
+        {
+          "url": "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+          "section": 3,
+          "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+          "px": 1186
+        },
+        {
+          "url": "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+          "section": 4,
+          "selector": "article > div.root.container > div.cmp-container > div.experiencefragment.aem-GridColumn",
+          "px": null
+        },
+        {
+          "url": "https://www.infineon.com/de/about",
+          "section": 0,
+          "selector": "article > div.root.container > div.cmp-container > div.aem-Grid.aem-Grid--12",
+          "px": null
+        },
+        {
+          "url": "https://www.infineon.com/de/about",
+          "section": 1,
+          "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+          "px": 1400
+        },
+        {
+          "url": "https://www.infineon.com/de/about",
+          "section": 2,
+          "selector": "article > div.root.container > div.cmp-container > div.ifxcontainer.responsivegrid",
+          "px": 1400
+        },
+        {
+          "url": "https://www.infineon.com/de/about",
+          "section": 3,
+          "selector": "article > div.root.container > div.cmp-container > div.experiencefragment.aem-GridColumn",
+          "px": null
+        },
+        {
+          "url": "https://www.infineon.com/de/package-overview",
+          "section": 0,
+          "selector": "#package-overview-7ec7be0c41 > main > article > div.root.container",
+          "px": 1400
+        },
+        {
+          "url": "https://www.infineon.com/de/package-overview",
+          "section": 1,
+          "selector": "#package-overview-7ec7be0c41 > main > article > div.ifxcontainer.responsivegrid",
+          "px": 1400
+        },
+        {
+          "url": "https://www.infineon.com/de/package-overview",
+          "section": 2,
+          "selector": "#package-overview-7ec7be0c41 > main > article > div.experiencefragment.aem-GridColumn",
+          "px": null
+        },
+        {
+          "url": "https://www.infineon.com/de/glossary",
+          "section": 0,
+          "selector": "#container-f0f0c05cb9 > div.aem-Grid.aem-Grid--12",
+          "px": null
+        },
+        {
+          "url": "https://www.infineon.com/de/glossary",
+          "section": 1,
+          "selector": "#container-f0f0c05cb9 > div.ifxcontainer.responsivegrid",
+          "px": 1400
+        },
+        {
+          "url": "https://www.infineon.com/de/glossary",
+          "section": 2,
+          "selector": "#container-f0f0c05cb9 > div.ifxcontainer.responsivegrid",
+          "px": 1400
+        },
+        {
+          "url": "https://www.infineon.com/de/glossary",
+          "section": 3,
+          "selector": "#container-f0f0c05cb9 > div.experiencefragment.aem-GridColumn",
+          "px": null
+        },
+        {
+          "url": "https://www.infineon.com/de/thank-you",
+          "section": 0,
+          "selector": "#container-f0f0c05cb9 > div.aem-Grid.aem-Grid--12",
+          "px": null
+        },
+        {
+          "url": "https://www.infineon.com/de/thank-you",
+          "section": 1,
+          "selector": "#container-f0f0c05cb9 > div.ifxcontainer.responsivegrid",
+          "px": 1400
+        },
+        {
+          "url": "https://www.infineon.com/de/thank-you",
+          "section": 2,
+          "selector": "#container-f0f0c05cb9 > div.experiencefragment.aem-GridColumn",
+          "px": null
+        }
+      ],
+      "capRegister": [],
+      "capProvenance": {
+        "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+        "writtenAt": "2026-11-18T02:19:23.480Z",
+        "baseWidth": 1440,
+        "urls": [
+          "https://www.infineon.com/",
+          "https://www.infineon.com/de/our-stories/semiconductors-driving-decarbonization",
+          "https://www.infineon.com/de/our-stories/electromobility-greener-future",
+          "https://www.infineon.com/de/about",
+          "https://www.infineon.com/de/package-overview",
+          "https://www.infineon.com/de/glossary",
+          "https://www.infineon.com/de/thank-you"
+        ]
+      }
+    },
+    "colorMeta": {
+      "teal": {
+        "role": "primary",
+        "displayName": "Infineon Teal"
+      },
+      "teal-deep": {
+        "role": "primary-hover",
+        "displayName": "Teal hover"
+      },
+      "ink": {
+        "role": "text",
+        "displayName": "Ink"
+      },
+      "canvas": {
+        "role": "background",
+        "displayName": "Canvas"
+      }
+    },
+    "shadows": [
+      {
+        "name": "card-ring",
+        "value": "rgb(238, 237, 237) 0px 0px 0px 1px inset",
+        "purpose": "Card outline (home news/product cards)."
+      },
+      {
+        "name": "map-control",
+        "value": "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px",
+        "purpose": "Map controls on contact page."
+      }
+    ],
+    "fonts": {
+      "primary": "Source Sans 3 (OFL, self-hostable; weights 400/600/900 harvested in assets/fonts)",
+      "fallback": "Arial Metrics Override (local Arial with size-adjust 94.19%, ascent 108.71%, descent 42.47%)",
+      "icons": "infineon-icons (brand icon font, assets/fonts/infineon-icons.woff2)",
+      "secondary": "Roboto (Google Fonts, 2 button usages)"
+    },
+    "voice": {
+      "heroHeadline": "We shape key markets with advanced semiconductor solutions",
+      "ctas": [
+        "Discover more",
+        "Read more",
+        "Learn more"
+      ]
+    },
+    "modules": [
+      {
+        "name": "text",
+        "instances": 49,
+        "pages": [
+          "de-about",
+          "de-careers",
+          "de-event-techfor",
+          "de-glossary",
+          "de-opn",
+          "de-our-stories-artificial-intelligence-in-everyday-life",
+          "de-our-stories-artificial-intelligence-semiconductors",
+          "de-our-stories-bi-directional-charging"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "title",
+        "instances": 47,
+        "pages": [
+          "de-about",
+          "de-careers",
+          "de-event-techfor",
+          "de-opn",
+          "de-our-stories-artificial-intelligence-in-everyday-life",
+          "de-our-stories-artificial-intelligence-semiconductors",
+          "de-our-stories-bi-directional-charging",
+          "de-our-stories-charging-infrastructure"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "teaserrowcards",
+        "instances": 46,
+        "pages": [
+          "de-careers",
+          "de-event-techfor",
+          "de-our-stories-artificial-intelligence-in-everyday-life",
+          "de-our-stories-artificial-intelligence-semiconductors",
+          "de-our-stories-bi-directional-charging",
+          "de-our-stories-charging-infrastructure",
+          "de-our-stories-ecosystem-summit",
+          "de-our-stories-efficient-energy-storage-systems-energy-transition"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "articlehero",
+        "instances": 43,
+        "pages": [
+          "de-our-stories-artificial-intelligence-in-everyday-life",
+          "de-our-stories-artificial-intelligence-semiconductors",
+          "de-our-stories-bi-directional-charging",
+          "de-our-stories-charging-infrastructure",
+          "de-our-stories-ecosystem-summit",
+          "de-our-stories-efficient-energy-storage-systems-energy-transition",
+          "de-our-stories-electric-cordless-power-tools",
+          "de-our-stories-electromobility-greener-future"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "image",
+        "instances": 37,
+        "pages": [
+          "de-about",
+          "de-careers",
+          "de-opn",
+          "de-our-stories-artificial-intelligence-in-everyday-life",
+          "de-our-stories-artificial-intelligence-semiconductors",
+          "de-our-stories-bi-directional-charging",
+          "de-our-stories-charging-infrastructure",
+          "de-our-stories-efficient-energy-storage-systems-energy-transition"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "inpagenavigation",
+        "instances": 33,
+        "pages": [
+          "de-opn",
+          "de-our-stories-artificial-intelligence-semiconductors",
+          "de-our-stories-bi-directional-charging",
+          "de-our-stories-charging-infrastructure",
+          "de-our-stories-efficient-energy-storage-systems-energy-transition",
+          "de-our-stories-electric-cordless-power-tools",
+          "de-our-stories-emission-saving-potential-freight-transportation",
+          "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "textbox",
+        "instances": 30,
+        "pages": [
+          "de-event-techfor",
+          "de-our-stories-artificial-intelligence-in-everyday-life",
+          "de-our-stories-artificial-intelligence-semiconductors",
+          "de-our-stories-bi-directional-charging",
+          "de-our-stories-charging-infrastructure",
+          "de-our-stories-efficient-energy-storage-systems-energy-transition",
+          "de-our-stories-electromobility-greener-future",
+          "de-our-stories-emission-saving-potential-freight-transportation"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "video",
+        "instances": 27,
+        "pages": [
+          "de-careers",
+          "de-event-techfor",
+          "de-our-stories-artificial-intelligence-in-everyday-life",
+          "de-our-stories-ecosystem-summit",
+          "de-our-stories-efficient-energy-storage-systems-energy-transition",
+          "de-our-stories-electromobility-greener-future",
+          "de-our-stories-emission-saving-potential-freight-transportation",
+          "de-our-stories-enable-provide-ai-customer-innovation"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "tertiarylink",
+        "instances": 19,
+        "pages": [
+          "de-about",
+          "de-careers",
+          "de-our-stories-artificial-intelligence-in-everyday-life",
+          "de-our-stories-artificial-intelligence-semiconductors",
+          "de-our-stories-electromobility-greener-future",
+          "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors",
+          "de-our-stories-enable-provide-ai-customer-innovation",
+          "de-our-stories-enabling-ethernet"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "quote",
+        "instances": 10,
+        "pages": [
+          "de-our-stories-artificial-intelligence-in-everyday-life",
+          "de-our-stories-ecosystem-summit",
+          "de-our-stories-electromobility-greener-future",
+          "de-our-stories-green-potential-data-centers",
+          "de-our-stories-how-microcontroller-enable-risc-v",
+          "de-our-stories-microelectronics-connecting-real-digital-world",
+          "de-our-stories-power-infrastructure-renewables",
+          "de-our-stories-rc1-for-sdv-sdx-and-physical-ai"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "genericbreadcrumb",
+        "instances": 7,
+        "pages": [
+          "de-event-techfor",
+          "de-glossary",
+          "de-opn",
+          "de-partners",
+          "de-support-faqs",
+          "de-support-service-center",
+          "de-support"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "button",
+        "instances": 6,
+        "pages": [
+          "de-about",
+          "de-careers",
+          "de-our-stories-rc1-for-sdv-sdx-and-physical-ai",
+          "de-partners",
+          "de-support",
+          "de-training"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "offrampnewsletter",
+        "instances": 5,
+        "pages": [
+          "de-our-stories-efficient-energy-storage-systems-energy-transition",
+          "de-our-stories-green-hydrogen-fuel-future",
+          "de-our-stories-semiconductors-driving-decarbonization",
+          "de-our-stories-smart-home-building-technologies",
+          "de-our-stories-smart-things-consumer-devices"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "imagegallery",
+        "instances": 4,
+        "pages": [
+          "de-our-stories-ecosystem-summit",
+          "de-our-stories-microelectronics-connecting-real-digital-world",
+          "de-our-stories-smart-home-building-technologies",
+          "de-our-stories-we-power-ai"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "linkcollection",
+        "instances": 3,
+        "pages": [
+          "de-event-techfor",
+          "de-our-stories-electromobility-greener-future",
+          "de-our-stories-microelectronics-connecting-real-digital-world"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "accordiontabbedcontent",
+        "instances": 3,
+        "pages": [
+          "de-opn",
+          "de-support-service-center",
+          "de-training"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "supportpage-offramp",
+        "instances": 3,
+        "pages": [
+          "de-support-faqs",
+          "de-support",
+          "de-training"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "secondary-navigation",
+        "instances": 2,
+        "pages": [
+          "de-careers",
+          "de-partners"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "container",
+        "instances": 2,
+        "pages": [
+          "de-config",
+          "de-logout"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "marketingtab",
+        "instances": 2,
+        "pages": [
+          "de",
+          "index"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "tabscardiconcollection",
+        "instances": 2,
+        "pages": [
+          "de",
+          "index"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      },
+      {
+        "name": "tabscardkpi",
+        "instances": 2,
+        "pages": [
+          "de",
+          "index"
+        ],
+        "status": "candidate",
+        "source": "AEM component wrapper class (aem-GridColumn)"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Teal fill CTA; hover #08665c.",
+      "html": "<a class=\"btn-primary\">Discover more</a>",
+      "css": ".btn-primary{background:#0a8276;color:#fff;border-radius:4px}.btn-primary:hover{background:#08665c}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Engineered calm",
+    "overview": "White canvas, ink type, one teal accent, imagery-led stories.",
+    "dos": [
+      "Keep teal as the only accent"
+    ],
+    "donts": [
+      "No added shadows or gradients"
+    ]
+  }
+}

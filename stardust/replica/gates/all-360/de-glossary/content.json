@@ -1,0 +1,7216 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-18T23:26:58.714Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.infineon.com/de/glossary",
+  "at": "2026-11-18T23:26:35.617Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7632,
+  "root": "div.genericbreadcrumb.aem-GridColumn",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#infiContainer > div.mobilelogo-container > a#indiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > a#indiLogo > img#infiLogo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infi logo",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button#searchicon-items",
+    "x": 164,
+    "y": 14,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "react-component#react-cart-data > div > button#cart-Icon-0",
+    "x": 220,
+    "y": 15,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.usericon-item.d-block",
+    "x": 260,
+    "y": 17,
+    "w": 40,
+    "h": 25,
+    "text": "user profile"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mobilelogo-container > div.profile-control > button.navbar-toggler",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "nav.genericBreadcrumb-mobileview > div.lastBreadcrumb > a.text-decoration-none",
+    "x": 36,
+    "y": 82,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 290,
+    "y": 77,
+    "w": 22,
+    "h": 26,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.share-dropdown-container.col-12 > div.dropdown.d-flex > button#pagesharedropdownMenuButton1",
+    "x": 290,
+    "y": 77,
+    "w": 22,
+    "h": 26,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.dropdown.d-flex > div.selected-icon.page-data-js > button.icon-wrapper.px-0",
+    "x": 328,
+    "y": 77,
+    "w": 16,
+    "h": 26,
+    "text": "bookmaarkclick"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "header > div.page-header.simple-header-component > h1.heading-03",
+    "x": 16,
+    "y": 148,
+    "w": 328,
+    "h": 30,
+    "level": 1,
+    "text": "glossar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div#text-8fa040b950 > p > b",
+    "x": 16,
+    "y": 226,
+    "w": 321,
+    "h": 77,
+    "text": "J K O P Q R X Y Z"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 16,
+    "y": 226,
+    "w": 24,
+    "h": 25,
+    "text": "0-9",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 58,
+    "y": 226,
+    "w": 10,
+    "h": 25,
+    "text": "a",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 86,
+    "y": 226,
+    "w": 11,
+    "h": 25,
+    "text": "b",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 115,
+    "y": 226,
+    "w": 10,
+    "h": 25,
+    "text": "c",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 143,
+    "y": 226,
+    "w": 11,
+    "h": 25,
+    "text": "d",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 173,
+    "y": 226,
+    "w": 10,
+    "h": 25,
+    "text": "e",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 200,
+    "y": 226,
+    "w": 9,
+    "h": 25,
+    "text": "f",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 228,
+    "y": 226,
+    "w": 11,
+    "h": 25,
+    "text": "g",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 257,
+    "y": 226,
+    "w": 12,
+    "h": 25,
+    "text": "h",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 287,
+    "y": 226,
+    "w": 5,
+    "h": 25,
+    "text": "i",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 45,
+    "y": 252,
+    "w": 9,
+    "h": 25,
+    "text": "l",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 72,
+    "y": 252,
+    "w": 13,
+    "h": 25,
+    "text": "m",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 103,
+    "y": 252,
+    "w": 12,
+    "h": 25,
+    "text": "n",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 250,
+    "y": 252,
+    "w": 10,
+    "h": 25,
+    "text": "s",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 278,
+    "y": 252,
+    "w": 10,
+    "h": 25,
+    "text": "t",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 306,
+    "y": 252,
+    "w": 12,
+    "h": 25,
+    "text": "u",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 16,
+    "y": 278,
+    "w": 10,
+    "h": 25,
+    "text": "v",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "p > b > a",
+    "x": 44,
+    "y": 278,
+    "w": 14,
+    "h": 25,
+    "text": "w",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#09 > h2#09",
+    "x": 16,
+    "y": 320,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "0-9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-f1d9355d1d > h1.dynamicAnchors.heading-06",
+    "x": 16,
+    "y": 372,
+    "w": 328,
+    "h": 20,
+    "level": 1,
+    "text": "300-millimeter-technologie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-159d2590ff > p",
+    "x": 16,
+    "y": 400,
+    "w": 328,
+    "h": 78,
+    "text": "Oberbegriff für die Herstellung und Prozessierung von Wafern mit einem Durchmess"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#A > h2#A",
+    "x": 16,
+    "y": 502,
+    "w": 328,
+    "h": 36,
+    "level": 2,
+    "text": "a"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 562,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "ac-dc-wandlung"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 655,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "analog-mixed-signal"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 748,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "asic"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 841,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "authentifizierung"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#B > h1#B",
+    "x": 16,
+    "y": 934,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "b"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 1002,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "backend-fertigung"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 1095,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "bare die"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 1188,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "bipolar"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#C > h1#C",
+    "x": 16,
+    "y": 1281,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "c"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-b044bd39e7 > h6.dynamicAnchors.title-mt-0",
+    "x": 16,
+    "y": 1341,
+    "w": 328,
+    "h": 20,
+    "level": 6,
+    "text": "cmos"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-bbfcdd5b6d > p",
+    "x": 16,
+    "y": 1369,
+    "w": 328,
+    "h": 156,
+    "text": "Complementary Metal Oxide Semiconductor. Halbleiter-Standardfertigungstechnologi"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#D > h1#D",
+    "x": 16,
+    "y": 1541,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 1609,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "dc-dc-wandlung"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 1702,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "dünnwafer"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#E > h1#E",
+    "x": 16,
+    "y": 1795,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "e"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-468a737e4b > h6.dynamicAnchors.title-mt-0",
+    "x": 16,
+    "y": 1855,
+    "w": 328,
+    "h": 20,
+    "level": 6,
+    "text": "epitaxie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-feb4e6f147 > p",
+    "x": 16,
+    "y": 1883,
+    "w": 328,
+    "h": 338,
+    "text": "Von griechisch epi = „auf“ oder „über“ und taxis = „ordnen“ oder „ausrichten“. E"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#F > h1#F",
+    "x": 16,
+    "y": 2237,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "f"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 2305,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "facts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 2398,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "frontend-fertigung"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#G > h1#G",
+    "x": 16,
+    "y": 2491,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "g"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 2559,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "galliumnitrid"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 2652,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "gan"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#H > h1#H",
+    "x": 16,
+    "y": 2745,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "h"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 2813,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "hall-sensor"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 2906,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "hgü"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#I > h1#I",
+    "x": 16,
+    "y": 2999,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "i"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 3067,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "ic"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 3160,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "igbt-modul"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 3253,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "integrity guard"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#L > h1#L",
+    "x": 16,
+    "y": 3346,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "l"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-ddb3dcd93f > h6.dynamicAnchors.title-mt-0",
+    "x": 16,
+    "y": 3406,
+    "w": 328,
+    "h": 20,
+    "level": 6,
+    "text": "leistungstransistor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-a410c8b8e4 > p",
+    "x": 16,
+    "y": 3434,
+    "w": 328,
+    "h": 364,
+    "text": "Mit Leistungstransistor wird in der Elektronik ein Transistor zum Schalten oder "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#M > h1#M",
+    "x": 16,
+    "y": 3814,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "m"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 3882,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "mems"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 3975,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "mosfet"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#N > h1#N",
+    "x": 16,
+    "y": 4068,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "n"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-b196f1b637 > h6.dynamicAnchors.title-mt-0",
+    "x": 16,
+    "y": 4128,
+    "w": 328,
+    "h": 20,
+    "level": 6,
+    "text": "nfc"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-c05533ce92 > p",
+    "x": 16,
+    "y": 4156,
+    "w": 328,
+    "h": 338,
+    "text": "Near Field Communication. Ein internationaler Übertragungsstandard zum kontaktlo"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#S > h1#S",
+    "x": 16,
+    "y": 4510,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "s"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 4578,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "schaltnetzteil"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 4671,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "schottky-diode"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 4764,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "sic"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 4857,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "siliziumkarbid"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#T > h1#T",
+    "x": 16,
+    "y": 4950,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "t"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 5018,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "tpm"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-header.isAccordionTabbedComponent > h3.accordion-button.acd-button-click",
+    "x": 16,
+    "y": 5111,
+    "w": 328,
+    "h": 44,
+    "level": 3,
+    "text": "trusted computing"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#U > h1#U",
+    "x": 16,
+    "y": 5204,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "u"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-a8928c0bf1 > h6.dynamicAnchors.title-mt-0",
+    "x": 16,
+    "y": 5264,
+    "w": 328,
+    "h": 20,
+    "level": 6,
+    "text": "umrichter"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-989dc388cc > p",
+    "x": 16,
+    "y": 5292,
+    "w": 328,
+    "h": 390,
+    "text": "Steuereinheit, die Wechselspannungen verschiedener Spannungen und Frequenzen ine"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#V > h1#V",
+    "x": 16,
+    "y": 5698,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "v"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-29aaee8b18 > h6.dynamicAnchors.title-mt-0",
+    "x": 16,
+    "y": 5758,
+    "w": 328,
+    "h": 20,
+    "level": 6,
+    "text": "verbindungshalbleiter"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-086c0d0e67 > p",
+    "x": 16,
+    "y": 5786,
+    "w": 328,
+    "h": 390,
+    "text": "Im Gegensatz zu siliziumbasierten Halbleitern bestehen Verbindungshalbleiter aus"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#W > h1#W",
+    "x": 16,
+    "y": 6192,
+    "w": 328,
+    "h": 44,
+    "level": 1,
+    "text": "w"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.title-component.add-gaps > div#title-034eb3b98b > h6.dynamicAnchors.title-mt-0",
+    "x": 16,
+    "y": 6252,
+    "w": 328,
+    "h": 20,
+    "level": 6,
+    "text": "wechselrichter"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div > div#text-d2e6ead3b8 > p",
+    "x": 16,
+    "y": 6280,
+    "w": 328,
+    "h": 260,
+    "text": "Ein Wechselrichter (auch Inverter genannt) ist ein elektrisches Gerät, das Gleic"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.nav-list.d-flex > div.logo-block > img",
+    "x": 16,
+    "y": 6596,
+    "w": 124,
+    "h": 54,
+    "text": "infineon logo",
+    "file": "Infineon_Logo_Inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 6690,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6730,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6772,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6814,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6856,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 6898,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 196,
+    "y": 6690,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6730,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6772,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6814,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6882,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6924,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 196,
+    "y": 6966,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 16,
+    "y": 7032,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7072,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7114,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 16,
+    "y": 7156,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > div.link-title > p",
+    "x": 32,
+    "y": 7222,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7262,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7304,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7346,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.link-list > li > a",
+    "x": 32,
+    "y": 7388,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 7454,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 192,
+    "y": 7454,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.listfont.cursor-style",
+    "x": 16,
+    "y": 7484,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.d-md-flex > div.legal-copyright > div.listfont",
+    "x": 21,
+    "y": 7519,
+    "w": 229,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#youtube",
+    "x": 16,
+    "y": 7572,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#linkedin",
+    "x": 56,
+    "y": 7572,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#instagram",
+    "x": 96,
+    "y": 7572,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.tiktok-item > a#tiktok",
+    "x": 136,
+    "y": 7569,
+    "w": 16,
+    "h": 22,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.tiktok-item > a#tiktok > img",
+    "x": 136,
+    "y": 7574,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#facebook",
+    "x": 176,
+    "y": 7572,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 119,
+    "controls": 52,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--938eead7--aemcoder.aem.live/de/glossary",
+  "at": "2026-11-18T23:26:58.616Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7639,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > div.site-header-bar > a.site-header-logo",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.site-header-logo > span.icon.icon-logo > img",
+    "x": 16,
+    "y": 14,
+    "w": 82,
+    "h": 36,
+    "text": "",
+    "file": "logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "text": "search"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-search",
+    "x": 164,
+    "y": 15,
+    "w": 40,
+    "h": 34,
+    "label": "search",
+    "value": "search",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "text": "cart"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-cart",
+    "x": 220,
+    "y": 20,
+    "w": 24,
+    "h": 24,
+    "label": "cart",
+    "value": "cart",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "text": "account"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-user",
+    "x": 260,
+    "y": 19,
+    "w": 40,
+    "h": 25,
+    "label": "account",
+    "value": "account",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "text": "toggle navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header-bar > div.site-header-mobile > button.m-menu",
+    "x": 308,
+    "y": 14,
+    "w": 36,
+    "h": 36,
+    "label": "toggle navigation",
+    "value": "toggle navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 38,
+    "y": 82,
+    "w": 35,
+    "h": 21,
+    "text": "home",
+    "href": "/de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.ifx-fixed.breadcrumb-inner > div.breadcrumb-tools > button.breadcrumb-tool.breadcrumb-tool-share",
+    "x": 290,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "text": "pageshare"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "nav.ifx-fixed.breadcrumb-inner > div.breadcrumb-tools > button.breadcrumb-tool.breadcrumb-tool-share",
+    "x": 290,
+    "y": 84,
+    "w": 22,
+    "h": 18,
+    "label": "pageshare",
+    "value": "pageshare",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-header-comp > div.page-header-head > h1#glossar",
+    "x": 16,
+    "y": 148,
+    "w": 273,
+    "h": 30,
+    "level": 1,
+    "text": "glossar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-index > p",
+    "x": 16,
+    "y": 226,
+    "w": 328,
+    "h": 78,
+    "text": "J K O P Q R X Y Z"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 16,
+    "y": 226,
+    "w": 24,
+    "h": 25,
+    "text": "0-9",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 58,
+    "y": 226,
+    "w": 10,
+    "h": 25,
+    "text": "a",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 86,
+    "y": 226,
+    "w": 11,
+    "h": 25,
+    "text": "b",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 115,
+    "y": 226,
+    "w": 10,
+    "h": 25,
+    "text": "c",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 143,
+    "y": 226,
+    "w": 11,
+    "h": 25,
+    "text": "d",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 173,
+    "y": 226,
+    "w": 10,
+    "h": 25,
+    "text": "e",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 200,
+    "y": 226,
+    "w": 9,
+    "h": 25,
+    "text": "f",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 228,
+    "y": 226,
+    "w": 11,
+    "h": 25,
+    "text": "g",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 257,
+    "y": 226,
+    "w": 12,
+    "h": 25,
+    "text": "h",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 287,
+    "y": 226,
+    "w": 5,
+    "h": 25,
+    "text": "i",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 45,
+    "y": 252,
+    "w": 9,
+    "h": 25,
+    "text": "l",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 72,
+    "y": 252,
+    "w": 13,
+    "h": 25,
+    "text": "m",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 103,
+    "y": 252,
+    "w": 12,
+    "h": 25,
+    "text": "n",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 250,
+    "y": 252,
+    "w": 10,
+    "h": 25,
+    "text": "s",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 278,
+    "y": 252,
+    "w": 10,
+    "h": 25,
+    "text": "t",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 306,
+    "y": 252,
+    "w": 12,
+    "h": 25,
+    "text": "u",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 16,
+    "y": 278,
+    "w": 10,
+    "h": 25,
+    "text": "v",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-flow.accordion-index > p > a",
+    "x": 44,
+    "y": 278,
+    "w": 14,
+    "h": 25,
+    "text": "w",
+    "href": "/de/glossary"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h3#09",
+    "x": 16,
+    "y": 320,
+    "w": 328,
+    "h": 36,
+    "level": 3,
+    "text": "0-9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h4#millimeter-technologie",
+    "x": 16,
+    "y": 372,
+    "w": 328,
+    "h": 20,
+    "level": 4,
+    "text": "300-millimeter-technologie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > p",
+    "x": 16,
+    "y": 400,
+    "w": 328,
+    "h": 78,
+    "text": "Oberbegriff für die Herstellung und Prozessierung von Wafern mit einem Durchmess"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h3#A",
+    "x": 16,
+    "y": 502,
+    "w": 328,
+    "h": 36,
+    "level": 3,
+    "text": "a"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#ac-dc-wandlung",
+    "x": 16,
+    "y": 562,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "ac-dc-wandlung"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 562,
+    "w": 32,
+    "h": 32,
+    "text": "ac-dc-wandlung"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 562,
+    "w": 32,
+    "h": 32,
+    "label": "ac-dc-wandlung",
+    "value": "ac-dc-wandlung",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#analog-mixed-signal",
+    "x": 16,
+    "y": 655,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "analog-mixed-signal"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 655,
+    "w": 32,
+    "h": 32,
+    "text": "analog-mixed-signal"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 655,
+    "w": 32,
+    "h": 32,
+    "label": "analog-mixed-signal",
+    "value": "analog-mixed-signal",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#asic",
+    "x": 16,
+    "y": 748,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "asic"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 748,
+    "w": 32,
+    "h": 32,
+    "text": "asic"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 748,
+    "w": 32,
+    "h": 32,
+    "label": "asic",
+    "value": "asic",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#authentifizierung",
+    "x": 16,
+    "y": 841,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "authentifizierung"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 841,
+    "w": 32,
+    "h": 32,
+    "text": "authentifizierung"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 841,
+    "w": 32,
+    "h": 32,
+    "label": "authentifizierung",
+    "value": "authentifizierung",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#B",
+    "x": 16,
+    "y": 934,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "b"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#backend-fertigung",
+    "x": 16,
+    "y": 1002,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "backend-fertigung"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 1002,
+    "w": 32,
+    "h": 32,
+    "text": "backend-fertigung"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 1002,
+    "w": 32,
+    "h": 32,
+    "label": "backend-fertigung",
+    "value": "backend-fertigung",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#bare-die",
+    "x": 16,
+    "y": 1095,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "bare die"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 1095,
+    "w": 32,
+    "h": 32,
+    "text": "bare die"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 1095,
+    "w": 32,
+    "h": 32,
+    "label": "bare die",
+    "value": "bare die",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#bipolar",
+    "x": 16,
+    "y": 1188,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "bipolar"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 1188,
+    "w": 32,
+    "h": 32,
+    "text": "bipolar"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 1188,
+    "w": 32,
+    "h": 32,
+    "label": "bipolar",
+    "value": "bipolar",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#C",
+    "x": 16,
+    "y": 1281,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "c"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h4#cmos",
+    "x": 16,
+    "y": 1341,
+    "w": 328,
+    "h": 20,
+    "level": 4,
+    "text": "cmos"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > p",
+    "x": 16,
+    "y": 1369,
+    "w": 328,
+    "h": 156,
+    "text": "Complementary Metal Oxide Semiconductor. Halbleiter-Standardfertigungstechnologi"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#D",
+    "x": 16,
+    "y": 1541,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#dc-dc-wandlung",
+    "x": 16,
+    "y": 1609,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "dc-dc-wandlung"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 1609,
+    "w": 32,
+    "h": 32,
+    "text": "dc-dc-wandlung"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 1609,
+    "w": 32,
+    "h": 32,
+    "label": "dc-dc-wandlung",
+    "value": "dc-dc-wandlung",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#dünnwafer",
+    "x": 16,
+    "y": 1702,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "dünnwafer"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 1702,
+    "w": 32,
+    "h": 32,
+    "text": "dünnwafer"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 1702,
+    "w": 32,
+    "h": 32,
+    "label": "dünnwafer",
+    "value": "dünnwafer",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#E",
+    "x": 16,
+    "y": 1795,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "e"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h4#epitaxie",
+    "x": 16,
+    "y": 1855,
+    "w": 328,
+    "h": 20,
+    "level": 4,
+    "text": "epitaxie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > p",
+    "x": 16,
+    "y": 1883,
+    "w": 328,
+    "h": 338,
+    "text": "Von griechisch epi = „auf“ oder „über“ und taxis = „ordnen“ oder „ausrichten“. E"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#F",
+    "x": 16,
+    "y": 2237,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "f"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#facts",
+    "x": 16,
+    "y": 2305,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "facts"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 2305,
+    "w": 32,
+    "h": 32,
+    "text": "facts"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 2305,
+    "w": 32,
+    "h": 32,
+    "label": "facts",
+    "value": "facts",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#frontend-fertigung",
+    "x": 16,
+    "y": 2398,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "frontend-fertigung"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 2398,
+    "w": 32,
+    "h": 32,
+    "text": "frontend-fertigung"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 2398,
+    "w": 32,
+    "h": 32,
+    "label": "frontend-fertigung",
+    "value": "frontend-fertigung",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#G",
+    "x": 16,
+    "y": 2491,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "g"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#galliumnitrid",
+    "x": 16,
+    "y": 2559,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "galliumnitrid"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 2559,
+    "w": 32,
+    "h": 32,
+    "text": "galliumnitrid"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 2559,
+    "w": 32,
+    "h": 32,
+    "label": "galliumnitrid",
+    "value": "galliumnitrid",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#gan",
+    "x": 16,
+    "y": 2652,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "gan"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 2652,
+    "w": 32,
+    "h": 32,
+    "text": "gan"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 2652,
+    "w": 32,
+    "h": 32,
+    "label": "gan",
+    "value": "gan",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#H",
+    "x": 16,
+    "y": 2745,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "h"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#hall-sensor",
+    "x": 16,
+    "y": 2813,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "hall-sensor"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 2813,
+    "w": 32,
+    "h": 32,
+    "text": "hall-sensor"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 2813,
+    "w": 32,
+    "h": 32,
+    "label": "hall-sensor",
+    "value": "hall-sensor",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#hgü",
+    "x": 16,
+    "y": 2906,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "hgü"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 2906,
+    "w": 32,
+    "h": 32,
+    "text": "hgü"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 2906,
+    "w": 32,
+    "h": 32,
+    "label": "hgü",
+    "value": "hgü",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#I",
+    "x": 16,
+    "y": 2999,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "i"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#ic",
+    "x": 16,
+    "y": 3067,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "ic"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3067,
+    "w": 32,
+    "h": 32,
+    "text": "ic"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3067,
+    "w": 32,
+    "h": 32,
+    "label": "ic",
+    "value": "ic",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#igbt-modul",
+    "x": 16,
+    "y": 3160,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "igbt-modul"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3160,
+    "w": 32,
+    "h": 32,
+    "text": "igbt-modul"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3160,
+    "w": 32,
+    "h": 32,
+    "label": "igbt-modul",
+    "value": "igbt-modul",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#integrity-guard",
+    "x": 16,
+    "y": 3253,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "integrity guard"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3253,
+    "w": 32,
+    "h": 32,
+    "text": "integrity guard"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3253,
+    "w": 32,
+    "h": 32,
+    "label": "integrity guard",
+    "value": "integrity guard",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#L",
+    "x": 16,
+    "y": 3346,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "l"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h4#leistungstransistor",
+    "x": 16,
+    "y": 3406,
+    "w": 328,
+    "h": 20,
+    "level": 4,
+    "text": "leistungstransistor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > p",
+    "x": 16,
+    "y": 3434,
+    "w": 328,
+    "h": 364,
+    "text": "Mit Leistungstransistor wird in der Elektronik ein Transistor zum Schalten oder "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#M",
+    "x": 16,
+    "y": 3814,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "m"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#mems",
+    "x": 16,
+    "y": 3882,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "mems"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3882,
+    "w": 32,
+    "h": 32,
+    "text": "mems"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3882,
+    "w": 32,
+    "h": 32,
+    "label": "mems",
+    "value": "mems",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#mosfet",
+    "x": 16,
+    "y": 3975,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "mosfet"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3975,
+    "w": 32,
+    "h": 32,
+    "text": "mosfet"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 3975,
+    "w": 32,
+    "h": 32,
+    "label": "mosfet",
+    "value": "mosfet",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#N",
+    "x": 16,
+    "y": 4068,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "n"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h4#nfc",
+    "x": 16,
+    "y": 4128,
+    "w": 328,
+    "h": 20,
+    "level": 4,
+    "text": "nfc"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > p",
+    "x": 16,
+    "y": 4156,
+    "w": 328,
+    "h": 338,
+    "text": "Near Field Communication. Ein internationaler Übertragungsstandard zum kontaktlo"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#S",
+    "x": 16,
+    "y": 4510,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "s"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#schaltnetzteil",
+    "x": 16,
+    "y": 4578,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "schaltnetzteil"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 4578,
+    "w": 32,
+    "h": 32,
+    "text": "schaltnetzteil"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 4578,
+    "w": 32,
+    "h": 32,
+    "label": "schaltnetzteil",
+    "value": "schaltnetzteil",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#schottky-diode",
+    "x": 16,
+    "y": 4671,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "schottky-diode"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 4671,
+    "w": 32,
+    "h": 32,
+    "text": "schottky-diode"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 4671,
+    "w": 32,
+    "h": 32,
+    "label": "schottky-diode",
+    "value": "schottky-diode",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#sic",
+    "x": 16,
+    "y": 4764,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "sic"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 4764,
+    "w": 32,
+    "h": 32,
+    "text": "sic"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 4764,
+    "w": 32,
+    "h": 32,
+    "label": "sic",
+    "value": "sic",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#siliziumkarbid",
+    "x": 16,
+    "y": 4857,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "siliziumkarbid"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 4857,
+    "w": 32,
+    "h": 32,
+    "text": "siliziumkarbid"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 4857,
+    "w": 32,
+    "h": 32,
+    "label": "siliziumkarbid",
+    "value": "siliziumkarbid",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#T",
+    "x": 16,
+    "y": 4950,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "t"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#tpm",
+    "x": 16,
+    "y": 5018,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "tpm"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5018,
+    "w": 32,
+    "h": 32,
+    "text": "tpm"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5018,
+    "w": 32,
+    "h": 32,
+    "label": "tpm",
+    "value": "tpm",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-bar > div.accordion-title > h4#trusted-computing",
+    "x": 16,
+    "y": 5111,
+    "w": 280,
+    "h": 20,
+    "level": 4,
+    "text": "trusted computing"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5111,
+    "w": 32,
+    "h": 32,
+    "text": "trusted computing"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-item > div.accordion-bar > button.accordion-toggle",
+    "x": 312,
+    "y": 5111,
+    "w": 32,
+    "h": 32,
+    "label": "trusted computing",
+    "value": "trusted computing",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#U",
+    "x": 16,
+    "y": 5204,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "u"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h4#umrichter",
+    "x": 16,
+    "y": 5264,
+    "w": 328,
+    "h": 20,
+    "level": 4,
+    "text": "umrichter"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > p",
+    "x": 16,
+    "y": 5292,
+    "w": 328,
+    "h": 390,
+    "text": "Steuereinheit, die Wechselspannungen verschiedener Spannungen und Frequenzen ine"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#V",
+    "x": 16,
+    "y": 5698,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "v"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h4#verbindungshalbleiter",
+    "x": 16,
+    "y": 5758,
+    "w": 328,
+    "h": 20,
+    "level": 4,
+    "text": "verbindungshalbleiter"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > p",
+    "x": 16,
+    "y": 5786,
+    "w": 328,
+    "h": 390,
+    "text": "Im Gegensatz zu siliziumbasierten Halbleitern bestehen Verbindungshalbleiter aus"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h2#W",
+    "x": 16,
+    "y": 6192,
+    "w": 328,
+    "h": 44,
+    "level": 2,
+    "text": "w"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > h4#wechselrichter",
+    "x": 16,
+    "y": 6252,
+    "w": 328,
+    "h": 20,
+    "level": 4,
+    "text": "wechselrichter"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ifx-fixed.accordion-inner > div.accordion-flow.accordion-letter > p",
+    "x": 16,
+    "y": 6280,
+    "w": 328,
+    "h": 260,
+    "text": "Ein Wechselrichter (auch Inverter genannt) ist ein elektrisches Gerät, das Gleic"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-logo > p > a",
+    "x": 16,
+    "y": 6634,
+    "w": 124,
+    "h": 22,
+    "text": "infineon",
+    "href": "/de"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-infineon-logo-inverted > img",
+    "x": 16,
+    "y": 6596,
+    "w": 124,
+    "h": 54,
+    "text": "",
+    "file": "infineon-logo-inverted"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 6697,
+    "w": 97,
+    "h": 24,
+    "text": "Über uns"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6737,
+    "w": 105,
+    "h": 26,
+    "text": "unternehmen",
+    "href": "/de/about/company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6779,
+    "w": 59,
+    "h": 26,
+    "text": "kontakt",
+    "href": "/de/contact-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6821,
+    "w": 50,
+    "h": 26,
+    "text": "events",
+    "href": "/de/about/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6863,
+    "w": 49,
+    "h": 26,
+    "text": "presse",
+    "href": "/de/about/press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 6905,
+    "w": 61,
+    "h": 26,
+    "text": "investor",
+    "href": "/de/about/investor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 196,
+    "y": 6697,
+    "w": 118,
+    "h": 24,
+    "text": "Quicklinks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6737,
+    "w": 88,
+    "h": 26,
+    "text": "community",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6779,
+    "w": 61,
+    "h": 26,
+    "text": "support",
+    "href": "/de/support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6821,
+    "w": 148,
+    "h": 52,
+    "text": "distributoren partner",
+    "href": "/contact-us/where-to-buy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6889,
+    "w": 123,
+    "h": 26,
+    "text": "online sampling",
+    "href": "/contact-us/where-to-buy/online-sampling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6931,
+    "w": 60,
+    "h": 26,
+    "text": "qualität",
+    "href": "/de/quality"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 196,
+    "y": 6973,
+    "w": 132,
+    "h": 26,
+    "text": "website feedback",
+    "href": "/jfe/form/SV_3z5Tn0ozMwTqRUy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 16,
+    "y": 7039,
+    "w": 120,
+    "h": 24,
+    "text": "myInfineon"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7079,
+    "w": 58,
+    "h": 26,
+    "text": "vorteile",
+    "href": "/de/benefits"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7121,
+    "w": 40,
+    "h": 26,
+    "text": "profil",
+    "href": "/de/login/dashboard/profile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7163,
+    "w": 100,
+    "h": 26,
+    "text": "registrierung",
+    "href": "/bin/ifx/myifx/login.en.json"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-col > div.site-footer-title > p",
+    "x": 32,
+    "y": 7229,
+    "w": 94,
+    "h": 24,
+    "text": "Karriere"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7269,
+    "w": 73,
+    "h": 26,
+    "text": "übersicht",
+    "href": "/de/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7311,
+    "w": 73,
+    "h": 26,
+    "text": "jobsuche",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7353,
+    "w": 49,
+    "h": 26,
+    "text": "teams",
+    "href": "/de/careers/teams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 32,
+    "y": 7395,
+    "w": 151,
+    "h": 26,
+    "text": "bewerbungsprozess",
+    "href": "/de/careers/how-to-apply"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7461,
+    "w": 143,
+    "h": 30,
+    "text": "nutzungsbedingungen",
+    "href": "/de/legal/usage-terms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 192,
+    "y": 7461,
+    "w": 76,
+    "h": 30,
+    "text": "impressum",
+    "href": "/de/legal/imprint"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7491,
+    "w": 139,
+    "h": 30,
+    "text": "datenschutzerklärung",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 188,
+    "y": 7491,
+    "w": 56,
+    "h": 30,
+    "text": "cookies",
+    "href": "/de/legal/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal-left > div.site-footer-copy > p",
+    "x": 21,
+    "y": 7526,
+    "w": 224,
+    "h": 20,
+    "text": "© 1999- Infineon Technologies AG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 16,
+    "y": 7579,
+    "w": 16,
+    "h": 16,
+    "text": "youtube",
+    "href": "/channel/UCoTflChMPX0VBFXvXYmcu9w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 56,
+    "y": 7579,
+    "w": 16,
+    "h": 16,
+    "text": "linkedin",
+    "href": "/company/infineon-technologies/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 96,
+    "y": 7579,
+    "w": 16,
+    "h": 16,
+    "text": "instagram",
+    "href": "/infineoncareers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 136,
+    "y": 7576,
+    "w": 16,
+    "h": 16,
+    "text": "tiktok",
+    "href": "/@infineontechnologies"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-tiktok > img",
+    "x": 136,
+    "y": 7576,
+    "w": 16,
+    "h": 16,
+    "text": "",
+    "file": "tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 176,
+    "y": 7579,
+    "w": 16,
+    "h": 16,
+    "text": "facebook",
+    "href": "/Infineon"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 119,
+    "controls": 81,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 19,
+    "linkHidden": 0,
+    "button": 27,
+    "buttonHidden": 0,
+    "text": 9,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"glossar\" (y 148) has no origin heading",
+   "text": "glossar"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"0-9\" (y 320) has no origin heading",
+   "text": "0-9"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"a\" (y 502) has no origin heading",
+   "text": "a"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"b\" (y 934) has no origin heading",
+   "text": "b"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"c\" (y 1281) has no origin heading",
+   "text": "c"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"d\" (y 1541) has no origin heading",
+   "text": "d"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"e\" (y 1795) has no origin heading",
+   "text": "e"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"f\" (y 2237) has no origin heading",
+   "text": "f"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"g\" (y 2491) has no origin heading",
+   "text": "g"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"h\" (y 2745) has no origin heading",
+   "text": "h"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"i\" (y 2999) has no origin heading",
+   "text": "i"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"l\" (y 3346) has no origin heading",
+   "text": "l"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"m\" (y 3814) has no origin heading",
+   "text": "m"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"n\" (y 4068) has no origin heading",
+   "text": "n"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"s\" (y 4510) has no origin heading",
+   "text": "s"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"t\" (y 4950) has no origin heading",
+   "text": "t"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"u\" (y 5204) has no origin heading",
+   "text": "u"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"v\" (y 5698) has no origin heading",
+   "text": "v"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"w\" (y 6192) has no origin heading",
+   "text": "w"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"pageshare\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "pageshare"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"0-9\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "0-9"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"a\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "a"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"b\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "b"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"c\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "c"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"d\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "d"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"e\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "e"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"f\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "f"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"g\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "g"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"h\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "h"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"i\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "i"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"l\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "l"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"m\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "m"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"n\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "n"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"s\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "s"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"t\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "t"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"u\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "u"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"v\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "v"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"w\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "w"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"ac-dc-wandlung\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "ac-dc-wandlung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"analog-mixed-signal\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "analog-mixed-signal"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"asic\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "asic"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"authentifizierung\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "authentifizierung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"backend-fertigung\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "backend-fertigung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"bare die\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "bare die"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"bipolar\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "bipolar"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"dc-dc-wandlung\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "dc-dc-wandlung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"dünnwafer\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "dünnwafer"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"facts\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "facts"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"frontend-fertigung\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "frontend-fertigung"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"galliumnitrid\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "galliumnitrid"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"gan\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "gan"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"hall-sensor\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "hall-sensor"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"hgü\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "hgü"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"ic\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "ic"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"igbt-modul\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "igbt-modul"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"integrity guard\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "integrity guard"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mems\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "mems"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"mosfet\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "mosfet"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"schaltnetzteil\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "schaltnetzteil"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"schottky-diode\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "schottky-diode"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"sic\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "sic"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"siliziumkarbid\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "siliziumkarbid"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"tpm\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "tpm"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"trusted computing\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "trusted computing"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"(top)\": 0 origin → 9 served visible",
+   "band": 0,
+   "origin": 0,
+   "eds": 9,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 19,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 46,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 1,
+  "findings": 66,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 36,
+    "y": 82,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 147,
+    "w": 69,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 226,
+    "w": 24,
+    "h": 25
+   },
+   {
+    "x": 58,
+    "y": 226,
+    "w": 10,
+    "h": 25
+   },
+   {
+    "x": 86,
+    "y": 226,
+    "w": 11,
+    "h": 25
+   },
+   {
+    "x": 115,
+    "y": 226,
+    "w": 10,
+    "h": 25
+   },
+   {
+    "x": 143,
+    "y": 226,
+    "w": 11,
+    "h": 25
+   },
+   {
+    "x": 173,
+    "y": 226,
+    "w": 10,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 226,
+    "w": 9,
+    "h": 25
+   },
+   {
+    "x": 228,
+    "y": 226,
+    "w": 11,
+    "h": 25
+   },
+   {
+    "x": 257,
+    "y": 226,
+    "w": 12,
+    "h": 25
+   },
+   {
+    "x": 287,
+    "y": 226,
+    "w": 5,
+    "h": 25
+   },
+   {
+    "x": 292,
+    "y": 226,
+    "w": 45,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 252,
+    "w": 29,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 252,
+    "w": 9,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 252,
+    "w": 13,
+    "h": 25
+   },
+   {
+    "x": 103,
+    "y": 252,
+    "w": 12,
+    "h": 25
+   },
+   {
+    "x": 115,
+    "y": 252,
+    "w": 135,
+    "h": 25
+   },
+   {
+    "x": 250,
+    "y": 252,
+    "w": 10,
+    "h": 25
+   },
+   {
+    "x": 278,
+    "y": 252,
+    "w": 10,
+    "h": 25
+   },
+   {
+    "x": 306,
+    "y": 252,
+    "w": 12,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 278,
+    "w": 10,
+    "h": 25
+   },
+   {
+    "x": 44,
+    "y": 278,
+    "w": 14,
+    "h": 25
+   },
+   {
+    "x": 58,
+    "y": 278,
+    "w": 82,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 319,
+    "w": 34,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 372,
+    "w": 160,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 400,
+    "w": 261,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 426,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 452,
+    "w": 255,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 501,
+    "w": 14,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 561,
+    "w": 112,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 654,
+    "w": 136,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 747,
+    "w": 30,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 840,
+    "w": 116,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 933,
+    "w": 19,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 1001,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1094,
+    "w": 55,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1187,
+    "w": 48,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1280,
+    "w": 18,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 1341,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 1369,
+    "w": 214,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1395,
+    "w": 202,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1421,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1447,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1473,
+    "w": 235,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1499,
+    "w": 96,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1540,
+    "w": 20,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 1608,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1701,
+    "w": 74,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1794,
+    "w": 17,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 1855,
+    "w": 47,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 1883,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1909,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1935,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1961,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1987,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2013,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2039,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2065,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2091,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2117,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2143,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2169,
+    "w": 205,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2195,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2236,
+    "w": 16,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 2304,
+    "w": 41,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2397,
+    "w": 130,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2490,
+    "w": 20,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 2558,
+    "w": 89,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2651,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2744,
+    "w": 21,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 2812,
+    "w": 77,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2905,
+    "w": 30,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2998,
+    "w": 9,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 3066,
+    "w": 13,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3159,
+    "w": 77,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3252,
+    "w": 101,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3345,
+    "w": 16,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 3406,
+    "w": 113,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 3434,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3460,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3486,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3512,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3538,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3564,
+    "w": 203,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3590,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3616,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3642,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3668,
+    "w": 226,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3694,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3720,
+    "w": 233,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3746,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3772,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3813,
+    "w": 24,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 3881,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3974,
+    "w": 55,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4067,
+    "w": 21,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 4128,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 4156,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4182,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4208,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4234,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4260,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4286,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4312,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4338,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4364,
+    "w": 248,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4390,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4416,
+    "w": 293,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4442,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4468,
+    "w": 164,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4509,
+    "w": 17,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 4577,
+    "w": 92,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4670,
+    "w": 103,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4763,
+    "w": 21,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4856,
+    "w": 96,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4949,
+    "w": 17,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 5017,
+    "w": 29,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5110,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5203,
+    "w": 21,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 5264,
+    "w": 60,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 5292,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5318,
+    "w": 238,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5344,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5370,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5396,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5422,
+    "w": 229,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5448,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5474,
+    "w": 261,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5500,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5526,
+    "w": 225,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5552,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5578,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5604,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5630,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5656,
+    "w": 250,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5697,
+    "w": 17,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 5758,
+    "w": 131,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 5786,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5812,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5838,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5864,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5890,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5916,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5942,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5968,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5994,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6020,
+    "w": 213,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6046,
+    "w": 271,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6072,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6098,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6124,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6150,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6191,
+    "w": 25,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 6252,
+    "w": 88,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 6280,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6306,
+    "w": 217,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6332,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6358,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6384,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6410,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6436,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6462,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6488,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6514,
+    "w": 140,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6691,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6730,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6772,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6814,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6856,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6898,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6691,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 6730,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6772,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6814,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6840,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6882,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6924,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6966,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7033,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7072,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7114,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7156,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7223,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 7262,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7304,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7346,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7388,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 7459,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 7459,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7489,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 7489,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7519,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 7519,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 7519,
+    "w": 156,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 38,
+    "y": 82,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 147,
+    "w": 69,
+    "h": 32
+   },
+   {
+    "x": 16,
+    "y": 226,
+    "w": 24,
+    "h": 25
+   },
+   {
+    "x": 58,
+    "y": 226,
+    "w": 10,
+    "h": 25
+   },
+   {
+    "x": 86,
+    "y": 226,
+    "w": 11,
+    "h": 25
+   },
+   {
+    "x": 115,
+    "y": 226,
+    "w": 10,
+    "h": 25
+   },
+   {
+    "x": 143,
+    "y": 226,
+    "w": 11,
+    "h": 25
+   },
+   {
+    "x": 173,
+    "y": 226,
+    "w": 10,
+    "h": 25
+   },
+   {
+    "x": 200,
+    "y": 226,
+    "w": 9,
+    "h": 25
+   },
+   {
+    "x": 228,
+    "y": 226,
+    "w": 11,
+    "h": 25
+   },
+   {
+    "x": 257,
+    "y": 226,
+    "w": 12,
+    "h": 25
+   },
+   {
+    "x": 287,
+    "y": 226,
+    "w": 5,
+    "h": 25
+   },
+   {
+    "x": 292,
+    "y": 226,
+    "w": 45,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 252,
+    "w": 29,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 252,
+    "w": 9,
+    "h": 25
+   },
+   {
+    "x": 72,
+    "y": 252,
+    "w": 13,
+    "h": 25
+   },
+   {
+    "x": 103,
+    "y": 252,
+    "w": 12,
+    "h": 25
+   },
+   {
+    "x": 115,
+    "y": 252,
+    "w": 135,
+    "h": 25
+   },
+   {
+    "x": 250,
+    "y": 252,
+    "w": 10,
+    "h": 25
+   },
+   {
+    "x": 278,
+    "y": 252,
+    "w": 10,
+    "h": 25
+   },
+   {
+    "x": 306,
+    "y": 252,
+    "w": 12,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 278,
+    "w": 10,
+    "h": 25
+   },
+   {
+    "x": 44,
+    "y": 278,
+    "w": 14,
+    "h": 25
+   },
+   {
+    "x": 58,
+    "y": 278,
+    "w": 82,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 319,
+    "w": 34,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 372,
+    "w": 160,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 400,
+    "w": 261,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 426,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 452,
+    "w": 255,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 501,
+    "w": 14,
+    "h": 37
+   },
+   {
+    "x": 16,
+    "y": 561,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 654,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 747,
+    "w": 31,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 840,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 933,
+    "w": 19,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 1001,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1094,
+    "w": 56,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1187,
+    "w": 49,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1280,
+    "w": 18,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 1341,
+    "w": 35,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 1369,
+    "w": 214,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1395,
+    "w": 202,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1421,
+    "w": 267,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1447,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1473,
+    "w": 235,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1499,
+    "w": 96,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1540,
+    "w": 20,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 1608,
+    "w": 115,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1701,
+    "w": 74,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 1794,
+    "w": 17,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 1855,
+    "w": 47,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 1883,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1909,
+    "w": 324,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1935,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1961,
+    "w": 253,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 1987,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2013,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2039,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2065,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2091,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2117,
+    "w": 320,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2143,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2169,
+    "w": 205,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2195,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 2236,
+    "w": 16,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 2304,
+    "w": 41,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2397,
+    "w": 132,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2490,
+    "w": 20,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 2558,
+    "w": 90,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2651,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2744,
+    "w": 21,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 2812,
+    "w": 78,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2905,
+    "w": 31,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 2998,
+    "w": 9,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 3066,
+    "w": 13,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3159,
+    "w": 78,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3252,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3345,
+    "w": 16,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 3406,
+    "w": 113,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 3434,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3460,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3486,
+    "w": 275,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3512,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3538,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3564,
+    "w": 203,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3590,
+    "w": 308,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3616,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3642,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3668,
+    "w": 226,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3694,
+    "w": 303,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3720,
+    "w": 233,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3746,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3772,
+    "w": 295,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 3813,
+    "w": 24,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 3881,
+    "w": 41,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 3974,
+    "w": 56,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4067,
+    "w": 21,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 4128,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 4156,
+    "w": 232,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4182,
+    "w": 322,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4208,
+    "w": 297,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4234,
+    "w": 296,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4260,
+    "w": 325,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4286,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4312,
+    "w": 279,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4338,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4364,
+    "w": 248,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4390,
+    "w": 309,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4416,
+    "w": 293,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4442,
+    "w": 323,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4468,
+    "w": 164,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 4509,
+    "w": 17,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 4577,
+    "w": 93,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4670,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4763,
+    "w": 22,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4856,
+    "w": 98,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 4949,
+    "w": 17,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 5017,
+    "w": 30,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5110,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 5203,
+    "w": 21,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 5264,
+    "w": 60,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 5292,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5318,
+    "w": 238,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5344,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5370,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5396,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5422,
+    "w": 229,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5448,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5474,
+    "w": 261,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5500,
+    "w": 318,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5526,
+    "w": 225,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5552,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5578,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5604,
+    "w": 304,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5630,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5656,
+    "w": 250,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5697,
+    "w": 17,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 5758,
+    "w": 131,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 5786,
+    "w": 254,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5812,
+    "w": 328,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5838,
+    "w": 315,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5864,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5890,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5916,
+    "w": 294,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5942,
+    "w": 292,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5968,
+    "w": 307,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 5994,
+    "w": 268,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6020,
+    "w": 213,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6046,
+    "w": 271,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6072,
+    "w": 291,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6098,
+    "w": 326,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6124,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6150,
+    "w": 290,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6191,
+    "w": 25,
+    "h": 46
+   },
+   {
+    "x": 16,
+    "y": 6252,
+    "w": 88,
+    "h": 20
+   },
+   {
+    "x": 16,
+    "y": 6280,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6306,
+    "w": 217,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6332,
+    "w": 280,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6358,
+    "w": 241,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6384,
+    "w": 316,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6410,
+    "w": 285,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6436,
+    "w": 298,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6462,
+    "w": 244,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6488,
+    "w": 310,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6514,
+    "w": 140,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6698,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 6737,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6779,
+    "w": 59,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6821,
+    "w": 50,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6863,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 6905,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6698,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 6737,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6779,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6821,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6847,
+    "w": 56,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6889,
+    "w": 123,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6931,
+    "w": 60,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6973,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7040,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 16,
+    "y": 7079,
+    "w": 58,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7121,
+    "w": 40,
+    "h": 25
+   },
+   {
+    "x": 16,
+    "y": 7163,
+    "w": 100,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7230,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 32,
+    "y": 7269,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7311,
+    "w": 73,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7353,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 7395,
+    "w": 151,
+    "h": 25
+   },
+   {
+    "x": 21,
+    "y": 7466,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 197,
+    "y": 7466,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7496,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 193,
+    "y": 7496,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 7526,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 7526,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 7526,
+    "w": 150,
+    "h": 20
+   }
+  ]
+ }
+}

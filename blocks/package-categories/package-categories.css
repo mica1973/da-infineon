@@ -1,0 +1,186 @@
+/* package-categories: grey package listing (live .packagecategorysection) */
+.package-categories .package-categories-inner {
+  max-width: var(--ifx-shell);
+  margin: 0 auto;
+  padding: 0 var(--ifx-gutter);
+  overflow: hidden;
+  background-color: var(--ifx-surface-band);
+  background-image: url('grey-bg-crystals-top.svg'), url('grey-bg-crystals-bottom.svg');
+  background-position: 0 0, 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.package-categories .package-categories-head :is(h2, h3) {
+  margin: 0 0 8px;
+  padding: 96px 0 0 16px;
+  color: var(--ifx-ink);
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: -0.22px;
+}
+
+.package-categories .package-categories-search {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  box-sizing: border-box;
+  width: 362px;
+  height: 36px;
+  margin-top: 24px;
+  padding: 8px 12px;
+  border: 1px solid var(--ifx-stone-mid);
+  background: var(--ifx-surface-band);
+}
+
+.package-categories .package-categories-search-icon::before {
+  content: '\ea18';
+  font-family: var(--ifx-icon-font);
+  font-size: 16px;
+}
+
+.package-categories .package-categories-input {
+  width: 308px;
+  height: 20px;
+  padding: 1px 2px;
+  border: 0;
+  outline: 0;
+  background: var(--ifx-surface-band);
+  color: var(--ifx-stone-mid);
+  font-size: 16px;
+}
+
+.package-categories .package-categories-input::placeholder {
+  color: var(--ifx-stone-mid);
+}
+
+.package-categories .package-categories-group[hidden],
+.package-categories .package-categories-card[hidden],
+.package-categories .package-categories-more[hidden],
+.package-categories .package-categories-fams li[hidden] {
+  display: none;
+}
+
+.package-categories .package-categories-group-head {
+  margin-top: 24px;
+  padding: 8px 16px;
+  background: url('shape.png') 50% / 100% 100% no-repeat;
+}
+
+.package-categories .package-categories-group-head :is(h2, h3, h4) {
+  margin: 0;
+  color: var(--ifx-ink);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+}
+
+.package-categories .package-categories-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 32px;
+  margin: 16px 0;
+  padding: 0;
+  list-style: none;
+}
+
+.package-categories .package-categories-group:last-child .package-categories-grid {
+  margin-bottom: 0;
+}
+
+.package-categories .package-categories-card {
+  display: flex;
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.package-categories .package-categories-media {
+  flex: 0 0 33.3333%;
+  box-sizing: border-box;
+  max-width: 33.3333%;
+  padding-right: 16px;
+  text-align: center;
+}
+
+.package-categories .package-categories-media :is(picture, img) {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.package-categories .package-categories-body {
+  flex: 0 0 66.6667%;
+  max-width: 66.6667%;
+}
+
+.package-categories .package-categories-title p {
+  margin: 0;
+  padding-bottom: 16px;
+  color: var(--ifx-ink);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 26px;
+}
+
+.package-categories .package-categories-fams {
+  border-left: 1px solid var(--ifx-border);
+}
+
+.package-categories .package-categories-fams ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.package-categories .package-categories-fams li,
+.package-categories .package-categories-more {
+  margin-bottom: 8px;
+  padding-left: 16px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.package-categories .package-categories-fams a:any-link {
+  color: var(--ifx-ink);
+}
+
+.package-categories .package-categories-fams a:any-link:hover {
+  color: var(--ifx-teal);
+}
+
+.package-categories .package-categories-more-btn {
+  padding: 1px 6px 1px 0;
+  background: var(--ifx-surface-band);
+  color: var(--ifx-ink);
+  font-size: 14px;
+  line-height: 20px;
+  text-decoration: underline;
+  text-decoration-color: var(--ifx-teal);
+}
+
+@media (width >= 992px) {
+  .package-categories .package-categories-head :is(h2, h3) {
+    padding: 96px 0 0 4px;
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.28px;
+  }
+
+  .package-categories .package-categories-group-head :is(h2, h3, h4) {
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: -0.2px;
+  }
+
+  .package-categories .package-categories-grid {
+    gap: 48px 32px;
+    margin: 48px 0 16px;
+  }
+
+  .package-categories .package-categories-card {
+    width: calc(33.33% - 32px);
+    margin-bottom: 10px;
+  }
+}

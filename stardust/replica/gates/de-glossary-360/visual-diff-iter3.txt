@@ -1,0 +1,187 @@
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/de-glossary-360/vdiff-iter3/
+
+build red flags (advisory): 
+  • BLANK RENDER: the build page is hidden/empty (main height 63px, text 4 chars). NOT a pass. The build render is hidden/empty — a load failure or an unsatisfied visibility gate. Fix before trusting any other result.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": true,
+  "mainHeight": 63,
+  "textLen": 4,
+  "images": [
+   {
+    "src": "spinner-48.svg",
+    "natural": "48x48",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo.svg",
+    "natural": "91x40",
+    "rendered": "82x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "1x1",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Infineon_Logo_Inverted.svg",
+    "natural": "182x80",
+    "rendered": "124x54",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "tiktok.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "0?ti=12013328&tm=gtm002&Ver=2&mid=77ebd7c7-8599-4ddd-9b16-bbdbb60a7955&bo=3&sid=a18713a0e30111f1ac0bcfe0e4b4e6c7&vid=a1874ef0e30111f18ffe158064f1848b&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=360&sh=1000&sc=24&tl=Glossar%20%7C%20Infineon%20Technologies&p=https%3A%2F%2Fwww.infineon.com%2Fde%2Fglossary&r=&lt=2163&evt=pageLoad&sv=2&asc=G&cdb=AQET&rn=725834",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h3",
+    "text": "Share in WeChat",
+    "color": "rgb(29, 29, 29)",
+    "fontSize": "22px",
+    "family": "Source Sans 3",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "Über uns",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Quicklinks",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "myInfineon",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Karriere",
+    "color": "rgb(255, 255, 255)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "genericBreadcrumb-component",
+    "width": 328,
+    "left": 16
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": true,
+  "mainHeight": 63,
+  "textLen": 4,
+  "images": [
+   {
+    "src": "logo.svg",
+    "natural": "91x40",
+    "rendered": "82x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Infineon_Logo_Inverted.svg",
+    "natural": "182x80",
+    "rendered": "124x54",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "tiktok.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h3",
+    "text": "Share in WeChat",
+    "color": "rgb(29, 29, 29)",
+    "fontSize": "18.72px",
+    "family": "Source Sans 3",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "Über uns",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Quicklinks",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "myInfineon",
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Karriere",
+    "color": "rgb(255, 255, 255)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": []
+ }
+}

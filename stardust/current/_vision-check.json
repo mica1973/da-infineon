@@ -1,0 +1,422 @@
+[
+  {
+    "slug": "index",
+    "verdict": "ok",
+    "notes": "EN home; h1 matches; carousel hero \"PSOC Developer Journey\"; news grid 9 cards; wide (2647px) capture",
+    "template": "home",
+    "layout": "[home] hero carousel, market tiles grid (6), new-products carousel, tech tabs+cards, teal products/applications band, news cards grid, CTA band, footer"
+  },
+  {
+    "slug": "de",
+    "verdict": "ok",
+    "notes": "DE home; h1 matches; same template as index, news grid shows 3 cards; wide (2647px) capture",
+    "template": "home",
+    "layout": "[home] hero carousel, market tiles grid (6), new-products carousel, tech tabs+cards, teal products/applications band, news cards grid, CTA band, footer"
+  },
+  {
+    "slug": "de-about",
+    "verdict": "ok",
+    "notes": "h1 Über uns matches; 5 diagonal-cut image sections + events cards; imgs 12 plausible",
+    "template": "hub",
+    "layout": "[hub] grey page-title band + anchor nav, alternating text/diagonal-cropped image sections with link lists, event cards, footer"
+  },
+  {
+    "slug": "de-careers",
+    "verdict": "ok",
+    "notes": "h1 matches; hero photo + collage, teal job-search band; wide (2099px) capture; 1 css bg recorded",
+    "template": "hub",
+    "layout": "[hub] split hero (h1 + photo), text+image alternating sections, teal feature bands, story cards carousel, job search band, footer"
+  },
+  {
+    "slug": "de-config",
+    "verdict": "suspect",
+    "notes": "Internal AEM config dump (paths, currency table), not an author content page; exclude from migration",
+    "template": "utility",
+    "layout": "[utility] raw config output: bullet lists of settings, h1 \"/en/part/\", currency table, footer"
+  },
+  {
+    "slug": "de-contact-us",
+    "verdict": "ok",
+    "notes": "h1 Kontakt; Google map with ~150 markers explains 158 imgs; location accordion + sidebar",
+    "template": "listing",
+    "layout": "[listing] grey title band, sub-nav, map + filterable locations accordion with pagination, right sidebar contact boxes, footer"
+  },
+  {
+    "slug": "de-event-techfor",
+    "verdict": "ok",
+    "notes": "h1 matches; intro text + video; event cards grid (6); further-links",
+    "template": "hub",
+    "layout": "[hub] breadcrumb, h1 + intro text beside video, event image cards grid, notice box, further-links pair, footer"
+  },
+  {
+    "slug": "de-glossary",
+    "verdict": "ok",
+    "notes": "h1 Glossar; A-Z index + term accordions; no imagery expected",
+    "template": "reference",
+    "layout": "[reference] grey title band, A-Z letter nav, letter-grouped term accordions/definitions, footer"
+  },
+  {
+    "slug": "de-logout",
+    "verdict": "ok",
+    "notes": "h1 matches; standalone page without site header/footer, astronaut illustration",
+    "template": "utility",
+    "layout": "[utility] full-viewport illustration left + eyebrow, h1, CTA right; no header/footer"
+  },
+  {
+    "slug": "de-opn",
+    "verdict": "ok",
+    "notes": "h1 matches; long doc with diagrams, tables and FAQ accordion",
+    "template": "reference",
+    "layout": "[reference] breadcrumb, h1 + TOC box, long text with diagrams/tables, FAQ accordion list, footer"
+  },
+  {
+    "slug": "de-package-overview",
+    "verdict": "ok",
+    "notes": "h1 Packages; hero image, 40 package thumbs, documents table, cards carousel; wide (2099px) capture",
+    "template": "listing",
+    "layout": "[listing] h1 + hero image band, tabs, searchable package-category image grid, document table, technology cards carousel, CTA, footer"
+  },
+  {
+    "slug": "de-partners",
+    "verdict": "ok",
+    "notes": "h1 matches; split hero photo, diagonal image sections, CTA band",
+    "template": "hub",
+    "layout": "[hub] split hero (h1 + text + photo), benefit checklist, text/diagonal-image sections, \"Ready to get started\" CTA, footer"
+  },
+  {
+    "slug": "de-support-faqs",
+    "verdict": "ok",
+    "notes": "h1 matches; faceted FAQ list, Ask-AI widget overlay visible",
+    "template": "listing",
+    "layout": "[listing] grey eyebrow+h1 band, category facet sidebar + search + FAQ accordion with pagination, contact band, footer"
+  },
+  {
+    "slug": "de-support-service-center",
+    "verdict": "ok",
+    "notes": "h1 matches; hotline table + country accordions, sidebar",
+    "template": "reference",
+    "layout": "[reference] h1 + intro, hotline table, right sidebar boxes, region accordions of phone numbers, footer"
+  },
+  {
+    "slug": "de-support",
+    "verdict": "ok",
+    "notes": "h1 Support Hub; icon cards grids, link columns, contact band",
+    "template": "hub",
+    "layout": "[hub] grey title band + anchor links, icon card grids (support, FAQ categories), link columns, contact band, footer"
+  },
+  {
+    "slug": "de-thank-you",
+    "verdict": "ok",
+    "notes": "h1 matches; illustration + text + CTA",
+    "template": "utility",
+    "layout": "[utility] illustration left + eyebrow, h1, text, CTA right, footer"
+  },
+  {
+    "slug": "de-training",
+    "verdict": "ok",
+    "notes": "h1 Training; banner photo, text+image sections, video teaser, accordion",
+    "template": "hub",
+    "layout": "[hub] grey title band with banner photo, text+image alternating sections, teal video feature, accordion, contact band, footer"
+  },
+  {
+    "slug": "de-our-stories-artificial-intelligence-in-everyday-life",
+    "verdict": "ok",
+    "notes": "h1 matches; pillar layout with stats, 2-col cards, FAQ; EN newsletter band",
+    "template": "story",
+    "layout": "[story] pillar: hero with overlapping title card, TOC, intro + quote, stat callouts, 2-col challenge/solution image cards, FAQ accordion, solution cards carousel, related-tech cards carousel, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-artificial-intelligence-semiconductors",
+    "verdict": "ok",
+    "notes": "h1 matches; teal graphic hero (no photo); 2099px capture, bottom slice narrower than canvas",
+    "template": "story",
+    "layout": "[story] article: teal graphic hero, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, infographics, 2-col image cards, teal diagram, CTA band, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-bi-directional-charging",
+    "verdict": "ok",
+    "notes": "h1 matches; infographics + case study box",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, text with infographics, case-study box, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-charging-infrastructure",
+    "verdict": "ok",
+    "notes": "h1 matches; map/infographic charts",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, text with map + infographics, product link list, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-ecosystem-summit",
+    "verdict": "ok",
+    "notes": "h1 matches; event recap with quote, image gallery and video",
+    "template": "story",
+    "layout": "[story] event recap: hero with overlapping title card, portrait pull quote, image gallery (main + thumbs), embedded video, highlight bullets, Weitere Geschichten, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-efficient-energy-storage-systems-energy-transition",
+    "verdict": "ok",
+    "notes": "h1 matches; diagrams, 2-col text, customer video",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, diagrams, 2-col text, embedded video, quote card, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-electric-cordless-power-tools",
+    "verdict": "ok",
+    "notes": "h1 matches; teal stat infographic",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, text + images, teal stat infographic, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-electromobility-greener-future",
+    "verdict": "ok",
+    "notes": "h1 matches; pillar layout with stats, cards, FAQ",
+    "template": "story",
+    "layout": "[story] pillar: hero with overlapping title card, TOC, intro + quote, stat callouts, 2-col challenge/solution image cards, FAQ accordion, solution cards carousel, related-tech cards carousel, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-emission-saving-potential-freight-transportation",
+    "verdict": "ok",
+    "notes": "h1 matches; inline video + product list",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, embedded video, images, product link list, Weiterführende Inhalte cards, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-empowering-green-energy-wide-bandgap-semiconductors",
+    "verdict": "ok",
+    "notes": "h1 matches; long article, infographics; 2099px capture",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, teal infographics, many inline images, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-enable-provide-ai-customer-innovation",
+    "verdict": "ok",
+    "notes": "h1 matches; teal graphic hero \"We enable and provide AI\"; 1692px capture",
+    "template": "story",
+    "layout": "[story] article: teal graphic hero, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, long text, product image cards, step graphic, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-enabling-ethernet",
+    "verdict": "ok",
+    "notes": "h1 matches; no hero image (starts with title block), diagrams",
+    "template": "story",
+    "layout": "[story] article: no hero image, plain title block (tag, author/date), \"Auf dieser Seite\" TOC box, icon lists, car diagrams, product highlights links, Weitere Geschichten, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-essential-role-cybersecurity",
+    "verdict": "ok",
+    "notes": "h1 matches; 2-col text+image grid",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, 2-col text/image grid, banner image, Weitere Geschichten cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-european-cyber-resilience-act",
+    "verdict": "ok",
+    "notes": "h1 matches; boxed callout, EN newsletter band",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, callout box, inline images, Weitere Geschichten cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-fast-charging-solutions",
+    "verdict": "ok",
+    "notes": "h1 matches; case-study box",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, text, case-study box, product links, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-green-buildings-rise",
+    "verdict": "ok",
+    "notes": "h1 matches; hero photo without overlap card; 1692px capture",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, title below hero (tag, author/date), \"Auf dieser Seite\" TOC box, text+image floats, product list, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-green-chargers-adapters",
+    "verdict": "ok",
+    "notes": "h1 matches; teal infographics; \"Related content\" heading in EN",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, teal stat infographics, product list, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-green-hydrogen-fuel-future",
+    "verdict": "ok",
+    "notes": "h1 matches; large inline images + product portfolio box",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, large inline images, product portfolio box, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-green-iot",
+    "verdict": "ok",
+    "notes": "h1 matches; 2-col image+text card grid",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, teal callout, 2-col image+text cards, Weitere Geschichten cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-green-potential-data-centers",
+    "verdict": "ok",
+    "notes": "h1 matches; quote, teal savings infographic, sources box",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, quote, teal infographic, product list, sources, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-how-microcontroller-enable-risc-v",
+    "verdict": "ok",
+    "notes": "h1 matches; quote, video, ecosystem diagram",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, quote, embedded video, diagram, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-microelectronics-connecting-real-digital-world",
+    "verdict": "ok",
+    "notes": "h1 matches; quote callouts + grey 4-col application-example card grids",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, animated text graphic, quote callouts, grey application-example card grids, Weitere Geschichten cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-micromobility-battery-swapping",
+    "verdict": "ok",
+    "notes": "h1 matches; boxed lists, inline images",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, boxed key-facts list, inline images, product list, Weitere Geschichten cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-micromobility",
+    "verdict": "ok",
+    "notes": "h1 matches; infographic, case-study box",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, infographic, case-study box, product list, Weitere Geschichten cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-mobility-tech-talk-software-defined-vehicles",
+    "verdict": "ok",
+    "notes": "h1 matches; short video story",
+    "template": "story",
+    "layout": "[story] video: hero with overlapping title card, single embedded video, Weitere Geschichten cards, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-power-infrastructure-renewables",
+    "verdict": "ok",
+    "notes": "h1 matches; pillar layout, stats, diagrams, FAQ",
+    "template": "story",
+    "layout": "[story] pillar: hero with overlapping title card, TOC, intro + quote, stat callouts, 2-col challenge/solution image cards, FAQ accordion, solution cards carousel, related-tech cards carousel, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-public-transportation",
+    "verdict": "ok",
+    "notes": "h1 matches; many inline images, case box, interview video",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, many inline images, case-study box, product teaser, interview video, product list, Weiterführende Inhalte, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-rc1-for-sdv-sdx-and-physical-ai",
+    "verdict": "ok",
+    "notes": "h1 matches; teal product-render hero (no photo); 2099px capture",
+    "template": "story",
+    "layout": "[story] article: teal product-render hero, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, diagrams, solution carousel, related-tech cards, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-semiconductors-bring-heat-pumps-life",
+    "verdict": "ok",
+    "notes": "h1 matches; teal infographics",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, teal infographics/diagrams, product list, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-semiconductors-driving-decarbonization",
+    "verdict": "ok",
+    "notes": "h1 matches; inline video, many images, teal infographic",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, large images, embedded video, teal infographic, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-semiconductors-key-technology-software-defined-vehicles",
+    "verdict": "ok",
+    "notes": "h1 matches; contained illustrated hero, title below; video story",
+    "template": "story",
+    "layout": "[story] video: contained illustration banner, title below, single embedded video, Weitere Geschichten cards, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-semiconductors-key-technology-sst-sscb",
+    "verdict": "ok",
+    "notes": "h1 matches; video story with related + further content",
+    "template": "story",
+    "layout": "[story] video: hero with overlapping title card, single embedded video, Weitere Geschichten cards, newsletter band + Weiterführende Inhalte"
+  },
+  {
+    "slug": "de-our-stories-sensors-energy-efficient-smart-buildings",
+    "verdict": "ok",
+    "notes": "h1 matches; teal infographics, video",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, teal infographics, embedded video, product list, sources, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-shaping-the-future-of-mobility",
+    "verdict": "ok",
+    "notes": "h1 matches; video-series grid (4 videos); 2099px capture",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, text+image floats, video-series grid, Weitere Geschichten carousel, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-smart-factory-semiconductor-solutions",
+    "verdict": "ok",
+    "notes": "h1 matches; quote, image/text callouts",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, quote, image+text callouts, Weitere Geschichten, Verwandte Inhalte, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-smart-factory-technologies",
+    "verdict": "ok",
+    "notes": "h1 matches; animated text graphic, 2-col lists",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, animated text graphic, 2-col bullet lists, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-smart-health-appliances",
+    "verdict": "ok",
+    "notes": "h1 matches; embedded video, logos",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, embedded video, partner logos, images, Weiterführende Inhalte, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-smart-home-building-technologies",
+    "verdict": "ok",
+    "notes": "h1 matches visible title (differs from <title>); video",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, images, embedded video, Weitere Geschichten + Verwandte Inhalte, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-smart-things-consumer-devices",
+    "verdict": "ok",
+    "notes": "h1 matches; 3 inline videos",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, multiple embedded videos, bullet list, Weitere Geschichten, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-software-defined-vehicle-agm",
+    "verdict": "ok",
+    "notes": "h1 matches visible title (differs from <title>); short video story",
+    "template": "story",
+    "layout": "[story] video: hero with overlapping title card, single embedded video, Weitere Geschichten cards, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-software-defined-vehicles",
+    "verdict": "suspect",
+    "notes": "h1 matches; pillar; bottom related-tech cards render with blank images (lazy); 2099px capture",
+    "template": "story",
+    "layout": "[story] pillar: hero with overlapping title card, TOC, intro + quote, stat callouts, 2-col challenge/solution image cards, FAQ accordion, solution cards carousel, related-tech cards carousel, newsletter band"
+  },
+  {
+    "slug": "de-our-stories-turning-ray-sunshine-into-cup-hot-coffee",
+    "verdict": "ok",
+    "notes": "h1 matches; infographics, video, podcast teaser",
+    "template": "story",
+    "layout": "[story] article: full-bleed hero photo, overlapping white title card (tag, author/date), \"Auf dieser Seite\" TOC box, infographics, embedded video, image pairs, podcast teaser, Weitere Geschichten + Weiterführende Inhalte cards, newsletter band, footer"
+  },
+  {
+    "slug": "de-our-stories-we-power-ai",
+    "verdict": "ok",
+    "notes": "h1 matches; teal graphic hero; pillar layout; 2099px capture",
+    "template": "story",
+    "layout": "[story] pillar: teal graphic hero, overlapping title card, TOC, intro + quote, stat callouts, 2-col challenge/solution image cards, FAQ accordion, solution cards carousel, related-tech cards carousel, newsletter band"
+  }
+]
